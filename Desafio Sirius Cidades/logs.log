@@ -1,0 +1,281 @@
+2023-06-16 19:09:32,982:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-16 19:09:32,984:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-16 19:09:32,984:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-16 19:09:32,989:WARNING:No module named 'cuml'.
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-06-16 19:09:43,906:INFO:PyCaret ClusteringExperiment
+2023-06-16 19:09:43,908:INFO:Logging name: cluster-default-name
+2023-06-16 19:09:43,908:INFO:ML Usecase: MLUsecase.CLUSTERING
+2023-06-16 19:09:43,908:INFO:version 3.0.0.rc3
+2023-06-16 19:09:43,909:INFO:Initializing setup()
+2023-06-16 19:09:43,909:INFO:self.USI: b930
+2023-06-16 19:09:43,909:INFO:self.variable_keys: {'_all_metrics', 'html_param', '_gpu_n_jobs_param', '_all_models', 'memory', 'log_plots_param', '_all_models_internal', 'idx', 'exp_name_log', 'display_container', 'data', 'logging_param', 'USI', '_available_plots', 'gpu_param', 'pipeline', 'seed', 'X', 'variable_keys', 'master_model_container', 'n_jobs_param', '_ml_usecase', 'exp_id'}
+2023-06-16 19:09:43,909:INFO:Checking environment
+2023-06-16 19:09:43,909:INFO:python_version: 3.7.13
+2023-06-16 19:09:43,909:INFO:python_build: ('default', 'Mar 28 2022 08:03:21')
+2023-06-16 19:09:43,909:INFO:machine: AMD64
+2023-06-16 19:09:43,909:INFO:platform: Windows-10-10.0.19041-SP0
+2023-06-16 19:09:43,909:INFO:Memory: svmem(total=16907538432, available=8623677440, percent=49.0, used=8283860992, free=8623677440)
+2023-06-16 19:09:43,909:INFO:Physical Core: 4
+2023-06-16 19:09:43,909:INFO:Logical Core: 8
+2023-06-16 19:09:43,909:INFO:Checking libraries
+2023-06-16 19:09:43,909:INFO:System:
+2023-06-16 19:09:43,909:INFO:    python: 3.7.13 (default, Mar 28 2022, 08:03:21) [MSC v.1916 64 bit (AMD64)]
+2023-06-16 19:09:43,909:INFO:executable: c:\Users\99769242\Anaconda3\envs\pycaret_env\python.exe
+2023-06-16 19:09:43,909:INFO:   machine: Windows-10-10.0.19041-SP0
+2023-06-16 19:09:43,909:INFO:PyCaret required dependencies:
+2023-06-16 19:09:46,891:INFO:                 pip: 22.1.2
+2023-06-16 19:09:46,891:INFO:          setuptools: 61.2.0
+2023-06-16 19:09:46,891:INFO:             pycaret: 3.0.0.rc3
+2023-06-16 19:09:46,891:INFO:             IPython: 7.31.1
+2023-06-16 19:09:46,891:INFO:          ipywidgets: 8.0.0rc1
+2023-06-16 19:09:46,891:INFO:                tqdm: 4.64.0
+2023-06-16 19:09:46,891:INFO:               numpy: 1.21.6
+2023-06-16 19:09:46,891:INFO:              pandas: 1.3.5
+2023-06-16 19:09:46,891:INFO:              jinja2: 3.1.2
+2023-06-16 19:09:46,891:INFO:               scipy: 1.7.3
+2023-06-16 19:09:46,893:INFO:              joblib: 1.1.0
+2023-06-16 19:09:46,893:INFO:             sklearn: 1.0.2
+2023-06-16 19:09:46,893:INFO:                pyod: Installed but version unavailable
+2023-06-16 19:09:46,893:INFO:            imblearn: 0.9.0
+2023-06-16 19:09:46,893:INFO:   category_encoders: 2.5.0
+2023-06-16 19:09:46,893:INFO:            lightgbm: 3.3.2
+2023-06-16 19:09:46,893:INFO:               numba: 0.55.2
+2023-06-16 19:09:46,893:INFO:            requests: 2.28.1
+2023-06-16 19:09:46,893:INFO:          matplotlib: 3.5.2
+2023-06-16 19:09:46,894:INFO:          scikitplot: 0.3.7
+2023-06-16 19:09:46,894:INFO:         yellowbrick: 1.4
+2023-06-16 19:09:46,894:INFO:              plotly: 5.9.0
+2023-06-16 19:09:46,894:INFO:             kaleido: 0.2.1
+2023-06-16 19:09:46,894:INFO:         statsmodels: 0.13.2
+2023-06-16 19:09:46,894:INFO:              sktime: 0.11.4
+2023-06-16 19:09:46,894:INFO:               tbats: Installed but version unavailable
+2023-06-16 19:09:46,894:INFO:            pmdarima: 1.8.5
+2023-06-16 19:09:46,894:INFO:              psutil: 5.9.1
+2023-06-16 19:09:46,894:INFO:None
+2023-06-16 19:09:46,894:INFO:Set up data.
+2023-06-16 19:09:46,952:INFO:Assigning column types.
+2023-06-16 19:09:46,978:INFO:Preparing preprocessing pipeline...
+2023-06-16 19:09:46,978:INFO:Set up simple imputation.
+2023-06-16 19:09:46,978:INFO:Set up variance threshold.
+2023-06-16 19:09:47,037:INFO:Finished creating preprocessing pipeline.
+2023-06-16 19:09:47,059:INFO:Pipeline: Pipeline(memory=Memory(location=C:\Users\99769242\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['População residente',
+                                             'Densidade demográfica',
+                                             'Porcentagem de Jovens',
+                                             'Porcentagem de Ativos',
+                                             'Porcentagem de Idosos',
+                                             'Taxa de Urbanização',
+                                             'Taxa de Saneamento Básico',
+                                             'Ativos com Baixo Nível '
+                                             'Educacional',
+                                             'Ativos com Médio Nível '
+                                             'Educa...
+                                             'Percentual de empresas do setor '
+                                             'terciário em relação ao total',
+                                             'Percentual de trabalhadores do '
+                                             'setor primário em relação ao '
+                                             'total', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(fill_value='constant',
+                                                              strategy='constant'))),
+                ('low_variance',
+                 TransformerWrapper(exclude=[],
+                                    transformer=VarianceThreshold(threshold=0)))])
+2023-06-16 19:09:47,059:INFO:Creating final display dataframe.
+2023-06-16 19:09:47,150:INFO:Setup display_container:                Description                 Value
+0               Session id                  3639
+1      Original data shape            (5565, 39)
+2   Transformed data shape            (5565, 39)
+3          Ignore features                     3
+4         Numeric features                    39
+5               Preprocess                  True
+6          Imputation type                simple
+7       Numeric imputation                  mean
+8   Categorical imputation              constant
+9   Low variance threshold                     0
+10                CPU Jobs                    -1
+11                 Use GPU                 False
+12          Log Experiment                 False
+13         Experiment Name  cluster-default-name
+14                     USI                  b930
+2023-06-16 19:09:47,172:INFO:Soft dependency imported: kmodes: 0.12.2
+2023-06-16 19:09:47,187:INFO:Soft dependency imported: kmodes: 0.12.2
+2023-06-16 19:09:47,188:INFO:setup() successfully completed in 3.28s...............
+2023-06-16 19:09:47,571:INFO:PyCaret ClusteringExperiment
+2023-06-16 19:09:47,571:INFO:Logging name: cluster-default-name
+2023-06-16 19:09:47,571:INFO:ML Usecase: MLUsecase.CLUSTERING
+2023-06-16 19:09:47,571:INFO:version 3.0.0.rc3
+2023-06-16 19:09:47,571:INFO:Initializing setup()
+2023-06-16 19:09:47,571:INFO:self.USI: 41f2
+2023-06-16 19:09:47,575:INFO:self.variable_keys: {'_all_metrics', 'html_param', '_gpu_n_jobs_param', '_all_models', 'memory', 'log_plots_param', '_all_models_internal', 'idx', 'exp_name_log', 'display_container', 'data', 'logging_param', 'USI', '_available_plots', 'gpu_param', 'pipeline', 'seed', 'X', 'variable_keys', 'master_model_container', 'n_jobs_param', '_ml_usecase', 'exp_id'}
+2023-06-16 19:09:47,575:INFO:Checking environment
+2023-06-16 19:09:47,575:INFO:python_version: 3.7.13
+2023-06-16 19:09:47,575:INFO:python_build: ('default', 'Mar 28 2022 08:03:21')
+2023-06-16 19:09:47,575:INFO:machine: AMD64
+2023-06-16 19:09:47,575:INFO:platform: Windows-10-10.0.19041-SP0
+2023-06-16 19:09:47,576:INFO:Memory: svmem(total=16907538432, available=9036476416, percent=46.6, used=7871062016, free=9036476416)
+2023-06-16 19:09:47,576:INFO:Physical Core: 4
+2023-06-16 19:09:47,576:INFO:Logical Core: 8
+2023-06-16 19:09:47,576:INFO:Checking libraries
+2023-06-16 19:09:47,576:INFO:System:
+2023-06-16 19:09:47,576:INFO:    python: 3.7.13 (default, Mar 28 2022, 08:03:21) [MSC v.1916 64 bit (AMD64)]
+2023-06-16 19:09:47,577:INFO:executable: c:\Users\99769242\Anaconda3\envs\pycaret_env\python.exe
+2023-06-16 19:09:47,577:INFO:   machine: Windows-10-10.0.19041-SP0
+2023-06-16 19:09:47,577:INFO:PyCaret required dependencies:
+2023-06-16 19:09:47,577:INFO:                 pip: 22.1.2
+2023-06-16 19:09:47,577:INFO:          setuptools: 61.2.0
+2023-06-16 19:09:47,578:INFO:             pycaret: 3.0.0.rc3
+2023-06-16 19:09:47,578:INFO:             IPython: 7.31.1
+2023-06-16 19:09:47,578:INFO:          ipywidgets: 8.0.0rc1
+2023-06-16 19:09:47,578:INFO:                tqdm: 4.64.0
+2023-06-16 19:09:47,579:INFO:               numpy: 1.21.6
+2023-06-16 19:09:47,579:INFO:              pandas: 1.3.5
+2023-06-16 19:09:47,579:INFO:              jinja2: 3.1.2
+2023-06-16 19:09:47,579:INFO:               scipy: 1.7.3
+2023-06-16 19:09:47,579:INFO:              joblib: 1.1.0
+2023-06-16 19:09:47,579:INFO:             sklearn: 1.0.2
+2023-06-16 19:09:47,580:INFO:                pyod: Installed but version unavailable
+2023-06-16 19:09:47,580:INFO:            imblearn: 0.9.0
+2023-06-16 19:09:47,580:INFO:   category_encoders: 2.5.0
+2023-06-16 19:09:47,580:INFO:            lightgbm: 3.3.2
+2023-06-16 19:09:47,580:INFO:               numba: 0.55.2
+2023-06-16 19:09:47,580:INFO:            requests: 2.28.1
+2023-06-16 19:09:47,580:INFO:          matplotlib: 3.5.2
+2023-06-16 19:09:47,580:INFO:          scikitplot: 0.3.7
+2023-06-16 19:09:47,580:INFO:         yellowbrick: 1.4
+2023-06-16 19:09:47,580:INFO:              plotly: 5.9.0
+2023-06-16 19:09:47,580:INFO:             kaleido: 0.2.1
+2023-06-16 19:09:47,580:INFO:         statsmodels: 0.13.2
+2023-06-16 19:09:47,580:INFO:              sktime: 0.11.4
+2023-06-16 19:09:47,580:INFO:               tbats: Installed but version unavailable
+2023-06-16 19:09:47,580:INFO:            pmdarima: 1.8.5
+2023-06-16 19:09:47,580:INFO:              psutil: 5.9.1
+2023-06-16 19:09:47,580:INFO:None
+2023-06-16 19:09:47,580:INFO:Set up data.
+2023-06-16 19:09:47,646:INFO:Assigning column types.
+2023-06-16 19:09:47,668:INFO:Preparing preprocessing pipeline...
+2023-06-16 19:09:47,668:INFO:Set up simple imputation.
+2023-06-16 19:09:47,668:INFO:Set up variance threshold.
+2023-06-16 19:09:47,753:INFO:Finished creating preprocessing pipeline.
+2023-06-16 19:09:47,795:INFO:Pipeline: Pipeline(memory=Memory(location=C:\Users\99769242\AppData\Local\Temp\joblib),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['População residente',
+                                             'Densidade demográfica',
+                                             'Porcentagem de Jovens',
+                                             'Porcentagem de Ativos',
+                                             'Porcentagem de Idosos',
+                                             'Taxa de Urbanização',
+                                             'Taxa de Saneamento Básico',
+                                             'Ativos com Baixo Nível '
+                                             'Educacional',
+                                             'Ativos com Médio Nível '
+                                             'Educa...
+                                             'Percentual de empresas do setor '
+                                             'terciário em relação ao total',
+                                             'Percentual de trabalhadores do '
+                                             'setor primário em relação ao '
+                                             'total', ...],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(fill_value='constant',
+                                                              strategy='constant'))),
+                ('low_variance',
+                 TransformerWrapper(exclude=[],
+                                    transformer=VarianceThreshold(threshold=0)))])
+2023-06-16 19:09:47,795:INFO:Creating final display dataframe.
+2023-06-16 19:09:47,867:INFO:Setup display_container:                Description                 Value
+0               Session id                  6375
+1      Original data shape            (5565, 39)
+2   Transformed data shape            (5565, 39)
+3          Ignore features                     3
+4         Numeric features                    39
+5               Preprocess                  True
+6          Imputation type                simple
+7       Numeric imputation                  mean
+8   Categorical imputation              constant
+9   Low variance threshold                     0
+10                CPU Jobs                    -1
+11                 Use GPU                 False
+12          Log Experiment                 False
+13         Experiment Name  cluster-default-name
+14                     USI                  41f2
+2023-06-16 19:09:47,884:INFO:Soft dependency imported: kmodes: 0.12.2
+2023-06-16 19:09:47,885:INFO:Soft dependency imported: kmodes: 0.12.2
+2023-06-16 19:09:47,888:INFO:setup() successfully completed in 0.32s...............
+2023-06-16 19:09:47,986:INFO:Initializing create_model()
+2023-06-16 19:09:47,987:INFO:create_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x0000024EB9A22088>, estimator=kmeans, num_clusters=6, fraction=0.05, ground_truth=None, round=4, fit_kwargs=None, experiment_custom_tags=None, verbose=True, system=True, add_to_model_list=True, raise_num_clusters=False, display=None, kwargs={})
+2023-06-16 19:09:47,987:INFO:Checking exceptions
+2023-06-16 19:09:48,040:INFO:Importing libraries
+2023-06-16 19:09:48,122:INFO:Importing untrained model
+2023-06-16 19:09:48,135:INFO:K-Means Clustering Imported succesfully
+2023-06-16 19:09:48,149:INFO:Fitting Model
+2023-06-16 19:09:49,602:INFO:KMeans(n_clusters=6, random_state=3639)
+2023-06-16 19:09:49,602:INFO:create_models() succesfully completed......................................
+2023-06-16 19:09:49,610:INFO:Uploading results into container
+2023-06-16 19:09:49,616:INFO:Uploading model into container now
+2023-06-16 19:09:49,630:INFO:master_model_container: 1
+2023-06-16 19:09:49,630:INFO:display_container: 2
+2023-06-16 19:09:49,631:INFO:KMeans(n_clusters=6, random_state=3639)
+2023-06-16 19:09:49,631:INFO:create_model() succesfully completed......................................
+2023-06-16 19:09:49,877:INFO:gpu_param set to False
+2023-06-16 19:09:49,878:INFO:Soft dependency imported: kmodes: 0.12.2
+2023-06-16 19:09:49,879:INFO:Soft dependency imported: kmodes: 0.12.2
+2023-06-16 19:09:50,020:INFO:Initializing assign_model()
+2023-06-16 19:09:50,020:INFO:assign_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x0000024EB9A22088>, model=KMeans(n_clusters=6, random_state=3639), transformation=False, score=True, verbose=True)
+2023-06-16 19:09:50,020:INFO:Checking exceptions
+2023-06-16 19:09:50,021:INFO:Determining Trained Model
+2023-06-16 19:09:50,021:INFO:Trained Model : K-Means Clustering
+2023-06-16 19:09:50,021:INFO:Copying data
+2023-06-16 19:09:50,035:INFO:(5565, 40)
+2023-06-16 19:09:50,035:INFO:assign_model() succesfully completed......................................
+2023-06-16 19:09:50,421:INFO:Initializing predict_model()
+2023-06-16 19:09:50,422:INFO:predict_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x0000024EB9A22088>, estimator=KMeans(n_clusters=6, random_state=3639), ml_usecase=None)
+2023-06-16 19:09:50,422:INFO:Set up data.
+2023-06-16 19:10:12,045:INFO:Initializing plot_model()
+2023-06-16 19:10:12,046:INFO:plot_model(plot=cluster, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=KMeans(n_clusters=6, random_state=3639), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.clustering.oop.ClusteringExperiment object at 0x0000024EB9A22088>, system=True)
+2023-06-16 19:10:12,047:INFO:Checking exceptions
+2023-06-16 19:10:12,064:INFO:Preloading libraries
+2023-06-16 19:10:12,066:INFO:Copying training dataset
+2023-06-16 19:10:12,067:INFO:Plot type: cluster
+2023-06-16 19:10:12,068:INFO:SubProcess assign_model() called ==================================
+2023-06-16 19:10:12,070:INFO:Initializing assign_model()
+2023-06-16 19:10:12,070:INFO:assign_model(self=<pycaret.clustering.oop.ClusteringExperiment object at 0x0000024EB9A22088>, model=KMeans(n_clusters=6, random_state=3639), transformation=True, score=True, verbose=False)
+2023-06-16 19:10:12,070:INFO:Checking exceptions
+2023-06-16 19:10:12,071:INFO:Determining Trained Model
+2023-06-16 19:10:12,071:INFO:Trained Model : K-Means Clustering
+2023-06-16 19:10:12,071:INFO:Copying data
+2023-06-16 19:10:12,168:INFO:Transformation parameter set to True. Assigned clusters are attached on transformed dataset.
+2023-06-16 19:10:12,175:INFO:(5565, 40)
+2023-06-16 19:10:12,175:INFO:assign_model() succesfully completed......................................
+2023-06-16 19:10:12,182:INFO:SubProcess assign_model() end ==================================
+2023-06-16 19:10:12,201:INFO:Fitting PCA()
+2023-06-16 19:10:12,325:INFO:Sorting dataframe
+2023-06-16 19:10:12,352:INFO:Rendering Visual
+2023-06-16 19:10:18,341:INFO:Visual Rendered Successfully
+2023-06-16 19:10:18,731:INFO:plot_model() successfully completed......................................
+2023-06-16 19:10:19,885:INFO:Initializing plot_model()
+2023-06-16 19:10:19,886:INFO:plot_model(plot=elbow, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=KMeans(n_clusters=6, random_state=3639), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.clustering.oop.ClusteringExperiment object at 0x0000024EB9A22088>, system=True)
+2023-06-16 19:10:19,886:INFO:Checking exceptions
+2023-06-16 19:10:19,914:INFO:Preloading libraries
+2023-06-16 19:10:19,917:INFO:Copying training dataset
+2023-06-16 19:10:19,917:INFO:Plot type: elbow
+2023-06-16 19:10:20,438:INFO:Fitting Model
+2023-06-16 19:10:24,115:INFO:Visual Rendered Successfully
+2023-06-16 19:10:24,387:INFO:plot_model() successfully completed......................................
+2023-06-16 19:10:24,506:INFO:Initializing plot_model()
+2023-06-16 19:10:24,507:INFO:plot_model(plot=silhouette, fold=None, use_train_data=False, verbose=True, display=None, display_format=None, estimator=KMeans(n_clusters=6, random_state=3639), feature_name=None, fit_kwargs=None, groups=None, label=False, plot_kwargs=None, save=False, scale=1, self=<pycaret.clustering.oop.ClusteringExperiment object at 0x0000024EB9A22088>, system=True)
+2023-06-16 19:10:24,508:INFO:Checking exceptions
+2023-06-16 19:10:24,529:INFO:Preloading libraries
+2023-06-16 19:10:24,531:INFO:Copying training dataset
+2023-06-16 19:10:24,532:INFO:Plot type: silhouette
+2023-06-16 19:10:24,630:INFO:Fitting Model
+2023-06-16 19:10:28,581:INFO:Visual Rendered Successfully
+2023-06-16 19:10:28,767:INFO:plot_model() successfully completed......................................
