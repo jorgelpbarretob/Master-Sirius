@@ -1,0 +1,5530 @@
+nomeLocalidade;estado;Probabilidade
+maricá;Rio de Janeiro;1
+juiz de fora;Minas Gerais;1
+ribeirão pires;São Paulo;1
+curitiba;Paraná;1
+pedro afonso;Tocantins;1
+águas de são pedro;São Paulo;1
+cornélio procópio;Paraná;1
+serra do navio;Amapá;1
+santana;Amapá;1
+alumínio;São Paulo;1
+presidente prudente;São Paulo;1
+macapá;Amapá;1
+araguaína;Tocantins;1
+aparecida;São Paulo;1
+araraquara;São Paulo;1
+vila velha;Espírito Santo;1
+ribeirão preto;São Paulo;1
+vitória;Espírito Santo;1
+poá;São Paulo;1
+pirassununga;São Paulo;1
+piquete;São Paulo;1
+pindamonhangaba;São Paulo;1
+bauru;São Paulo;1
+volta redonda;Rio de Janeiro;1
+paulínia;São Paulo;1
+oriente;São Paulo;1
+botucatu;São Paulo;1
+caçapava;São Paulo;1
+cachoeira paulista;São Paulo;1
+cuiabá;Mato Grosso;1
+paraíso do tocantins;Tocantins;1
+palmas;Tocantins;1
+resende;Rio de Janeiro;1
+sorocaba;São Paulo;1
+paulista;Pernambuco;1
+nova lima;Minas Gerais;1
+olinda;Pernambuco;1
+cruz das almas;Bahia;1
+montes claros;Minas Gerais;1
+aracaju;Sergipe;1
+joaçaba;Santa Catarina;1
+vinhedo;São Paulo;1
+lauro de freitas;Bahia;1
+valinhos;São Paulo;1
+madre de deus;Bahia;1
+boa vista;Roraima;1
+taubaté;São Paulo;1
+são vicente;São Paulo;1
+adamantina;São Paulo;1
+cachoeirinha;Rio Grande do Sul;1
+salvador;Bahia;1
+são josé do rio preto;São Paulo;1
+são josé;Santa Catarina;1
+são caetano do sul;São Paulo;1
+parnamirim;Rio Grande do Norte;1
+santana de parnaíba;São Paulo;1
+gurupi;Tocantins;1
+natal;Rio Grande do Norte;1
+manaus;Amazonas;1
+maringá;Paraná;1
+fortaleza;Ceará;1
+rio claro;São Paulo;1
+rio das ostras;Rio de Janeiro;1
+porto velho;Rondônia;1
+jacareí;São Paulo;1
+marília;São Paulo;1
+itajubá;Minas Gerais;1
+são luís;Maranhão;1
+cruzália;São Paulo;1
+cotia;São Paulo;1
+valparaíso de goiás;Goiás;1
+belém;Pará;1
+ilha solteira;São Paulo;1
+teresina;Piauí;1
+santa maria;Rio Grande do Sul;1
+ananindeua;Pará;1
+são josé de ribamar;Maranhão;1
+passo fundo;Rio Grande do Sul;1
+arraial do cabo;Rio de Janeiro;1
+jaguariúna;São Paulo;1
+timóteo;Minas Gerais;1
+niterói;Rio de Janeiro;1
+jundiaí;São Paulo;1
+guaratinguetá;São Paulo;1
+lins;São Paulo;1
+lorena;São Paulo;1
+cruzeiro;São Paulo;1
+rio branco;Acre;1
+floreal;São Paulo;1
+indaiatuba;São Paulo;1
+paço do lumiar;Maranhão;1
+mogi das cruzes;São Paulo;1
+macaé;Rio de Janeiro;1
+barra do garças;Mato Grosso;1
+mesquita;Rio de Janeiro;1
+camaquã;Rio Grande do Sul;0,666666667
+maracaju;Mato Grosso do Sul;0,666666667
+nonoai;Rio Grande do Sul;0,666666667
+redenção;Pará;0,666666667
+ilhabela;São Paulo;0,666666667
+são joaquim;Santa Catarina;0,666666667
+jardim;Mato Grosso do Sul;0,666666667
+laranjeiras do sul;Paraná;0,666666667
+holambra;São Paulo;0,666666667
+parauapebas;Pará;0,666666667
+são sebastião;São Paulo;0,666666667
+palmeira das missões;Rio Grande do Sul;0,666666667
+cidreira;Rio Grande do Sul;0,666666667
+matelândia;Paraná;0,666666667
+dom pedro;Maranhão;0,666666667
+santo antônio de jesus;Bahia;0,666666667
+ponta grossa;Paraná;0,666666667
+mauá da serra;Paraná;0,666666667
+vitória da conquista;Bahia;0,666666667
+rio brilhante;Mato Grosso do Sul;0,666666667
+são gabriel do oeste;Mato Grosso do Sul;0,666666667
+capão da canoa;Rio Grande do Sul;0,666666667
+paranaguá;Paraná;0,666666667
+sertãozinho;São Paulo;0,666666667
+santa inês;Maranhão;0,666666667
+tramandaí;Rio Grande do Sul;0,666666667
+teixeira de freitas;Bahia;0,666666667
+palmas;Paraná;0,666666667
+mineiros;Goiás;0,666666667
+santo antônio da platina;Paraná;0,666666667
+porto seguro;Bahia;0,666666667
+itabaiana;Sergipe;0,666666667
+caruaru;Pernambuco;0,666666667
+irecê;Bahia;0,666666667
+ponte serrada;Santa Catarina;0,666666667
+ipiaú;Bahia;0,666666667
+peritiba;Santa Catarina;0,666666667
+garanhuns;Pernambuco;0,666666667
+gravatá;Pernambuco;0,666666667
+ipojuca;Pernambuco;0,666666667
+ariquemes;Rondônia;0,666666667
+feira de santana;Bahia;0,666666667
+eunápolis;Bahia;0,666666667
+cacoal;Rondônia;0,666666667
+jaru;Rondônia;0,666666667
+castanhal;Pará;0,666666667
+ji-paraná;Rondônia;0,666666667
+camaçari;Bahia;0,666666667
+ouro preto do oeste;Rondônia;0,666666667
+cairu;Bahia;0,666666667
+pimenta bueno;Rondônia;0,666666667
+itabuna;Bahia;0,666666667
+itamaraju;Bahia;0,666666667
+suzano;São Paulo;0,666666667
+rio do sul;Santa Catarina;0,666666667
+taboão da serra;São Paulo;0,666666667
+taguaí;São Paulo;0,666666667
+salinas;Minas Gerais;0,666666667
+jaguariaíva;Paraná;0,666666667
+uruguaiana;Rio Grande do Sul;0,666666667
+santa cecília;Santa Catarina;0,666666667
+mata de são joão;Bahia;0,666666667
+ourilândia do norte;Pará;0,666666667
+telêmaco borba;Paraná;0,666666667
+vacaria;Rio Grande do Sul;0,666666667
+tunas do paraná;Paraná;0,666666667
+imperatriz;Maranhão;0,666666667
+união da vitória;Paraná;0,666666667
+luís eduardo magalhães;Bahia;0,666666667
+rodeio bonito;Rio Grande do Sul;0,666666667
+juazeiro;Bahia;0,666666667
+marabá;Pará;0,666666667
+arcoverde;Pernambuco;0,666666667
+rio fortuna;Santa Catarina;0,666666667
+tenente portela;Rio Grande do Sul;0,666666667
+guaíra;Paraná;0,666666667
+ivaiporã;Paraná;0,666666667
+araputanga;Mato Grosso;0,666666667
+pariquera-açu;São Paulo;0,666666667
+mirassol d'oeste;Mato Grosso;0,666666667
+campos belos;Goiás;0,666666667
+capão bonito;São Paulo;0,666666667
+esperança;Paraíba;0,666666667
+bertioga;São Paulo;0,666666667
+penápolis;São Paulo;0,666666667
+peruíbe;São Paulo;0,666666667
+pilar do sul;São Paulo;0,666666667
+chapadão do céu;Goiás;0,666666667
+nova mutum;Mato Grosso;0,666666667
+nova olímpia;Mato Grosso;0,666666667
+barueri;São Paulo;0,666666667
+catanduva;São Paulo;0,666666667
+ivoti;Rio Grande do Sul;0,666666667
+alta floresta;Mato Grosso;0,666666667
+sapiranga;Rio Grande do Sul;0,666666667
+itaqui;Rio Grande do Sul;0,666666667
+ceres;Goiás;0,666666667
+lucas do rio verde;Mato Grosso;0,666666667
+pontes e lacerda;Mato Grosso;0,666666667
+diamantino;Mato Grosso;0,666666667
+canarana;Mato Grosso;0,666666667
+campos do jordão;São Paulo;0,666666667
+campo verde;Mato Grosso;0,666666667
+jataí;Goiás;0,666666667
+colíder;Mato Grosso;0,666666667
+cajati;São Paulo;0,666666667
+comodoro;Mato Grosso;0,666666667
+campo novo do parecis;Mato Grosso;0,666666667
+mirandópolis;São Paulo;0,666666667
+olho d'água;Paraíba;0,666666667
+cáceres;Mato Grosso;0,666666667
+goiatuba;Goiás;0,666666667
+goianésia;Goiás;0,666666667
+jaciara;Mato Grosso;0,666666667
+formosa;Goiás;0,666666667
+barra do bugres;Mato Grosso;0,666666667
+juara;Mato Grosso;0,666666667
+juína;Mato Grosso;0,666666667
+água boa;Mato Grosso;0,666666667
+posse;Goiás;0,666666667
+dourados;Mato Grosso do Sul;0,666666667
+bonito;Mato Grosso do Sul;0,666666667
+cascavel;Paraná;0,666666667
+castro;Paraná;0,666666667
+colombo;Paraná;0,666666667
+juazeiro do norte;Ceará;0,666666667
+jijoca de jericoacoara;Ceará;0,666666667
+itapeva;São Paulo;0,666666667
+balsas;Maranhão;0,666666667
+santo augusto;Rio Grande do Sul;0,666666667
+foz do iguaçu;Paraná;0,666666667
+campo mourão;Paraná;0,666666667
+francisco beltrão;Paraná;0,666666667
+campos de júlio;Mato Grosso;0,666666667
+guarapuava;Paraná;0,666666667
+chapadão do sul;Mato Grosso do Sul;0,666666667
+cruz alta;Rio Grande do Sul;0,666666667
+irati;Paraná;0,666666667
+dois córregos;São Paulo;0,666666667
+coxim;Mato Grosso do Sul;0,666666667
+água clara;Mato Grosso do Sul;0,666666667
+feliz;Rio Grande do Sul;0,666666667
+são mateus;Espírito Santo;0,666666667
+cachoeiro de itapemirim;Espírito Santo;0,666666667
+santa maria de jetibá;Espírito Santo;0,666666667
+arujá;São Paulo;0,666666667
+primavera do leste;Mato Grosso;0,666666667
+rondonópolis;Mato Grosso;0,666666667
+linhares;Espírito Santo;0,666666667
+campina grande;Paraíba;0,666666667
+rio verde;Goiás;0,666666667
+fundão;Espírito Santo;0,666666667
+barra de são francisco;Espírito Santo;0,666666667
+registro;São Paulo;0,666666667
+aracruz;Espírito Santo;0,666666667
+sapezal;Mato Grosso;0,666666667
+sinop;Mato Grosso;0,666666667
+sorriso;Mato Grosso;0,666666667
+tangará da serra;Mato Grosso;0,666666667
+gramado;Rio Grande do Sul;0,666666667
+barracão;Paraná;0,666666667
+campina grande do sul;Paraná;0,666666667
+ubajara;Ceará;0,666666667
+naviraí;Mato Grosso do Sul;0,666666667
+maragogi;Alagoas;0,666666667
+pau dos ferros;Rio Grande do Norte;0,666666667
+itaguaí;Rio de Janeiro;0,666666667
+campos dos goytacazes;Rio de Janeiro;0,666666667
+mossoró;Rio Grande do Norte;0,666666667
+três rios;Rio de Janeiro;0,666666667
+parnaíba;Piauí;0,666666667
+guaraí;Tocantins;0,666666667
+manhuaçu;Minas Gerais;0,666666667
+itabirito;Minas Gerais;0,666666667
+curitibanos;Santa Catarina;0,666666667
+caçador;Santa Catarina;0,666666667
+arapiraca;Alagoas;0,666666667
+barreiras;Bahia;0,666666667
+araranguá;Santa Catarina;0,666666667
+manhumirim;Minas Gerais;0,666666667
+ituporanga;Santa Catarina;0,666666667
+vassouras;Rio de Janeiro;0,666666667
+fraiburgo;Santa Catarina;0,666666667
+colinas do tocantins;Tocantins;0,666666667
+macau;Rio Grande do Norte;0,666666667
+rolim de moura;Rondônia;0,666666667
+conceição das alagoas;Minas Gerais;0,666666667
+macuco;Rio de Janeiro;0,666666667
+chapecó;Santa Catarina;0,666666667
+janaúba;Minas Gerais;0,666666667
+picos;Piauí;0,666666667
+armação dos búzios;Rio de Janeiro;0,666666667
+fortaleza do tabocão;Tocantins;0,666666667
+maceió;Alagoas;0,666666667
+barra de são miguel;Alagoas;0,666666667
+floriano;Piauí;0,666666667
+piaçabuçu;Alagoas;0,666666667
+vilhena;Rondônia;0,666666667
+faxinal do soturno;Rio Grande do Sul;0,5
+ampére;Paraná;0,5
+são gotardo;Minas Gerais;0,5
+alvorada do sul;Paraná;0,5
+anchieta;Espírito Santo;0,5
+bom jesus do itabapoana;Rio de Janeiro;0,5
+inhaúma;Minas Gerais;0,5
+harmonia;Rio Grande do Sul;0,5
+baixo guandu;Espírito Santo;0,5
+lagoa da prata;Minas Gerais;0,5
+presidente bernardes;São Paulo;0,5
+apucarana;Paraná;0,5
+andirá;Paraná;0,5
+garopaba;Santa Catarina;0,5
+formiga;Minas Gerais;0,5
+bandeirantes;Paraná;0,5
+tapurah;Mato Grosso;0,5
+garuva;Santa Catarina;0,5
+astorga;Paraná;0,5
+assis chateaubriand;Paraná;0,5
+promissão;São Paulo;0,5
+presidente venceslau;São Paulo;0,5
+assaí;Paraná;0,5
+apiúna;Santa Catarina;0,5
+araucária;Paraná;0,5
+amparo;São Paulo;0,5
+antônio carlos;Santa Catarina;0,5
+gravataí;Rio Grande do Sul;0,5
+arapongas;Paraná;0,5
+presidente epitácio;São Paulo;0,5
+guaíba;Rio Grande do Sul;0,5
+guaporé;Rio Grande do Sul;0,5
+andradina;São Paulo;0,5
+praia grande;São Paulo;0,5
+são josé dos quatro marcos;Mato Grosso;0,5
+são joão nepomuceno;Minas Gerais;0,5
+joão neiva;Espírito Santo;0,5
+armazém;Santa Catarina;0,5
+frutal;Minas Gerais;0,5
+marataízes;Espírito Santo;0,5
+marechal floriano;Espírito Santo;0,5
+araras;São Paulo;0,5
+itatinga;São Paulo;0,5
+itaú de minas;Minas Gerais;0,5
+três pontas;Minas Gerais;0,5
+três marias;Minas Gerais;0,5
+ibirubá;Rio Grande do Sul;0,5
+nova venécia;Espírito Santo;0,5
+três corações;Minas Gerais;0,5
+itu;São Paulo;0,5
+porto ferreira;São Paulo;0,5
+piúma;Espírito Santo;0,5
+porto feliz;São Paulo;0,5
+igrejinha;Rio Grande do Sul;0,5
+artur nogueira;São Paulo;0,5
+galiléia;Minas Gerais;0,5
+ijuí;Rio Grande do Sul;0,5
+itatiba;São Paulo;0,5
+cravinhos;São Paulo;0,5
+são joão del rei;Minas Gerais;0,5
+serafina corrêa;Rio Grande do Sul;0,5
+faxinal dos guedes;Santa Catarina;0,5
+cariacica;Espírito Santo;0,5
+castelo;Espírito Santo;0,5
+colatina;Espírito Santo;0,5
+são gonçalo do sapucaí;Minas Gerais;0,5
+horizontina;Rio Grande do Sul;0,5
+são borja;Rio Grande do Sul;0,5
+domingos martins;Espírito Santo;0,5
+itararé;São Paulo;0,5
+pradópolis;São Paulo;0,5
+erval velho;Santa Catarina;0,5
+araquari;Santa Catarina;0,5
+guaçuí;Espírito Santo;0,5
+guarapari;Espírito Santo;0,5
+humaitá;Rio Grande do Sul;0,5
+ibiraçu;Espírito Santo;0,5
+são domingos do sul;Rio Grande do Sul;0,5
+iconha;Espírito Santo;0,5
+apiaí;São Paulo;0,5
+araçariguama;São Paulo;0,5
+araçatuba;São Paulo;0,5
+florestal;Minas Gerais;0,5
+itápolis;São Paulo;0,5
+américo brasiliense;São Paulo;0,5
+uberaba;Minas Gerais;0,5
+luz;Minas Gerais;0,5
+formosa do oeste;Paraná;0,5
+xanxerê;Santa Catarina;0,5
+itapeva;Minas Gerais;0,5
+espera feliz;Minas Gerais;0,5
+xaxim;Santa Catarina;0,5
+tapera;Rio Grande do Sul;0,5
+águas mornas;Santa Catarina;0,5
+encantado;Rio Grande do Sul;0,5
+encruzilhada do sul;Rio Grande do Sul;0,5
+estiva;Minas Gerais;0,5
+giruá;Rio Grande do Sul;0,5
+itapetininga;São Paulo;0,5
+tapejara;Rio Grande do Sul;0,5
+aguaí;São Paulo;0,5
+itatiaiuçu;Minas Gerais;0,5
+entre rios do oeste;Paraná;0,5
+engenheiro beltrão;Paraná;0,5
+erechim;Rio Grande do Sul;0,5
+águas de lindóia;São Paulo;0,5
+douradina;Paraná;0,5
+dois vizinhos;Paraná;0,5
+itanhaém;São Paulo;0,5
+general carneiro;Paraná;0,5
+camapuã;Mato Grosso do Sul;0,5
+goioerê;Paraná;0,5
+iretama;Paraná;0,5
+costa rica;Mato Grosso do Sul;0,5
+iporã;Paraná;0,5
+ipiranga;Paraná;0,5
+santos dumont;Minas Gerais;0,5
+elói mendes;Minas Gerais;0,5
+videira;Santa Catarina;0,5
+imbaú;Paraná;0,5
+engenheiro caldas;Minas Gerais;0,5
+ibiporã;Paraná;0,5
+roseira;São Paulo;0,5
+cassilândia;Mato Grosso do Sul;0,5
+ibaiti;Paraná;0,5
+guaratuba;Paraná;0,5
+unaí;Minas Gerais;0,5
+guaraniaçu;Paraná;0,5
+dois irmãos;Rio Grande do Sul;0,5
+são brás do suaçuí;Minas Gerais;0,5
+machado;Minas Gerais;0,5
+dom pedrito;Rio Grande do Sul;0,5
+dom pedro de alcântara;Rio Grande do Sul;0,5
+guaramirim;Santa Catarina;0,5
+espumoso;Rio Grande do Sul;0,5
+soledade;Rio Grande do Sul;0,5
+lambari;Minas Gerais;0,5
+ubá;Minas Gerais;0,5
+campo largo;Paraná;0,5
+cachoeiras de macacu;Rio de Janeiro;0,5
+flores da cunha;Rio Grande do Sul;0,5
+governador celso ramos;Santa Catarina;0,5
+gaspar;Santa Catarina;0,5
+lagoa santa;Minas Gerais;0,5
+cambé;Paraná;0,5
+regente feijó;São Paulo;0,5
+cambará;Paraná;0,5
+são gonçalo do abaeté;Minas Gerais;0,5
+várzea grande;Mato Grosso;0,5
+álvares machado;São Paulo;0,5
+frederico westphalen;Rio Grande do Sul;0,5
+garibaldi;Rio Grande do Sul;0,5
+santa teresa;Espírito Santo;0,5
+rancharia;São Paulo;0,5
+cabo frio;Rio de Janeiro;0,5
+getúlio vargas;Rio Grande do Sul;0,5
+boa esperança do iguaçu;Paraná;0,5
+queluz;São Paulo;0,5
+gravatal;Santa Catarina;0,5
+mafra;Santa Catarina;0,5
+leopoldina;Minas Gerais;0,5
+capanema;Paraná;0,5
+agudos;São Paulo;0,5
+estância velha;Rio Grande do Sul;0,5
+coronel vivida;Paraná;0,5
+esteio;Rio Grande do Sul;0,5
+lavras;Minas Gerais;0,5
+corbélia;Paraná;0,5
+sobradinho;Rio Grande do Sul;0,5
+estrela;Rio Grande do Sul;0,5
+colorado;Paraná;0,5
+extrema;Minas Gerais;0,5
+diadema;São Paulo;0,5
+cianorte;Paraná;0,5
+chopinzinho;Paraná;0,5
+céu azul;Paraná;0,5
+descalvado;São Paulo;0,5
+farroupilha;Rio Grande do Sul;0,5
+santo cristo;Rio Grande do Sul;0,5
+itapira;São Paulo;0,5
+altinópolis;São Paulo;0,5
+carambeí;Paraná;0,5
+capitão leônidas marques;Paraná;0,5
+arroio trinta;Santa Catarina;0,5
+avaré;São Paulo;0,5
+itupeva;São Paulo;0,5
+são luiz gonzaga;Rio Grande do Sul;0,5
+monteiro lobato;São Paulo;0,5
+são lourenço do sul;Rio Grande do Sul;0,5
+monte azul paulista;São Paulo;0,5
+jussara;Goiás;0,5
+lagoa santa;Goiás;0,5
+monte aprazível;São Paulo;0,5
+monte alto;São Paulo;0,5
+são leopoldo;Rio Grande do Sul;0,5
+mongaguá;São Paulo;0,5
+rio bonito;Rio de Janeiro;0,5
+areal;Rio de Janeiro;0,5
+jacutinga;Minas Gerais;0,5
+moji mirim;São Paulo;0,5
+mogi guaçu;São Paulo;0,5
+teófilo otoni;Minas Gerais;0,5
+igarapé;Minas Gerais;0,5
+mococa;São Paulo;0,5
+bombinhas;Santa Catarina;0,5
+mirassol;São Paulo;0,5
+iturama;Minas Gerais;0,5
+morrinhos;Goiás;0,5
+santo antônio de pádua;Rio de Janeiro;0,5
+são marcos;Rio Grande do Sul;0,5
+miracatu;São Paulo;0,5
+itumbiara;Goiás;0,5
+novo horizonte;São Paulo;0,5
+brotas;São Paulo;0,5
+nova odessa;São Paulo;0,5
+são francisco de paula;Rio Grande do Sul;0,5
+buritama;São Paulo;0,5
+são simão;Goiás;0,5
+joanópolis;São Paulo;0,5
+cabreúva;São Paulo;0,5
+são joão de meriti;Rio de Janeiro;0,5
+inhumas;Goiás;0,5
+concórdia;Santa Catarina;0,5
+conchal;São Paulo;0,5
+cocal do sul;Santa Catarina;0,5
+cafelândia;São Paulo;0,5
+são martinho;Rio Grande do Sul;0,5
+nhandeara;São Paulo;0,5
+josé bonifácio;São Paulo;0,5
+tiradentes;Minas Gerais;0,5
+cajamar;São Paulo;0,5
+bom jesus;Santa Catarina;0,5
+lajeado;Rio Grande do Sul;0,5
+araruama;Rio de Janeiro;0,5
+junqueirópolis;São Paulo;0,5
+são gabriel da palha;Espírito Santo;0,5
+laranjal paulista;São Paulo;0,5
+são jerônimo;Rio Grande do Sul;0,5
+cerqueira césar;São Paulo;0,5
+leme;São Paulo;0,5
+pirenópolis;Goiás;0,5
+pires do rio;Goiás;0,5
+cerquilho;São Paulo;0,5
+pontalina;Goiás;0,5
+cesário lange;São Paulo;0,5
+louveira;São Paulo;0,5
+portelândia;Goiás;0,5
+itaúna;Minas Gerais;0,5
+catanduvas;Santa Catarina;0,5
+quirinópolis;Goiás;0,5
+marau;Rio Grande do Sul;0,5
+lençóis paulista;São Paulo;0,5
+rio quente;Goiás;0,5
+miguel pereira;Rio de Janeiro;0,5
+angra dos reis;Rio de Janeiro;0,5
+capivari de baixo;Santa Catarina;0,5
+marcelino ramos;Rio Grande do Sul;0,5
+lindóia;São Paulo;0,5
+cedral;São Paulo;0,5
+nova friburgo;Rio de Janeiro;0,5
+piraí;Rio de Janeiro;0,5
+nova iguaçu;Rio de Janeiro;0,5
+miguelópolis;São Paulo;0,5
+cândido mota;São Paulo;0,5
+cândido rodrigues;São Paulo;0,5
+petrópolis;Rio de Janeiro;0,5
+paty do alferes;Rio de Janeiro;0,5
+cabedelo;Paraíba;0,5
+ituiutaba;Minas Gerais;0,5
+matão;São Paulo;0,5
+paraty;Rio de Janeiro;0,5
+são josé do ouro;Rio Grande do Sul;0,5
+paraíba do sul;Rio de Janeiro;0,5
+braço do norte;Santa Catarina;0,5
+capivari;São Paulo;0,5
+caraguatatuba;São Paulo;0,5
+sete lagoas;Minas Gerais;0,5
+casa branca;São Paulo;0,5
+são gabriel;Rio Grande do Sul;0,5
+mairiporã;São Paulo;0,5
+mairinque;São Paulo;0,5
+juquitiba;São Paulo;0,5
+lagoinha;São Paulo;0,5
+brodowski;São Paulo;0,5
+nuporanga;São Paulo;0,5
+ibiá;Minas Gerais;0,5
+barra do piraí;Rio de Janeiro;0,5
+barrinha;São Paulo;0,5
+pirapora do bom jesus;São Paulo;0,5
+pirangi;São Paulo;0,5
+pirajuí;São Paulo;0,5
+cunha porã;Santa Catarina;0,5
+piraju;São Paulo;0,5
+piracicaba;São Paulo;0,5
+bastos;São Paulo;0,5
+guanhães;Minas Gerais;0,5
+criciúma;Santa Catarina;0,5
+pinhalzinho;São Paulo;0,5
+pindorama;São Paulo;0,5
+balneário arroio do silva;Santa Catarina;0,5
+corupá;Santa Catarina;0,5
+piedade;São Paulo;0,5
+batatais;São Paulo;0,5
+jaguarão;Rio Grande do Sul;0,5
+joão pinheiro;Minas Gerais;0,5
+joão monlevade;Minas Gerais;0,5
+bebedouro;São Paulo;0,5
+pereira barreto;São Paulo;0,5
+pirapozinho;São Paulo;0,5
+uruaçu;Goiás;0,5
+goiás;Goiás;0,5
+barra bonita;São Paulo;0,5
+atibaia;São Paulo;0,5
+caicó;Rio Grande do Norte;0,5
+imbé;Rio Grande do Sul;0,5
+serra;Espírito Santo;0,5
+auriflama;São Paulo;0,5
+ituverava;São Paulo;0,5
+venda nova do imigrante;Espírito Santo;0,5
+são lourenço;Minas Gerais;0,5
+ibirama;Santa Catarina;0,5
+ascurra;Santa Catarina;0,5
+gonçalves;Minas Gerais;0,5
+bady bassitt;São Paulo;0,5
+barra mansa;Rio de Janeiro;0,5
+sarandi;Rio Grande do Sul;0,5
+bananal;São Paulo;0,5
+pompéia;São Paulo;0,5
+jaboticabal;São Paulo;0,5
+cosmópolis;São Paulo;0,5
+governador valadares;Minas Gerais;0,5
+alto paraíso de goiás;Goiás;0,5
+bariri;São Paulo;0,5
+jacupiranga;São Paulo;0,5
+jaguari;Rio Grande do Sul;0,5
+pedreira;São Paulo;0,5
+marques de souza;Rio Grande do Sul;0,5
+boracéia;São Paulo;0,5
+júlio de castilhos;Rio Grande do Sul;0,5
+balneário piçarras;Santa Catarina;0,5
+lagoa vermelha;Rio Grande do Sul;0,5
+ouroeste;São Paulo;0,5
+barra velha;Santa Catarina;0,5
+ourinhos;São Paulo;0,5
+osvaldo cruz;São Paulo;0,5
+jardinópolis;São Paulo;0,5
+orlândia;São Paulo;0,5
+borborema;São Paulo;0,5
+saquarema;Rio de Janeiro;0,5
+jarinu;São Paulo;0,5
+onda verde;São Paulo;0,5
+sapucaia;Rio de Janeiro;0,5
+olímpia;São Paulo;0,5
+jaú;São Paulo;0,5
+biguaçu;Santa Catarina;0,5
+cordeirópolis;São Paulo;0,5
+blumenau;Santa Catarina;0,5
+brejo alegre;São Paulo;0,5
+palmital;São Paulo;0,5
+panorama;São Paulo;0,5
+cristalina;Goiás;0,5
+valença;Rio de Janeiro;0,5
+caçu;Goiás;0,5
+caldas novas;Goiás;0,5
+bilac;São Paulo;0,5
+pederneiras;São Paulo;0,5
+birigui;São Paulo;0,5
+são sebastião do paraíso;Minas Gerais;0,5
+são sepé;Rio Grande do Sul;0,5
+jales;São Paulo;0,5
+são sebastião do caí;Rio Grande do Sul;0,5
+são pedro do sul;Rio Grande do Sul;0,5
+paraguaçu paulista;São Paulo;0,5
+catalão;Goiás;0,5
+pardinho;São Paulo;0,5
+teresópolis;Rio de Janeiro;0,5
+boituva;São Paulo;0,5
+guaxupé;Minas Gerais;0,5
+bom jesus dos perdões;São Paulo;0,5
+paranapanema;São Paulo;0,5
+jambeiro;São Paulo;0,5
+paraibuna;São Paulo;0,5
+montenegro;Rio Grande do Sul;0,5
+fátima do sul;Mato Grosso do Sul;0,5
+deodápolis;Mato Grosso do Sul;0,5
+muriaé;Minas Gerais;0,5
+betim;Minas Gerais;0,5
+campos novos;Santa Catarina;0,5
+sananduva;Rio Grande do Sul;0,5
+guariba;São Paulo;0,5
+monte sião;Minas Gerais;0,5
+guarujá;São Paulo;0,5
+ajuricaba;Rio Grande do Sul;0,5
+rio dos cedros;Santa Catarina;0,5
+guarulhos;São Paulo;0,5
+alegrete;Rio Grande do Sul;0,5
+barbacena;Minas Gerais;0,5
+cariri do tocantins;Tocantins;0,5
+resplendor;Minas Gerais;0,5
+veranópolis;Rio Grande do Sul;0,5
+palmares do sul;Rio Grande do Sul;0,5
+rio negrinho;Santa Catarina;0,5
+jequié;Bahia;0,5
+bambuí;Minas Gerais;0,5
+ribeirão das neves;Minas Gerais;0,5
+baependi;Minas Gerais;0,5
+coronel fabriciano;Minas Gerais;0,5
+rancho queimado;Santa Catarina;0,5
+bicas;Minas Gerais;0,5
+panambi;Rio Grande do Sul;0,5
+itacaré;Bahia;0,5
+pantano grande;Rio Grande do Sul;0,5
+guararapes;São Paulo;0,5
+pouso alegre;Minas Gerais;0,5
+porto belo;Santa Catarina;0,5
+porto união;Santa Catarina;0,5
+contagem;Minas Gerais;0,5
+laguna;Santa Catarina;0,5
+carpina;Pernambuco;0,5
+lages;Santa Catarina;0,5
+lacerdópolis;Santa Catarina;0,5
+boa esperança;Minas Gerais;0,5
+pouso redondo;Santa Catarina;0,5
+praia grande;Santa Catarina;0,5
+salvador do sul;Rio Grande do Sul;0,5
+guararema;São Paulo;0,5
+bom jesus do amparo;Minas Gerais;0,5
+prata;Minas Gerais;0,5
+corinto;Minas Gerais;0,5
+presidente getúlio;Santa Catarina;0,5
+bom despacho;Minas Gerais;0,5
+ribeirão vermelho;Minas Gerais;0,5
+duque de caxias;Rio de Janeiro;0,5
+astolfo dutra;Minas Gerais;0,5
+siqueira campos;Paraná;0,5
+itapoá;Santa Catarina;0,5
+ibirá;São Paulo;0,5
+itapiranga;Santa Catarina;0,5
+arroio do meio;Rio Grande do Sul;0,5
+tupi paulista;São Paulo;0,5
+tupã;São Paulo;0,5
+arroio do sal;Rio Grande do Sul;0,5
+araguari;Minas Gerais;0,5
+arroio do tigre;Rio Grande do Sul;0,5
+sertanópolis;Paraná;0,5
+terra roxa;Paraná;0,5
+torrinha;São Paulo;0,5
+arroio dos ratos;Rio Grande do Sul;0,5
+rio pomba;Minas Gerais;0,5
+tapes;Rio Grande do Sul;0,5
+ibitinga;São Paulo;0,5
+augusto pestana;Rio Grande do Sul;0,5
+ibiúna;São Paulo;0,5
+itapema;Santa Catarina;0,5
+bagé;Rio Grande do Sul;0,5
+ubatuba;São Paulo;0,5
+araporã;Minas Gerais;0,5
+votuporanga;São Paulo;0,5
+arcos;Minas Gerais;0,5
+votorantim;São Paulo;0,5
+rio casca;Minas Gerais;0,5
+venâncio aires;Rio Grande do Sul;0,5
+wenceslau braz;Paraná;0,5
+viradouro;São Paulo;0,5
+jaraguá do sul;Santa Catarina;0,5
+osório;Rio Grande do Sul;0,5
+santa bárbara do sul;Rio Grande do Sul;0,5
+jaguaruna;Santa Catarina;0,5
+iacanga;São Paulo;0,5
+salto veloso;Santa Catarina;0,5
+vargem grande paulista;São Paulo;0,5
+monte carmelo;Minas Gerais;0,5
+vargem grande do sul;São Paulo;0,5
+araxá;Minas Gerais;0,5
+novo hamburgo;Rio Grande do Sul;0,5
+monte alegre de minas;Minas Gerais;0,5
+umuarama;Paraná;0,5
+ubiratã;Paraná;0,5
+ibaté;São Paulo;0,5
+ponte alta do norte;Santa Catarina;0,5
+paraí;Rio Grande do Sul;0,5
+balneário pinhal;Rio Grande do Sul;0,5
+pomerode;Santa Catarina;0,5
+carmópolis de minas;Minas Gerais;0,5
+nova erechim;Santa Catarina;0,5
+carmo do paranaíba;Minas Gerais;0,5
+paraopeba;Minas Gerais;0,5
+rio pardo;Rio Grande do Sul;0,5
+nova ponte;Minas Gerais;0,5
+luiz alves;Santa Catarina;0,5
+nova era;Minas Gerais;0,5
+nova trento;Santa Catarina;0,5
+nova veneza;Santa Catarina;0,5
+careaçu;Minas Gerais;0,5
+passos;Minas Gerais;0,5
+caratinga;Minas Gerais;0,5
+carangola;Minas Gerais;0,5
+carandaí;Minas Gerais;0,5
+conceição do jacuípe;Bahia;0,5
+orleans;Santa Catarina;0,5
+otacílio costa;Santa Catarina;0,5
+patos de minas;Minas Gerais;0,5
+capitólio;Minas Gerais;0,5
+patrocínio;Minas Gerais;0,5
+navegantes;Santa Catarina;0,5
+garça;São Paulo;0,5
+paraguaçu;Minas Gerais;0,5
+ouro branco;Minas Gerais;0,5
+brumado;Bahia;0,5
+cláudio;Minas Gerais;0,5
+mangaratiba;Rio de Janeiro;0,5
+quaraí;Rio Grande do Sul;0,5
+oliveira;Minas Gerais;0,5
+maracajá;Santa Catarina;0,5
+maravilha;Santa Catarina;0,5
+franca;São Paulo;0,5
+restinga seca;Rio Grande do Sul;0,5
+ouro fino;Minas Gerais;0,5
+morro da fumaça;Santa Catarina;0,5
+ouro preto;Minas Gerais;0,5
+caxambu;Minas Gerais;0,5
+meleiro;Santa Catarina;0,5
+rio grande;Rio Grande do Sul;0,5
+portão;Rio Grande do Sul;0,5
+cataguases;Minas Gerais;0,5
+pará de minas;Minas Gerais;0,5
+paracatu;Minas Gerais;0,5
+monte castelo;Santa Catarina;0,5
+fernandópolis;São Paulo;0,5
+espigão d'oeste;Rondônia;0,5
+fartura;São Paulo;0,5
+salvador das missões;Rio Grande do Sul;0,5
+guanambi;Bahia;0,5
+pitangui;Minas Gerais;0,5
+caeté;Minas Gerais;0,5
+caetanópolis;Minas Gerais;0,5
+lauro muller;Santa Catarina;0,5
+piumhi;Minas Gerais;0,5
+penha;Santa Catarina;0,5
+conselheiro lafaiete;Minas Gerais;0,5
+cachoeira da prata;Minas Gerais;0,5
+petrolândia;Santa Catarina;0,5
+paulo lopes;Santa Catarina;0,5
+pinhalzinho;Santa Catarina;0,5
+fernando de noronha;Pernambuco;0,5
+poços de caldas;Minas Gerais;0,5
+piratuba;Santa Catarina;0,5
+xangri-lá;Rio Grande do Sul;0,5
+brumadinho;Minas Gerais;0,5
+ponte nova;Minas Gerais;0,5
+pareci novo;Rio Grande do Sul;0,5
+ilhéus;Bahia;0,5
+itaguara;Minas Gerais;0,5
+pirapora;Minas Gerais;0,5
+general salgado;São Paulo;0,5
+guaíra;São Paulo;0,5
+pinhal;Rio Grande do Sul;0,5
+pedro leopoldo;Minas Gerais;0,5
+cerejeiras;Rondônia;0,5
+palhoça;Santa Catarina;0,5
+itanhandu;Minas Gerais;0,5
+pelotas;Rio Grande do Sul;0,5
+perdões;Minas Gerais;0,5
+itatiaia;Rio de Janeiro;0,5
+itaperuna;Rio de Janeiro;0,5
+campo belo;Minas Gerais;0,5
+muzambinho;Minas Gerais;0,5
+confins;Minas Gerais;0,5
+papanduva;Santa Catarina;0,5
+nanuque;Minas Gerais;0,5
+congonhas;Minas Gerais;0,5
+itaocara;Rio de Janeiro;0,5
+rosário do sul;Rio Grande do Sul;0,5
+cambuí;Minas Gerais;0,5
+tibau do sul;Rio Grande do Norte;0,5
+camanducaia;Minas Gerais;0,5
+canelinha;Santa Catarina;0,5
+tietê;São Paulo;0,5
+são miguel do iguaçu;Paraná;0,5
+nova santa rosa;Paraná;0,5
+tangará;Santa Catarina;0,5
+duartina;São Paulo;0,5
+santa rita do passa quatro;São Paulo;0,5
+nova londrina;Paraná;0,5
+una;Bahia;0,5
+carazinho;Rio Grande do Sul;0,5
+paranaíba;Mato Grosso do Sul;0,5
+nova esperança;Paraná;0,5
+valença;Bahia;0,5
+casca;Rio Grande do Sul;0,5
+tijucas;Santa Catarina;0,5
+caxias do sul;Rio Grande do Sul;0,5
+nova andradina;Mato Grosso do Sul;0,5
+morretes;Paraná;0,5
+vera cruz;Bahia;0,5
+santa isabel;São Paulo;0,5
+mendes;Rio de Janeiro;0,5
+santa fé do sul;São Paulo;0,5
+missal;Paraná;0,5
+mercedes;Paraná;0,5
+medianeira;Paraná;0,5
+taió;Santa Catarina;0,5
+santa rosa de viterbo;São Paulo;0,5
+timbó;Santa Catarina;0,5
+capivari do sul;Rio Grande do Sul;0,5
+nova bassano;Rio Grande do Sul;0,5
+saudades;Santa Catarina;0,5
+canoas;Rio Grande do Sul;0,5
+santa vitória;Minas Gerais;0,5
+são mateus do sul;Paraná;0,5
+pato bragado;Paraná;0,5
+paranavaí;Paraná;0,5
+sant'ana do livramento;Rio Grande do Sul;0,5
+santo antônio do pinhal;São Paulo;0,5
+divinópolis;Minas Gerais;0,5
+seara;Santa Catarina;0,5
+santo antônio de posse;São Paulo;0,5
+santiago;Rio Grande do Sul;0,5
+santo anastácio;São Paulo;0,5
+palotina;Paraná;0,5
+palmeira;Paraná;0,5
+varginha;Minas Gerais;0,5
+mariana;Minas Gerais;0,5
+indaial;Santa Catarina;0,5
+sombrio;Santa Catarina;0,5
+torres;Rio Grande do Sul;0,5
+não-me-toque;Rio Grande do Sul;0,5
+santa cruz do rio pardo;São Paulo;0,5
+são joão da boa vista;São Paulo;0,5
+santa adélia;São Paulo;0,5
+treze tílias;Santa Catarina;0,5
+constantina;Rio Grande do Sul;0,5
+lapa;Paraná;0,5
+trombudo central;Santa Catarina;0,5
+salto;São Paulo;0,5
+joaquim távora;Paraná;0,5
+saltinho;São Paulo;0,5
+ivinhema;Mato Grosso do Sul;0,5
+tubarão;Santa Catarina;0,5
+turvo;Santa Catarina;0,5
+dores do indaiá;Minas Gerais;0,5
+jandaia do sul;Paraná;0,5
+urubici;Santa Catarina;0,5
+jacarezinho;Paraná;0,5
+brusque;Santa Catarina;0,5
+urussanga;Santa Catarina;0,5
+agrolândia;Santa Catarina;0,5
+cajazeiras;Paraíba;0,5
+taquari;Rio Grande do Sul;0,5
+içara;Santa Catarina;0,5
+taquara;Rio Grande do Sul;0,5
+condor;Rio Grande do Sul;0,5
+loanda;Paraná;0,5
+santa cruz das palmeiras;São Paulo;0,5
+terra de areia;Rio Grande do Sul;0,5
+matinhos;Paraná;0,5
+imbituba;Santa Catarina;0,5
+dracena;São Paulo;0,5
+tio hugo;Rio Grande do Sul;0,5
+dourado;São Paulo;0,5
+santa cruz da conceição;São Paulo;0,5
+cerro largo;Rio Grande do Sul;0,5
+iracemápolis;São Paulo;0,5
+santo ângelo;Rio Grande do Sul;0,5
+chapada;Rio Grande do Sul;0,5
+santana do riacho;Minas Gerais;0,5
+charqueadas;Rio Grande do Sul;0,5
+marialva;Paraná;0,5
+santa bárbara d'oeste;São Paulo;0,5
+marechal cândido rondon;Paraná;0,5
+chuí;Rio Grande do Sul;0,5
+teutônia;Rio Grande do Sul;0,5
+mandaguari;Paraná;0,5
+mandaguaçu;Paraná;0,5
+mantena;Minas Gerais;0,5
+santo antônio da patrulha;Rio Grande do Sul;0,5
+são francisco;São Paulo;0,5
+pato branco;Paraná;0,5
+inúbia paulista;São Paulo;0,5
+são francisco do sul;Santa Catarina;0,5
+curvelo;Minas Gerais;0,5
+nova petrópolis;Rio Grande do Sul;0,5
+nova palma;Rio Grande do Sul;0,5
+sumaré;São Paulo;0,5
+igaraçu do tietê;São Paulo;0,5
+três passos;Rio Grande do Sul;0,5
+bom princípio;Rio Grande do Sul;0,5
+alfenas;Minas Gerais;0,5
+além paraíba;Minas Gerais;0,5
+igarapava;São Paulo;0,5
+igaratá;São Paulo;0,5
+socorro;São Paulo;0,5
+santa juliana;Minas Gerais;0,5
+são carlos;Santa Catarina;0,5
+rolândia;Paraná;0,5
+rio negro;Paraná;0,5
+pinhais;Paraná;0,5
+são cristovão do sul;Santa Catarina;0,5
+matozinhos;Minas Gerais;0,5
+serrana;São Paulo;0,5
+serra negra;São Paulo;0,5
+santa fé;Paraná;0,5
+tabapuã;São Paulo;0,5
+santa helena;Paraná;0,5
+sacramento;Minas Gerais;0,5
+tatuí;São Paulo;0,5
+tarumã;São Paulo;0,5
+espírito santo do pinhal;São Paulo;0,5
+são josé dos pinhais;Paraná;0,5
+cordeiro;Rio de Janeiro;0,5
+taquarituba;São Paulo;0,5
+taquaritinga;São Paulo;0,5
+andradas;Minas Gerais;0,5
+santa cruz do sul;Rio Grande do Sul;0,5
+santo amaro da imperatriz;Santa Catarina;0,5
+itá;Santa Catarina;0,5
+bento gonçalves;Rio Grande do Sul;0,5
+cruzília;Minas Gerais;0,5
+santa terezinha de itaipu;Paraná;0,5
+tambaú;São Paulo;0,5
+são bento do sul;Santa Catarina;0,5
+boa vista do buricá;Rio Grande do Sul;0,5
+santa bárbara;Minas Gerais;0,5
+alagoinhas;Bahia;0,5
+nova prata;Rio Grande do Sul;0,5
+são domingos;Santa Catarina;0,5
+limeira;São Paulo;0,5
+são joão batista;Santa Catarina;0,5
+santa maria de itabira;Minas Gerais;0,5
+três cachoeiras;Rio Grande do Sul;0,5
+iporã do oeste;Santa Catarina;0,5
+quedas do iguaçu;Paraná;0,5
+são manuel;São Paulo;0,5
+três de maio;Rio Grande do Sul;0,5
+são lourenço da serra;São Paulo;0,5
+são josé do rio pardo;São Paulo;0,5
+são lourenço do oeste;Santa Catarina;0,5
+ipatinga;Minas Gerais;0,5
+são joaquim da barra;São Paulo;0,5
+quatiguá;Paraná;0,5
+pontal do paraná;Paraná;0,5
+santa maria do herval;Rio Grande do Sul;0,5
+três lagoas;Mato Grosso do Sul;0,5
+campo bom;Rio Grande do Sul;0,5
+diamantina;Minas Gerais;0,5
+são pedro;São Paulo;0,5
+casimiro de abreu;Rio de Janeiro;0,5
+canoinhas;Santa Catarina;0,5
+sebastianópolis do sul;São Paulo;0,5
+são miguel do oeste;Santa Catarina;0,5
+caçapava do sul;Rio Grande do Sul;0,5
+cachoeira do sul;Rio Grande do Sul;0,5
+ilha comprida;São Paulo;0,5
+são simão;São Paulo;0,5
+santa rita do sapucaí;Minas Gerais;0,5
+viçosa;Minas Gerais;0,5
+canela;Rio Grande do Sul;0,5
+realeza;Paraná;0,5
+santa rosa;Rio Grande do Sul;0,5
+são ludgero;Santa Catarina;0,5
+são roque;São Paulo;0,5
+candelária;Rio Grande do Sul;0,5
+são josé do cedro;Santa Catarina;0,5
+tombos;Minas Gerais;0,142857143
+urucânia;Minas Gerais;0,142857143
+visconde do rio branco;Minas Gerais;0,142857143
+itamonte;Minas Gerais;0,142857143
+vargem alegre;Minas Gerais;0,142857143
+bragança;Pará;0,142857143
+vermelho novo;Minas Gerais;0,142857143
+são joão da urtiga;Rio Grande do Sul;0,142857143
+abaetetuba;Pará;0,142857143
+vieiras;Minas Gerais;0,142857143
+rolante;Rio Grande do Sul;0,142857143
+benevides;Pará;0,142857143
+ubaporanga;Minas Gerais;0,142857143
+augusto corrêa;Pará;0,142857143
+vespasiano;Minas Gerais;0,142857143
+itaobim;Minas Gerais;0,142857143
+tocos do moji;Minas Gerais;0,142857143
+tocantins;Minas Gerais;0,142857143
+teixeiras;Minas Gerais;0,142857143
+barcarena;Pará;0,142857143
+toledo;Minas Gerais;0,142857143
+sagrada família;Rio Grande do Sul;0,142857143
+virgínia;Minas Gerais;0,142857143
+caibi;Santa Catarina;0,142857143
+santa clara do sul;Rio Grande do Sul;0,142857143
+roca sales;Rio Grande do Sul;0,142857143
+nova união;Minas Gerais;0,142857143
+são joão do polêsine;Rio Grande do Sul;0,142857143
+monte belo;Minas Gerais;0,142857143
+rosário da limeira;Minas Gerais;0,142857143
+rodeiro;Minas Gerais;0,142857143
+rochedo de minas;Minas Gerais;0,142857143
+moeda;Minas Gerais;0,142857143
+moema;Minas Gerais;0,142857143
+rio piracicaba;Minas Gerais;0,142857143
+vale do sol;Rio Grande do Sul;0,142857143
+monsenhor paulo;Minas Gerais;0,142857143
+rio novo;Minas Gerais;0,142857143
+travesseiro;Rio Grande do Sul;0,142857143
+vale real;Rio Grande do Sul;0,142857143
+vanini;Rio Grande do Sul;0,142857143
+rio acima;Minas Gerais;0,142857143
+vera cruz;Rio Grande do Sul;0,142857143
+monte santo de minas;Minas Gerais;0,142857143
+reduto;Minas Gerais;0,142857143
+recreio;Minas Gerais;0,142857143
+raul soares;Minas Gerais;0,142857143
+tuparendi;Rio Grande do Sul;0,142857143
+sabará;Minas Gerais;0,142857143
+tupandi;Rio Grande do Sul;0,142857143
+miraí;Minas Gerais;0,142857143
+marmelópolis;Minas Gerais;0,142857143
+martins soares;Minas Gerais;0,142857143
+três coroas;Rio Grande do Sul;0,142857143
+mata verde;Minas Gerais;0,142857143
+mateus leme;Minas Gerais;0,142857143
+matias barbosa;Minas Gerais;0,142857143
+matipó;Minas Gerais;0,142857143
+santa margarida;Minas Gerais;0,142857143
+mato verde;Minas Gerais;0,142857143
+santa luzia;Minas Gerais;0,142857143
+mercês;Minas Gerais;0,142857143
+miradouro;Minas Gerais;0,142857143
+santa efigênia de minas;Minas Gerais;0,142857143
+triunfo;Rio Grande do Sul;0,142857143
+tucunduva;Rio Grande do Sul;0,142857143
+santa cruz de minas;Minas Gerais;0,142857143
+santa bárbara do leste;Minas Gerais;0,142857143
+raposos;Minas Gerais;0,142857143
+viamão;Rio Grande do Sul;0,142857143
+vicente dutra;Rio Grande do Sul;0,142857143
+perdigão;Minas Gerais;0,142857143
+nepomuceno;Minas Gerais;0,142857143
+pedralva;Minas Gerais;0,142857143
+pedra dourada;Minas Gerais;0,142857143
+pedra bonita;Minas Gerais;0,142857143
+paula cândido;Minas Gerais;0,142857143
+patrocínio do muriaé;Minas Gerais;0,142857143
+passa quatro;Minas Gerais;0,142857143
+paraisópolis;Minas Gerais;0,142857143
+paiva;Minas Gerais;0,142857143
+padre paraíso;Minas Gerais;0,142857143
+ouro verde de minas;Minas Gerais;0,142857143
+orizânia;Minas Gerais;0,142857143
+oratórios;Minas Gerais;0,142857143
+nova porteirinha;Minas Gerais;0,142857143
+nova resende;Minas Gerais;0,142857143
+olímpio noronha;Minas Gerais;0,142857143
+nova serrana;Minas Gerais;0,142857143
+pequeri;Minas Gerais;0,142857143
+periquito;Minas Gerais;0,142857143
+prudente de morais;Minas Gerais;0,142857143
+naque;Minas Gerais;0,142857143
+vila flores;Rio Grande do Sul;0,142857143
+pratápolis;Minas Gerais;0,142857143
+prados;Minas Gerais;0,142857143
+vista alegre;Rio Grande do Sul;0,142857143
+porto firme;Minas Gerais;0,142857143
+munhoz;Minas Gerais;0,142857143
+vista gaúcha;Rio Grande do Sul;0,142857143
+westfalia;Rio Grande do Sul;0,142857143
+poço fundo;Minas Gerais;0,142857143
+planura;Minas Gerais;0,142857143
+piraúba;Minas Gerais;0,142857143
+pirapetinga;Minas Gerais;0,142857143
+piranguinho;Minas Gerais;0,142857143
+piranga;Minas Gerais;0,142857143
+pingo-d'água;Minas Gerais;0,142857143
+piedade de ponte nova;Minas Gerais;0,142857143
+piedade de caratinga;Minas Gerais;0,142857143
+santa rita de minas;Minas Gerais;0,142857143
+maripá de minas;Minas Gerais;0,142857143
+taiobeiras;Minas Gerais;0,142857143
+aurora;Santa Catarina;0,142857143
+belmonte;Santa Catarina;0,142857143
+são pedro da serra;Rio Grande do Sul;0,142857143
+são pedro do butiá;Rio Grande do Sul;0,142857143
+jesuânia;Minas Gerais;0,142857143
+balneário gaivota;Santa Catarina;0,142857143
+são sebastião do anta;Minas Gerais;0,142857143
+são sebastião da vargem alegre;Minas Gerais;0,142857143
+balneário barra do sul;Santa Catarina;0,142857143
+são sebastião da bela vista;Minas Gerais;0,142857143
+mário campos;Minas Gerais;0,142857143
+são vendelino;Rio Grande do Sul;0,142857143
+atalanta;Santa Catarina;0,142857143
+sapucaia do sul;Rio Grande do Sul;0,142857143
+são miguel do anta;Minas Gerais;0,142857143
+são josé do mantimento;Minas Gerais;0,142857143
+juatuba;Minas Gerais;0,142857143
+seberi;Rio Grande do Sul;0,142857143
+juruaia;Minas Gerais;0,142857143
+sardoá;Minas Gerais;0,142857143
+benedito novo;Santa Catarina;0,142857143
+sarzedo;Minas Gerais;0,142857143
+são paulo das missões;Rio Grande do Sul;0,142857143
+são josé das missões;Rio Grande do Sul;0,142857143
+soledade de minas;Minas Gerais;0,142857143
+sobrália;Minas Gerais;0,142857143
+braço do trombudo;Santa Catarina;0,142857143
+simonésia;Minas Gerais;0,142857143
+são josé do hortêncio;Rio Grande do Sul;0,142857143
+são josé do inhacorá;Rio Grande do Sul;0,142857143
+são josé do sul;Rio Grande do Sul;0,142857143
+serrania;Minas Gerais;0,142857143
+itumirim;Minas Gerais;0,142857143
+bom jesus do oeste;Santa Catarina;0,142857143
+serra dos aimorés;Minas Gerais;0,142857143
+sericita;Minas Gerais;0,142857143
+senhora dos remédios;Minas Gerais;0,142857143
+senhora de oliveira;Minas Gerais;0,142857143
+senador firmino;Minas Gerais;0,142857143
+senador amaral;Minas Gerais;0,142857143
+são josé do goiabal;Minas Gerais;0,142857143
+são josé do alegre;Minas Gerais;0,142857143
+segredo;Rio Grande do Sul;0,142857143
+luisburgo;Minas Gerais;0,142857143
+são domingos das dores;Minas Gerais;0,142857143
+águas de chapecó;Santa Catarina;0,142857143
+malacacheta;Minas Gerais;0,142857143
+são bento abade;Minas Gerais;0,142857143
+agronômica;Santa Catarina;0,142857143
+taquaruçu do sul;Rio Grande do Sul;0,142857143
+santo antônio do grama;Minas Gerais;0,142857143
+santo antônio do amparo;Minas Gerais;0,142857143
+mar de espanha;Minas Gerais;0,142857143
+maravilhas;Minas Gerais;0,142857143
+santana do paraíso;Minas Gerais;0,142857143
+cametá;Pará;0,142857143
+maria da fé;Minas Gerais;0,142857143
+santana do jacaré;Minas Gerais;0,142857143
+tiradentes do sul;Rio Grande do Sul;0,142857143
+marilac;Minas Gerais;0,142857143
+santana da vargem;Minas Gerais;0,142857143
+águas frias;Santa Catarina;0,142857143
+lontra;Minas Gerais;0,142857143
+selbach;Rio Grande do Sul;0,142857143
+anchieta;Santa Catarina;0,142857143
+são josé da lapa;Minas Gerais;0,142857143
+são joaquim de bicas;Minas Gerais;0,142857143
+são joão evangelista;Minas Gerais;0,142857143
+são joão do oriente;Minas Gerais;0,142857143
+são joão do manteninha;Minas Gerais;0,142857143
+são joão do manhuaçu;Minas Gerais;0,142857143
+arabutã;Santa Catarina;0,142857143
+lagoa dourada;Minas Gerais;0,142857143
+são gonçalo do rio abaixo;Minas Gerais;0,142857143
+são gonçalo do pará;Minas Gerais;0,142857143
+lajinha;Minas Gerais;0,142857143
+são geraldo da piedade;Minas Gerais;0,142857143
+lamim;Minas Gerais;0,142857143
+laranjal;Minas Gerais;0,142857143
+são geraldo;Minas Gerais;0,142857143
+são francisco do glória;Minas Gerais;0,142857143
+tabaí;Rio Grande do Sul;0,142857143
+redentora;Rio Grande do Sul;0,142857143
+nazarezinho;Paraíba;0,142857143
+capanema;Pará;0,142857143
+panelas;Pernambuco;0,142857143
+moreilândia;Pernambuco;0,142857143
+moreno;Pernambuco;0,142857143
+nazaré da mata;Pernambuco;0,142857143
+orobó;Pernambuco;0,142857143
+tangará;Rio Grande do Norte;0,142857143
+ouricuri;Pernambuco;0,142857143
+palmares;Pernambuco;0,142857143
+palmeirina;Pernambuco;0,142857143
+paranatama;Pernambuco;0,142857143
+tuparetama;Pernambuco;0,142857143
+taipu;Rio Grande do Norte;0,142857143
+passira;Pernambuco;0,142857143
+paudalho;Pernambuco;0,142857143
+pedra;Pernambuco;0,142857143
+pesqueira;Pernambuco;0,142857143
+petrolândia;Pernambuco;0,142857143
+poção;Pernambuco;0,142857143
+pombos;Pernambuco;0,142857143
+tenente ananias;Rio Grande do Norte;0,142857143
+maraial;Pernambuco;0,142857143
+manari;Pernambuco;0,142857143
+machados;Pernambuco;0,142857143
+itaquitinga;Pernambuco;0,142857143
+jaboatão dos guararapes;Pernambuco;0,142857143
+jaqueira;Pernambuco;0,142857143
+jatobá;Pernambuco;0,142857143
+joão alfredo;Pernambuco;0,142857143
+joaquim nabuco;Pernambuco;0,142857143
+jucati;Pernambuco;0,142857143
+jupi;Pernambuco;0,142857143
+jurema;Pernambuco;0,142857143
+lagoa de itaenga;Pernambuco;0,142857143
+lagoa do carro;Pernambuco;0,142857143
+lagoa do ouro;Pernambuco;0,142857143
+lagoa dos gatos;Pernambuco;0,142857143
+tenente laurentino cruz;Rio Grande do Norte;0,142857143
+lajedo;Pernambuco;0,142857143
+limoeiro;Pernambuco;0,142857143
+macaparana;Pernambuco;0,142857143
+primavera;Pernambuco;0,142857143
+quipapá;Pernambuco;0,142857143
+quixaba;Pernambuco;0,142857143
+são josé do egito;Pernambuco;0,142857143
+são vicente ferrer;Pernambuco;0,142857143
+serra talhada;Pernambuco;0,142857143
+serrinha;Rio Grande do Norte;0,142857143
+sirinhaém;Pernambuco;0,142857143
+solidão;Pernambuco;0,142857143
+surubim;Pernambuco;0,142857143
+tabira;Pernambuco;0,142857143
+tacaimbó;Pernambuco;0,142857143
+tamandaré;Pernambuco;0,142857143
+taquaritinga do norte;Pernambuco;0,142857143
+terezinha;Pernambuco;0,142857143
+terra nova;Pernambuco;0,142857143
+timbaúba;Pernambuco;0,142857143
+toritama;Pernambuco;0,142857143
+tracunhaém;Pernambuco;0,142857143
+trindade;Pernambuco;0,142857143
+triunfo;Pernambuco;0,142857143
+são lourenço da mata;Pernambuco;0,142857143
+serrinha dos pintos;Rio Grande do Norte;0,142857143
+riacho das almas;Pernambuco;0,142857143
+são josé da coroa grande;Pernambuco;0,142857143
+ribeirão;Pernambuco;0,142857143
+rio formoso;Pernambuco;0,142857143
+sairé;Pernambuco;0,142857143
+salgadinho;Pernambuco;0,142857143
+salgueiro;Pernambuco;0,142857143
+saloá;Pernambuco;0,142857143
+sanharó;Pernambuco;0,142857143
+santa cruz da baixa verde;Pernambuco;0,142857143
+santa cruz do capibaribe;Pernambuco;0,142857143
+severiano melo;Rio Grande do Norte;0,142857143
+santa maria do cambucá;Pernambuco;0,142857143
+santa terezinha;Pernambuco;0,142857143
+são benedito do sul;Pernambuco;0,142857143
+são bento do una;Pernambuco;0,142857143
+são caitano;Pernambuco;0,142857143
+são joão;Pernambuco;0,142857143
+são joaquim do monte;Pernambuco;0,142857143
+itapissuma;Pernambuco;0,142857143
+itapetim;Pernambuco;0,142857143
+itambé;Pernambuco;0,142857143
+águas belas;Pernambuco;0,142857143
+aliança;Pernambuco;0,142857143
+altinho;Pernambuco;0,142857143
+amaraji;Pernambuco;0,142857143
+angelim;Pernambuco;0,142857143
+araçoiaba;Pernambuco;0,142857143
+araripina;Pernambuco;0,142857143
+barra de guabiraba;Pernambuco;0,142857143
+barreiros;Pernambuco;0,142857143
+belém de maria;Pernambuco;0,142857143
+belo jardim;Pernambuco;0,142857143
+bezerros;Pernambuco;0,142857143
+bom conselho;Pernambuco;0,142857143
+bom jardim;Pernambuco;0,142857143
+bonito;Pernambuco;0,142857143
+brejão;Pernambuco;0,142857143
+brejinho;Pernambuco;0,142857143
+brejo da madre de deus;Pernambuco;0,142857143
+alagoinha;Pernambuco;0,142857143
+água preta;Pernambuco;0,142857143
+buíque;Pernambuco;0,142857143
+agrestina;Pernambuco;0,142857143
+são sebastião da amoreira;Paraná;0,142857143
+sarandi;Paraná;0,142857143
+saudade do iguaçu;Paraná;0,142857143
+arvorezinha;Rio Grande do Sul;0,142857143
+tamarana;Paraná;0,142857143
+terra boa;Paraná;0,142857143
+araricá;Rio Grande do Sul;0,142857143
+antônio prado;Rio Grande do Sul;0,142857143
+ametista do sul;Rio Grande do Sul;0,142857143
+tupãssi;Paraná;0,142857143
+uniflor;Paraná;0,142857143
+uraí;Paraná;0,142857143
+alvorada;Rio Grande do Sul;0,142857143
+vera cruz do oeste;Paraná;0,142857143
+alto feliz;Rio Grande do Sul;0,142857143
+abreu e lima;Pernambuco;0,142857143
+afogados da ingazeira;Pernambuco;0,142857143
+buenos aires;Pernambuco;0,142857143
+cabo de santo agostinho;Pernambuco;0,142857143
+ipubi;Pernambuco;0,142857143
+cupira;Pernambuco;0,142857143
+escada;Pernambuco;0,142857143
+viçosa;Rio Grande do Norte;0,142857143
+feira nova;Pernambuco;0,142857143
+ferreiros;Pernambuco;0,142857143
+vera cruz;Rio Grande do Norte;0,142857143
+venha-ver;Rio Grande do Norte;0,142857143
+frei miguelinho;Pernambuco;0,142857143
+gameleira;Pernambuco;0,142857143
+glória do goitá;Pernambuco;0,142857143
+goiana;Pernambuco;0,142857143
+várzea;Rio Grande do Norte;0,142857143
+iati;Pernambuco;0,142857143
+ibirajuba;Pernambuco;0,142857143
+igarassu;Pernambuco;0,142857143
+umarizal;Rio Grande do Norte;0,142857143
+ilha de itamaracá;Pernambuco;0,142857143
+touros;Rio Grande do Norte;0,142857143
+vila flor;Rio Grande do Norte;0,142857143
+cumaru;Pernambuco;0,142857143
+agudo;Rio Grande do Sul;0,142857143
+cortês;Pernambuco;0,142857143
+cachoeirinha;Pernambuco;0,142857143
+caetés;Pernambuco;0,142857143
+calçado;Pernambuco;0,142857143
+calumbi;Pernambuco;0,142857143
+camaragibe;Pernambuco;0,142857143
+camocim de são félix;Pernambuco;0,142857143
+camutanga;Pernambuco;0,142857143
+canhotinho;Pernambuco;0,142857143
+capoeiras;Pernambuco;0,142857143
+carnaíba;Pernambuco;0,142857143
+casinhas;Pernambuco;0,142857143
+catende;Pernambuco;0,142857143
+cedro;Pernambuco;0,142857143
+chã de alegria;Pernambuco;0,142857143
+chã grande;Pernambuco;0,142857143
+condado;Pernambuco;0,142857143
+correntes;Pernambuco;0,142857143
+tupanatinga;Pernambuco;0,142857143
+venturosa;Pernambuco;0,142857143
+barão;Rio Grande do Sul;0,142857143
+antônio martins;Rio Grande do Norte;0,142857143
+caiçara do norte;Rio Grande do Norte;0,142857143
+brejinho;Rio Grande do Norte;0,142857143
+bom jesus;Rio Grande do Norte;0,142857143
+barcelona;Rio Grande do Norte;0,142857143
+baraúna;Rio Grande do Norte;0,142857143
+baía formosa;Rio Grande do Norte;0,142857143
+arês;Rio Grande do Norte;0,142857143
+areia branca;Rio Grande do Norte;0,142857143
+alto do rodrigues;Rio Grande do Norte;0,142857143
+serra de são bento;Rio Grande do Norte;0,142857143
+almino afonso;Rio Grande do Norte;0,142857143
+piripiri;Piauí;0,142857143
+porto;Piauí;0,142857143
+alexandria;Rio Grande do Norte;0,142857143
+água nova;Rio Grande do Norte;0,142857143
+açu;Rio Grande do Norte;0,142857143
+varre-sai;Rio de Janeiro;0,142857143
+tanguá;Rio de Janeiro;0,142857143
+campo redondo;Rio Grande do Norte;0,142857143
+canguaretama;Rio Grande do Norte;0,142857143
+carnaúba dos dantas;Rio Grande do Norte;0,142857143
+ceará-mirim;Rio Grande do Norte;0,142857143
+goianinha;Rio Grande do Norte;0,142857143
+lagoinha do piauí;Piauí;0,142857143
+frutuoso gomes;Rio Grande do Norte;0,142857143
+luís correia;Piauí;0,142857143
+luzilândia;Piauí;0,142857143
+madeiro;Piauí;0,142857143
+marcolândia;Piauí;0,142857143
+matias olímpio;Piauí;0,142857143
+extremoz;Rio Grande do Norte;0,142857143
+espírito santo;Rio Grande do Norte;0,142857143
+encanto;Rio Grande do Norte;0,142857143
+doutor severiano;Rio Grande do Norte;0,142857143
+currais novos;Rio Grande do Norte;0,142857143
+cruzeta;Rio Grande do Norte;0,142857143
+coronel joão pessoa;Rio Grande do Norte;0,142857143
+coronel ezequiel;Rio Grande do Norte;0,142857143
+cerro corá;Rio Grande do Norte;0,142857143
+sumidouro;Rio de Janeiro;0,142857143
+santana do piauí;Piauí;0,142857143
+santo antônio dos milagres;Piauí;0,142857143
+miracema;Rio de Janeiro;0,142857143
+belford roxo;Rio de Janeiro;0,142857143
+bom jardim;Rio de Janeiro;0,142857143
+cambuci;Rio de Janeiro;0,142857143
+cantagalo;Rio de Janeiro;0,142857143
+carapebus;Rio de Janeiro;0,142857143
+carmo;Rio de Janeiro;0,142857143
+comendador levy gasparian;Rio de Janeiro;0,142857143
+conceição de macabu;Rio de Janeiro;0,142857143
+duas barras;Rio de Janeiro;0,142857143
+engenheiro paulo de frontin;Rio de Janeiro;0,142857143
+guapimirim;Rio de Janeiro;0,142857143
+iguaba grande;Rio de Janeiro;0,142857143
+itaboraí;Rio de Janeiro;0,142857143
+italva;Rio de Janeiro;0,142857143
+japeri;Rio de Janeiro;0,142857143
+laje do muriaé;Rio de Janeiro;0,142857143
+magé;Rio de Janeiro;0,142857143
+aperibé;Rio de Janeiro;0,142857143
+natividade;Rio de Janeiro;0,142857143
+seropédica;Rio de Janeiro;0,142857143
+paracambi;Rio de Janeiro;0,142857143
+são pedro da aldeia;Rio de Janeiro;0,142857143
+são josé do vale do rio preto;Rio de Janeiro;0,142857143
+são gonçalo do piauí;Piauí;0,142857143
+são josé de ubá;Rio de Janeiro;0,142857143
+são joão da barra;Rio de Janeiro;0,142857143
+são gonçalo;Rio de Janeiro;0,142857143
+são joão do arraial;Piauí;0,142857143
+são francisco de itabapoana;Rio de Janeiro;0,142857143
+são fidélis;Rio de Janeiro;0,142857143
+quissamã;Rio de Janeiro;0,142857143
+são pedro do piauí;Piauí;0,142857143
+queimados;Rio de Janeiro;0,142857143
+quatis;Rio de Janeiro;0,142857143
+porto real;Rio de Janeiro;0,142857143
+porciúncula;Rio de Janeiro;0,142857143
+sussuapara;Piauí;0,142857143
+união;Piauí;0,142857143
+lagoa de são francisco;Piauí;0,142857143
+grossos;Rio Grande do Norte;0,142857143
+guamaré;Rio Grande do Norte;0,142857143
+barras;Piauí;0,142857143
+barro duro;Piauí;0,142857143
+santo antônio;Rio Grande do Norte;0,142857143
+santa cruz;Rio Grande do Norte;0,142857143
+ruy barbosa;Rio Grande do Norte;0,142857143
+rodolfo fernandes;Rio Grande do Norte;0,142857143
+rio do fogo;Rio Grande do Norte;0,142857143
+riachuelo;Rio Grande do Norte;0,142857143
+riacho de santana;Rio Grande do Norte;0,142857143
+buriti dos lopes;Piauí;0,142857143
+rafael godeiro;Rio Grande do Norte;0,142857143
+rafael fernandes;Rio Grande do Norte;0,142857143
+cajueiro da praia;Piauí;0,142857143
+presidente juscelino;Rio Grande do Norte;0,142857143
+portalegre;Rio Grande do Norte;0,142857143
+poço branco;Rio Grande do Norte;0,142857143
+pilões;Rio Grande do Norte;0,142857143
+campo maior;Piauí;0,142857143
+são francisco do oeste;Rio Grande do Norte;0,142857143
+são gonçalo do amarante;Rio Grande do Norte;0,142857143
+pedro velho;Rio Grande do Norte;0,142857143
+são josé de mipibu;Rio Grande do Norte;0,142857143
+vertente do lério;Pernambuco;0,142857143
+vertentes;Pernambuco;0,142857143
+vicência;Pernambuco;0,142857143
+vitória de santo antão;Pernambuco;0,142857143
+xexéu;Pernambuco;0,142857143
+senador georgino avelino;Rio Grande do Norte;0,142857143
+agricolândia;Piauí;0,142857143
+água branca;Piauí;0,142857143
+senador elói de souza;Rio Grande do Norte;0,142857143
+são vicente;Rio Grande do Norte;0,142857143
+altos;Piauí;0,142857143
+são pedro;Rio Grande do Norte;0,142857143
+angical do piauí;Piauí;0,142857143
+anísio de abreu;Piauí;0,142857143
+são paulo do potengi;Rio Grande do Norte;0,142857143
+são miguel;Rio Grande do Norte;0,142857143
+são josé do campestre;Rio Grande do Norte;0,142857143
+pendências;Rio Grande do Norte;0,142857143
+patu;Rio Grande do Norte;0,142857143
+ielmo marinho;Rio Grande do Norte;0,142857143
+lajes pintadas;Rio Grande do Norte;0,142857143
+lagoa nova;Rio Grande do Norte;0,142857143
+lagoa de pedras;Rio Grande do Norte;0,142857143
+lagoa d'anta;Rio Grande do Norte;0,142857143
+jundiá;Rio Grande do Norte;0,142857143
+josé da penha;Rio Grande do Norte;0,142857143
+ilha grande;Piauí;0,142857143
+joão dias;Rio Grande do Norte;0,142857143
+joão câmara;Rio Grande do Norte;0,142857143
+jardim do seridó;Rio Grande do Norte;0,142857143
+jardim de piranhas;Rio Grande do Norte;0,142857143
+japi;Rio Grande do Norte;0,142857143
+januário cicco;Rio Grande do Norte;0,142857143
+jaçanã;Rio Grande do Norte;0,142857143
+itaú;Rio Grande do Norte;0,142857143
+itajá;Rio Grande do Norte;0,142857143
+joca marques;Piauí;0,142857143
+ipanguaçu;Rio Grande do Norte;0,142857143
+lagoa salgada;Rio Grande do Norte;0,142857143
+lucrécia;Rio Grande do Norte;0,142857143
+passagem;Rio Grande do Norte;0,142857143
+luís gomes;Rio Grande do Norte;0,142857143
+passa e fica;Rio Grande do Norte;0,142857143
+parelhas;Rio Grande do Norte;0,142857143
+paraná;Rio Grande do Norte;0,142857143
+olho-d'água do borges;Rio Grande do Norte;0,142857143
+nova cruz;Rio Grande do Norte;0,142857143
+nísia floresta;Rio Grande do Norte;0,142857143
+monte das gameleiras;Rio Grande do Norte;0,142857143
+monte alegre;Rio Grande do Norte;0,142857143
+montanhas;Rio Grande do Norte;0,142857143
+messias targino;Rio Grande do Norte;0,142857143
+demerval lobão;Piauí;0,142857143
+maxaranguape;Rio Grande do Norte;0,142857143
+dom expedito lopes;Piauí;0,142857143
+martins;Rio Grande do Norte;0,142857143
+major sales;Rio Grande do Norte;0,142857143
+esperantina;Piauí;0,142857143
+macaíba;Rio Grande do Norte;0,142857143
+são pedro do ivaí;Paraná;0,142857143
+barra do guarita;Rio Grande do Sul;0,142857143
+concórdia do pará;Pará;0,142857143
+jericó;Paraíba;0,142857143
+igaracy;Paraíba;0,142857143
+imaculada;Paraíba;0,142857143
+ingá;Paraíba;0,142857143
+itabaiana;Paraíba;0,142857143
+itaporanga;Paraíba;0,142857143
+itapororoca;Paraíba;0,142857143
+itatuba;Paraíba;0,142857143
+jacaraú;Paraíba;0,142857143
+joca claudino;Paraíba;0,142857143
+riachão do bacamarte;Paraíba;0,142857143
+juarez távora;Paraíba;0,142857143
+juazeirinho;Paraíba;0,142857143
+junco do seridó;Paraíba;0,142857143
+juripiranga;Paraíba;0,142857143
+lagoa;Paraíba;0,142857143
+lagoa de dentro;Paraíba;0,142857143
+lagoa seca;Paraíba;0,142857143
+lastro;Paraíba;0,142857143
+lajeado do bugre;Rio Grande do Sul;0,142857143
+gurinhém;Paraíba;0,142857143
+guarabira;Paraíba;0,142857143
+gado bravo;Paraíba;0,142857143
+catolé do rocha;Paraíba;0,142857143
+caturité;Paraíba;0,142857143
+conceição;Paraíba;0,142857143
+conde;Paraíba;0,142857143
+coremas;Paraíba;0,142857143
+cruz do espírito santo;Paraíba;0,142857143
+cubati;Paraíba;0,142857143
+cuité;Paraíba;0,142857143
+cuité de mamanguape;Paraíba;0,142857143
+cuitegi;Paraíba;0,142857143
+curral de cima;Paraíba;0,142857143
+damião;Paraíba;0,142857143
+desterro;Paraíba;0,142857143
+dona inês;Paraíba;0,142857143
+duas estradas;Paraíba;0,142857143
+lindolfo collor;Rio Grande do Sul;0,142857143
+fagundes;Paraíba;0,142857143
+livramento;Paraíba;0,142857143
+logradouro;Paraíba;0,142857143
+lucena;Paraíba;0,142857143
+patos;Paraíba;0,142857143
+pedras de fogo;Paraíba;0,142857143
+pedro régis;Paraíba;0,142857143
+piancó;Paraíba;0,142857143
+picuí;Paraíba;0,142857143
+pilar;Paraíba;0,142857143
+pilões;Paraíba;0,142857143
+pilõezinhos;Paraíba;0,142857143
+pirpirituba;Paraíba;0,142857143
+pitimbu;Paraíba;0,142857143
+pocinhos;Paraíba;0,142857143
+poço dantas;Paraíba;0,142857143
+poço de josé de moura;Paraíba;0,142857143
+pombal;Paraíba;0,142857143
+princesa isabel;Paraíba;0,142857143
+puxinanã;Paraíba;0,142857143
+queimadas;Paraíba;0,142857143
+remígio;Paraíba;0,142857143
+pedra branca;Paraíba;0,142857143
+nova olinda;Paraíba;0,142857143
+malta;Paraíba;0,142857143
+nova floresta;Paraíba;0,142857143
+mamanguape;Paraíba;0,142857143
+manaíra;Paraíba;0,142857143
+marcação;Paraíba;0,142857143
+mari;Paraíba;0,142857143
+marizópolis;Paraíba;0,142857143
+massaranduba;Paraíba;0,142857143
+mataraca;Paraíba;0,142857143
+matinhas;Paraíba;0,142857143
+mato grosso;Paraíba;0,142857143
+maturéia;Paraíba;0,142857143
+mogeiro;Paraíba;0,142857143
+montadas;Paraíba;0,142857143
+monte horebe;Paraíba;0,142857143
+monteiro;Paraíba;0,142857143
+mulungu;Paraíba;0,142857143
+natuba;Paraíba;0,142857143
+camboriú;Santa Catarina;0,142857143
+casserengue;Paraíba;0,142857143
+carrapateira;Paraíba;0,142857143
+maratá;Rio Grande do Sul;0,142857143
+novo tiradentes;Rio Grande do Sul;0,142857143
+quatipuru;Pará;0,142857143
+novo barreiro;Rio Grande do Sul;0,142857143
+nova santa rita;Rio Grande do Sul;0,142857143
+salinópolis;Pará;0,142857143
+santa bárbara do pará;Pará;0,142857143
+santa isabel do pará;Pará;0,142857143
+santa maria do pará;Pará;0,142857143
+nova hartz;Rio Grande do Sul;0,142857143
+santarém novo;Pará;0,142857143
+santo antônio do tauá;Pará;0,142857143
+nova candelária;Rio Grande do Sul;0,142857143
+nova bréscia;Rio Grande do Sul;0,142857143
+são francisco do pará;Pará;0,142857143
+são joão da ponta;Pará;0,142857143
+são joão de pirabas;Pará;0,142857143
+nova araçá;Rio Grande do Sul;0,142857143
+são miguel do guamá;Pará;0,142857143
+primavera;Pará;0,142857143
+palmitinho;Rio Grande do Sul;0,142857143
+muçum;Rio Grande do Sul;0,142857143
+ourém;Pará;0,142857143
+presidente lucena;Rio Grande do Sul;0,142857143
+porto xavier;Rio Grande do Sul;0,142857143
+curuçá;Pará;0,142857143
+poço das antas;Rio Grande do Sul;0,142857143
+planalto;Rio Grande do Sul;0,142857143
+igarapé-açu;Pará;0,142857143
+igarapé-miri;Pará;0,142857143
+pinheirinho do vale;Rio Grande do Sul;0,142857143
+picada café;Rio Grande do Sul;0,142857143
+mãe do rio;Pará;0,142857143
+maracanã;Pará;0,142857143
+marapanim;Pará;0,142857143
+marituba;Pará;0,142857143
+mocajuba;Pará;0,142857143
+paverama;Rio Grande do Sul;0,142857143
+nova timboteua;Pará;0,142857143
+parobé;Rio Grande do Sul;0,142857143
+terra alta;Pará;0,142857143
+tracuateua;Pará;0,142857143
+capim;Paraíba;0,142857143
+baraúna;Paraíba;0,142857143
+bayeux;Paraíba;0,142857143
+belém;Paraíba;0,142857143
+bernardino batista;Paraíba;0,142857143
+boa ventura;Paraíba;0,142857143
+bom jesus;Paraíba;0,142857143
+bom sucesso;Paraíba;0,142857143
+bonito de santa fé;Paraíba;0,142857143
+boqueirão;Paraíba;0,142857143
+borborema;Paraíba;0,142857143
+brejo do cruz;Paraíba;0,142857143
+brejo dos santos;Paraíba;0,142857143
+caaporã;Paraíba;0,142857143
+cachoeira dos índios;Paraíba;0,142857143
+cacimba de dentro;Paraíba;0,142857143
+cacimbas;Paraíba;0,142857143
+caiçara;Paraíba;0,142857143
+caldas brandão;Paraíba;0,142857143
+mato leitão;Rio Grande do Sul;0,142857143
+bananeiras;Paraíba;0,142857143
+morro reuter;Rio Grande do Sul;0,142857143
+baía da traição;Paraíba;0,142857143
+tucuruí;Pará;0,142857143
+vigia;Pará;0,142857143
+monte belo do sul;Rio Grande do Sul;0,142857143
+água branca;Paraíba;0,142857143
+alagoa grande;Paraíba;0,142857143
+alagoa nova;Paraíba;0,142857143
+alagoinha;Paraíba;0,142857143
+miraguaí;Rio Grande do Sul;0,142857143
+alhandra;Paraíba;0,142857143
+aparecida;Paraíba;0,142857143
+araçagi;Paraíba;0,142857143
+arara;Paraíba;0,142857143
+araruna;Paraíba;0,142857143
+areia;Paraíba;0,142857143
+areial;Paraíba;0,142857143
+aroeiras;Paraíba;0,142857143
+assunção;Paraíba;0,142857143
+riachão;Paraíba;0,142857143
+riachão do poço;Paraíba;0,142857143
+são joão do ivaí;Paraná;0,142857143
+munhoz de melo;Paraná;0,142857143
+mandirituba;Paraná;0,142857143
+marilena;Paraná;0,142857143
+mariópolis;Paraná;0,142857143
+marmeleiro;Paraná;0,142857143
+cerro grande do sul;Rio Grande do Sul;0,142857143
+cerro grande;Rio Grande do Sul;0,142857143
+cerro branco;Rio Grande do Sul;0,142857143
+moreira sales;Paraná;0,142857143
+nova américa da colina;Paraná;0,142857143
+riacho dos cavalos;Paraíba;0,142857143
+nova fátima;Paraná;0,142857143
+nova olímpia;Paraná;0,142857143
+nova prata do iguaçu;Paraná;0,142857143
+nova santa bárbara;Paraná;0,142857143
+capitão;Rio Grande do Sul;0,142857143
+capela de santana;Rio Grande do Sul;0,142857143
+capão do leão;Rio Grande do Sul;0,142857143
+paiçandu;Paraná;0,142857143
+lupionópolis;Paraná;0,142857143
+lunardelli;Paraná;0,142857143
+colinas;Rio Grande do Sul;0,142857143
+lidianópolis;Paraná;0,142857143
+iracema do oeste;Paraná;0,142857143
+cristal do sul;Rio Grande do Sul;0,142857143
+itaipulândia;Paraná;0,142857143
+itambaracá;Paraná;0,142857143
+itapejara d'oeste;Paraná;0,142857143
+itaperuçu;Paraná;0,142857143
+itaúna do sul;Paraná;0,142857143
+crissiumal;Rio Grande do Sul;0,142857143
+ivatuba;Paraná;0,142857143
+jaboti;Paraná;0,142857143
+jaguapitã;Paraná;0,142857143
+japira;Paraná;0,142857143
+japurá;Paraná;0,142857143
+jardim alegre;Paraná;0,142857143
+jataizinho;Paraná;0,142857143
+jesuítas;Paraná;0,142857143
+jussara;Paraná;0,142857143
+paraíso do norte;Paraná;0,142857143
+paranacity;Paraná;0,142857143
+peabiru;Paraná;0,142857143
+braga;Rio Grande do Sul;0,142857143
+boqueirão do leão;Rio Grande do Sul;0,142857143
+bom retiro do sul;Rio Grande do Sul;0,142857143
+bom progresso;Rio Grande do Sul;0,142857143
+sabáudia;Paraná;0,142857143
+salto do itararé;Paraná;0,142857143
+salto do lontra;Paraná;0,142857143
+santa amélia;Paraná;0,142857143
+santa cecília do pavão;Paraná;0,142857143
+boa vista do sul;Rio Grande do Sul;0,142857143
+santa izabel do oeste;Paraná;0,142857143
+santa lúcia;Paraná;0,142857143
+santa mariana;Paraná;0,142857143
+santa tereza do oeste;Paraná;0,142857143
+santo antônio do sudoeste;Paraná;0,142857143
+são carlos do ivaí;Paraná;0,142857143
+são joão;Paraná;0,142857143
+barra funda;Rio Grande do Sul;0,142857143
+rio branco do sul;Paraná;0,142857143
+brochier;Rio Grande do Sul;0,142857143
+pérola;Paraná;0,142857143
+ribeirão do pinhal;Paraná;0,142857143
+pérola d'oeste;Paraná;0,142857143
+piên;Paraná;0,142857143
+pinhal de são bento;Paraná;0,142857143
+pinhalão;Paraná;0,142857143
+piraquara;Paraná;0,142857143
+cândido godói;Rio Grande do Sul;0,142857143
+planalto;Paraná;0,142857143
+porecatu;Paraná;0,142857143
+campina das missões;Rio Grande do Sul;0,142857143
+presidente castelo branco;Paraná;0,142857143
+primeiro de maio;Paraná;0,142857143
+quatro barras;Paraná;0,142857143
+quatro pontes;Paraná;0,142857143
+caiçara;Rio Grande do Sul;0,142857143
+quitandinha;Paraná;0,142857143
+rebouças;Paraná;0,142857143
+butiá;Rio Grande do Sul;0,142857143
+indianópolis;Paraná;0,142857143
+imbituva;Paraná;0,142857143
+cruzeiro do sul;Rio Grande do Sul;0,142857143
+são sebastião de lagoa de roça;Paraíba;0,142857143
+sapé;Paraíba;0,142857143
+serra da raiz;Paraíba;0,142857143
+serra grande;Paraíba;0,142857143
+serra redonda;Paraíba;0,142857143
+serraria;Paraíba;0,142857143
+sertãozinho;Paraíba;0,142857143
+sobrado;Paraíba;0,142857143
+solânea;Paraíba;0,142857143
+sousa;Paraíba;0,142857143
+tacima;Paraíba;0,142857143
+tavares;Paraíba;0,142857143
+teixeira;Paraíba;0,142857143
+tenório;Paraíba;0,142857143
+triunfo;Paraíba;0,142857143
+uiraúna;Paraíba;0,142857143
+umbuzeiro;Paraíba;0,142857143
+vieirópolis;Paraíba;0,142857143
+são vicente do seridó;Paraíba;0,142857143
+são miguel de taipu;Paraíba;0,142857143
+abatiá;Paraná;0,142857143
+são josé dos ramos;Paraíba;0,142857143
+rio tinto;Paraíba;0,142857143
+salgado de são félix;Paraíba;0,142857143
+santa cecília;Paraíba;0,142857143
+santa cruz;Paraíba;0,142857143
+jaboticaba;Rio Grande do Sul;0,142857143
+santa luzia;Paraíba;0,142857143
+santa rita;Paraíba;0,142857143
+são bento;Paraíba;0,142857143
+itaara;Rio Grande do Sul;0,142857143
+são francisco;Paraíba;0,142857143
+iraí;Rio Grande do Sul;0,142857143
+são joão do rio do peixe;Paraíba;0,142857143
+são josé de caiana;Paraíba;0,142857143
+são josé de piranhas;Paraíba;0,142857143
+são josé de princesa;Paraíba;0,142857143
+imigrante;Rio Grande do Sul;0,142857143
+ilópolis;Rio Grande do Sul;0,142857143
+vista serrana;Paraíba;0,142857143
+agudos do sul;Paraná;0,142857143
+david canabarro;Rio Grande do Sul;0,142857143
+centenário do sul;Paraná;0,142857143
+contenda;Paraná;0,142857143
+estação;Rio Grande do Sul;0,142857143
+cruzeiro do iguaçu;Paraná;0,142857143
+cruzeiro do oeste;Paraná;0,142857143
+doutor camargo;Paraná;0,142857143
+enéas marques;Paraná;0,142857143
+entre rios do sul;Rio Grande do Sul;0,142857143
+fazenda rio grande;Paraná;0,142857143
+figueira;Paraná;0,142857143
+eldorado do sul;Rio Grande do Sul;0,142857143
+floraí;Paraná;0,142857143
+floresta;Paraná;0,142857143
+florestópolis;Paraná;0,142857143
+flórida;Paraná;0,142857143
+dona francisca;Rio Grande do Sul;0,142857143
+guamiranga;Paraná;0,142857143
+ibema;Paraná;0,142857143
+cidade gaúcha;Paraná;0,142857143
+carlópolis;Paraná;0,142857143
+almirante tamandaré;Paraná;0,142857143
+fazenda vilanova;Rio Grande do Sul;0,142857143
+alto paraná;Paraná;0,142857143
+altônia;Paraná;0,142857143
+guarani das missões;Rio Grande do Sul;0,142857143
+anahy;Paraná;0,142857143
+ângulo;Paraná;0,142857143
+araruna;Paraná;0,142857143
+atalaia;Paraná;0,142857143
+balsa nova;Paraná;0,142857143
+bela vista da caroba;Paraná;0,142857143
+bela vista do paraíso;Paraná;0,142857143
+boa vista da aparecida;Paraná;0,142857143
+gaurama;Rio Grande do Sul;0,142857143
+forquetinha;Rio Grande do Sul;0,142857143
+cafelândia;Paraná;0,142857143
+califórnia;Paraná;0,142857143
+cambira;Paraná;0,142857143
+campo magro;Paraná;0,142857143
+itamogi;Minas Gerais;0,142857143
+imbuia;Santa Catarina;0,142857143
+presidente tancredo neves;Bahia;0,142857143
+água doce do maranhão;Maranhão;0,142857143
+arari;Maranhão;0,142857143
+conceição do almeida;Bahia;0,142857143
+itapevi;São Paulo;0,142857143
+conceição do coité;Bahia;0,142857143
+apicum-açu;Maranhão;0,142857143
+itaporanga;São Paulo;0,142857143
+itapuí;São Paulo;0,142857143
+santo amaro das brotas;Sergipe;0,142857143
+santana do são francisco;Sergipe;0,142857143
+itaquaquecetuba;São Paulo;0,142857143
+alto alegre do maranhão;Maranhão;0,142857143
+itariri;São Paulo;0,142857143
+itirapina;São Paulo;0,142857143
+conceição da feira;Bahia;0,142857143
+santa rosa de lima;Sergipe;0,142857143
+itirapuã;São Paulo;0,142857143
+coração de maria;Bahia;0,142857143
+itobi;São Paulo;0,142857143
+santa luzia do itanhy;Sergipe;0,142857143
+salgado;Sergipe;0,142857143
+uruana;Goiás;0,142857143
+jaci;São Paulo;0,142857143
+trindade;Goiás;0,142857143
+terezópolis de goiás;Goiás;0,142857143
+jandira;São Paulo;0,142857143
+rosário do catete;Sergipe;0,142857143
+axixá;Maranhão;0,142857143
+bacabal;Maranhão;0,142857143
+nossa senhora de lourdes;Sergipe;0,142857143
+ipuã;São Paulo;0,142857143
+ipaussu;São Paulo;0,142857143
+iperó;São Paulo;0,142857143
+buriticupu;Maranhão;0,142857143
+ipeúna;São Paulo;0,142857143
+ipiguá;São Paulo;0,142857143
+telha;Sergipe;0,142857143
+cardeal da silva;Bahia;0,142857143
+siriri;Sergipe;0,142857143
+brejo;Maranhão;0,142857143
+simão dias;Sergipe;0,142857143
+bom lugar;Maranhão;0,142857143
+castro alves;Bahia;0,142857143
+irapuã;São Paulo;0,142857143
+itapecerica da serra;São Paulo;0,142857143
+são miguel do aleixo;Sergipe;0,142857143
+irapuru;São Paulo;0,142857143
+catu;Bahia;0,142857143
+são francisco;Sergipe;0,142857143
+central;Bahia;0,142857143
+são domingos;Sergipe;0,142857143
+cícero dantas;Bahia;0,142857143
+itajobi;São Paulo;0,142857143
+bela vista do maranhão;Maranhão;0,142857143
+cipó;Bahia;0,142857143
+coaraci;Bahia;0,142857143
+são cristóvão;Sergipe;0,142857143
+senador canedo;Goiás;0,142857143
+ribeirópolis;Sergipe;0,142857143
+júlio mesquita;São Paulo;0,142857143
+gandu;Bahia;0,142857143
+euclides da cunha;Bahia;0,142857143
+fátima;Bahia;0,142857143
+uchoa;São Paulo;0,142857143
+pinhão;Sergipe;0,142857143
+filadélfia;Bahia;0,142857143
+firmino alves;Bahia;0,142857143
+novo gama;Goiás;0,142857143
+nova veneza;Goiás;0,142857143
+marinópolis;São Paulo;0,142857143
+floresta azul;Bahia;0,142857143
+mauá;São Paulo;0,142857143
+pedrinhas;Sergipe;0,142857143
+pedra mole;Sergipe;0,142857143
+são luís de montes belos;Goiás;0,142857143
+ipaumirim;Ceará;0,142857143
+pacatuba;Sergipe;0,142857143
+nerópolis;Goiás;0,142857143
+nazário;Goiás;0,142857143
+mineiros do tietê;São Paulo;0,142857143
+nossa senhora do socorro;Sergipe;0,142857143
+gongogi;Bahia;0,142857143
+mirassolândia;São Paulo;0,142857143
+maurilândia;Goiás;0,142857143
+ipu;Ceará;0,142857143
+governador mangabeira;Bahia;0,142857143
+monte alegre do sul;São Paulo;0,142857143
+manduri;São Paulo;0,142857143
+palmelo;Goiás;0,142857143
+pirambu;Sergipe;0,142857143
+entre rios;Bahia;0,142857143
+jumirim;São Paulo;0,142857143
+riachuelo;Sergipe;0,142857143
+cravolândia;Bahia;0,142857143
+santo antônio do descoberto;Goiás;0,142857143
+crisópolis;Bahia;0,142857143
+santo antônio de goiás;Goiás;0,142857143
+riachão do dantas;Sergipe;0,142857143
+lavrinhas;São Paulo;0,142857143
+santa helena de goiás;Goiás;0,142857143
+santa bárbara de goiás;Goiás;0,142857143
+rianápolis;Goiás;0,142857143
+rialma;Goiás;0,142857143
+propriá;Sergipe;0,142857143
+lucélia;São Paulo;0,142857143
+planaltina;Goiás;0,142857143
+dário meira;Bahia;0,142857143
+dias d'ávila;Bahia;0,142857143
+porto da folha;Sergipe;0,142857143
+luiziânia;São Paulo;0,142857143
+lupércio;São Paulo;0,142857143
+dom macedo costa;Bahia;0,142857143
+elísio medrado;Bahia;0,142857143
+macatuba;São Paulo;0,142857143
+poço verde;Sergipe;0,142857143
+macaubal;São Paulo;0,142857143
+cajari;Maranhão;0,142857143
+tobias barreto;Sergipe;0,142857143
+capim grosso;Bahia;0,142857143
+farias brito;Ceará;0,142857143
+tremembé;São Paulo;0,142857143
+palmeirândia;Maranhão;0,142857143
+aratuípe;Bahia;0,142857143
+olinda nova do maranhão;Maranhão;0,142857143
+aurelino leal;Bahia;0,142857143
+três fronteiras;São Paulo;0,142857143
+olho d'água das cunhãs;Maranhão;0,142857143
+milagres;Bahia;0,142857143
+banzaê;Bahia;0,142857143
+buriti do tocantins;Tocantins;0,142857143
+eusébio;Ceará;0,142857143
+barra do choça;Bahia;0,142857143
+barra do rocha;Bahia;0,142857143
+matinha;Maranhão;0,142857143
+francisco morato;São Paulo;0,142857143
+franco da rocha;São Paulo;0,142857143
+barro alto;Bahia;0,142857143
+barro preto;Bahia;0,142857143
+barrocas;Bahia;0,142857143
+miranda do norte;Maranhão;0,142857143
+forquilha;Ceará;0,142857143
+fortim;Ceará;0,142857143
+biritinga;Bahia;0,142857143
+frecheirinha;Ceará;0,142857143
+general sampaio;Ceará;0,142857143
+graça;Ceará;0,142857143
+paraibano;Maranhão;0,142857143
+ferraz de vasconcelos;São Paulo;0,142857143
+aramari;Bahia;0,142857143
+cruz;Ceará;0,142857143
+anguera;Bahia;0,142857143
+antas;Bahia;0,142857143
+engenheiro coelho;São Paulo;0,142857143
+jardim;Ceará;0,142857143
+antônio cardoso;Bahia;0,142857143
+presidente juscelino;Maranhão;0,142857143
+presidente dutra;Maranhão;0,142857143
+porto rico do maranhão;Maranhão;0,142857143
+estiva gerbi;São Paulo;0,142857143
+antônio gonçalves;Bahia;0,142857143
+sales oliveira;São Paulo;0,142857143
+aporá;Bahia;0,142857143
+estrela d'oeste;São Paulo;0,142857143
+pio xii;Maranhão;0,142857143
+pinheiro;Maranhão;0,142857143
+torre de pedra;São Paulo;0,142857143
+pindaré-mirim;Maranhão;0,142857143
+apuarema;Bahia;0,142857143
+crato;Ceará;0,142857143
+peritoró;Maranhão;0,142857143
+peri mirim;Maranhão;0,142857143
+penalva;Maranhão;0,142857143
+araci;Bahia;0,142857143
+pedreiras;Maranhão;0,142857143
+fernando prestes;São Paulo;0,142857143
+tuiuti;São Paulo;0,142857143
+mata roma;Maranhão;0,142857143
+indiana;São Paulo;0,142857143
+davinópolis;Maranhão;0,142857143
+camacan;Bahia;0,142857143
+camamu;Bahia;0,142857143
+icapuí;Ceará;0,142857143
+governador edison lobão;Maranhão;0,142857143
+hortolândia;São Paulo;0,142857143
+canarana;Bahia;0,142857143
+icó;Ceará;0,142857143
+iguatu;Ceará;0,142857143
+severínia;São Paulo;0,142857143
+ibirarema;São Paulo;0,142857143
+esperantinópolis;Maranhão;0,142857143
+duque bacelar;Maranhão;0,142857143
+rosana;São Paulo;0,142857143
+axixá do tocantins;Tocantins;0,142857143
+cururupu;Maranhão;0,142857143
+candeias;Bahia;0,142857143
+coroatá;Maranhão;0,142857143
+candiba;Bahia;0,142857143
+maragogipe;Bahia;0,142857143
+coelho neto;Maranhão;0,142857143
+codó;Maranhão;0,142857143
+umbaúba;Sergipe;0,142857143
+cedral;Maranhão;0,142857143
+caxias;Maranhão;0,142857143
+cantanhede;Maranhão;0,142857143
+tomar do geru;Sergipe;0,142857143
+guareí;São Paulo;0,142857143
+igarapé do meio;Maranhão;0,142857143
+igarapé grande;Maranhão;0,142857143
+itapecuru mirim;Maranhão;0,142857143
+granjeiro;Ceará;0,142857143
+augustinópolis;Tocantins;0,142857143
+groaíras;Ceará;0,142857143
+brejões;Bahia;0,142857143
+maracaçumé;Maranhão;0,142857143
+magalhães de almeida;Maranhão;0,142857143
+guaiúba;Ceará;0,142857143
+guaiçara;São Paulo;0,142857143
+guaraciaba do norte;Ceará;0,142857143
+lima campos;Maranhão;0,142857143
+buerarema;Bahia;0,142857143
+guapiaçu;São Paulo;0,142857143
+guapiara;São Paulo;0,142857143
+guaramiranga;Ceará;0,142857143
+lago dos rodrigues;Maranhão;0,142857143
+lago do junco;Maranhão;0,142857143
+cabaceiras do paraguaçu;Bahia;0,142857143
+lago da pedra;Maranhão;0,142857143
+cachoeira;Bahia;0,142857143
+caculé;Bahia;0,142857143
+guará;São Paulo;0,142857143
+horizonte;Ceará;0,142857143
+ibiapina;Ceará;0,142857143
+ibicuitinga;Ceará;0,142857143
+caldeirão grande;Bahia;0,142857143
+luziânia;Goiás;0,142857143
+nossa senhora das dores;Sergipe;0,142857143
+embu-guaçu;São Paulo;0,142857143
+boquim;Sergipe;0,142857143
+tabuleiro do norte;Ceará;0,142857143
+campo do brito;Sergipe;0,142857143
+sobral;Ceará;0,142857143
+brejo grande;Sergipe;0,142857143
+jacobina;Bahia;0,142857143
+senador pompeu;Ceará;0,142857143
+são luís do curu;Ceará;0,142857143
+são joão do jaguaribe;Ceará;0,142857143
+são gonçalo do amarante;Ceará;0,142857143
+jaguaquara;Bahia;0,142857143
+são benedito;Ceará;0,142857143
+santana do acaraú;Ceará;0,142857143
+rafard;São Paulo;0,142857143
+tianguá;Ceará;0,142857143
+barra dos coqueiros;Sergipe;0,142857143
+areia branca;Sergipe;0,142857143
+russas;Ceará;0,142857143
+arauá;Sergipe;0,142857143
+reriutaba;Ceará;0,142857143
+redenção;Ceará;0,142857143
+jiquiriçá;Bahia;0,142857143
+quixeré;Ceará;0,142857143
+jitaúna;Bahia;0,142857143
+aquidabã;Sergipe;0,142857143
+quixelô;Ceará;0,142857143
+quixadá;Ceará;0,142857143
+itapagé;Ceará;0,142857143
+ituberá;Bahia;0,142857143
+morungaba;São Paulo;0,142857143
+atilio vivacqua;Espírito Santo;0,142857143
+ibitirama;Espírito Santo;0,142857143
+ibatiba;Espírito Santo;0,142857143
+governador lindenberg;Espírito Santo;0,142857143
+dores do rio preto;Espírito Santo;0,142857143
+itamarati de minas;Minas Gerais;0,142857143
+divino de são lourenço;Espírito Santo;0,142857143
+conceição do castelo;Espírito Santo;0,142857143
+brejetuba;Espírito Santo;0,142857143
+bom jesus do norte;Espírito Santo;0,142857143
+capela;Sergipe;0,142857143
+itororó;Bahia;0,142857143
+boa esperança;Espírito Santo;0,142857143
+apiacá;Espírito Santo;0,142857143
+trairi;Ceará;0,142857143
+alto rio novo;Espírito Santo;0,142857143
+pratânia;São Paulo;0,142857143
+alegre;Espírito Santo;0,142857143
+afonso cláudio;Espírito Santo;0,142857143
+viçosa do ceará;Ceará;0,142857143
+várzea alegre;Ceará;0,142857143
+varjota;Ceará;0,142857143
+uruburetama;Ceará;0,142857143
+umirim;Ceará;0,142857143
+canindé de são francisco;Sergipe;0,142857143
+umari;Ceará;0,142857143
+tururu;Ceará;0,142857143
+amparo de são francisco;Sergipe;0,142857143
+potengi;Ceará;0,142857143
+itapipoca;Ceará;0,142857143
+valparaíso;São Paulo;0,142857143
+morrinhos;Ceará;0,142857143
+ribeirão branco;São Paulo;0,142857143
+ribeirão corrente;São Paulo;0,142857143
+rinópolis;São Paulo;0,142857143
+lamarão;Bahia;0,142857143
+missão velha;Ceará;0,142857143
+lapão;Bahia;0,142857143
+milhã;Ceará;0,142857143
+vera cruz;São Paulo;0,142857143
+milagres;Ceará;0,142857143
+várzea paulista;São Paulo;0,142857143
+vargem;São Paulo;0,142857143
+valentim gentil;São Paulo;0,142857143
+itapiúna;Ceará;0,142857143
+meruoca;Ceará;0,142857143
+mauriti;Ceará;0,142857143
+massapê;Ceará;0,142857143
+martinópole;Ceará;0,142857143
+marco;Ceará;0,142857143
+maranguape;Ceará;0,142857143
+maracanaú;Ceará;0,142857143
+urupês;São Paulo;0,142857143
+rincão;São Paulo;0,142857143
+limoeiro do norte;Ceará;0,142857143
+jaguaruana;Ceará;0,142857143
+lavras da mangabeira;Ceará;0,142857143
+mucambo;Ceará;0,142857143
+mulungu;Ceará;0,142857143
+nova olinda;Ceará;0,142857143
+rio das pedras;São Paulo;0,142857143
+porteiras;Ceará;0,142857143
+pires ferreira;Ceará;0,142857143
+piquet carneiro;Ceará;0,142857143
+pindoretama;Ceará;0,142857143
+pereiro;Ceará;0,142857143
+pentecoste;Ceará;0,142857143
+penaforte;Ceará;0,142857143
+vitória brasil;São Paulo;0,142857143
+pedra branca;Ceará;0,142857143
+restinga;São Paulo;0,142857143
+laje;Bahia;0,142857143
+paraipaba;Ceará;0,142857143
+paracuru;Ceará;0,142857143
+palmácia;Ceará;0,142857143
+ribeirão bonito;São Paulo;0,142857143
+pacujá;Ceará;0,142857143
+pacoti;Ceará;0,142857143
+itarema;Ceará;0,142857143
+pacatuba;Ceará;0,142857143
+pacajus;Ceará;0,142857143
+orós;Ceará;0,142857143
+ocara;Ceará;0,142857143
+vista alegre do alto;São Paulo;0,142857143
+novo oriente;Ceará;0,142857143
+nova russas;Ceará;0,142857143
+irupi;Espírito Santo;0,142857143
+itaguaçu;Espírito Santo;0,142857143
+itapemirim;Espírito Santo;0,142857143
+cidade ocidental;Goiás;0,142857143
+pacaembu;São Paulo;0,142857143
+damolândia;Goiás;0,142857143
+ibititá;Bahia;0,142857143
+macambira;Sergipe;0,142857143
+ichu;Bahia;0,142857143
+laranjeiras;Sergipe;0,142857143
+palmares paulista;São Paulo;0,142857143
+rio grande da serra;São Paulo;0,142857143
+palmeira d'oeste;São Paulo;0,142857143
+lagarto;Sergipe;0,142857143
+paraíso;São Paulo;0,142857143
+paranapuã;São Paulo;0,142857143
+parapuã;São Paulo;0,142857143
+itabela;Bahia;0,142857143
+iguaí;Bahia;0,142857143
+inhambupe;Bahia;0,142857143
+ipecaetá;Bahia;0,142857143
+campo limpo de goiás;Goiás;0,142857143
+japoatã;Sergipe;0,142857143
+japaratuba;Sergipe;0,142857143
+pedra bela;São Paulo;0,142857143
+itaporanga d'ajuda;Sergipe;0,142857143
+itabi;Sergipe;0,142857143
+itabaianinha;Sergipe;0,142857143
+irará;Bahia;0,142857143
+pereiras;São Paulo;0,142857143
+ouro verde;São Paulo;0,142857143
+malhada dos bois;Sergipe;0,142857143
+ibirataia;Bahia;0,142857143
+firminópolis;Goiás;0,142857143
+heliópolis;Bahia;0,142857143
+ipueiras;Ceará;0,142857143
+nossa senhora da glória;Sergipe;0,142857143
+ibicaraí;Bahia;0,142857143
+nazaré paulista;São Paulo;0,142857143
+neves paulista;São Paulo;0,142857143
+itaguari;Goiás;0,142857143
+nipoã;São Paulo;0,142857143
+neópolis;Sergipe;0,142857143
+nova aliança;São Paulo;0,142857143
+iporá;Goiás;0,142857143
+muribeca;Sergipe;0,142857143
+monte alegre de sergipe;Sergipe;0,142857143
+moita bonita;Sergipe;0,142857143
+nova europa;São Paulo;0,142857143
+nova granada;São Paulo;0,142857143
+nova guataporanga;São Paulo;0,142857143
+maruim;Sergipe;0,142857143
+nova luzitânia;São Paulo;0,142857143
+novais;São Paulo;0,142857143
+guapó;Goiás;0,142857143
+goianira;Goiás;0,142857143
+ibirapitanga;Bahia;0,142857143
+goianápolis;Goiás;0,142857143
+malhador;Sergipe;0,142857143
+brazabrantes;Goiás;0,142857143
+bonfinópolis;Goiás;0,142857143
+itarana;Espírito Santo;0,142857143
+muniz freire;Espírito Santo;0,142857143
+cumbe;Sergipe;0,142857143
+sooretama;Espírito Santo;0,142857143
+são roque do canaã;Espírito Santo;0,142857143
+são josé do calçado;Espírito Santo;0,142857143
+são domingos do norte;Espírito Santo;0,142857143
+cristinápolis;Sergipe;0,142857143
+rio novo do sul;Espírito Santo;0,142857143
+rio bananal;Espírito Santo;0,142857143
+porangaba;São Paulo;0,142857143
+pedro canário;Espírito Santo;0,142857143
+pancas;Espírito Santo;0,142857143
+muqui;Espírito Santo;0,142857143
+potim;São Paulo;0,142857143
+itaberaba;Bahia;0,142857143
+potirendaba;São Paulo;0,142857143
+mimoso do sul;Espírito Santo;0,142857143
+marilândia;Espírito Santo;0,142857143
+mantenópolis;Espírito Santo;0,142857143
+pracinha;São Paulo;0,142857143
+cedro de são joão;Sergipe;0,142857143
+carmópolis;Sergipe;0,142857143
+jerônimo monteiro;Espírito Santo;0,142857143
+carira;Sergipe;0,142857143
+jaguaré;Espírito Santo;0,142857143
+itiruçu;Bahia;0,142857143
+iúna;Espírito Santo;0,142857143
+vargem alta;Espírito Santo;0,142857143
+viana;Espírito Santo;0,142857143
+itapetinga;Bahia;0,142857143
+divina pastora;Sergipe;0,142857143
+piracaia;São Paulo;0,142857143
+aragoiânia;Goiás;0,142857143
+itaiçaba;Ceará;0,142857143
+aragarças;Goiás;0,142857143
+aparecida de goiânia;Goiás;0,142857143
+itagi;Bahia;0,142857143
+piratininga;São Paulo;0,142857143
+americano do brasil;Goiás;0,142857143
+pitangueiras;São Paulo;0,142857143
+indiaroba;Sergipe;0,142857143
+ilha das flores;Sergipe;0,142857143
+alexânia;Goiás;0,142857143
+águas lindas de goiás;Goiás;0,142857143
+itaitinga;Ceará;0,142857143
+general maynard;Sergipe;0,142857143
+itajuípe;Bahia;0,142857143
+poloni;São Paulo;0,142857143
+itamari;Bahia;0,142857143
+frei paulo;Sergipe;0,142857143
+pontal;São Paulo;0,142857143
+feira nova;Sergipe;0,142857143
+abadia de goiás;Goiás;0,142857143
+vila valério;Espírito Santo;0,142857143
+itaparica;Bahia;0,142857143
+estância;Sergipe;0,142857143
+raposa;Maranhão;0,142857143
+coreaú;Ceará;0,142857143
+embu das artes;São Paulo;0,142857143
+central de minas;Minas Gerais;0,142857143
+matriz de camaragibe;Alagoas;0,142857143
+messias;Alagoas;0,142857143
+coimbra;Minas Gerais;0,142857143
+minador do negrão;Alagoas;0,142857143
+monteirópolis;Alagoas;0,142857143
+murici;Alagoas;0,142857143
+cipotânea;Minas Gerais;0,142857143
+novo lino;Alagoas;0,142857143
+pindobaçu;Bahia;0,142857143
+chalé;Minas Gerais;0,142857143
+massaranduba;Santa Catarina;0,142857143
+centralina;Minas Gerais;0,142857143
+olho d'água das flores;Alagoas;0,142857143
+mata grande;Alagoas;0,142857143
+olho d'água do casado;Alagoas;0,142857143
+olho d'água grande;Alagoas;0,142857143
+modelo;Santa Catarina;0,142857143
+olivença;Alagoas;0,142857143
+tabatinga;São Paulo;0,142857143
+ouro branco;Alagoas;0,142857143
+mondaí;Santa Catarina;0,142857143
+palestina;Alagoas;0,142857143
+palmeira dos índios;Alagoas;0,142857143
+pão de açúcar;Alagoas;0,142857143
+cássia;Minas Gerais;0,142857143
+monte carlo;Santa Catarina;0,142857143
+coluna;Minas Gerais;0,142857143
+conceição da aparecida;Minas Gerais;0,142857143
+inhapi;Alagoas;0,142857143
+lagoa da canoa;Alagoas;0,142857143
+córrego fundo;Minas Gerais;0,142857143
+córrego do bom jesus;Minas Gerais;0,142857143
+jardinópolis;Santa Catarina;0,142857143
+jacuípe;Alagoas;0,142857143
+japaratinga;Alagoas;0,142857143
+coqueiral;Minas Gerais;0,142857143
+jaramataia;Alagoas;0,142857143
+jequiá da praia;Alagoas;0,142857143
+joaquim gomes;Alagoas;0,142857143
+jundiá;Alagoas;0,142857143
+junqueiro;Alagoas;0,142857143
+laurentino;Santa Catarina;0,142857143
+limoeiro de anadia;Alagoas;0,142857143
+luzerna;Santa Catarina;0,142857143
+piraí do norte;Bahia;0,142857143
+congonhal;Minas Gerais;0,142857143
+major isidoro;Alagoas;0,142857143
+santanópolis;Bahia;0,142857143
+mar vermelho;Alagoas;0,142857143
+conceição dos ouros;Minas Gerais;0,142857143
+maravilha;Alagoas;0,142857143
+conceição do rio verde;Minas Gerais;0,142857143
+marechal deodoro;Alagoas;0,142857143
+lontras;Santa Catarina;0,142857143
+maribondo;Alagoas;0,142857143
+conceição das pedras;Minas Gerais;0,142857143
+carvalhópolis;Minas Gerais;0,142857143
+santo amaro;Bahia;0,142857143
+carmo do cajuru;Minas Gerais;0,142857143
+paulo afonso;Bahia;0,142857143
+campo do meio;Minas Gerais;0,142857143
+roteiro;Alagoas;0,142857143
+santa luzia do norte;Alagoas;0,142857143
+pedrão;Bahia;0,142857143
+santana do ipanema;Alagoas;0,142857143
+campestre;Minas Gerais;0,142857143
+santana do mundaú;Alagoas;0,142857143
+são brás;Alagoas;0,142857143
+campanha;Minas Gerais;0,142857143
+são josé da laje;Alagoas;0,142857143
+passo de torres;Santa Catarina;0,142857143
+cambuquira;Minas Gerais;0,142857143
+cajuri;Minas Gerais;0,142857143
+carmo de minas;Minas Gerais;0,142857143
+caiana;Minas Gerais;0,142857143
+pedras grandes;Santa Catarina;0,142857143
+cachoeira de minas;Minas Gerais;0,142857143
+cabo verde;Minas Gerais;0,142857143
+pinheiro preto;Santa Catarina;0,142857143
+são felipe;Bahia;0,142857143
+bueno brandão;Minas Gerais;0,142857143
+brazópolis;Minas Gerais;0,142857143
+planalto alegre;Santa Catarina;0,142857143
+rosário;Maranhão;0,142857143
+são luís do quitunde;Alagoas;0,142857143
+botelhos;Minas Gerais;0,142857143
+palmitos;Santa Catarina;0,142857143
+são domingos;Bahia;0,142857143
+rio largo;Alagoas;0,142857143
+campos gerais;Minas Gerais;0,142857143
+pariconha;Alagoas;0,142857143
+carmo da mata;Minas Gerais;0,142857143
+nova itaberaba;Santa Catarina;0,142857143
+paripueira;Alagoas;0,142857143
+passo de camaragibe;Alagoas;0,142857143
+caputira;Minas Gerais;0,142857143
+ouro;Santa Catarina;0,142857143
+paulo jacinto;Alagoas;0,142857143
+penedo;Alagoas;0,142857143
+santo estêvão;Bahia;0,142857143
+pilar;Alagoas;0,142857143
+capim branco;Minas Gerais;0,142857143
+são josé da bela vista;São Paulo;0,142857143
+piranhas;Alagoas;0,142857143
+poço das trincheiras;Alagoas;0,142857143
+capelinha;Minas Gerais;0,142857143
+capela nova;Minas Gerais;0,142857143
+porto calvo;Alagoas;0,142857143
+porto de pedras;Alagoas;0,142857143
+caparaó;Minas Gerais;0,142857143
+cantagalo;Minas Gerais;0,142857143
+porto real do colégio;Alagoas;0,142857143
+canaã;Minas Gerais;0,142857143
+quebrangulo;Alagoas;0,142857143
+cana verde;Minas Gerais;0,142857143
+jacaré dos homens;Alagoas;0,142857143
+igreja nova;Alagoas;0,142857143
+borda da mata;Minas Gerais;0,142857143
+dionísio cerqueira;Santa Catarina;0,142857143
+planalto;Bahia;0,142857143
+são miguel do tocantins;Tocantins;0,142857143
+guidoval;Minas Gerais;0,142857143
+santa bárbara;Bahia;0,142857143
+guarará;Minas Gerais;0,142857143
+guarani;Minas Gerais;0,142857143
+guaranésia;Minas Gerais;0,142857143
+guaraciaba;Minas Gerais;0,142857143
+cunhataí;Santa Catarina;0,142857143
+gonzaga;Minas Gerais;0,142857143
+descanso;Santa Catarina;0,142857143
+goiabeira;Minas Gerais;0,142857143
+são miguel arcanjo;São Paulo;0,142857143
+salinas da margarida;Bahia;0,142857143
+água branca;Alagoas;0,142857143
+entre rios;Santa Catarina;0,142857143
+ermo;Santa Catarina;0,142857143
+fronteira;Minas Gerais;0,142857143
+flor do sertão;Santa Catarina;0,142857143
+formosa do sul;Santa Catarina;0,142857143
+forquilhinha;Santa Catarina;0,142857143
+anadia;Alagoas;0,142857143
+atalaia;Alagoas;0,142857143
+fervedouro;Minas Gerais;0,142857143
+barra de santo antônio;Alagoas;0,142857143
+guabiruba;Santa Catarina;0,142857143
+guiricema;Minas Gerais;0,142857143
+coronel freitas;Santa Catarina;0,142857143
+igaci;Alagoas;0,142857143
+ilicínea;Minas Gerais;0,142857143
+presidente dutra;Bahia;0,142857143
+retirolândia;Bahia;0,142857143
+itabirinha;Minas Gerais;0,142857143
+ipuiúna;Minas Gerais;0,142857143
+ipanema;Minas Gerais;0,142857143
+ipaba;Minas Gerais;0,142857143
+serra azul;São Paulo;0,142857143
+inhapim;Minas Gerais;0,142857143
+caxambu do sul;Santa Catarina;0,142857143
+riachão do jacuípe;Bahia;0,142857143
+inconfidentes;Minas Gerais;0,142857143
+imbé de minas;Minas Gerais;0,142857143
+ijaci;Minas Gerais;0,142857143
+heliodora;Minas Gerais;0,142857143
+ponto novo;Bahia;0,142857143
+ribeira do pombal;Bahia;0,142857143
+igaratinga;Minas Gerais;0,142857143
+pojuca;Bahia;0,142857143
+poções;Bahia;0,142857143
+sítio novo do tocantins;Tocantins;0,142857143
+ibitiúra de minas;Minas Gerais;0,142857143
+são sebastião da grama;São Paulo;0,142857143
+rio real;Bahia;0,142857143
+ibirité;Minas Gerais;0,142857143
+cordilheira alta;Santa Catarina;0,142857143
+iapu;Minas Gerais;0,142857143
+guaraciaba;Santa Catarina;0,142857143
+fama;Minas Gerais;0,142857143
+batalha;Alagoas;0,142857143
+coruripe;Alagoas;0,142857143
+carneiros;Alagoas;0,142857143
+divinésia;Minas Gerais;0,142857143
+ipira;Santa Catarina;0,142857143
+chã preta;Alagoas;0,142857143
+ipuaçu;Santa Catarina;0,142857143
+coité do nóia;Alagoas;0,142857143
+ipumirim;Santa Catarina;0,142857143
+colônia leopoldina;Alagoas;0,142857143
+iraceminha;Santa Catarina;0,142857143
+delta;Minas Gerais;0,142857143
+irani;Santa Catarina;0,142857143
+coqueiro seco;Alagoas;0,142857143
+craíbas;Alagoas;0,142857143
+ewbank da câmara;Minas Gerais;0,142857143
+delmiro gouveia;Alagoas;0,142857143
+irati;Santa Catarina;0,142857143
+dois riachos;Alagoas;0,142857143
+estrela de alagoas;Alagoas;0,142857143
+feira grande;Alagoas;0,142857143
+feliz deserto;Alagoas;0,142857143
+flexeiras;Alagoas;0,142857143
+girau do ponciano;Alagoas;0,142857143
+ibateguara;Alagoas;0,142857143
+crucilândia;Minas Gerais;0,142857143
+cristina;Minas Gerais;0,142857143
+cristiano otoni;Minas Gerais;0,142857143
+divino;Minas Gerais;0,142857143
+capela;Alagoas;0,142857143
+canapi;Alagoas;0,142857143
+divinolândia de minas;Minas Gerais;0,142857143
+belém;Alagoas;0,142857143
+santa inês;Bahia;0,142857143
+eugenópolis;Minas Gerais;0,142857143
+guarujá do sul;Santa Catarina;0,142857143
+boca da mata;Alagoas;0,142857143
+branquinha;Alagoas;0,142857143
+cacimbinhas;Alagoas;0,142857143
+herval d'oeste;Santa Catarina;0,142857143
+cajueiro;Alagoas;0,142857143
+esmeraldas;Minas Gerais;0,142857143
+ervália;Minas Gerais;0,142857143
+entre rios de minas;Minas Gerais;0,142857143
+entre folhas;Minas Gerais;0,142857143
+campestre;Alagoas;0,142857143
+campo alegre;Alagoas;0,142857143
+durandé;Minas Gerais;0,142857143
+ilhota;Santa Catarina;0,142857143
+campo grande;Alagoas;0,142857143
+dores de campos;Minas Gerais;0,142857143
+dona eusébia;Minas Gerais;0,142857143
+dom viçoso;Minas Gerais;0,142857143
+dom silvério;Minas Gerais;0,142857143
+dom cavati;Minas Gerais;0,142857143
+divisa nova;Minas Gerais;0,142857143
+divisa alegre;Minas Gerais;0,142857143
+são miguel dos campos;Alagoas;0,142857143
+são josé da tapera;Alagoas;0,142857143
+bom repouso;Minas Gerais;0,142857143
+campina do monte alegre;São Paulo;0,142857143
+aratuba;Ceará;0,142857143
+bernardino de campos;São Paulo;0,142857143
+santa branca;São Paulo;0,142857143
+nova ibiá;Bahia;0,142857143
+biritiba-mirim;São Paulo;0,142857143
+aurora;Ceará;0,142857143
+nordestina;Bahia;0,142857143
+bocaina;São Paulo;0,142857143
+baixio;Ceará;0,142857143
+bom sucesso de itararé;São Paulo;0,142857143
+nilo peçanha;Bahia;0,142857143
+nazaré;Bahia;0,142857143
+barbalha;Ceará;0,142857143
+braúna;São Paulo;0,142857143
+barreira;Ceará;0,142857143
+barro;Ceará;0,142857143
+mutuípe;Bahia;0,142857143
+barroquinha;Ceará;0,142857143
+baturité;Ceará;0,142857143
+beberibe;Ceará;0,142857143
+caconde;São Paulo;0,142857143
+muritiba;Bahia;0,142857143
+caieiras;São Paulo;0,142857143
+bela cruz;Ceará;0,142857143
+cajobi;São Paulo;0,142857143
+tarabai;São Paulo;0,142857143
+ararendá;Ceará;0,142857143
+aracoiaba;Ceará;0,142857143
+acaraú;Ceará;0,142857143
+várzea da roça;Bahia;0,142857143
+várzea do poço;Bahia;0,142857143
+santa lúcia;São Paulo;0,142857143
+varzedo;Bahia;0,142857143
+santa gertrudes;São Paulo;0,142857143
+wenceslau guimarães;Bahia;0,142857143
+bom jesus do galho;Minas Gerais;0,142857143
+araçoiaba da serra;São Paulo;0,142857143
+santa ernestina;São Paulo;0,142857143
+abaiara;Ceará;0,142857143
+acarape;Ceará;0,142857143
+alcântaras;Ceará;0,142857143
+barbosa;São Paulo;0,142857143
+altaneira;Ceará;0,142857143
+amontada;Ceará;0,142857143
+areiópolis;São Paulo;0,142857143
+antonina do norte;Ceará;0,142857143
+ariranha;São Paulo;0,142857143
+aspásia;São Paulo;0,142857143
+aquiraz;Ceará;0,142857143
+avanhandava;São Paulo;0,142857143
+balbinos;São Paulo;0,142857143
+bálsamo;São Paulo;0,142857143
+aracati;Ceará;0,142857143
+cajuru;São Paulo;0,142857143
+brejo santo;Ceará;0,142857143
+utinga;Bahia;0,142857143
+camocim;Ceará;0,142857143
+almadina;Bahia;0,142857143
+amargosa;Bahia;0,142857143
+são mateus do maranhão;Maranhão;0,142857143
+amélia rodrigues;Bahia;0,142857143
+cubatão;São Paulo;0,142857143
+cascavel;Ceará;0,142857143
+são joão batista;Maranhão;0,142857143
+divinolândia;São Paulo;0,142857143
+dobrada;São Paulo;0,142857143
+catarina;Ceará;0,142857143
+salmourão;São Paulo;0,142857143
+são domingos do maranhão;Maranhão;0,142857143
+caucaia;Ceará;0,142857143
+são bernardo;Maranhão;0,142857143
+são bento;Maranhão;0,142857143
+dolcinópolis;São Paulo;0,142857143
+santa rita;Maranhão;0,142857143
+dumont;São Paulo;0,142857143
+cedro;Ceará;0,142857143
+chaval;Ceará;0,142857143
+salesópolis;São Paulo;0,142857143
+chorozinho;Ceará;0,142857143
+elias fausto;São Paulo;0,142857143
+elisiário;São Paulo;0,142857143
+embaúba;São Paulo;0,142857143
+carnaubal;Ceará;0,142857143
+são roberto;Maranhão;0,142857143
+são vicente ferrer;Maranhão;0,142857143
+viana;Maranhão;0,142857143
+canas;São Paulo;0,142857143
+muniz ferreira;Bahia;0,142857143
+canitar;São Paulo;0,142857143
+capela do alto;São Paulo;0,142857143
+carapicuíba;São Paulo;0,142857143
+salto grande;São Paulo;0,142857143
+capistrano;Ceará;0,142857143
+salto de pirapora;São Paulo;0,142857143
+catiguá;São Paulo;0,142857143
+vitorino freire;Maranhão;0,142857143
+vitória do mearim;Maranhão;0,142857143
+acajutiba;Bahia;0,142857143
+satubinha;Maranhão;0,142857143
+tutóia;Maranhão;0,142857143
+charqueada;São Paulo;0,142857143
+chavantes;São Paulo;0,142857143
+clementina;São Paulo;0,142857143
+colina;São Paulo;0,142857143
+trizidela do vale;Maranhão;0,142857143
+timon;Maranhão;0,142857143
+conchas;São Paulo;0,142857143
+terra roxa;São Paulo;0,142857143
+caririaçu;Ceará;0,142857143
+aiquara;Bahia;0,142857143
+valente;Bahia;0,142857143
+urânia;São Paulo;0,142857143
+alvinlândia;São Paulo;0,142857143
+araújos;Minas Gerais;0,142857143
+arantina;Minas Gerais;0,142857143
+sangão;Santa Catarina;0,142857143
+santa helena;Santa Catarina;0,142857143
+são josé da vitória;Bahia;0,142857143
+taiaçu;São Paulo;0,142857143
+paripiranga;Bahia;0,142857143
+santa rosa do sul;Santa Catarina;0,142857143
+são miguel das matas;Bahia;0,142857143
+taiúva;São Paulo;0,142857143
+são sebastião do passé;Bahia;0,142857143
+angelândia;Minas Gerais;0,142857143
+sapeaçu;Bahia;0,142857143
+amparo do serra;Minas Gerais;0,142857143
+tanabi;São Paulo;0,142857143
+saubara;Bahia;0,142857143
+senhor do bonfim;Bahia;0,142857143
+alto jequitibá;Minas Gerais;0,142857143
+alto caparaó;Minas Gerais;0,142857143
+são bento do sapucaí;São Paulo;0,142857143
+santópolis do aguapeí;São Paulo;0,142857143
+alterosa;Minas Gerais;0,142857143
+alpercata;Minas Gerais;0,142857143
+santo expedito;São Paulo;0,142857143
+alfredo vasconcelos;Minas Gerais;0,142857143
+albertina;Minas Gerais;0,142857143
+araponga;Minas Gerais;0,142857143
+arceburgo;Minas Gerais;0,142857143
+são joão do sul;Santa Catarina;0,142857143
+areado;Minas Gerais;0,142857143
+presidente castello branco;Santa Catarina;0,142857143
+são félix;Bahia;0,142857143
+são miguel dos milagres;Alagoas;0,142857143
+são sebastião;Alagoas;0,142857143
+satuba;Alagoas;0,142857143
+princesa;Santa Catarina;0,142857143
+são francisco do conde;Bahia;0,142857143
+quilombo;Santa Catarina;0,142857143
+senador rui palmeira;Alagoas;0,142857143
+rio do oeste;Santa Catarina;0,142857143
+belo oriente;Minas Gerais;0,142857143
+bela vista de minas;Minas Gerais;0,142857143
+barroso;Minas Gerais;0,142857143
+tanque d'arca;Alagoas;0,142857143
+barão de monte alto;Minas Gerais;0,142857143
+taquarana;Alagoas;0,142857143
+barão de cocais;Minas Gerais;0,142857143
+bandeira do sul;Minas Gerais;0,142857143
+teotônio vilela;Alagoas;0,142857143
+traipu;Alagoas;0,142857143
+rodeio;Santa Catarina;0,142857143
+união dos palmares;Alagoas;0,142857143
+salete;Santa Catarina;0,142857143
+viçosa;Alagoas;0,142857143
+são gonçalo dos campos;Bahia;0,142857143
+são joão do oeste;Santa Catarina;0,142857143
+alpinópolis;Minas Gerais;0,142857143
+serra preta;Bahia;0,142857143
+tapiratiba;São Paulo;0,142857143
+tanquinho;Bahia;0,142857143
+três barras;Santa Catarina;0,142857143
+ladário;Mato Grosso do Sul;0,142857143
+ouriçangas;Bahia;0,142857143
+alambari;São Paulo;0,142857143
+treze de maio;Santa Catarina;0,142857143
+ubatã;Bahia;0,142857143
+tunápolis;Santa Catarina;0,142857143
+águas da prata;São Paulo;0,142857143
+união do oeste;Santa Catarina;0,142857143
+taperoá;Bahia;0,142857143
+ubaitaba;Bahia;0,142857143
+teodoro sampaio;Bahia;0,142857143
+teofilândia;Bahia;0,142857143
+ubaíra;Bahia;0,142857143
+teolândia;Bahia;0,142857143
+terra nova;Bahia;0,142857143
+taquaral;São Paulo;0,142857143
+olindina;Bahia;0,142857143
+tigrinhos;Santa Catarina;0,142857143
+mundo novo;Mato Grosso do Sul;0,142857143
+santo antônio do jardim;São Paulo;0,142857143
+uruçuca;Bahia;0,142857143
+praia norte;Tocantins;0,142857143
+acaiaca;Minas Gerais;0,142857143
+abre campo;Minas Gerais;0,142857143
+álvaro de carvalho;São Paulo;0,142857143
+serrinha;Bahia;0,142857143
+serrolândia;Bahia;0,142857143
+simões filho;Bahia;0,142857143
+são miguel da boa vista;Santa Catarina;0,142857143
+são pedro de alcântara;Santa Catarina;0,142857143
+serra alta;Santa Catarina;0,142857143
+schroeder;Santa Catarina;0,142857143
+nova viçosa;Bahia;0,142857143
+siderópolis;Santa Catarina;0,142857143
+novo triunfo;Bahia;0,142857143
+alfredo marcondes;São Paulo;0,142857143
+ubirajara;São Paulo;0
+arroio grande;Rio Grande do Sul;0
+anta gorda;Rio Grande do Sul;0
+boa vista do cadeado;Rio Grande do Sul;0
+barão do triunfo;Rio Grande do Sul;0
+bom jesus;Rio Grande do Sul;0
+barra do rio azul;Rio Grande do Sul;0
+barra do quaraí;Rio Grande do Sul;0
+silveiras;São Paulo;0
+trabiju;São Paulo;0
+timburi;São Paulo;0
+ubarana;São Paulo;0
+barracão;Rio Grande do Sul;0
+barão de cotegipe;Rio Grande do Sul;0
+boa vista das missões;Rio Grande do Sul;0
+arroio do padre;Rio Grande do Sul;0
+turiúba;São Paulo;0
+barra do ribeiro;Rio Grande do Sul;0
+aratiba;Rio Grande do Sul;0
+áurea;Rio Grande do Sul;0
+tejupá;São Paulo;0
+taciba;São Paulo;0
+benjamin constant do sul;Rio Grande do Sul;0
+suzanápolis;São Paulo;0
+turmalina;São Paulo;0
+boa vista do incra;Rio Grande do Sul;0
+união paulista;São Paulo;0
+teodoro sampaio;São Paulo;0
+andré da rocha;Rio Grande do Sul;0
+tapiraí;São Paulo;0
+sud mennucci;São Paulo;0
+barros cassal;Rio Grande do Sul;0
+arambaré;Rio Grande do Sul;0
+taquarivaí;São Paulo;0
+calmon;Santa Catarina;0
+uru;São Paulo;0
+oliveira de fátima;Tocantins;0
+palmeiras do tocantins;Tocantins;0
+palmeirópolis;Tocantins;0
+jardim de angicos;Rio Grande do Norte;0
+paranã;Tocantins;0
+pau d'arco;Tocantins;0
+janduís;Rio Grande do Norte;0
+jandaíra;Rio Grande do Norte;0
+peixe;Tocantins;0
+pequizeiro;Tocantins;0
+pindorama do tocantins;Tocantins;0
+piraquê;Tocantins;0
+ipueira;Rio Grande do Norte;0
+pium;Tocantins;0
+ponte alta do bom jesus;Tocantins;0
+ponte alta do tocantins;Tocantins;0
+porto alegre do tocantins;Tocantins;0
+porto nacional;Tocantins;0
+governador dix-sept rosado;Rio Grande do Norte;0
+galinhos;Rio Grande do Norte;0
+presidente kennedy;Tocantins;0
+pugmil;Tocantins;0
+palmeirante;Tocantins;0
+novo jardim;Tocantins;0
+lagoa da confusão;Tocantins;0
+novo alegre;Tocantins;0
+lajeado;Tocantins;0
+lavandeira;Tocantins;0
+lizarda;Tocantins;0
+luzinópolis;Tocantins;0
+marcelino vieira;Rio Grande do Norte;0
+marianópolis do tocantins;Tocantins;0
+mateiros;Tocantins;0
+maurilândia do tocantins;Tocantins;0
+miracema do tocantins;Tocantins;0
+miranorte;Tocantins;0
+monte do carmo;Tocantins;0
+monte santo do tocantins;Tocantins;0
+muricilândia;Tocantins;0
+lajes;Rio Grande do Norte;0
+natividade;Tocantins;0
+nazaré;Tocantins;0
+lagoa de velhos;Rio Grande do Norte;0
+nova olinda;Tocantins;0
+nova rosalândia;Tocantins;0
+novo acordo;Tocantins;0
+jucurutu;Rio Grande do Norte;0
+recursolândia;Tocantins;0
+riachinho;Tocantins;0
+rio da conceição;Tocantins;0
+francisco dantas;Rio Grande do Norte;0
+santa maria madalena;Rio de Janeiro;0
+rio das flores;Rio de Janeiro;0
+rio claro;Rio de Janeiro;0
+santa rosa do tocantins;Tocantins;0
+santa tereza do tocantins;Tocantins;0
+santa terezinha do tocantins;Tocantins;0
+são bento do tocantins;Tocantins;0
+são félix do tocantins;Tocantins;0
+são salvador do tocantins;Tocantins;0
+são sebastião do tocantins;Tocantins;0
+são valério;Tocantins;0
+silvanópolis;Tocantins;0
+sucupira;Tocantins;0
+taguatinga;Tocantins;0
+taipas do tocantins;Tocantins;0
+talismã;Tocantins;0
+tocantínia;Tocantins;0
+tocantinópolis;Tocantins;0
+tupirama;Tocantins;0
+tupiratins;Tocantins;0
+wanderlândia;Tocantins;0
+são sebastião do alto;Rio de Janeiro;0
+silva jardim;Rio de Janeiro;0
+trajano de moraes;Rio de Janeiro;0
+santa maria do tocantins;Tocantins;0
+rio dos bois;Tocantins;0
+florânia;Rio Grande do Norte;0
+fernando pedroza;Rio Grande do Norte;0
+rio sono;Tocantins;0
+felipe guerra;Rio Grande do Norte;0
+sampaio;Tocantins;0
+sandolândia;Tocantins;0
+equador;Rio Grande do Norte;0
+santa fé do araguaia;Tocantins;0
+carnaubais;Rio Grande do Norte;0
+acari;Rio Grande do Norte;0
+caraúbas;Rio Grande do Norte;0
+caiçara do rio do vento;Rio Grande do Norte;0
+bodó;Rio Grande do Norte;0
+bento fernandes;Rio Grande do Norte;0
+augusto severo;Rio Grande do Norte;0
+apodi;Rio Grande do Norte;0
+angicos;Rio Grande do Norte;0
+santa rita do tocantins;Tocantins;0
+afonso bezerra;Rio Grande do Norte;0
+lagoa do tocantins;Tocantins;0
+juarina;Tocantins;0
+amaral ferrador;Rio Grande do Sul;0
+ananás;Tocantins;0
+aparecida do rio negro;Tocantins;0
+aragominas;Tocantins;0
+araguacema;Tocantins;0
+araguaçu;Tocantins;0
+araguanã;Tocantins;0
+serra negra do norte;Rio Grande do Norte;0
+araguatins;Tocantins;0
+arapoema;Tocantins;0
+arraias;Tocantins;0
+serra do mel;Rio Grande do Norte;0
+aurora do tocantins;Tocantins;0
+babaçulândia;Tocantins;0
+bandeirantes do tocantins;Tocantins;0
+barra do ouro;Tocantins;0
+barrolândia;Tocantins;0
+bernardo sayão;Tocantins;0
+bom jesus do tocantins;Tocantins;0
+brasilândia do tocantins;Tocantins;0
+brejinho de nazaré;Tocantins;0
+cachoeirinha;Tocantins;0
+campos lindos;Tocantins;0
+angico;Tocantins;0
+alvorada;Tocantins;0
+jaú do tocantins;Tocantins;0
+sítio novo;Rio Grande do Norte;0
+alto alegre;Rio Grande do Sul;0
+alpestre;Rio Grande do Sul;0
+almirante tamandaré do sul;Rio Grande do Sul;0
+alegria;Rio Grande do Sul;0
+zacarias;São Paulo;0
+canhoba;Sergipe;0
+alecrim;Rio Grande do Sul;0
+gararu;Sergipe;0
+gracho cardoso;Sergipe;0
+água santa;Rio Grande do Sul;0
+aceguá;Rio Grande do Sul;0
+nossa senhora aparecida;Sergipe;0
+upanema;Rio Grande do Norte;0
+triunfo potiguar;Rio Grande do Norte;0
+timbaúba dos batistas;Rio Grande do Norte;0
+tibau;Rio Grande do Norte;0
+poço redondo;Sergipe;0
+abreulândia;Tocantins;0
+aguiarnópolis;Tocantins;0
+taboleiro grande;Rio Grande do Norte;0
+almas;Tocantins;0
+são tomé;Rio Grande do Norte;0
+são rafael;Rio Grande do Norte;0
+carmolândia;Tocantins;0
+carrasco bonito;Tocantins;0
+divinópolis do tocantins;Tocantins;0
+dois irmãos do tocantins;Tocantins;0
+dueré;Tocantins;0
+pedro avelino;Rio Grande do Norte;0
+pedra preta;Rio Grande do Norte;0
+pedra grande;Rio Grande do Norte;0
+esperantina;Tocantins;0
+fátima;Tocantins;0
+figueirópolis;Tocantins;0
+filadélfia;Tocantins;0
+formoso do araguaia;Tocantins;0
+goianorte;Tocantins;0
+parazinho;Rio Grande do Norte;0
+paraú;Rio Grande do Norte;0
+goiatins;Tocantins;0
+ouro branco;Rio Grande do Norte;0
+ipueiras;Tocantins;0
+itacajá;Tocantins;0
+itaguatins;Tocantins;0
+itapiratins;Tocantins;0
+itaporã do tocantins;Tocantins;0
+dianópolis;Tocantins;0
+darcinópolis;Tocantins;0
+crixás do tocantins;Tocantins;0
+santana do seridó;Rio Grande do Norte;0
+são miguel do gostoso;Rio Grande do Norte;0
+são josé do seridó;Rio Grande do Norte;0
+são joão do sabugi;Rio Grande do Norte;0
+caseara;Tocantins;0
+centenário;Tocantins;0
+são fernando;Rio Grande do Norte;0
+são bento do trairí;Rio Grande do Norte;0
+são bento do norte;Rio Grande do Norte;0
+chapada da natividade;Tocantins;0
+santana do matos;Rio Grande do Norte;0
+porto do mangue;Rio Grande do Norte;0
+santa maria;Rio Grande do Norte;0
+chapada de areia;Tocantins;0
+colméia;Tocantins;0
+riacho da cruz;Rio Grande do Norte;0
+combinado;Tocantins;0
+conceição do tocantins;Tocantins;0
+pureza;Rio Grande do Norte;0
+couto magalhães;Tocantins;0
+cristalândia;Tocantins;0
+aliança do tocantins;Tocantins;0
+hulha negra;Rio Grande do Sul;0
+sete barras;São Paulo;0
+sério;Rio Grande do Sul;0
+zortéa;Santa Catarina;0
+adolfo;São Paulo;0
+águas de santa bárbara;São Paulo;0
+altair;São Paulo;0
+alto alegre;São Paulo;0
+sinimbu;Rio Grande do Sul;0
+álvares florence;São Paulo;0
+silveira martins;Rio Grande do Sul;0
+américo de campos;São Paulo;0
+analândia;São Paulo;0
+severiano de almeida;Rio Grande do Sul;0
+sete de setembro;Rio Grande do Sul;0
+sertão santana;Rio Grande do Sul;0
+sertão;Rio Grande do Sul;0
+angatuba;São Paulo;0
+barra do chapéu;São Paulo;0
+anhembi;São Paulo;0
+anhumas;São Paulo;0
+aparecida d'oeste;São Paulo;0
+sentinela do sul;Rio Grande do Sul;0
+aramina;São Paulo;0
+arandu;São Paulo;0
+arapeí;São Paulo;0
+senador salgado filho;Rio Grande do Sul;0
+arco-íris;São Paulo;0
+arealva;São Paulo;0
+areias;São Paulo;0
+sede nova;Rio Grande do Sul;0
+avaí;São Paulo;0
+barão de antonina;São Paulo;0
+xavantina;Santa Catarina;0
+witmarsum;Santa Catarina;0
+vitor meireles;Santa Catarina;0
+vidal ramos;Santa Catarina;0
+união da serra;Rio Grande do Sul;0
+santa rosa de lima;Santa Catarina;0
+ubiretama;Rio Grande do Sul;0
+santa terezinha;Santa Catarina;0
+turuçu;Rio Grande do Sul;0
+santa terezinha do progresso;Santa Catarina;0
+santiago do sul;Santa Catarina;0
+são bernardino;Santa Catarina;0
+tupanciretã;Rio Grande do Sul;0
+tupanci do sul;Rio Grande do Sul;0
+tunas;Rio Grande do Sul;0
+são bonifácio;Santa Catarina;0
+trindade do sul;Rio Grande do Sul;0
+são joão do itaperiú;Santa Catarina;0
+três palmeiras;Rio Grande do Sul;0
+três forquilhas;Rio Grande do Sul;0
+são josé do cerrito;Santa Catarina;0
+são martinho;Santa Catarina;0
+três arroios;Rio Grande do Sul;0
+sul brasil;Santa Catarina;0
+toropi;Rio Grande do Sul;0
+timbé do sul;Santa Catarina;0
+timbó grande;Santa Catarina;0
+treviso;Santa Catarina;0
+tavares;Rio Grande do Sul;0
+urupema;Santa Catarina;0
+vargeão;Santa Catarina;0
+vargem;Santa Catarina;0
+vargem bonita;Santa Catarina;0
+são vicente do sul;Rio Grande do Sul;0
+barra do turvo;São Paulo;0
+vale verde;Rio Grande do Sul;0
+estrela do norte;São Paulo;0
+cunha;São Paulo;0
+dirce reis;São Paulo;0
+santo antônio do planalto;Rio Grande do Sul;0
+santo antônio do palma;Rio Grande do Sul;0
+santo antônio das missões;Rio Grande do Sul;0
+echaporã;São Paulo;0
+santana da boa vista;Rio Grande do Sul;0
+santa vitória do palmar;Rio Grande do Sul;0
+santa tereza;Rio Grande do Sul;0
+eldorado;São Paulo;0
+santa margarida do sul;Rio Grande do Sul;0
+emilianópolis;São Paulo;0
+espírito santo do turvo;São Paulo;0
+santa cecília do sul;Rio Grande do Sul;0
+salto do jacuí;Rio Grande do Sul;0
+bento de abreu;São Paulo;0
+saldanha marinho;Rio Grande do Sul;0
+roque gonzales;Rio Grande do Sul;0
+rondinha;Rio Grande do Sul;0
+ronda alta;Rio Grande do Sul;0
+rolador;Rio Grande do Sul;0
+euclides da cunha paulista;São Paulo;0
+riozinho;Rio Grande do Sul;0
+fernão;São Paulo;0
+rio dos índios;Rio Grande do Sul;0
+relvado;Rio Grande do Sul;0
+quinze de novembro;Rio Grande do Sul;0
+quevedos;Rio Grande do Sul;0
+quatro irmãos;Rio Grande do Sul;0
+flora rica;São Paulo;0
+santo expedito do sul;Rio Grande do Sul;0
+cristais paulista;São Paulo;0
+são francisco de assis;Rio Grande do Sul;0
+cosmorama;São Paulo;0
+são valério do sul;Rio Grande do Sul;0
+são valentim do sul;Rio Grande do Sul;0
+são valentim;Rio Grande do Sul;0
+boa esperança do sul;São Paulo;0
+bofete;São Paulo;0
+são pedro das missões;Rio Grande do Sul;0
+borá;São Paulo;0
+borebi;São Paulo;0
+buri;São Paulo;0
+buritizal;São Paulo;0
+são nicolau;Rio Grande do Sul;0
+cabrália paulista;São Paulo;0
+são miguel das missões;Rio Grande do Sul;0
+são martinho da serra;Rio Grande do Sul;0
+caiabu;São Paulo;0
+caiuá;São Paulo;0
+campos novos paulista;São Paulo;0
+cananéia;São Paulo;0
+são josé dos ausentes;Rio Grande do Sul;0
+são josé do norte;Rio Grande do Sul;0
+cardoso;São Paulo;0
+cássia dos coqueiros;São Paulo;0
+são josé do herval;Rio Grande do Sul;0
+castilho;São Paulo;0
+são jorge;Rio Grande do Sul;0
+colômbia;São Paulo;0
+coroados;São Paulo;0
+coronel macedo;São Paulo;0
+corumbataí;São Paulo;0
+unistalda;Rio Grande do Sul;0
+saltinho;Santa Catarina;0
+bossoroca;Rio Grande do Sul;0
+irineópolis;Santa Catarina;0
+iomerê;Santa Catarina;0
+abelardo luz;Santa Catarina;0
+abdon batista;Santa Catarina;0
+uiramutã;Roraima;0
+são luiz;Roraima;0
+são joão da baliza;Roraima;0
+rorainópolis;Roraima;0
+pacaraima;Roraima;0
+normandia;Roraima;0
+mucajaí;Roraima;0
+iracema;Roraima;0
+caroebe;Roraima;0
+caracaraí;Roraima;0
+cantá;Roraima;0
+itaiópolis;Santa Catarina;0
+leoberto leal;Santa Catarina;0
+bonfim;Roraima;0
+jaborá;Santa Catarina;0
+amajari;Roraima;0
+jacinto machado;Santa Catarina;0
+alto alegre;Roraima;0
+josé boiteux;Santa Catarina;0
+jupiá;Santa Catarina;0
+vale do paraíso;Rondônia;0
+vale do anari;Rondônia;0
+urupá;Rondônia;0
+theobroma;Rondônia;0
+lajeado grande;Santa Catarina;0
+teixeirópolis;Rondônia;0
+lebon régis;Santa Catarina;0
+imaruí;Santa Catarina;0
+ibicaré;Santa Catarina;0
+água doce;Santa Catarina;0
+ibiam;Santa Catarina;0
+campo alegre;Santa Catarina;0
+campo belo do sul;Santa Catarina;0
+campo erê;Santa Catarina;0
+capão alto;Santa Catarina;0
+brunópolis;Santa Catarina;0
+celso ramos;Santa Catarina;0
+botuverá;Santa Catarina;0
+bom retiro;Santa Catarina;0
+cerro negro;Santa Catarina;0
+chapadão do lageado;Santa Catarina;0
+bom jardim da serra;Santa Catarina;0
+bocaina do sul;Santa Catarina;0
+bela vista do toldo;Santa Catarina;0
+barra bonita;Santa Catarina;0
+bandeirante;Santa Catarina;0
+coronel martins;Santa Catarina;0
+correia pinto;Santa Catarina;0
+arvoredo;Santa Catarina;0
+dona emma;Santa Catarina;0
+doutor pedrinho;Santa Catarina;0
+frei rogério;Santa Catarina;0
+galvão;Santa Catarina;0
+grão pará;Santa Catarina;0
+anitápolis;Santa Catarina;0
+anita garibaldi;Santa Catarina;0
+angelina;Santa Catarina;0
+alto bela vista;Santa Catarina;0
+alfredo wagner;Santa Catarina;0
+guatambú;Santa Catarina;0
+seringueiras;Rondônia;0
+são miguel do guaporé;Rondônia;0
+romelândia;Santa Catarina;0
+passos maia;Santa Catarina;0
+colorado do oeste;Rondônia;0
+chupinguaia;Rondônia;0
+palma sola;Santa Catarina;0
+castanheiras;Rondônia;0
+candeias do jamari;Rondônia;0
+campo novo de rondônia;Rondônia;0
+palmeira;Santa Catarina;0
+cacaulândia;Rondônia;0
+cabixi;Rondônia;0
+buritis;Rondônia;0
+paraíso;Santa Catarina;0
+alvorada d'oeste;Rondônia;0
+alto paraíso;Rondônia;0
+alto alegre dos parecis;Rondônia;0
+alta floresta d'oeste;Rondônia;0
+são francisco do guaporé;Rondônia;0
+vitória das missões;Rio Grande do Sul;0
+ponte alta;Santa Catarina;0
+vista alegre do prata;Rio Grande do Sul;0
+presidente nereu;Santa Catarina;0
+vila nova do sul;Rio Grande do Sul;0
+vila maria;Rio Grande do Sul;0
+vila lângaro;Rio Grande do Sul;0
+victor graeff;Rio Grande do Sul;0
+rio das antas;Santa Catarina;0
+rio do campo;Santa Catarina;0
+viadutos;Rio Grande do Sul;0
+vespasiano correa;Rio Grande do Sul;0
+rio rufino;Santa Catarina;0
+riqueza;Santa Catarina;0
+corumbiara;Rondônia;0
+costa marques;Rondônia;0
+painel;Santa Catarina;0
+cujubim;Rondônia;0
+são felipe d'oeste;Rondônia;0
+santa luzia d'oeste;Rondônia;0
+lindóia do sul;Santa Catarina;0
+rio crespo;Rondônia;0
+macieira;Santa Catarina;0
+primavera de rondônia;Rondônia;0
+presidente médici;Rondônia;0
+pimenteiras do oeste;Rondônia;0
+major gercino;Santa Catarina;0
+major vieira;Santa Catarina;0
+parecis;Rondônia;0
+marema;Santa Catarina;0
+matos costa;Santa Catarina;0
+mirim doce;Santa Catarina;0
+novo horizonte do oeste;Rondônia;0
+nova união;Rondônia;0
+nova mamoré;Rondônia;0
+nova brasilândia d'oeste;Rondônia;0
+monte negro;Rondônia;0
+mirante da serra;Rondônia;0
+ministro andreazza;Rondônia;0
+morro grande;Santa Catarina;0
+machadinho d'oeste;Rondônia;0
+novo horizonte;Santa Catarina;0
+itapuã do oeste;Rondônia;0
+ouro verde;Santa Catarina;0
+paial;Santa Catarina;0
+guajará-mirim;Rondônia;0
+governador jorge teixeira;Rondônia;0
+flórida paulista;São Paulo;0
+florínia;São Paulo;0
+putinga;Rio Grande do Sul;0
+eugênio de castro;Rio Grande do Sul;0
+glorinha;Rio Grande do Sul;0
+quintana;São Paulo;0
+gentil;Rio Grande do Sul;0
+general câmara;Rio Grande do Sul;0
+garruchos;Rio Grande do Sul;0
+fortaleza dos valos;Rio Grande do Sul;0
+redenção da serra;São Paulo;0
+formigueiro;Rio Grande do Sul;0
+reginópolis;São Paulo;0
+fontoura xavier;Rio Grande do Sul;0
+floriano peixoto;Rio Grande do Sul;0
+faxinalzinho;Rio Grande do Sul;0
+ribeira;São Paulo;0
+fagundes varela;Rio Grande do Sul;0
+estrela velha;Rio Grande do Sul;0
+dom feliciano;Rio Grande do Sul;0
+ribeirão do sul;São Paulo;0
+ribeirão dos índios;São Paulo;0
+ribeirão grande;São Paulo;0
+esperança do sul;Rio Grande do Sul;0
+esmeralda;Rio Grande do Sul;0
+erval seco;Rio Grande do Sul;0
+erval grande;Rio Grande do Sul;0
+ernestina;Rio Grande do Sul;0
+erebango;Rio Grande do Sul;0
+entre-ijuís;Rio Grande do Sul;0
+engenho velho;Rio Grande do Sul;0
+rifaina;São Paulo;0
+doutor ricardo;Rio Grande do Sul;0
+doutor maurício cardoso;Rio Grande do Sul;0
+gramado dos loureiros;Rio Grande do Sul;0
+queiroz;São Paulo;0
+quatá;São Paulo;0
+quadra;São Paulo;0
+pedro de toledo;São Paulo;0
+piacatu;São Paulo;0
+piquerobi;São Paulo;0
+jacutinga;Rio Grande do Sul;0
+jacuizinho;Rio Grande do Sul;0
+planalto;São Paulo;0
+platina;São Paulo;0
+ivorá;Rio Grande do Sul;0
+itatiba do sul;Rio Grande do Sul;0
+itati;Rio Grande do Sul;0
+itapuca;Rio Grande do Sul;0
+pongaí;São Paulo;0
+itacurubi;Rio Grande do Sul;0
+pontalinda;São Paulo;0
+ipiranga do sul;Rio Grande do Sul;0
+ipê;Rio Grande do Sul;0
+pontes gestal;São Paulo;0
+inhacorá;Rio Grande do Sul;0
+independência;Rio Grande do Sul;0
+populina;São Paulo;0
+ibirapuitã;Rio Grande do Sul;0
+ibiraiaras;Rio Grande do Sul;0
+ibiaçá;Rio Grande do Sul;0
+ibarama;Rio Grande do Sul;0
+herveiras;Rio Grande do Sul;0
+herval;Rio Grande do Sul;0
+presidente alves;São Paulo;0
+guabiju;Rio Grande do Sul;0
+gramado xavier;Rio Grande do Sul;0
+riolândia;São Paulo;0
+riversul;São Paulo;0
+protásio alves;Rio Grande do Sul;0
+são joão do pau d'alho;São Paulo;0
+santa mercedes;São Paulo;0
+santa rita d'oeste;São Paulo;0
+caraá;Rio Grande do Sul;0
+santa salete;São Paulo;0
+santana da ponte pensa;São Paulo;0
+capão do cipó;Rio Grande do Sul;0
+santo antônio da alegria;São Paulo;0
+santo antônio do aracanguá;São Paulo;0
+capão bonito do sul;Rio Grande do Sul;0
+canudos do vale;Rio Grande do Sul;0
+são joão das duas pontes;São Paulo;0
+canguçu;Rio Grande do Sul;0
+são joão de iracema;São Paulo;0
+candiota;Rio Grande do Sul;0
+campos borges;Rio Grande do Sul;0
+dois lajeados;Rio Grande do Sul;0
+campo novo;Rio Grande do Sul;0
+campinas do sul;Rio Grande do Sul;0
+campestre da serra;Rio Grande do Sul;0
+cambará do sul;Rio Grande do Sul;0
+camargo;Rio Grande do Sul;0
+são josé do barreiro;São Paulo;0
+são luís do paraitinga;São Paulo;0
+são pedro do turvo;São Paulo;0
+caibaté;Rio Grande do Sul;0
+cacique doble;Rio Grande do Sul;0
+sarapuí;São Paulo;0
+cacequi;Rio Grande do Sul;0
+sarutaiá;São Paulo;0
+bozano;Rio Grande do Sul;0
+santa maria da serra;São Paulo;0
+carlos gomes;Rio Grande do Sul;0
+caseiros;Rio Grande do Sul;0
+catuípe;Rio Grande do Sul;0
+dois irmãos das missões;Rio Grande do Sul;0
+dilermando de aguiar;Rio Grande do Sul;0
+dezesseis de novembro;Rio Grande do Sul;0
+derrubadas;Rio Grande do Sul;0
+rubiácea;São Paulo;0
+cruzaltense;Rio Grande do Sul;0
+rubinéia;São Paulo;0
+cristal;Rio Grande do Sul;0
+sabino;São Paulo;0
+sagres;São Paulo;0
+sales;São Paulo;0
+coxilha;Rio Grande do Sul;0
+cotiporã;Rio Grande do Sul;0
+coronel pilar;Rio Grande do Sul;0
+coronel bicaco;Rio Grande do Sul;0
+coronel barros;Rio Grande do Sul;0
+coqueiros do sul;Rio Grande do Sul;0
+coqueiro baixo;Rio Grande do Sul;0
+sandovalina;São Paulo;0
+colorado;Rio Grande do Sul;0
+ciríaco;Rio Grande do Sul;0
+santa albertina;São Paulo;0
+chuvisca;Rio Grande do Sul;0
+chiapetta;Rio Grande do Sul;0
+charrua;Rio Grande do Sul;0
+santa clara d'oeste;São Paulo;0
+santa cruz da esperança;São Paulo;0
+cerrito;Rio Grande do Sul;0
+centenário;Rio Grande do Sul;0
+pedrinhas paulista;São Paulo;0
+pedregulho;São Paulo;0
+pedranópolis;São Paulo;0
+nova boa vista;Rio Grande do Sul;0
+paim filho;Rio Grande do Sul;0
+novo xingu;Rio Grande do Sul;0
+novo machado;Rio Grande do Sul;0
+iacri;São Paulo;0
+novo cabrais;Rio Grande do Sul;0
+iaras;São Paulo;0
+nova roma do sul;Rio Grande do Sul;0
+nova ramada;Rio Grande do Sul;0
+icém;São Paulo;0
+iepê;São Paulo;0
+iguape;São Paulo;0
+nova pádua;Rio Grande do Sul;0
+nova esperança do sul;Rio Grande do Sul;0
+indiaporã;São Paulo;0
+nova alvorada;Rio Grande do Sul;0
+paulo de faria;São Paulo;0
+iporanga;São Paulo;0
+nicolau vergueiro;Rio Grande do Sul;0
+muliterno;Rio Grande do Sul;0
+muitos capões;Rio Grande do Sul;0
+mostardas;Rio Grande do Sul;0
+itaberá;São Paulo;0
+morro redondo;Rio Grande do Sul;0
+morrinhos do sul;Rio Grande do Sul;0
+itaí;São Paulo;0
+mormaço;Rio Grande do Sul;0
+itaju;São Paulo;0
+monte alegre dos campos;Rio Grande do Sul;0
+itaóca;São Paulo;0
+montauri;Rio Grande do Sul;0
+herculândia;São Paulo;0
+guzolândia;São Paulo;0
+guatapará;São Paulo;0
+guarantã;São Paulo;0
+progresso;Rio Grande do Sul;0
+pouso novo;Rio Grande do Sul;0
+gabriel monteiro;São Paulo;0
+porto vera cruz;Rio Grande do Sul;0
+porto mauá;Rio Grande do Sul;0
+porto lucena;Rio Grande do Sul;0
+gália;São Paulo;0
+ponte preta;Rio Grande do Sul;0
+pontão;Rio Grande do Sul;0
+gastão vidigal;São Paulo;0
+gavião peixoto;São Paulo;0
+piratini;Rio Grande do Sul;0
+pirapó;Rio Grande do Sul;0
+pinheiro machado;Rio Grande do Sul;0
+getulina;São Paulo;0
+pinhal grande;Rio Grande do Sul;0
+pinhal da serra;Rio Grande do Sul;0
+glicério;São Paulo;0
+pejuçara;Rio Grande do Sul;0
+guaimbê;São Paulo;0
+pedro osório;Rio Grande do Sul;0
+pedras altas;Rio Grande do Sul;0
+paulo bento;Rio Grande do Sul;0
+passo do sobrado;Rio Grande do Sul;0
+passa sete;Rio Grande do Sul;0
+guaraçaí;São Paulo;0
+guaraci;São Paulo;0
+paraíso do sul;Rio Grande do Sul;0
+guarani d'oeste;São Paulo;0
+minas do leão;Rio Grande do Sul;0
+itapirapuã paulista;São Paulo;0
+maximiliano de almeida;Rio Grande do Sul;0
+lavras do sul;Rio Grande do Sul;0
+mirante do paranapanema;São Paulo;0
+mombuca;São Paulo;0
+monções;São Paulo;0
+monte castelo;São Paulo;0
+morro agudo;São Paulo;0
+motuca;São Paulo;0
+murutinga do sul;São Paulo;0
+nantes;São Paulo;0
+narandiba;São Paulo;0
+natividade da serra;São Paulo;0
+lagoão;Rio Grande do Sul;0
+nova campina;São Paulo;0
+nova canaã paulista;São Paulo;0
+nova castilho;São Paulo;0
+nova independência;São Paulo;0
+ocauçu;São Paulo;0
+óleo;São Paulo;0
+orindiúva;São Paulo;0
+oscar bressane;São Paulo;0
+lagoa dos três cantos;Rio Grande do Sul;0
+lagoa bonita do sul;Rio Grande do Sul;0
+palestina;São Paulo;0
+jóia;Rio Grande do Sul;0
+jari;Rio Grande do Sul;0
+jaquirana;Rio Grande do Sul;0
+parisi;São Paulo;0
+patrocínio paulista;São Paulo;0
+paulicéia;São Paulo;0
+paulistânia;São Paulo;0
+mira estrela;São Paulo;0
+mesópolis;São Paulo;0
+itapura;São Paulo;0
+meridiano;São Paulo;0
+mato queimado;Rio Grande do Sul;0
+mato castelhano;Rio Grande do Sul;0
+jaborandi;São Paulo;0
+mata;Rio Grande do Sul;0
+jeriquara;São Paulo;0
+joão ramalho;São Paulo;0
+mariano moro;Rio Grande do Sul;0
+juquiá;São Paulo;0
+mariana pimentel;Rio Grande do Sul;0
+lavínia;São Paulo;0
+lourdes;São Paulo;0
+lucianópolis;São Paulo;0
+luís antônio;São Paulo;0
+maquiné;Rio Grande do Sul;0
+lutécia;São Paulo;0
+manoel viana;Rio Grande do Sul;0
+mampituba;Rio Grande do Sul;0
+machadinho;Rio Grande do Sul;0
+macedônia;São Paulo;0
+magda;São Paulo;0
+marabá paulista;São Paulo;0
+maracaí;São Paulo;0
+maçambará;Rio Grande do Sul;0
+marapoama;São Paulo;0
+mariápolis;São Paulo;0
+linha nova;Rio Grande do Sul;0
+martinópolis;São Paulo;0
+liberato salzano;Rio Grande do Sul;0
+mendonça;São Paulo;0
+acrelândia;Acre;0
+taperoá;Paraíba;0
+cardoso moreira;Rio de Janeiro;0
+humberto de campos;Maranhão;0
+fortaleza dos nogueiras;Maranhão;0
+fortuna;Maranhão;0
+godofredo viana;Maranhão;0
+gonçalves dias;Maranhão;0
+governador archer;Maranhão;0
+governador eugênio barros;Maranhão;0
+governador luiz rocha;Maranhão;0
+governador newton bello;Maranhão;0
+governador nunes freire;Maranhão;0
+graça aranha;Maranhão;0
+grajaú;Maranhão;0
+guimarães;Maranhão;0
+icatu;Maranhão;0
+fernando falcão;Maranhão;0
+itaipava do grajaú;Maranhão;0
+itinga do maranhão;Maranhão;0
+jatobá;Maranhão;0
+jenipapo dos vieiras;Maranhão;0
+joão lisboa;Maranhão;0
+joselândia;Maranhão;0
+junco do maranhão;Maranhão;0
+lago verde;Maranhão;0
+lagoa do mato;Maranhão;0
+lagoa grande do maranhão;Maranhão;0
+lajeado novo;Maranhão;0
+loreto;Maranhão;0
+formosa da serra negra;Maranhão;0
+feira nova do maranhão;Maranhão;0
+marajá do sena;Maranhão;0
+cachoeira grande;Maranhão;0
+barreirinhas;Maranhão;0
+belágua;Maranhão;0
+benedito leite;Maranhão;0
+bequimão;Maranhão;0
+bernardo do mearim;Maranhão;0
+boa vista do gurupi;Maranhão;0
+bom jardim;Maranhão;0
+bom jesus das selvas;Maranhão;0
+brejo de areia;Maranhão;0
+buriti;Maranhão;0
+buriti bravo;Maranhão;0
+buritirana;Maranhão;0
+cajapió;Maranhão;0
+estreito;Maranhão;0
+campestre do maranhão;Maranhão;0
+cândido mendes;Maranhão;0
+capinzal do norte;Maranhão;0
+carolina;Maranhão;0
+carutapera;Maranhão;0
+central do maranhão;Maranhão;0
+centro do guilherme;Maranhão;0
+centro novo do maranhão;Maranhão;0
+chapadinha;Maranhão;0
+cidelândia;Maranhão;0
+colinas;Maranhão;0
+conceição do lago-açu;Maranhão;0
+luís domingues;Maranhão;0
+maranhãozinho;Maranhão;0
+timbiras;Maranhão;0
+são joão do soter;Maranhão;0
+santa luzia do paruá;Maranhão;0
+santa quitéria do maranhão;Maranhão;0
+santana do maranhão;Maranhão;0
+santo amaro do maranhão;Maranhão;0
+santo antônio dos lopes;Maranhão;0
+são benedito do rio preto;Maranhão;0
+são domingos do azeitão;Maranhão;0
+são félix de balsas;Maranhão;0
+são francisco do brejão;Maranhão;0
+são francisco do maranhão;Maranhão;0
+são joão do carú;Maranhão;0
+são joão do paraíso;Maranhão;0
+são joão dos patos;Maranhão;0
+santa helena;Maranhão;0
+são josé dos basílios;Maranhão;0
+são luís gonzaga do maranhão;Maranhão;0
+são pedro da água branca;Maranhão;0
+são pedro dos crentes;Maranhão;0
+são raimundo das mangabeiras;Maranhão;0
+são raimundo do doca bezerra;Maranhão;0
+senador alexandre costa;Maranhão;0
+senador la rocque;Maranhão;0
+serrano do maranhão;Maranhão;0
+sítio novo;Maranhão;0
+sucupira do norte;Maranhão;0
+sucupira do riachão;Maranhão;0
+santa luzia;Maranhão;0
+santa filomena do maranhão;Maranhão;0
+matões;Maranhão;0
+passagem franca;Maranhão;0
+matões do norte;Maranhão;0
+milagres do maranhão;Maranhão;0
+mirador;Maranhão;0
+mirinzal;Maranhão;0
+monção;Maranhão;0
+montes altos;Maranhão;0
+morros;Maranhão;0
+nina rodrigues;Maranhão;0
+nova colinas;Maranhão;0
+nova iorque;Maranhão;0
+nova olinda do maranhão;Maranhão;0
+parnarama;Maranhão;0
+pastos bons;Maranhão;0
+sambaíba;Maranhão;0
+paulino neves;Maranhão;0
+paulo ramos;Maranhão;0
+pedro do rosário;Maranhão;0
+pirapemas;Maranhão;0
+poção de pedras;Maranhão;0
+porto franco;Maranhão;0
+presidente médici;Maranhão;0
+presidente sarney;Maranhão;0
+presidente vargas;Maranhão;0
+primeira cruz;Maranhão;0
+riachão;Maranhão;0
+ribamar fiquene;Maranhão;0
+barra do corda;Maranhão;0
+barão de grajaú;Maranhão;0
+bacurituba;Maranhão;0
+nova iguaçu de goiás;Goiás;0
+montividiu;Goiás;0
+montividiu do norte;Goiás;0
+morro agudo de goiás;Goiás;0
+mossâmedes;Goiás;0
+mozarlândia;Goiás;0
+mundo novo;Goiás;0
+mutunópolis;Goiás;0
+niquelândia;Goiás;0
+nova américa;Goiás;0
+nova aurora;Goiás;0
+nova crixás;Goiás;0
+nova glória;Goiás;0
+nova roma;Goiás;0
+monte alegre de goiás;Goiás;0
+novo brasil;Goiás;0
+novo planalto;Goiás;0
+orizona;Goiás;0
+ouro verde de goiás;Goiás;0
+ouvidor;Goiás;0
+padre bernardo;Goiás;0
+palestina de goiás;Goiás;0
+palmeiras de goiás;Goiás;0
+palminópolis;Goiás;0
+panamá;Goiás;0
+paranaiguara;Goiás;0
+paraúna;Goiás;0
+montes claros de goiás;Goiás;0
+moiporá;Goiás;0
+bacuri;Maranhão;0
+itauçu;Goiás;0
+inaciolândia;Goiás;0
+indiara;Goiás;0
+ipameri;Goiás;0
+ipiranga de goiás;Goiás;0
+israelândia;Goiás;0
+itaberaí;Goiás;0
+itaguaru;Goiás;0
+itajá;Goiás;0
+itapaci;Goiás;0
+itapirapuã;Goiás;0
+itapuranga;Goiás;0
+itarumã;Goiás;0
+ivolândia;Goiás;0
+minaçu;Goiás;0
+jandaia;Goiás;0
+jaraguá;Goiás;0
+jaupaci;Goiás;0
+jesúpolis;Goiás;0
+joviânia;Goiás;0
+leopoldo de bulhões;Goiás;0
+mairipotaba;Goiás;0
+mambaí;Goiás;0
+mara rosa;Goiás;0
+marzagão;Goiás;0
+matrinchã;Goiás;0
+mimoso de goiás;Goiás;0
+perolândia;Goiás;0
+petrolina de goiás;Goiás;0
+pilar de goiás;Goiás;0
+afonso cunha;Maranhão;0
+três ranchos;Goiás;0
+trombas;Goiás;0
+turvânia;Goiás;0
+turvelândia;Goiás;0
+uirapuru;Goiás;0
+urutaí;Goiás;0
+varjão;Goiás;0
+vianópolis;Goiás;0
+vicentinópolis;Goiás;0
+vila boa;Goiás;0
+vila propício;Goiás;0
+açailândia;Maranhão;0
+alcântara;Maranhão;0
+piracanjuba;Goiás;0
+aldeias altas;Maranhão;0
+altamira do maranhão;Maranhão;0
+alto alegre do pindaré;Maranhão;0
+alto parnaíba;Maranhão;0
+amapá do maranhão;Maranhão;0
+amarante do maranhão;Maranhão;0
+anajatuba;Maranhão;0
+anapurus;Maranhão;0
+araguanã;Maranhão;0
+araioses;Maranhão;0
+arame;Maranhão;0
+bacabeira;Maranhão;0
+teresina de goiás;Goiás;0
+taquaral de goiás;Goiás;0
+sítio d'abadia;Goiás;0
+simolândia;Goiás;0
+piranhas;Goiás;0
+porangatu;Goiás;0
+porteirão;Goiás;0
+professor jamil;Goiás;0
+rubiataba;Goiás;0
+sanclerlândia;Goiás;0
+santa cruz de goiás;Goiás;0
+santa fé de goiás;Goiás;0
+santa isabel;Goiás;0
+santa rita do araguaia;Goiás;0
+santa rita do novo destino;Goiás;0
+santa rosa de goiás;Goiás;0
+santa tereza de goiás;Goiás;0
+santa terezinha de goiás;Goiás;0
+santo antônio da barra;Goiás;0
+são domingos;Goiás;0
+são francisco de goiás;Goiás;0
+são joão da paraúna;Goiás;0
+são joão d'aliança;Goiás;0
+são luíz do norte;Goiás;0
+são miguel do araguaia;Goiás;0
+são miguel do passa quatro;Goiás;0
+são patrício;Goiás;0
+serranópolis;Goiás;0
+silvânia;Goiás;0
+tasso fragoso;Maranhão;0
+tufilândia;Maranhão;0
+wall ferraz;Piauí;0
+rio verde de mato grosso;Mato Grosso do Sul;0
+juti;Mato Grosso do Sul;0
+laguna carapã;Mato Grosso do Sul;0
+miranda;Mato Grosso do Sul;0
+nioaque;Mato Grosso do Sul;0
+nova alvorada do sul;Mato Grosso do Sul;0
+novo horizonte do sul;Mato Grosso do Sul;0
+paranhos;Mato Grosso do Sul;0
+pedro gomes;Mato Grosso do Sul;0
+ponta porã;Mato Grosso do Sul;0
+porto murtinho;Mato Grosso do Sul;0
+ribas do rio pardo;Mato Grosso do Sul;0
+rio negro;Mato Grosso do Sul;0
+rochedo;Mato Grosso do Sul;0
+jaraguari;Mato Grosso do Sul;0
+santa rita do pardo;Mato Grosso do Sul;0
+selvíria;Mato Grosso do Sul;0
+sete quedas;Mato Grosso do Sul;0
+sidrolândia;Mato Grosso do Sul;0
+sonora;Mato Grosso do Sul;0
+tacuru;Mato Grosso do Sul;0
+taquarussu;Mato Grosso do Sul;0
+terenos;Mato Grosso do Sul;0
+vicentina;Mato Grosso do Sul;0
+abadia dos dourados;Minas Gerais;0
+abaeté;Minas Gerais;0
+açucena;Minas Gerais;0
+jateí;Mato Grosso do Sul;0
+japorã;Mato Grosso do Sul;0
+água comprida;Minas Gerais;0
+caarapó;Mato Grosso do Sul;0
+anaurilândia;Mato Grosso do Sul;0
+angélica;Mato Grosso do Sul;0
+antônio joão;Mato Grosso do Sul;0
+aparecida do taboado;Mato Grosso do Sul;0
+aquidauana;Mato Grosso do Sul;0
+aral moreira;Mato Grosso do Sul;0
+bandeirantes;Mato Grosso do Sul;0
+bataguassu;Mato Grosso do Sul;0
+batayporã;Mato Grosso do Sul;0
+bela vista;Mato Grosso do Sul;0
+bodoquena;Mato Grosso do Sul;0
+brasilândia;Mato Grosso do Sul;0
+caracol;Mato Grosso do Sul;0
+itaquiraí;Mato Grosso do Sul;0
+corguinho;Mato Grosso do Sul;0
+coronel sapucaia;Mato Grosso do Sul;0
+corumbá;Mato Grosso do Sul;0
+dois irmãos do buriti;Mato Grosso do Sul;0
+douradina;Mato Grosso do Sul;0
+eldorado;Mato Grosso do Sul;0
+figueirão;Mato Grosso do Sul;0
+glória de dourados;Mato Grosso do Sul;0
+guia lopes da laguna;Mato Grosso do Sul;0
+iguatemi;Mato Grosso do Sul;0
+inocência;Mato Grosso do Sul;0
+itaporã;Mato Grosso do Sul;0
+água boa;Minas Gerais;0
+aguanil;Minas Gerais;0
+tuntum;Maranhão;0
+brasilândia de minas;Minas Gerais;0
+bias fortes;Minas Gerais;0
+biquinhas;Minas Gerais;0
+bocaina de minas;Minas Gerais;0
+bocaiúva;Minas Gerais;0
+bom jardim de minas;Minas Gerais;0
+bom jesus da penha;Minas Gerais;0
+bom sucesso;Minas Gerais;0
+bonfim;Minas Gerais;0
+bonfinópolis de minas;Minas Gerais;0
+bonito de minas;Minas Gerais;0
+botumirim;Minas Gerais;0
+brás pires;Minas Gerais;0
+brasília de minas;Minas Gerais;0
+berizal;Minas Gerais;0
+braúnas;Minas Gerais;0
+buenópolis;Minas Gerais;0
+bugre;Minas Gerais;0
+buritis;Minas Gerais;0
+buritizeiro;Minas Gerais;0
+cabeceira grande;Minas Gerais;0
+cachoeira de pajeú;Minas Gerais;0
+cachoeira dourada;Minas Gerais;0
+caldas;Minas Gerais;0
+camacho;Minas Gerais;0
+campanário;Minas Gerais;0
+campina verde;Minas Gerais;0
+bertópolis;Minas Gerais;0
+berilo;Minas Gerais;0
+águas formosas;Minas Gerais;0
+antônio prado de minas;Minas Gerais;0
+águas vermelhas;Minas Gerais;0
+aimorés;Minas Gerais;0
+aiuruoca;Minas Gerais;0
+alagoa;Minas Gerais;0
+almenara;Minas Gerais;0
+alto rio doce;Minas Gerais;0
+alvarenga;Minas Gerais;0
+alvinópolis;Minas Gerais;0
+alvorada de minas;Minas Gerais;0
+andrelândia;Minas Gerais;0
+antônio carlos;Minas Gerais;0
+antônio dias;Minas Gerais;0
+araçaí;Minas Gerais;0
+belo vale;Minas Gerais;0
+aracitaba;Minas Gerais;0
+araçuaí;Minas Gerais;0
+arapuá;Minas Gerais;0
+argirita;Minas Gerais;0
+aricanduva;Minas Gerais;0
+arinos;Minas Gerais;0
+ataléia;Minas Gerais;0
+augusto de lima;Minas Gerais;0
+baldim;Minas Gerais;0
+bandeira;Minas Gerais;0
+barra longa;Minas Gerais;0
+belmiro braga;Minas Gerais;0
+anastácio;Mato Grosso do Sul;0
+amambai;Mato Grosso do Sul;0
+alcinópolis;Mato Grosso do Sul;0
+ipiranga do norte;Mato Grosso;0
+cotriguaçu;Mato Grosso;0
+curvelândia;Mato Grosso;0
+denise;Mato Grosso;0
+dom aquino;Mato Grosso;0
+feliz natal;Mato Grosso;0
+figueirópolis d'oeste;Mato Grosso;0
+gaúcha do norte;Mato Grosso;0
+general carneiro;Mato Grosso;0
+glória d'oeste;Mato Grosso;0
+guarantã do norte;Mato Grosso;0
+guiratinga;Mato Grosso;0
+indiavaí;Mato Grosso;0
+itanhangá;Mato Grosso;0
+confresa;Mato Grosso;0
+itaúba;Mato Grosso;0
+itiquira;Mato Grosso;0
+jangada;Mato Grosso;0
+jauru;Mato Grosso;0
+juruena;Mato Grosso;0
+juscimeira;Mato Grosso;0
+lambari d'oeste;Mato Grosso;0
+luciara;Mato Grosso;0
+marcelândia;Mato Grosso;0
+matupá;Mato Grosso;0
+nobres;Mato Grosso;0
+nortelândia;Mato Grosso;0
+conquista d'oeste;Mato Grosso;0
+colniza;Mato Grosso;0
+vila rica;Mato Grosso;0
+apiacás;Mato Grosso;0
+turiaçu;Maranhão;0
+turilândia;Maranhão;0
+urbano santos;Maranhão;0
+vargem grande;Maranhão;0
+vila nova dos martírios;Maranhão;0
+zé doca;Maranhão;0
+acorizal;Mato Grosso;0
+alto araguaia;Mato Grosso;0
+alto boa vista;Mato Grosso;0
+alto garças;Mato Grosso;0
+alto paraguai;Mato Grosso;0
+alto taquari;Mato Grosso;0
+araguaiana;Mato Grosso;0
+cocalinho;Mato Grosso;0
+araguainha;Mato Grosso;0
+arenápolis;Mato Grosso;0
+aripuanã;Mato Grosso;0
+barão de melgaço;Mato Grosso;0
+bom jesus do araguaia;Mato Grosso;0
+brasnorte;Mato Grosso;0
+campinápolis;Mato Grosso;0
+canabrava do norte;Mato Grosso;0
+carlinda;Mato Grosso;0
+castanheira;Mato Grosso;0
+chapada dos guimarães;Mato Grosso;0
+cláudia;Mato Grosso;0
+nossa senhora do livramento;Mato Grosso;0
+nova bandeirantes;Mato Grosso;0
+nova brasilândia;Mato Grosso;0
+são félix do araguaia;Mato Grosso;0
+ribeirãozinho;Mato Grosso;0
+rio branco;Mato Grosso;0
+rondolândia;Mato Grosso;0
+rosário oeste;Mato Grosso;0
+salto do céu;Mato Grosso;0
+santa carmem;Mato Grosso;0
+santa cruz do xingu;Mato Grosso;0
+santa rita do trivelato;Mato Grosso;0
+santa terezinha;Mato Grosso;0
+santo afonso;Mato Grosso;0
+santo antônio do leste;Mato Grosso;0
+santo antônio do leverger;Mato Grosso;0
+são josé do povo;Mato Grosso;0
+nova canaã do norte;Mato Grosso;0
+são josé do rio claro;Mato Grosso;0
+são josé do xingu;Mato Grosso;0
+são pedro da cipa;Mato Grosso;0
+serra nova dourada;Mato Grosso;0
+tabaporã;Mato Grosso;0
+terra nova do norte;Mato Grosso;0
+tesouro;Mato Grosso;0
+torixoréu;Mato Grosso;0
+união do sul;Mato Grosso;0
+vale de são domingos;Mato Grosso;0
+vera;Mato Grosso;0
+vila bela da santíssima trindade;Mato Grosso;0
+ribeirão cascalheira;Mato Grosso;0
+reserva do cabaçal;Mato Grosso;0
+querência;Mato Grosso;0
+poxoréo;Mato Grosso;0
+nova guarita;Mato Grosso;0
+nova lacerda;Mato Grosso;0
+nova marilândia;Mato Grosso;0
+nova maringá;Mato Grosso;0
+nova monte verde;Mato Grosso;0
+nova nazaré;Mato Grosso;0
+nova santa helena;Mato Grosso;0
+nova ubiratã;Mato Grosso;0
+nova xavantina;Mato Grosso;0
+novo horizonte do norte;Mato Grosso;0
+novo mundo;Mato Grosso;0
+novo santo antônio;Mato Grosso;0
+novo são joaquim;Mato Grosso;0
+paranaíta;Mato Grosso;0
+paranatinga;Mato Grosso;0
+pedra preta;Mato Grosso;0
+peixoto de azevedo;Mato Grosso;0
+planalto da serra;Mato Grosso;0
+poconé;Mato Grosso;0
+pontal do araguaia;Mato Grosso;0
+ponte branca;Mato Grosso;0
+porto alegre do norte;Mato Grosso;0
+porto dos gaúchos;Mato Grosso;0
+porto esperidião;Mato Grosso;0
+porto estrela;Mato Grosso;0
+iaciara;Goiás;0
+hidrolina;Goiás;0
+hidrolândia;Goiás;0
+esplanada;Bahia;0
+condeúba;Bahia;0
+contendas do sincorá;Bahia;0
+cordeiros;Bahia;0
+coribe;Bahia;0
+coronel joão sá;Bahia;0
+correntina;Bahia;0
+cotegipe;Bahia;0
+cristópolis;Bahia;0
+curaçá;Bahia;0
+dom basílio;Bahia;0
+encruzilhada;Bahia;0
+érico cardoso;Bahia;0
+feira da mata;Bahia;0
+cocos;Bahia;0
+formosa do rio preto;Bahia;0
+gavião;Bahia;0
+gentio do ouro;Bahia;0
+glória;Bahia;0
+guajeru;Bahia;0
+guaratinga;Bahia;0
+iaçu;Bahia;0
+ibiassucê;Bahia;0
+ibicoara;Bahia;0
+ibicuí;Bahia;0
+ibipeba;Bahia;0
+ibipitanga;Bahia;0
+conde;Bahia;0
+chorrochó;Bahia;0
+ibirapuã;Bahia;0
+campo alegre de lourdes;Bahia;0
+boninal;Bahia;0
+bonito;Bahia;0
+boquira;Bahia;0
+botuporã;Bahia;0
+brejolândia;Bahia;0
+brotas de macaúbas;Bahia;0
+buritirama;Bahia;0
+caatiba;Bahia;0
+caém;Bahia;0
+caetanos;Bahia;0
+caetité;Bahia;0
+cafarnaum;Bahia;0
+campo formoso;Bahia;0
+caturama;Bahia;0
+canápolis;Bahia;0
+canavieiras;Bahia;0
+candeal;Bahia;0
+cândido sales;Bahia;0
+cansanção;Bahia;0
+canudos;Bahia;0
+capela do alto alegre;Bahia;0
+caraíbas;Bahia;0
+caravelas;Bahia;0
+carinhanha;Bahia;0
+casa nova;Bahia;0
+catolândia;Bahia;0
+ibiquera;Bahia;0
+ibitiara;Bahia;0
+heitoraí;Goiás;0
+licínio de almeida;Bahia;0
+jeremoabo;Bahia;0
+joão dourado;Bahia;0
+jucuruçu;Bahia;0
+jussara;Bahia;0
+jussari;Bahia;0
+jussiape;Bahia;0
+lafaiete coutinho;Bahia;0
+lagoa real;Bahia;0
+lajedão;Bahia;0
+lajedinho;Bahia;0
+lajedo do tabocal;Bahia;0
+lençóis;Bahia;0
+livramento de nossa senhora;Bahia;0
+jaguaripe;Bahia;0
+macajuba;Bahia;0
+macarani;Bahia;0
+macaúbas;Bahia;0
+macururé;Bahia;0
+maetinga;Bahia;0
+maiquinique;Bahia;0
+mairi;Bahia;0
+malhada;Bahia;0
+malhada de pedras;Bahia;0
+manoel vitorino;Bahia;0
+mansidão;Bahia;0
+maracás;Bahia;0
+jandaíra;Bahia;0
+jaguarari;Bahia;0
+ibotirama;Bahia;0
+itambé;Bahia;0
+igaporã;Bahia;0
+igrapiúna;Bahia;0
+ipirá;Bahia;0
+ipupiara;Bahia;0
+irajuba;Bahia;0
+iramaia;Bahia;0
+iraquara;Bahia;0
+itaeté;Bahia;0
+itagibá;Bahia;0
+itagimirim;Bahia;0
+itaguaçu da bahia;Bahia;0
+itaju do colônia;Bahia;0
+itanagra;Bahia;0
+jacaraci;Bahia;0
+itanhém;Bahia;0
+itapé;Bahia;0
+itapebi;Bahia;0
+itapicuru;Bahia;0
+itapitanga;Bahia;0
+itaquara;Bahia;0
+itarantim;Bahia;0
+itatim;Bahia;0
+itiúba;Bahia;0
+ituaçu;Bahia;0
+iuiú;Bahia;0
+jaborandi;Bahia;0
+bom jesus da serra;Bahia;0
+bom jesus da lapa;Bahia;0
+boa vista do tupim;Bahia;0
+barreirinha;Amazonas;0
+porto grande;Amapá;0
+pracuúba;Amapá;0
+tartarugalzinho;Amapá;0
+vitória do jari;Amapá;0
+alvarães;Amazonas;0
+amaturá;Amazonas;0
+anamã;Amazonas;0
+anori;Amazonas;0
+apuí;Amazonas;0
+atalaia do norte;Amazonas;0
+autazes;Amazonas;0
+barcelos;Amazonas;0
+benjamin constant;Amazonas;0
+oiapoque;Amapá;0
+beruri;Amazonas;0
+boa vista do ramos;Amazonas;0
+boca do acre;Amazonas;0
+borba;Amazonas;0
+caapiranga;Amazonas;0
+canutama;Amazonas;0
+carauari;Amazonas;0
+careiro;Amazonas;0
+careiro da várzea;Amazonas;0
+coari;Amazonas;0
+codajás;Amazonas;0
+eirunepé;Amazonas;0
+pedra branca do amapari;Amapá;0
+mazagão;Amapá;0
+boa nova;Bahia;0
+porto walter;Acre;0
+brasiléia;Acre;0
+bujari;Acre;0
+capixaba;Acre;0
+cruzeiro do sul;Acre;0
+epitaciolândia;Acre;0
+feijó;Acre;0
+jordão;Acre;0
+mâncio lima;Acre;0
+manoel urbano;Acre;0
+marechal thaumaturgo;Acre;0
+plácido de castro;Acre;0
+porto acre;Acre;0
+rodrigues alves;Acre;0
+laranjal do jari;Amapá;0
+santa rosa do purus;Acre;0
+sena madureira;Acre;0
+senador guiomard;Acre;0
+tarauacá;Acre;0
+xapuri;Acre;0
+belo monte;Alagoas;0
+pindoba;Alagoas;0
+amapá;Amapá;0
+calçoene;Amapá;0
+cutias;Amapá;0
+ferreira gomes;Amapá;0
+itaubal;Amapá;0
+envira;Amazonas;0
+fonte boa;Amazonas;0
+guajará;Amazonas;0
+anagé;Bahia;0
+tapauá;Amazonas;0
+tefé;Amazonas;0
+tonantins;Amazonas;0
+uarini;Amazonas;0
+urucará;Amazonas;0
+urucurituba;Amazonas;0
+abaíra;Bahia;0
+abaré;Bahia;0
+adustina;Bahia;0
+água fria;Bahia;0
+alcobaça;Bahia;0
+américa dourada;Bahia;0
+andaraí;Bahia;0
+humaitá;Amazonas;0
+andorinha;Bahia;0
+angical;Bahia;0
+araças;Bahia;0
+aracatu;Bahia;0
+arataca;Bahia;0
+baianópolis;Bahia;0
+baixa grande;Bahia;0
+barra;Bahia;0
+barra da estiva;Bahia;0
+barra do mendes;Bahia;0
+belmonte;Bahia;0
+belo campo;Bahia;0
+tabatinga;Amazonas;0
+silves;Amazonas;0
+são sebastião do uatumã;Amazonas;0
+são paulo de olivença;Amazonas;0
+ipixuna;Amazonas;0
+iranduba;Amazonas;0
+itacoatiara;Amazonas;0
+itamarati;Amazonas;0
+itapiranga;Amazonas;0
+japurá;Amazonas;0
+juruá;Amazonas;0
+jutaí;Amazonas;0
+lábrea;Amazonas;0
+manacapuru;Amazonas;0
+manaquiri;Amazonas;0
+manicoré;Amazonas;0
+maraã;Amazonas;0
+maués;Amazonas;0
+nhamundá;Amazonas;0
+nova olinda do norte;Amazonas;0
+novo airão;Amazonas;0
+novo aripuanã;Amazonas;0
+parintins;Amazonas;0
+pauini;Amazonas;0
+presidente figueiredo;Amazonas;0
+rio preto da eva;Amazonas;0
+santa isabel do rio negro;Amazonas;0
+santo antônio do içá;Amazonas;0
+são gabriel da cachoeira;Amazonas;0
+maraú;Bahia;0
+marcionílio souza;Bahia;0
+mascote;Bahia;0
+abadiânia;Goiás;0
+águia branca;Espírito Santo;0
+alfredo chaves;Espírito Santo;0
+conceição da barra;Espírito Santo;0
+ecoporanga;Espírito Santo;0
+laranja da terra;Espírito Santo;0
+montanha;Espírito Santo;0
+mucurici;Espírito Santo;0
+pinheiros;Espírito Santo;0
+ponto belo;Espírito Santo;0
+presidente kennedy;Espírito Santo;0
+santa leopoldina;Espírito Santo;0
+vila pavão;Espírito Santo;0
+acreúna;Goiás;0
+uruoca;Ceará;0
+adelândia;Goiás;0
+água fria de goiás;Goiás;0
+água limpa;Goiás;0
+aloândia;Goiás;0
+alto horizonte;Goiás;0
+alvorada do norte;Goiás;0
+amaralina;Goiás;0
+amorinópolis;Goiás;0
+anhanguera;Goiás;0
+anicuns;Goiás;0
+aparecida do rio doce;Goiás;0
+aporé;Goiás;0
+água doce do norte;Espírito Santo;0
+tejuçuoca;Ceará;0
+irauçuba;Ceará;0
+parambu;Ceará;0
+jaguaretama;Ceará;0
+jaguaribara;Ceará;0
+jaguaribe;Ceará;0
+jati;Ceará;0
+jucás;Ceará;0
+madalena;Ceará;0
+miraíma;Ceará;0
+mombaça;Ceará;0
+monsenhor tabosa;Ceará;0
+morada nova;Ceará;0
+moraújo;Ceará;0
+palhano;Ceará;0
+paramoti;Ceará;0
+tauá;Ceará;0
+poranga;Ceará;0
+potiretama;Ceará;0
+quiterianópolis;Ceará;0
+quixeramobim;Ceará;0
+saboeiro;Ceará;0
+salitre;Ceará;0
+santa quitéria;Ceará;0
+santana do cariri;Ceará;0
+senador sá;Ceará;0
+solonópole;Ceará;0
+tamboril;Ceará;0
+tarrafas;Ceará;0
+araçu;Goiás;0
+araguapaz;Goiás;0
+arenópolis;Goiás;0
+doverlândia;Goiás;0
+colinas do sul;Goiás;0
+córrego do ouro;Goiás;0
+corumbá de goiás;Goiás;0
+corumbaíba;Goiás;0
+cristianópolis;Goiás;0
+crixás;Goiás;0
+cromínia;Goiás;0
+cumari;Goiás;0
+damianópolis;Goiás;0
+davinópolis;Goiás;0
+diorama;Goiás;0
+divinópolis de goiás;Goiás;0
+edealina;Goiás;0
+aruanã;Goiás;0
+edéia;Goiás;0
+estrela do norte;Goiás;0
+faina;Goiás;0
+fazenda nova;Goiás;0
+flores de goiás;Goiás;0
+formoso;Goiás;0
+gameleira de goiás;Goiás;0
+goiandira;Goiás;0
+gouvelândia;Goiás;0
+guaraíta;Goiás;0
+guarani de goiás;Goiás;0
+guarinos;Goiás;0
+cocalzinho de goiás;Goiás;0
+cezarina;Goiás;0
+cavalcante;Goiás;0
+caturaí;Goiás;0
+aurilândia;Goiás;0
+avelinópolis;Goiás;0
+baliza;Goiás;0
+barro alto;Goiás;0
+bela vista de goiás;Goiás;0
+bom jardim de goiás;Goiás;0
+bom jesus de goiás;Goiás;0
+bonópolis;Goiás;0
+britânia;Goiás;0
+buriti alegre;Goiás;0
+buriti de goiás;Goiás;0
+buritinópolis;Goiás;0
+cabeceiras;Goiás;0
+cachoeira alta;Goiás;0
+cachoeira de goiás;Goiás;0
+cachoeira dourada;Goiás;0
+caiapônia;Goiás;0
+caldazinha;Goiás;0
+campestre de goiás;Goiás;0
+campinaçu;Goiás;0
+campinorte;Goiás;0
+campo alegre de goiás;Goiás;0
+campos verdes;Goiás;0
+carmo do rio verde;Goiás;0
+castelândia;Goiás;0
+itatira;Ceará;0
+iracema;Ceará;0
+matina;Bahia;0
+remanso;Bahia;0
+pindaí;Bahia;0
+pintadas;Bahia;0
+piripá;Bahia;0
+piritiba;Bahia;0
+planaltino;Bahia;0
+potiraguá;Bahia;0
+prado;Bahia;0
+presidente jânio quadros;Bahia;0
+queimadas;Bahia;0
+quijingue;Bahia;0
+quixabeira;Bahia;0
+rafael jambeiro;Bahia;0
+riachão das neves;Bahia;0
+piatã;Bahia;0
+riacho de santana;Bahia;0
+ribeira do amparo;Bahia;0
+ribeirão do largo;Bahia;0
+rio de contas;Bahia;0
+rio do antônio;Bahia;0
+rio do pires;Bahia;0
+rodelas;Bahia;0
+ruy barbosa;Bahia;0
+santa brígida;Bahia;0
+santa cruz cabrália;Bahia;0
+santa cruz da vitória;Bahia;0
+santa luzia;Bahia;0
+pilão arcado;Bahia;0
+pedro alexandre;Bahia;0
+ipaporanga;Ceará;0
+muquém de são francisco;Bahia;0
+medeiros neto;Bahia;0
+miguel calmon;Bahia;0
+mirangaba;Bahia;0
+mirante;Bahia;0
+monte santo;Bahia;0
+morpará;Bahia;0
+morro do chapéu;Bahia;0
+mortugaba;Bahia;0
+mucugê;Bahia;0
+mucuri;Bahia;0
+mulungu do morro;Bahia;0
+mundo novo;Bahia;0
+nova canaã;Bahia;0
+pé de serra;Bahia;0
+nova fátima;Bahia;0
+nova itarana;Bahia;0
+nova redenção;Bahia;0
+nova soure;Bahia;0
+novo horizonte;Bahia;0
+oliveira dos brejinhos;Bahia;0
+ourolândia;Bahia;0
+palmas de monte alto;Bahia;0
+palmeiras;Bahia;0
+paramirim;Bahia;0
+paratinga;Bahia;0
+pau brasil;Bahia;0
+santa maria da vitória;Bahia;0
+santa rita de cássia;Bahia;0
+santa teresinha;Bahia;0
+canindé;Ceará;0
+wanderley;Bahia;0
+xique-xique;Bahia;0
+acopiara;Ceará;0
+aiuaba;Ceará;0
+alto santo;Ceará;0
+apuiarés;Ceará;0
+araripe;Ceará;0
+arneiroz;Ceará;0
+assaré;Ceará;0
+banabuiú;Ceará;0
+boa viagem;Ceará;0
+campos sales;Ceará;0
+caridade;Ceará;0
+santaluz;Bahia;0
+cariré;Ceará;0
+cariús;Ceará;0
+catunda;Ceará;0
+choró;Ceará;0
+crateús;Ceará;0
+croatá;Ceará;0
+deputado irapuan pinheiro;Ceará;0
+ererê;Ceará;0
+granja;Ceará;0
+hidrolândia;Ceará;0
+ibaretama;Ceará;0
+independência;Ceará;0
+wagner;Bahia;0
+vereda;Bahia;0
+várzea nova;Bahia;0
+urandi;Bahia;0
+santana;Bahia;0
+são desidério;Bahia;0
+são félix do coribe;Bahia;0
+são gabriel;Bahia;0
+são josé do jacuípe;Bahia;0
+sátiro dias;Bahia;0
+saúde;Bahia;0
+seabra;Bahia;0
+sebastião laranjeiras;Bahia;0
+sento sé;Bahia;0
+serra do ramalho;Bahia;0
+serra dourada;Bahia;0
+sítio do mato;Bahia;0
+sítio do quinto;Bahia;0
+sobradinho;Bahia;0
+souto soares;Bahia;0
+tabocas do brejo velho;Bahia;0
+tanhaçu;Bahia;0
+tanque novo;Bahia;0
+tapiramutá;Bahia;0
+tremedal;Bahia;0
+tucano;Bahia;0
+uauá;Bahia;0
+uibaí;Bahia;0
+umburanas;Bahia;0
+campo azul;Minas Gerais;0
+campo florido;Minas Gerais;0
+campos altos;Minas Gerais;0
+marquinho;Paraná;0
+lindoeste;Paraná;0
+lobato;Paraná;0
+luiziana;Paraná;0
+mallet;Paraná;0
+mamborê;Paraná;0
+manfrinópolis;Paraná;0
+mangueirinha;Paraná;0
+manoel ribas;Paraná;0
+maria helena;Paraná;0
+marilândia do sul;Paraná;0
+mariluz;Paraná;0
+maripá;Paraná;0
+marumbi;Paraná;0
+laranjal;Paraná;0
+mato rico;Paraná;0
+mirador;Paraná;0
+miraselva;Paraná;0
+nossa senhora das graças;Paraná;0
+nova aliança do ivaí;Paraná;0
+nova aurora;Paraná;0
+nova cantu;Paraná;0
+nova esperança do sudoeste;Paraná;0
+nova laranjeiras;Paraná;0
+nova tebas;Paraná;0
+novo itacolomi;Paraná;0
+ortigueira;Paraná;0
+leópolis;Paraná;0
+kaloré;Paraná;0
+ouro verde do oeste;Paraná;0
+guaraqueçaba;Paraná;0
+fênix;Paraná;0
+fernandes pinheiro;Paraná;0
+flor da serra do sul;Paraná;0
+foz do jordão;Paraná;0
+francisco alves;Paraná;0
+godoy moreira;Paraná;0
+goioxim;Paraná;0
+grandes rios;Paraná;0
+guairaçá;Paraná;0
+guapirama;Paraná;0
+guaporema;Paraná;0
+guaraci;Paraná;0
+honório serpa;Paraná;0
+juranda;Paraná;0
+icaraíma;Paraná;0
+iguaraçu;Paraná;0
+iguatu;Paraná;0
+inácio martins;Paraná;0
+inajá;Paraná;0
+itaguajé;Paraná;0
+itambé;Paraná;0
+ivaí;Paraná;0
+ivaté;Paraná;0
+janiópolis;Paraná;0
+jardim olinda;Paraná;0
+jundiaí do sul;Paraná;0
+ourizona;Paraná;0
+palmital;Paraná;0
+trairão;Pará;0
+são jerônimo da serra;Paraná;0
+rondon;Paraná;0
+rosário do ivaí;Paraná;0
+salgado filho;Paraná;0
+santa cruz de monte castelo;Paraná;0
+santa inês;Paraná;0
+santa isabel do ivaí;Paraná;0
+santa maria do oeste;Paraná;0
+santa mônica;Paraná;0
+santana do itararé;Paraná;0
+santo antônio do caiuá;Paraná;0
+santo antônio do paraíso;Paraná;0
+santo inácio;Paraná;0
+são joão do caiuá;Paraná;0
+rio branco do ivaí;Paraná;0
+são joão do triunfo;Paraná;0
+são jorge do ivaí;Paraná;0
+são jorge do patrocínio;Paraná;0
+são jorge d'oeste;Paraná;0
+são josé da boa vista;Paraná;0
+são josé das palmeiras;Paraná;0
+são manoel do paraná;Paraná;0
+são pedro do iguaçu;Paraná;0
+são pedro do paraná;Paraná;0
+são tomé;Paraná;0
+sapopema;Paraná;0
+sengés;Paraná;0
+roncador;Paraná;0
+rio bonito do iguaçu;Paraná;0
+paranapoema;Paraná;0
+prado ferreira;Paraná;0
+paula freitas;Paraná;0
+paulo frontin;Paraná;0
+perobal;Paraná;0
+pinhão;Paraná;0
+piraí do sul;Paraná;0
+pitanga;Paraná;0
+pitangueiras;Paraná;0
+planaltina do paraná;Paraná;0
+porto amazonas;Paraná;0
+porto barreiro;Paraná;0
+porto rico;Paraná;0
+porto vitória;Paraná;0
+pranchita;Paraná;0
+rio bom;Paraná;0
+prudentópolis;Paraná;0
+quarto centenário;Paraná;0
+querência do norte;Paraná;0
+quinta do sol;Paraná;0
+ramilândia;Paraná;0
+rancho alegre;Paraná;0
+rancho alegre d'oeste;Paraná;0
+renascença;Paraná;0
+reserva;Paraná;0
+reserva do iguaçu;Paraná;0
+ribeirão claro;Paraná;0
+rio azul;Paraná;0
+faxinal;Paraná;0
+farol;Paraná;0
+espigão alto do iguaçu;Paraná;0
+salgadinho;Paraíba;0
+juru;Paraíba;0
+mãe d'água;Paraíba;0
+nova palmeira;Paraíba;0
+olivedos;Paraíba;0
+ouro velho;Paraíba;0
+parari;Paraíba;0
+passagem;Paraíba;0
+paulista;Paraíba;0
+pedra lavrada;Paraíba;0
+prata;Paraíba;0
+quixabá;Paraíba;0
+riacho de santo antônio;Paraíba;0
+santa helena;Paraíba;0
+gurjão;Paraíba;0
+santa inês;Paraíba;0
+santa teresinha;Paraíba;0
+santana de mangueira;Paraíba;0
+santana dos garrotes;Paraíba;0
+santo andré;Paraíba;0
+são bentinho;Paraíba;0
+são domingos;Paraíba;0
+são domingos do cariri;Paraíba;0
+são joão do cariri;Paraíba;0
+são joão do tigre;Paraíba;0
+são josé da lagoa tapada;Paraíba;0
+são josé de espinharas;Paraíba;0
+ibiara;Paraíba;0
+frei martinho;Paraíba;0
+esperança nova;Paraná;0
+barra de são miguel;Paraíba;0
+ulianópolis;Pará;0
+uruará;Pará;0
+viseu;Pará;0
+vitória do xingu;Pará;0
+xinguara;Pará;0
+aguiar;Paraíba;0
+alcantil;Paraíba;0
+algodão de jandaíra;Paraíba;0
+amparo;Paraíba;0
+areia de baraúnas;Paraíba;0
+barra de santa rosa;Paraíba;0
+barra de santana;Paraíba;0
+belém do brejo do cruz;Paraíba;0
+emas;Paraíba;0
+boa vista;Paraíba;0
+cabaceiras;Paraíba;0
+cacimba de areia;Paraíba;0
+cajazeirinhas;Paraíba;0
+camalaú;Paraíba;0
+caraúbas;Paraíba;0
+catingueira;Paraíba;0
+condado;Paraíba;0
+congo;Paraíba;0
+coxixola;Paraíba;0
+curral velho;Paraíba;0
+diamante;Paraíba;0
+são josé do bonfim;Paraíba;0
+são josé do brejo do cruz;Paraíba;0
+são josé do sabugi;Paraíba;0
+cerro azul;Paraná;0
+braganey;Paraná;0
+brasilândia do sul;Paraná;0
+cafeara;Paraná;0
+cafezal do sul;Paraná;0
+campina da lagoa;Paraná;0
+campina do simão;Paraná;0
+campo bonito;Paraná;0
+campo do tenente;Paraná;0
+cândido de abreu;Paraná;0
+candói;Paraná;0
+cantagalo;Paraná;0
+catanduvas;Paraná;0
+clevelândia;Paraná;0
+são josé dos cordeiros;Paraíba;0
+congonhinhas;Paraná;0
+conselheiro mairinck;Paraná;0
+coronel domingos soares;Paraná;0
+corumbataí do sul;Paraná;0
+cruz machado;Paraná;0
+cruzeiro do sul;Paraná;0
+cruzmaltina;Paraná;0
+curiúva;Paraná;0
+diamante do norte;Paraná;0
+diamante do sul;Paraná;0
+diamante d'oeste;Paraná;0
+doutor ulysses;Paraná;0
+borrazópolis;Paraná;0
+bom sucesso do sul;Paraná;0
+bom sucesso;Paraná;0
+bom jesus do sul;Paraná;0
+são mamede;Paraíba;0
+são sebastião do umbuzeiro;Paraíba;0
+serra branca;Paraíba;0
+soledade;Paraíba;0
+sossêgo;Paraíba;0
+sumé;Paraíba;0
+assis brasil;Acre;0
+várzea;Paraíba;0
+zabelê;Paraíba;0
+adrianópolis;Paraná;0
+altamira do paraná;Paraná;0
+alto paraíso;Paraná;0
+alto piquiri;Paraná;0
+amaporã;Paraná;0
+antonina;Paraná;0
+antônio olinto;Paraná;0
+arapoti;Paraná;0
+arapuã;Paraná;0
+ariranha do ivaí;Paraná;0
+barbosa ferraz;Paraná;0
+barra do jacaré;Paraná;0
+bituruna;Paraná;0
+boa esperança;Paraná;0
+boa ventura de são roque;Paraná;0
+bocaiúva do sul;Paraná;0
+serranópolis do iguaçu;Paraná;0
+sertaneja;Paraná;0
+sulina;Paraná;0
+nossa senhora dos remédios;Piauí;0
+miguel alves;Piauí;0
+miguel leão;Piauí;0
+milton brandão;Piauí;0
+monsenhor gil;Piauí;0
+monsenhor hipólito;Piauí;0
+monte alegre do piauí;Piauí;0
+morro cabeça no tempo;Piauí;0
+morro do chapéu do piauí;Piauí;0
+murici dos portelas;Piauí;0
+nazaré do piauí;Piauí;0
+nazária;Piauí;0
+nossa senhora de nazaré;Piauí;0
+nova santa rita;Piauí;0
+marcos parente;Piauí;0
+novo oriente do piauí;Piauí;0
+novo santo antônio;Piauí;0
+oeiras;Piauí;0
+olho d'água do piauí;Piauí;0
+padre marcos;Piauí;0
+paes landim;Piauí;0
+pajeú do piauí;Piauí;0
+palmeira do piauí;Piauí;0
+palmeirais;Piauí;0
+paquetá;Piauí;0
+parnaguá;Piauí;0
+passagem franca do piauí;Piauí;0
+massapê do piauí;Piauí;0
+manoel emídio;Piauí;0
+francisco macedo;Piauí;0
+jaicós;Piauí;0
+fronteiras;Piauí;0
+geminiano;Piauí;0
+gilbués;Piauí;0
+guadalupe;Piauí;0
+guaribas;Piauí;0
+hugo napoleão;Piauí;0
+inhuma;Piauí;0
+ipiranga do piauí;Piauí;0
+isaías coelho;Piauí;0
+itainópolis;Piauí;0
+itaueira;Piauí;0
+jacobina do piauí;Piauí;0
+jardim do mulato;Piauí;0
+landri sales;Piauí;0
+jatobá do piauí;Piauí;0
+jerumenha;Piauí;0
+joão costa;Piauí;0
+joaquim pires;Piauí;0
+josé de freitas;Piauí;0
+juazeiro do piauí;Piauí;0
+júlio borges;Piauí;0
+jurema;Piauí;0
+lagoa alegre;Piauí;0
+lagoa do barro do piauí;Piauí;0
+lagoa do piauí;Piauí;0
+lagoa do sítio;Piauí;0
+patos do piauí;Piauí;0
+pau d'arco do piauí;Piauí;0
+paulistana;Piauí;0
+sebastião barros;Piauí;0
+são joão da varjota;Piauí;0
+são joão do piauí;Piauí;0
+são josé do divino;Piauí;0
+são josé do peixe;Piauí;0
+são josé do piauí;Piauí;0
+são julião;Piauí;0
+são lourenço do piauí;Piauí;0
+são luis do piauí;Piauí;0
+são miguel da baixa grande;Piauí;0
+são miguel do fidalgo;Piauí;0
+são miguel do tapuio;Piauí;0
+são raimundo nonato;Piauí;0
+sebastião leal;Piauí;0
+pavussu;Piauí;0
+sigefredo pacheco;Piauí;0
+simões;Piauí;0
+simplício mendes;Piauí;0
+socorro do piauí;Piauí;0
+tamboril do piauí;Piauí;0
+tanque do piauí;Piauí;0
+uruçuí;Piauí;0
+valença do piauí;Piauí;0
+várzea branca;Piauí;0
+várzea grande;Piauí;0
+vera mendes;Piauí;0
+vila nova do piauí;Piauí;0
+são joão da serra;Piauí;0
+são joão da fronteira;Piauí;0
+são joão da canabrava;Piauí;0
+são gonçalo do gurguéia;Piauí;0
+pedro ii;Piauí;0
+pedro laurentino;Piauí;0
+pimenteiras;Piauí;0
+pio ix;Piauí;0
+piracuruca;Piauí;0
+porto alegre do piauí;Piauí;0
+prata do piauí;Piauí;0
+queimada nova;Piauí;0
+redenção do gurguéia;Piauí;0
+regeneração;Piauí;0
+riacho frio;Piauí;0
+ribeira do piauí;Piauí;0
+ribeiro gonçalves;Piauí;0
+rio grande do piauí;Piauí;0
+santa cruz do piauí;Piauí;0
+santa cruz dos milagres;Piauí;0
+santa filomena;Piauí;0
+santa luz;Piauí;0
+santa rosa do piauí;Piauí;0
+santo antônio de lisboa;Piauí;0
+santo inácio do piauí;Piauí;0
+são braz do piauí;Piauí;0
+são félix do piauí;Piauí;0
+são francisco de assis do piauí;Piauí;0
+são francisco do piauí;Piauí;0
+francisco santos;Piauí;0
+francisco ayres;Piauí;0
+tamboara;Paraná;0
+serrita;Pernambuco;0
+ingazeira;Pernambuco;0
+itacuruba;Pernambuco;0
+itaíba;Pernambuco;0
+jataúba;Pernambuco;0
+lagoa grande;Pernambuco;0
+mirandiba;Pernambuco;0
+orocó;Pernambuco;0
+parnamirim;Pernambuco;0
+santa cruz;Pernambuco;0
+santa filomena;Pernambuco;0
+santa maria da boa vista;Pernambuco;0
+são josé do belmonte;Pernambuco;0
+sertânia;Pernambuco;0
+iguaraci;Pernambuco;0
+tacaratu;Pernambuco;0
+verdejante;Pernambuco;0
+acauã;Piauí;0
+alagoinha do piauí;Piauí;0
+alegrete do piauí;Piauí;0
+alto longá;Piauí;0
+alvorada do gurguéia;Piauí;0
+amarante;Piauí;0
+antônio almeida;Piauí;0
+aroazes;Piauí;0
+aroeiras do itaim;Piauí;0
+arraial;Piauí;0
+inajá;Pernambuco;0
+ibimirim;Pernambuco;0
+francinópolis;Piauí;0
+virmond;Paraná;0
+tapejara;Paraná;0
+tapira;Paraná;0
+teixeira soares;Paraná;0
+terra rica;Paraná;0
+tibagi;Paraná;0
+tijucas do sul;Paraná;0
+tomazina;Paraná;0
+três barras do paraná;Paraná;0
+tuneiras do oeste;Paraná;0
+turvo;Paraná;0
+ventania;Paraná;0
+verê;Paraná;0
+vitorino;Paraná;0
+granito;Pernambuco;0
+xambrê;Paraná;0
+afrânio;Pernambuco;0
+belém do são francisco;Pernambuco;0
+betânia;Pernambuco;0
+bodocó;Pernambuco;0
+cabrobó;Pernambuco;0
+carnaubeira da penha;Pernambuco;0
+custódia;Pernambuco;0
+dormentes;Pernambuco;0
+exu;Pernambuco;0
+flores;Pernambuco;0
+floresta;Pernambuco;0
+assunção do piauí;Piauí;0
+avelino lopes;Piauí;0
+baixa grande do ribeiro;Piauí;0
+cristalândia do piauí;Piauí;0
+caridade do piauí;Piauí;0
+castelo do piauí;Piauí;0
+caxingó;Piauí;0
+cocal;Piauí;0
+cocal de telha;Piauí;0
+cocal dos alves;Piauí;0
+coivaras;Piauí;0
+colônia do gurguéia;Piauí;0
+colônia do piauí;Piauí;0
+conceição do canindé;Piauí;0
+coronel josé dias;Piauí;0
+corrente;Piauí;0
+cristino castro;Piauí;0
+barra d'alcântara;Piauí;0
+curimatá;Piauí;0
+currais;Piauí;0
+curral novo do piauí;Piauí;0
+curralinhos;Piauí;0
+dirceu arcoverde;Piauí;0
+dom inocêncio;Piauí;0
+domingos mourão;Piauí;0
+elesbão veloso;Piauí;0
+eliseu martins;Piauí;0
+fartura do piauí;Piauí;0
+flores do piauí;Piauí;0
+floresta do piauí;Piauí;0
+caraúbas do piauí;Piauí;0
+caracol;Piauí;0
+capitão gervásio oliveira;Piauí;0
+capitão de campos;Piauí;0
+barreiras do piauí;Piauí;0
+batalha;Piauí;0
+bela vista do piauí;Piauí;0
+belém do piauí;Piauí;0
+beneditinos;Piauí;0
+bertolínia;Piauí;0
+betânia do piauí;Piauí;0
+boa hora;Piauí;0
+bocaina;Piauí;0
+bom jesus;Piauí;0
+bom princípio do piauí;Piauí;0
+bonfim do piauí;Piauí;0
+boqueirão do piauí;Piauí;0
+brasileira;Piauí;0
+brejo do piauí;Piauí;0
+buriti dos montes;Piauí;0
+cabeceiras do piauí;Piauí;0
+cajazeiras do piauí;Piauí;0
+caldeirão grande do piauí;Piauí;0
+campinas do piauí;Piauí;0
+campo alegre do fidalgo;Piauí;0
+campo grande do piauí;Piauí;0
+campo largo do piauí;Piauí;0
+canavieira;Piauí;0
+canto do buriti;Piauí;0
+tucumã;Pará;0
+tomé-açu;Pará;0
+canápolis;Minas Gerais;0
+lagoa formosa;Minas Gerais;0
+joaíma;Minas Gerais;0
+joanésia;Minas Gerais;0
+joaquim felício;Minas Gerais;0
+jordânia;Minas Gerais;0
+josé gonçalves de minas;Minas Gerais;0
+josé raydan;Minas Gerais;0
+josenópolis;Minas Gerais;0
+juramento;Minas Gerais;0
+juvenília;Minas Gerais;0
+ladainha;Minas Gerais;0
+lagamar;Minas Gerais;0
+lagoa dos patos;Minas Gerais;0
+lagoa grande;Minas Gerais;0
+jequitibá;Minas Gerais;0
+lassance;Minas Gerais;0
+leandro ferreira;Minas Gerais;0
+leme do prado;Minas Gerais;0
+liberdade;Minas Gerais;0
+lima duarte;Minas Gerais;0
+limeira do oeste;Minas Gerais;0
+luislândia;Minas Gerais;0
+luminárias;Minas Gerais;0
+machacalis;Minas Gerais;0
+madre de deus de minas;Minas Gerais;0
+mamonas;Minas Gerais;0
+manga;Minas Gerais;0
+jequitinhonha;Minas Gerais;0
+jequitaí;Minas Gerais;0
+martinho campos;Minas Gerais;0
+itinga;Minas Gerais;0
+ipiaçu;Minas Gerais;0
+iraí de minas;Minas Gerais;0
+itacambira;Minas Gerais;0
+itacarambi;Minas Gerais;0
+itaipé;Minas Gerais;0
+itamarandiba;Minas Gerais;0
+itambacuri;Minas Gerais;0
+itambé do mato dentro;Minas Gerais;0
+itanhomi;Minas Gerais;0
+itapagipe;Minas Gerais;0
+itapecerica;Minas Gerais;0
+itaverava;Minas Gerais;0
+itueta;Minas Gerais;0
+jequeri;Minas Gerais;0
+itutinga;Minas Gerais;0
+jaboticatubas;Minas Gerais;0
+jacinto;Minas Gerais;0
+jacuí;Minas Gerais;0
+jaguaraçu;Minas Gerais;0
+jaíba;Minas Gerais;0
+jampruca;Minas Gerais;0
+januária;Minas Gerais;0
+japaraíba;Minas Gerais;0
+japonvar;Minas Gerais;0
+jeceaba;Minas Gerais;0
+jenipapo de minas;Minas Gerais;0
+marliéria;Minas Gerais;0
+materlândia;Minas Gerais;0
+terra santa;Pará;0
+passa-vinte;Minas Gerais;0
+olhos-d'água;Minas Gerais;0
+oliveira fortes;Minas Gerais;0
+onça de pitangui;Minas Gerais;0
+padre carvalho;Minas Gerais;0
+pai pedro;Minas Gerais;0
+paineiras;Minas Gerais;0
+pains;Minas Gerais;0
+palma;Minas Gerais;0
+palmópolis;Minas Gerais;0
+papagaios;Minas Gerais;0
+passa tempo;Minas Gerais;0
+passabém;Minas Gerais;0
+patis;Minas Gerais;0
+novorizonte;Minas Gerais;0
+paulistas;Minas Gerais;0
+pavão;Minas Gerais;0
+peçanha;Minas Gerais;0
+pedra azul;Minas Gerais;0
+pedra do anta;Minas Gerais;0
+pedra do indaiá;Minas Gerais;0
+pedras de maria da cruz;Minas Gerais;0
+pedrinópolis;Minas Gerais;0
+pedro teixeira;Minas Gerais;0
+pequi;Minas Gerais;0
+perdizes;Minas Gerais;0
+pescador;Minas Gerais;0
+olaria;Minas Gerais;0
+novo oriente de minas;Minas Gerais;0
+mathias lobato;Minas Gerais;0
+monte azul;Minas Gerais;0
+matias cardoso;Minas Gerais;0
+matutina;Minas Gerais;0
+medeiros;Minas Gerais;0
+medina;Minas Gerais;0
+mendes pimentel;Minas Gerais;0
+mesquita;Minas Gerais;0
+minas novas;Minas Gerais;0
+minduri;Minas Gerais;0
+mirabela;Minas Gerais;0
+miravânia;Minas Gerais;0
+monjolos;Minas Gerais;0
+montalvânia;Minas Gerais;0
+monte formoso;Minas Gerais;0
+novo cruzeiro;Minas Gerais;0
+montezuma;Minas Gerais;0
+morada nova de minas;Minas Gerais;0
+morro da garça;Minas Gerais;0
+morro do pilar;Minas Gerais;0
+mutum;Minas Gerais;0
+nacip raydan;Minas Gerais;0
+natalândia;Minas Gerais;0
+natércia;Minas Gerais;0
+nazareno;Minas Gerais;0
+ninheira;Minas Gerais;0
+nova belém;Minas Gerais;0
+nova módica;Minas Gerais;0
+inimutaba;Minas Gerais;0
+ingaí;Minas Gerais;0
+indianópolis;Minas Gerais;0
+coroaci;Minas Gerais;0
+conceição da barra de minas;Minas Gerais;0
+conceição de ipanema;Minas Gerais;0
+conceição do mato dentro;Minas Gerais;0
+conceição do pará;Minas Gerais;0
+cônego marinho;Minas Gerais;0
+congonhas do norte;Minas Gerais;0
+conquista;Minas Gerais;0
+conselheiro pena;Minas Gerais;0
+consolação;Minas Gerais;0
+coração de jesus;Minas Gerais;0
+cordisburgo;Minas Gerais;0
+cordislândia;Minas Gerais;0
+coromandel;Minas Gerais;0
+comendador gomes;Minas Gerais;0
+coronel murta;Minas Gerais;0
+coronel pacheco;Minas Gerais;0
+coronel xavier chaves;Minas Gerais;0
+córrego danta;Minas Gerais;0
+córrego novo;Minas Gerais;0
+couto de magalhães de minas;Minas Gerais;0
+crisólita;Minas Gerais;0
+cristais;Minas Gerais;0
+cristália;Minas Gerais;0
+cruzeiro da fortaleza;Minas Gerais;0
+cuparaque;Minas Gerais;0
+curral de dentro;Minas Gerais;0
+comercinho;Minas Gerais;0
+claro dos poções;Minas Gerais;0
+indaiabira;Minas Gerais;0
+carneirinho;Minas Gerais;0
+candeias;Minas Gerais;0
+capetinga;Minas Gerais;0
+capinópolis;Minas Gerais;0
+capitão andrade;Minas Gerais;0
+capitão enéas;Minas Gerais;0
+caraí;Minas Gerais;0
+caranaíba;Minas Gerais;0
+carbonita;Minas Gerais;0
+carlos chagas;Minas Gerais;0
+carmésia;Minas Gerais;0
+carmo da cachoeira;Minas Gerais;0
+carmo do rio claro;Minas Gerais;0
+carrancas;Minas Gerais;0
+claraval;Minas Gerais;0
+carvalhos;Minas Gerais;0
+casa grande;Minas Gerais;0
+cascalho rico;Minas Gerais;0
+catas altas;Minas Gerais;0
+catas altas da noruega;Minas Gerais;0
+catuji;Minas Gerais;0
+catuti;Minas Gerais;0
+cedro do abaeté;Minas Gerais;0
+chácara;Minas Gerais;0
+chapada do norte;Minas Gerais;0
+chapada gaúcha;Minas Gerais;0
+chiador;Minas Gerais;0
+datas;Minas Gerais;0
+delfim moreira;Minas Gerais;0
+delfinópolis;Minas Gerais;0
+grão mogol;Minas Gerais;0
+francisco sá;Minas Gerais;0
+franciscópolis;Minas Gerais;0
+frei gaspar;Minas Gerais;0
+frei inocêncio;Minas Gerais;0
+frei lagonegro;Minas Gerais;0
+fronteira dos vales;Minas Gerais;0
+fruta de leite;Minas Gerais;0
+funilândia;Minas Gerais;0
+gameleiras;Minas Gerais;0
+glaucilândia;Minas Gerais;0
+goianá;Minas Gerais;0
+gouveia;Minas Gerais;0
+grupiara;Minas Gerais;0
+descoberto;Minas Gerais;0
+guapé;Minas Gerais;0
+guaraciama;Minas Gerais;0
+guarda-mor;Minas Gerais;0
+guimarânia;Minas Gerais;0
+gurinhatã;Minas Gerais;0
+ibertioga;Minas Gerais;0
+ibiaí;Minas Gerais;0
+ibiracatu;Minas Gerais;0
+ibiraci;Minas Gerais;0
+ibituruna;Minas Gerais;0
+icaraí de minas;Minas Gerais;0
+iguatama;Minas Gerais;0
+francisco dumont;Minas Gerais;0
+francisco badaró;Minas Gerais;0
+fortuna de minas;Minas Gerais;0
+fortaleza de minas;Minas Gerais;0
+desterro de entre rios;Minas Gerais;0
+desterro do melo;Minas Gerais;0
+diogo de vasconcelos;Minas Gerais;0
+dionísio;Minas Gerais;0
+divino das laranjeiras;Minas Gerais;0
+divisópolis;Minas Gerais;0
+dom bosco;Minas Gerais;0
+dom joaquim;Minas Gerais;0
+dores de guanhães;Minas Gerais;0
+dores do turvo;Minas Gerais;0
+doresópolis;Minas Gerais;0
+douradoquara;Minas Gerais;0
+engenheiro navarro;Minas Gerais;0
+espinosa;Minas Gerais;0
+espírito santo do dourado;Minas Gerais;0
+estrela dalva;Minas Gerais;0
+estrela do indaiá;Minas Gerais;0
+estrela do sul;Minas Gerais;0
+faria lemos;Minas Gerais;0
+felício dos santos;Minas Gerais;0
+felisburgo;Minas Gerais;0
+felixlândia;Minas Gerais;0
+fernandes tourinho;Minas Gerais;0
+ferros;Minas Gerais;0
+formoso;Minas Gerais;0
+piau;Minas Gerais;0
+piedade do rio grande;Minas Gerais;0
+piedade dos gerais;Minas Gerais;0
+breves;Pará;0
+anapu;Pará;0
+aurora do pará;Pará;0
+aveiro;Pará;0
+bagre;Pará;0
+baião;Pará;0
+bannach;Pará;0
+belterra;Pará;0
+bom jesus do tocantins;Pará;0
+bonito;Pará;0
+brasil novo;Pará;0
+brejo grande do araguaia;Pará;0
+breu branco;Pará;0
+bujaru;Pará;0
+altamira;Pará;0
+cachoeira do arari;Pará;0
+cachoeira do piriá;Pará;0
+canaã dos carajás;Pará;0
+capitão poço;Pará;0
+chaves;Pará;0
+colares;Pará;0
+conceição do araguaia;Pará;0
+cumaru do norte;Pará;0
+curionópolis;Pará;0
+curralinho;Pará;0
+curuá;Pará;0
+dom eliseu;Pará;0
+anajás;Pará;0
+almeirim;Pará;0
+tiros;Minas Gerais;0
+varzelândia;Minas Gerais;0
+tupaciguara;Minas Gerais;0
+turmalina;Minas Gerais;0
+turvolândia;Minas Gerais;0
+ubaí;Minas Gerais;0
+umburatiba;Minas Gerais;0
+união de minas;Minas Gerais;0
+uruana de minas;Minas Gerais;0
+urucuia;Minas Gerais;0
+vargem bonita;Minas Gerais;0
+vargem grande do rio pardo;Minas Gerais;0
+varjão de minas;Minas Gerais;0
+várzea da palma;Minas Gerais;0
+vazante;Minas Gerais;0
+alenquer;Pará;0
+verdelândia;Minas Gerais;0
+veredinha;Minas Gerais;0
+veríssimo;Minas Gerais;0
+virgem da lapa;Minas Gerais;0
+virginópolis;Minas Gerais;0
+virgolândia;Minas Gerais;0
+volta grande;Minas Gerais;0
+wenceslau braz;Minas Gerais;0
+abel figueiredo;Pará;0
+acará;Pará;0
+afuá;Pará;0
+água azul do norte;Pará;0
+eldorado dos carajás;Pará;0
+faro;Pará;0
+floresta do araguaia;Pará;0
+santa maria das barreiras;Pará;0
+piçarra;Pará;0
+placas;Pará;0
+ponta de pedras;Pará;0
+portel;Pará;0
+porto de moz;Pará;0
+prainha;Pará;0
+rio maria;Pará;0
+rondon do pará;Pará;0
+rurópolis;Pará;0
+salvaterra;Pará;0
+santa cruz do arari;Pará;0
+santa luzia do pará;Pará;0
+santana do araguaia;Pará;0
+garrafão do norte;Pará;0
+santarém;Pará;0
+são caetano de odivelas;Pará;0
+são domingos do araguaia;Pará;0
+são domingos do capim;Pará;0
+são félix do xingu;Pará;0
+são geraldo do araguaia;Pará;0
+são joão do araguaia;Pará;0
+são sebastião da boa vista;Pará;0
+sapucaia;Pará;0
+senador josé porfírio;Pará;0
+soure;Pará;0
+tailândia;Pará;0
+peixe-boi;Pará;0
+pau d'arco;Pará;0
+paragominas;Pará;0
+palestina do pará;Pará;0
+goianésia do pará;Pará;0
+gurupá;Pará;0
+inhangapi;Pará;0
+ipixuna do pará;Pará;0
+irituia;Pará;0
+itaituba;Pará;0
+itupiranga;Pará;0
+jacareacanga;Pará;0
+jacundá;Pará;0
+juruti;Pará;0
+limoeiro do ajuru;Pará;0
+magalhães barata;Pará;0
+medicilândia;Pará;0
+melgaço;Pará;0
+moju;Pará;0
+monte alegre;Pará;0
+muaná;Pará;0
+nova esperança do piriá;Pará;0
+nova ipixuna;Pará;0
+novo progresso;Pará;0
+novo repartimento;Pará;0
+óbidos;Pará;0
+oeiras do pará;Pará;0
+oriximiná;Pará;0
+pacajá;Pará;0
+tumiritinga;Minas Gerais;0
+tarumirim;Minas Gerais;0
+pimenta;Minas Gerais;0
+santa maria do salto;Minas Gerais;0
+ritápolis;Minas Gerais;0
+romaria;Minas Gerais;0
+rubelita;Minas Gerais;0
+rubim;Minas Gerais;0
+sabinópolis;Minas Gerais;0
+salto da divisa;Minas Gerais;0
+santa bárbara do monte verde;Minas Gerais;0
+santa bárbara do tugúrio;Minas Gerais;0
+santa cruz de salinas;Minas Gerais;0
+santa cruz do escalvado;Minas Gerais;0
+santa fé de minas;Minas Gerais;0
+santa helena de minas;Minas Gerais;0
+santa maria do suaçuí;Minas Gerais;0
+rio preto;Minas Gerais;0
+santa rita de caldas;Minas Gerais;0
+santa rita de ibitipoca;Minas Gerais;0
+santa rita de jacutinga;Minas Gerais;0
+santa rita do itueto;Minas Gerais;0
+santa rosa da serra;Minas Gerais;0
+santana de cataguases;Minas Gerais;0
+santana de pirapama;Minas Gerais;0
+santana do deserto;Minas Gerais;0
+santana do garambéu;Minas Gerais;0
+santana do manhuaçu;Minas Gerais;0
+santana dos montes;Minas Gerais;0
+santo antônio do aventureiro;Minas Gerais;0
+rio vermelho;Minas Gerais;0
+rio pardo de minas;Minas Gerais;0
+taquaraçu de minas;Minas Gerais;0
+presidente bernardes;Minas Gerais;0
+pintópolis;Minas Gerais;0
+piracema;Minas Gerais;0
+pirajuba;Minas Gerais;0
+piranguçu;Minas Gerais;0
+pocrane;Minas Gerais;0
+pompéu;Minas Gerais;0
+ponto chique;Minas Gerais;0
+ponto dos volantes;Minas Gerais;0
+porteirinha;Minas Gerais;0
+poté;Minas Gerais;0
+pouso alto;Minas Gerais;0
+pratinha;Minas Gerais;0
+presidente juscelino;Minas Gerais;0
+rio paranaíba;Minas Gerais;0
+presidente kubitschek;Minas Gerais;0
+presidente olegário;Minas Gerais;0
+quartel geral;Minas Gerais;0
+queluzito;Minas Gerais;0
+resende costa;Minas Gerais;0
+ressaquinha;Minas Gerais;0
+riachinho;Minas Gerais;0
+riacho dos machados;Minas Gerais;0
+rio do prado;Minas Gerais;0
+rio doce;Minas Gerais;0
+rio espera;Minas Gerais;0
+rio manso;Minas Gerais;0
+santo antônio do itambé;Minas Gerais;0
+santo antônio do jacinto;Minas Gerais;0
+santo antônio do monte;Minas Gerais;0
+serra azul de minas;Minas Gerais;0
+são sebastião do rio verde;Minas Gerais;0
+são thomé das letras;Minas Gerais;0
+são tiago;Minas Gerais;0
+são tomás de aquino;Minas Gerais;0
+são vicente de minas;Minas Gerais;0
+sapucaí-mirim;Minas Gerais;0
+sem-peixe;Minas Gerais;0
+senador cortes;Minas Gerais;0
+senador josé bento;Minas Gerais;0
+senador modestino gonçalves;Minas Gerais;0
+senhora do porto;Minas Gerais;0
+seritinga;Minas Gerais;0
+serra da saudade;Minas Gerais;0
+santo antônio do retiro;Minas Gerais;0
+serra do salitre;Minas Gerais;0
+serranópolis de minas;Minas Gerais;0
+serranos;Minas Gerais;0
+serro;Minas Gerais;0
+setubinha;Minas Gerais;0
+silveirânia;Minas Gerais;0
+silvianópolis;Minas Gerais;0
+simão pereira;Minas Gerais;0
+tabuleiro;Minas Gerais;0
+taparuba;Minas Gerais;0
+tapira;Minas Gerais;0
+tapiraí;Minas Gerais;0
+são sebastião do rio preto;Minas Gerais;0
+são sebastião do oeste;Minas Gerais;0
+são sebastião do maranhão;Minas Gerais;0
+são roque de minas;Minas Gerais;0
+santo antônio do rio abaixo;Minas Gerais;0
+santo hipólito;Minas Gerais;0
+são domingos do prata;Minas Gerais;0
+são félix de minas;Minas Gerais;0
+são francisco;Minas Gerais;0
+são francisco de paula;Minas Gerais;0
+são francisco de sales;Minas Gerais;0
+são geraldo do baixio;Minas Gerais;0
+são gonçalo do rio preto;Minas Gerais;0
+são joão batista do glória;Minas Gerais;0
+são joão da lagoa;Minas Gerais;0
+são joão da mata;Minas Gerais;0
+são joão da ponte;Minas Gerais;0
+são joão das missões;Minas Gerais;0
+são joão do pacuí;Minas Gerais;0
+são joão do paraíso;Minas Gerais;0
+são josé da barra;Minas Gerais;0
+são josé da safira;Minas Gerais;0
+são josé da varginha;Minas Gerais;0
+são josé do divino;Minas Gerais;0
+são josé do jacuri;Minas Gerais;0
+são pedro da união;Minas Gerais;0
+são pedro do suaçuí;Minas Gerais;0
+são pedro dos ferros;Minas Gerais;0
+são romão;Minas Gerais;0
+xambioá;Tocantins;0
