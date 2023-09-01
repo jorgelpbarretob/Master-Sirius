@@ -1,0 +1,5566 @@
+nomeLocalidade,estado,Cidade tem Aluno,Probabilidade
+timbó,Santa Catarina,Não,1.0
+araucária,Paraná,Não,1.0
+garibaldi,Rio Grande do Sul,Não,1.0
+monte mor,São Paulo,Sim,1.0
+pinheiral,Rio de Janeiro,Sim,1.0
+angra dos reis,Rio de Janeiro,Não,1.0
+monte alto,São Paulo,Não,1.0
+flores da cunha,Rio Grande do Sul,Não,1.0
+rolândia,Paraná,Não,1.0
+carlos barbosa,Rio Grande do Sul,Sim,1.0
+porto alegre,Rio Grande do Sul,Sim,0.9995921696574225
+uberlândia,Minas Gerais,Sim,0.9995921696574225
+santo andré,São Paulo,Sim,0.9995921696574225
+rio de janeiro,Rio de Janeiro,Sim,0.9995921696574225
+santos,São Paulo,Sim,0.9995921696574225
+ribeirão preto,São Paulo,Não,0.9995921696574225
+recife,Pernambuco,Sim,0.9995921696574225
+londrina,Paraná,Sim,0.9995921696574225
+belo horizonte,Minas Gerais,Sim,0.9995921696574225
+são bernardo do campo,São Paulo,Sim,0.9995921696574225
+brasília,Distrito Federal,Sim,0.9995921696574225
+são paulo,São Paulo,Sim,0.9995921696574225
+florianópolis,Santa Catarina,Sim,0.9995921696574225
+campinas,São Paulo,Sim,0.9995921696574225
+curitiba,Paraná,Não,0.9995921696574225
+campo grande,Mato Grosso do Sul,Sim,0.9995921696574225
+osasco,São Paulo,Sim,0.9995921696574225
+juiz de fora,Minas Gerais,Não,0.9995921696574225
+joão pessoa,Paraíba,Sim,0.9995921696574225
+goiânia,Goiás,Sim,0.9995921696574225
+poços de caldas,Minas Gerais,Não,0.9847389558232932
+araçatuba,São Paulo,Não,0.9847389558232932
+itajaí,Santa Catarina,Sim,0.9847389558232932
+balneário camboriú,Santa Catarina,Sim,0.9847389558232932
+piracicaba,São Paulo,Não,0.9847389558232932
+cascavel,Paraná,Não,0.9847389558232932
+taubaté,São Paulo,Não,0.9847389558232932
+guarujá,São Paulo,Não,0.9847389558232932
+bebedouro,São Paulo,Não,0.9847389558232932
+bauru,São Paulo,Não,0.9847389558232932
+nilópolis,Rio de Janeiro,Sim,0.9847389558232932
+ijuí,Rio Grande do Sul,Não,0.9847389558232932
+barretos,São Paulo,Sim,0.9847389558232932
+guaratinguetá,São Paulo,Não,0.9847389558232932
+araraquara,São Paulo,Não,0.9847389558232932
+assis,São Paulo,Sim,0.9847389558232932
+lorena,São Paulo,Não,0.9847389558232932
+são carlos,São Paulo,Sim,0.9847389558232932
+nova iguaçu,Rio de Janeiro,Não,0.9847389558232932
+resende,Rio de Janeiro,Não,0.9847389558232932
+criciúma,Santa Catarina,Não,0.9847389558232932
+marília,São Paulo,Não,0.9847389558232932
+são gonçalo,Rio de Janeiro,Não,0.9847389558232932
+campo limpo paulista,São Paulo,Sim,0.9847389558232932
+ipatinga,Minas Gerais,Não,0.9847389558232932
+itabuna,Bahia,Não,0.9847389558232932
+indaiatuba,São Paulo,Não,0.9847389558232932
+votuporanga,São Paulo,Não,0.9847389558232932
+itabira,Minas Gerais,Sim,0.9847389558232932
+cotia,São Paulo,Não,0.9847389558232932
+rio claro,São Paulo,Não,0.9847389558232932
+são josé dos campos,São Paulo,Sim,0.9847389558232932
+americana,São Paulo,Sim,0.9847389558232932
+itajubá,Minas Gerais,Não,0.9847389558232932
+olinda,Pernambuco,Não,0.9847389558232932
+ponta grossa,Paraná,Não,0.9847389558232932
+lavras,Minas Gerais,Não,0.9847389558232932
+bragança paulista,São Paulo,Sim,0.9847389558232932
+botucatu,São Paulo,Não,0.9847389558232932
+jaboticabal,São Paulo,Não,0.9847389558232932
+araxá,Minas Gerais,Não,0.9076923076923077
+são mateus,Espírito Santo,Não,0.9076923076923077
+vila velha,Espírito Santo,Não,0.9076923076923077
+jacareí,São Paulo,Não,0.9076923076923077
+taboão da serra,São Paulo,Não,0.9076923076923077
+anápolis,Goiás,Sim,0.9076923076923077
+feira de santana,Bahia,Não,0.9076923076923077
+ourinhos,São Paulo,Não,0.9076923076923077
+itu,São Paulo,Não,0.9076923076923077
+araras,São Paulo,Não,0.9076923076923077
+são joão da boa vista,São Paulo,Não,0.9076923076923077
+pouso alegre,Minas Gerais,Não,0.9076923076923077
+umuarama,Paraná,Não,0.9076923076923077
+serra,Espírito Santo,Não,0.9076923076923077
+campina grande,Paraíba,Não,0.9076923076923077
+contagem,Minas Gerais,Não,0.9076923076923077
+salto,São Paulo,Não,0.9076923076923077
+palmas,Tocantins,Não,0.9076923076923077
+campo mourão,Paraná,Não,0.9076923076923077
+alagoinhas,Bahia,Não,0.9076923076923077
+mossoró,Rio Grande do Norte,Não,0.9076923076923077
+lages,Santa Catarina,Não,0.9076923076923077
+conselheiro lafaiete,Minas Gerais,Não,0.9076923076923077
+montes claros,Minas Gerais,Não,0.9076923076923077
+uberaba,Minas Gerais,Não,0.9076923076923077
+imperatriz,Maranhão,Não,0.9076923076923077
+rio branco,Acre,Não,0.9076923076923077
+toledo,Paraná,Sim,0.9076923076923077
+petrolina,Pernambuco,Sim,0.9076923076923077
+catanduva,São Paulo,Não,0.9076923076923077
+paulista,Pernambuco,Não,0.9076923076923077
+presidente prudente,São Paulo,Não,0.9076923076923077
+barbacena,Minas Gerais,Não,0.9076923076923077
+varginha,Minas Gerais,Não,0.9076923076923077
+fernandópolis,São Paulo,Não,0.9076923076923077
+paranavaí,Paraná,Não,0.9076923076923077
+franca,São Paulo,Não,0.9076923076923077
+volta redonda,Rio de Janeiro,Não,0.9076923076923077
+joinville,Santa Catarina,Sim,0.9076923076923077
+limeira,São Paulo,Não,0.9076923076923077
+alexandria,Rio Grande do Norte,Não,0.0
+caraúbas,Rio Grande do Norte,Não,0.0
+bodó,Rio Grande do Norte,Não,0.0
+alto do rodrigues,Rio Grande do Norte,Não,0.0
+bom jesus,Rio Grande do Norte,Não,0.0
+brejinho,Rio Grande do Norte,Não,0.0
+almino afonso,Rio Grande do Norte,Não,0.0
+caiçara do norte,Rio Grande do Norte,Não,0.0
+caiçara do rio do vento,Rio Grande do Norte,Não,0.0
+caicó,Rio Grande do Norte,Não,0.0
+carnaubais,Rio Grande do Norte,Não,0.0
+carnaúba dos dantas,Rio Grande do Norte,Não,0.0
+saquarema,Rio de Janeiro,Não,0.0
+sapucaia,Rio de Janeiro,Não,0.0
+são sebastião do alto,Rio de Janeiro,Não,0.0
+campo redondo,Rio Grande do Norte,Não,0.0
+canguaretama,Rio Grande do Norte,Não,0.0
+água nova,Rio Grande do Norte,Não,0.0
+valença,Rio de Janeiro,Não,0.0
+silva jardim,Rio de Janeiro,Não,0.0
+seropédica,Rio de Janeiro,Não,0.0
+acari,Rio Grande do Norte,Não,0.0
+varre-sai,Rio de Janeiro,Não,0.0
+apodi,Rio Grande do Norte,Não,0.0
+arês,Rio Grande do Norte,Não,0.0
+três rios,Rio de Janeiro,Não,0.0
+augusto severo,Rio Grande do Norte,Não,0.0
+vassouras,Rio de Janeiro,Não,0.0
+baía formosa,Rio Grande do Norte,Não,0.0
+antônio martins,Rio Grande do Norte,Não,0.0
+trajano de moraes,Rio de Janeiro,Não,0.0
+bento fernandes,Rio Grande do Norte,Não,0.0
+baraúna,Rio Grande do Norte,Não,0.0
+teresópolis,Rio de Janeiro,Não,0.0
+açu,Rio Grande do Norte,Não,0.0
+angicos,Rio Grande do Norte,Não,0.0
+tanguá,Rio de Janeiro,Não,0.0
+sumidouro,Rio de Janeiro,Não,0.0
+barcelona,Rio Grande do Norte,Não,0.0
+areia branca,Rio Grande do Norte,Não,0.0
+afonso bezerra,Rio Grande do Norte,Não,0.0
+grossos,Rio Grande do Norte,Não,0.0
+ceará-mirim,Rio Grande do Norte,Não,0.0
+cerro corá,Rio Grande do Norte,Não,0.0
+natal,Rio Grande do Norte,Não,0.0
+monte das gameleiras,Rio Grande do Norte,Não,0.0
+monte alegre,Rio Grande do Norte,Não,0.0
+montanhas,Rio Grande do Norte,Não,0.0
+messias targino,Rio Grande do Norte,Não,0.0
+maxaranguape,Rio Grande do Norte,Não,0.0
+martins,Rio Grande do Norte,Não,0.0
+marcelino vieira,Rio Grande do Norte,Não,0.0
+major sales,Rio Grande do Norte,Não,0.0
+macau,Rio Grande do Norte,Não,0.0
+macaíba,Rio Grande do Norte,Não,0.0
+luís gomes,Rio Grande do Norte,Não,0.0
+lucrécia,Rio Grande do Norte,Não,0.0
+lajes pintadas,Rio Grande do Norte,Não,0.0
+lajes,Rio Grande do Norte,Não,0.0
+lagoa salgada,Rio Grande do Norte,Não,0.0
+lagoa nova,Rio Grande do Norte,Não,0.0
+nísia floresta,Rio Grande do Norte,Não,0.0
+nova cruz,Rio Grande do Norte,Não,0.0
+olho-d'água do borges,Rio Grande do Norte,Não,0.0
+pau dos ferros,Rio Grande do Norte,Não,0.0
+poço branco,Rio Grande do Norte,Não,0.0
+pilões,Rio Grande do Norte,Não,0.0
+pendências,Rio Grande do Norte,Não,0.0
+pedro velho,Rio Grande do Norte,Não,0.0
+pedro avelino,Rio Grande do Norte,Não,0.0
+pedra preta,Rio Grande do Norte,Não,0.0
+pedra grande,Rio Grande do Norte,Não,0.0
+patu,Rio Grande do Norte,Não,0.0
+ouro branco,Rio Grande do Norte,Não,0.0
+passagem,Rio Grande do Norte,Não,0.0
+passa e fica,Rio Grande do Norte,Não,0.0
+parnamirim,Rio Grande do Norte,Não,0.0
+parelhas,Rio Grande do Norte,Não,0.0
+parazinho,Rio Grande do Norte,Não,0.0
+paraú,Rio Grande do Norte,Não,0.0
+paraná,Rio Grande do Norte,Não,0.0
+lagoa de velhos,Rio Grande do Norte,Não,0.0
+lagoa de pedras,Rio Grande do Norte,Não,0.0
+lagoa d'anta,Rio Grande do Norte,Não,0.0
+extremoz,Rio Grande do Norte,Não,0.0
+goianinha,Rio Grande do Norte,Não,0.0
+galinhos,Rio Grande do Norte,Não,0.0
+frutuoso gomes,Rio Grande do Norte,Não,0.0
+francisco dantas,Rio Grande do Norte,Não,0.0
+florânia,Rio Grande do Norte,Não,0.0
+fernando pedroza,Rio Grande do Norte,Não,0.0
+felipe guerra,Rio Grande do Norte,Não,0.0
+espírito santo,Rio Grande do Norte,Não,0.0
+são josé do vale do rio preto,Rio de Janeiro,Não,0.0
+equador,Rio Grande do Norte,Não,0.0
+encanto,Rio Grande do Norte,Não,0.0
+doutor severiano,Rio Grande do Norte,Não,0.0
+currais novos,Rio Grande do Norte,Não,0.0
+cruzeta,Rio Grande do Norte,Não,0.0
+coronel joão pessoa,Rio Grande do Norte,Não,0.0
+coronel ezequiel,Rio Grande do Norte,Não,0.0
+governador dix-sept rosado,Rio Grande do Norte,Não,0.0
+guamaré,Rio Grande do Norte,Não,0.0
+jundiá,Rio Grande do Norte,Não,0.0
+japi,Rio Grande do Norte,Não,0.0
+jucurutu,Rio Grande do Norte,Não,0.0
+josé da penha,Rio Grande do Norte,Não,0.0
+joão dias,Rio Grande do Norte,Não,0.0
+joão câmara,Rio Grande do Norte,Não,0.0
+jardim do seridó,Rio Grande do Norte,Não,0.0
+jardim de piranhas,Rio Grande do Norte,Não,0.0
+jardim de angicos,Rio Grande do Norte,Não,0.0
+januário cicco,Rio Grande do Norte,Não,0.0
+ielmo marinho,Rio Grande do Norte,Não,0.0
+janduís,Rio Grande do Norte,Não,0.0
+jandaíra,Rio Grande do Norte,Não,0.0
+jaçanã,Rio Grande do Norte,Não,0.0
+itaú,Rio Grande do Norte,Não,0.0
+itajá,Rio Grande do Norte,Não,0.0
+ipueira,Rio Grande do Norte,Não,0.0
+ipanguaçu,Rio Grande do Norte,Não,0.0
+são pedro da aldeia,Rio de Janeiro,Não,0.0
+acrelândia,Acre,Não,0.0
+são josé de ubá,Rio de Janeiro,Não,0.0
+socorro do piauí,Piauí,Não,0.0
+são joão da canabrava,Piauí,Não,0.0
+são gonçalo do piauí,Piauí,Não,0.0
+são gonçalo do gurguéia,Piauí,Não,0.0
+são francisco do piauí,Piauí,Não,0.0
+são francisco de assis do piauí,Piauí,Não,0.0
+são félix do piauí,Piauí,Não,0.0
+são braz do piauí,Piauí,Não,0.0
+santo inácio do piauí,Piauí,Não,0.0
+santo antônio dos milagres,Piauí,Não,0.0
+santo antônio de lisboa,Piauí,Não,0.0
+santana do piauí,Piauí,Não,0.0
+santa rosa do piauí,Piauí,Não,0.0
+santa luz,Piauí,Não,0.0
+santa filomena,Piauí,Não,0.0
+santa cruz dos milagres,Piauí,Não,0.0
+santa cruz do piauí,Piauí,Não,0.0
+rio grande do piauí,Piauí,Não,0.0
+são joão da fronteira,Piauí,Não,0.0
+são joão da serra,Piauí,Não,0.0
+são joão da varjota,Piauí,Não,0.0
+são miguel do fidalgo,Piauí,Não,0.0
+simões,Piauí,Não,0.0
+sigefredo pacheco,Piauí,Não,0.0
+sebastião leal,Piauí,Não,0.0
+sebastião barros,Piauí,Não,0.0
+são raimundo nonato,Piauí,Não,0.0
+são pedro do piauí,Piauí,Não,0.0
+são miguel do tapuio,Piauí,Não,0.0
+são miguel da baixa grande,Piauí,Não,0.0
+são joão do arraial,Piauí,Não,0.0
+são luis do piauí,Piauí,Não,0.0
+são lourenço do piauí,Piauí,Não,0.0
+são julião,Piauí,Não,0.0
+são josé do piauí,Piauí,Não,0.0
+são josé do peixe,Piauí,Não,0.0
+são josé do divino,Piauí,Não,0.0
+são joão do piauí,Piauí,Não,0.0
+ribeiro gonçalves,Piauí,Não,0.0
+ribeira do piauí,Piauí,Não,0.0
+riacho frio,Piauí,Não,0.0
+novo santo antônio,Piauí,Não,0.0
+palmeirais,Piauí,Não,0.0
+palmeira do piauí,Piauí,Não,0.0
+pajeú do piauí,Piauí,Não,0.0
+paes landim,Piauí,Não,0.0
+padre marcos,Piauí,Não,0.0
+olho d'água do piauí,Piauí,Não,0.0
+oeiras,Piauí,Não,0.0
+novo oriente do piauí,Piauí,Não,0.0
+parnaguá,Piauí,Não,0.0
+nova santa rita,Piauí,Não,0.0
+nossa senhora dos remédios,Piauí,Não,0.0
+nossa senhora de nazaré,Piauí,Não,0.0
+nazária,Piauí,Não,0.0
+nazaré do piauí,Piauí,Não,0.0
+murici dos portelas,Piauí,Não,0.0
+morro do chapéu do piauí,Piauí,Não,0.0
+paquetá,Piauí,Não,0.0
+parnaíba,Piauí,Não,0.0
+regeneração,Piauí,Não,0.0
+pio ix,Piauí,Não,0.0
+redenção do gurguéia,Piauí,Não,0.0
+queimada nova,Piauí,Não,0.0
+prata do piauí,Piauí,Não,0.0
+porto alegre do piauí,Piauí,Não,0.0
+porto,Piauí,Não,0.0
+piripiri,Piauí,Não,0.0
+piracuruca,Piauí,Não,0.0
+pimenteiras,Piauí,Não,0.0
+passagem franca do piauí,Piauí,Não,0.0
+picos,Piauí,Não,0.0
+pedro laurentino,Piauí,Não,0.0
+pedro ii,Piauí,Não,0.0
+pavussu,Piauí,Não,0.0
+paulistana,Piauí,Não,0.0
+pau d'arco do piauí,Piauí,Não,0.0
+patos do piauí,Piauí,Não,0.0
+simplício mendes,Piauí,Não,0.0
+sussuapara,Piauí,Não,0.0
+são joão de meriti,Rio de Janeiro,Não,0.0
+tamboril do piauí,Piauí,Não,0.0
+nova friburgo,Rio de Janeiro,Não,0.0
+niterói,Rio de Janeiro,Não,0.0
+natividade,Rio de Janeiro,Não,0.0
+miracema,Rio de Janeiro,Não,0.0
+miguel pereira,Rio de Janeiro,Não,0.0
+mesquita,Rio de Janeiro,Não,0.0
+mendes,Rio de Janeiro,Não,0.0
+maricá,Rio de Janeiro,Não,0.0
+mangaratiba,Rio de Janeiro,Não,0.0
+magé,Rio de Janeiro,Não,0.0
+macuco,Rio de Janeiro,Não,0.0
+macaé,Rio de Janeiro,Não,0.0
+laje do muriaé,Rio de Janeiro,Não,0.0
+japeri,Rio de Janeiro,Não,0.0
+itatiaia,Rio de Janeiro,Não,0.0
+itaperuna,Rio de Janeiro,Não,0.0
+itaocara,Rio de Janeiro,Não,0.0
+paracambi,Rio de Janeiro,Não,0.0
+paraíba do sul,Rio de Janeiro,Não,0.0
+paraty,Rio de Janeiro,Não,0.0
+rio claro,Rio de Janeiro,Não,0.0
+são joão da barra,Rio de Janeiro,Não,0.0
+são francisco de itabapoana,Rio de Janeiro,Não,0.0
+são fidélis,Rio de Janeiro,Não,0.0
+santo antônio de pádua,Rio de Janeiro,Não,0.0
+santa maria madalena,Rio de Janeiro,Não,0.0
+rio das ostras,Rio de Janeiro,Não,0.0
+rio das flores,Rio de Janeiro,Não,0.0
+rio bonito,Rio de Janeiro,Não,0.0
+paty do alferes,Rio de Janeiro,Não,0.0
+quissamã,Rio de Janeiro,Não,0.0
+queimados,Rio de Janeiro,Não,0.0
+quatis,Rio de Janeiro,Não,0.0
+porto real,Rio de Janeiro,Não,0.0
+porciúncula,Rio de Janeiro,Não,0.0
+portalegre,Rio Grande do Norte,Não,0.0
+petrópolis,Rio de Janeiro,Não,0.0
+italva,Rio de Janeiro,Não,0.0
+itaguaí,Rio de Janeiro,Não,0.0
+itaboraí,Rio de Janeiro,Não,0.0
+vila nova do piauí,Piauí,Não,0.0
+barra do piraí,Rio de Janeiro,Não,0.0
+arraial do cabo,Rio de Janeiro,Não,0.0
+armação dos búzios,Rio de Janeiro,Não,0.0
+areal,Rio de Janeiro,Não,0.0
+araruama,Rio de Janeiro,Não,0.0
+aperibé,Rio de Janeiro,Não,0.0
+wall ferraz,Piauí,Não,0.0
+vera mendes,Piauí,Não,0.0
+belford roxo,Rio de Janeiro,Não,0.0
+várzea grande,Piauí,Não,0.0
+várzea branca,Piauí,Não,0.0
+valença do piauí,Piauí,Não,0.0
+uruçuí,Piauí,Não,0.0
+união,Piauí,Não,0.0
+teresina,Piauí,Não,0.0
+tanque do piauí,Piauí,Não,0.0
+barra mansa,Rio de Janeiro,Não,0.0
+bom jardim,Rio de Janeiro,Não,0.0
+iguaba grande,Rio de Janeiro,Não,0.0
+casimiro de abreu,Rio de Janeiro,Não,0.0
+guapimirim,Rio de Janeiro,Não,0.0
+engenheiro paulo de frontin,Rio de Janeiro,Não,0.0
+duque de caxias,Rio de Janeiro,Não,0.0
+duas barras,Rio de Janeiro,Não,0.0
+cordeiro,Rio de Janeiro,Não,0.0
+conceição de macabu,Rio de Janeiro,Não,0.0
+comendador levy gasparian,Rio de Janeiro,Não,0.0
+carmo,Rio de Janeiro,Não,0.0
+bom jesus do itabapoana,Rio de Janeiro,Não,0.0
+cardoso moreira,Rio de Janeiro,Não,0.0
+carapebus,Rio de Janeiro,Não,0.0
+cantagalo,Rio de Janeiro,Não,0.0
+campos dos goytacazes,Rio de Janeiro,Não,0.0
+cambuci,Rio de Janeiro,Não,0.0
+cachoeiras de macacu,Rio de Janeiro,Não,0.0
+cabo frio,Rio de Janeiro,Não,0.0
+piraí,Rio de Janeiro,Não,0.0
+são bento do trairí,Rio Grande do Norte,Não,0.0
+porto do mangue,Rio Grande do Norte,Não,0.0
+gaurama,Rio Grande do Sul,Não,0.0
+gramado xavier,Rio Grande do Sul,Não,0.0
+gramado dos loureiros,Rio Grande do Sul,Não,0.0
+gramado,Rio Grande do Sul,Não,0.0
+glorinha,Rio Grande do Sul,Não,0.0
+giruá,Rio Grande do Sul,Não,0.0
+getúlio vargas,Rio Grande do Sul,Não,0.0
+gentil,Rio Grande do Sul,Não,0.0
+general câmara,Rio Grande do Sul,Não,0.0
+garruchos,Rio Grande do Sul,Não,0.0
+guabiju,Rio Grande do Sul,Não,0.0
+frederico westphalen,Rio Grande do Sul,Não,0.0
+fortaleza dos valos,Rio Grande do Sul,Não,0.0
+forquetinha,Rio Grande do Sul,Não,0.0
+formigueiro,Rio Grande do Sul,Não,0.0
+fontoura xavier,Rio Grande do Sul,Não,0.0
+floriano peixoto,Rio Grande do Sul,Não,0.0
+feliz,Rio Grande do Sul,Não,0.0
+fazenda vilanova,Rio Grande do Sul,Não,0.0
+gravataí,Rio Grande do Sul,Não,0.0
+guaíba,Rio Grande do Sul,Não,0.0
+faxinal do soturno,Rio Grande do Sul,Não,0.0
+ibiraiaras,Rio Grande do Sul,Não,0.0
+inhacorá,Rio Grande do Sul,Não,0.0
+independência,Rio Grande do Sul,Não,0.0
+imigrante,Rio Grande do Sul,Não,0.0
+imbé,Rio Grande do Sul,Não,0.0
+ilópolis,Rio Grande do Sul,Não,0.0
+igrejinha,Rio Grande do Sul,Não,0.0
+ibirubá,Rio Grande do Sul,Não,0.0
+ibirapuitã,Rio Grande do Sul,Não,0.0
+ibiaçá,Rio Grande do Sul,Não,0.0
+guaporé,Rio Grande do Sul,Não,0.0
+ibarama,Rio Grande do Sul,Não,0.0
+humaitá,Rio Grande do Sul,Não,0.0
+hulha negra,Rio Grande do Sul,Não,0.0
+horizontina,Rio Grande do Sul,Não,0.0
+herveiras,Rio Grande do Sul,Não,0.0
+herval,Rio Grande do Sul,Não,0.0
+harmonia,Rio Grande do Sul,Não,0.0
+guarani das missões,Rio Grande do Sul,Não,0.0
+faxinalzinho,Rio Grande do Sul,Não,0.0
+farroupilha,Rio Grande do Sul,Não,0.0
+coronel pilar,Rio Grande do Sul,Não,0.0
+dezesseis de novembro,Rio Grande do Sul,Não,0.0
+dona francisca,Rio Grande do Sul,Não,0.0
+dom pedro de alcântara,Rio Grande do Sul,Não,0.0
+dom pedrito,Rio Grande do Sul,Não,0.0
+dom feliciano,Rio Grande do Sul,Não,0.0
+dois lajeados,Rio Grande do Sul,Não,0.0
+dois irmãos das missões,Rio Grande do Sul,Não,0.0
+dois irmãos,Rio Grande do Sul,Não,0.0
+dilermando de aguiar,Rio Grande do Sul,Não,0.0
+derrubadas,Rio Grande do Sul,Não,0.0
+doutor ricardo,Rio Grande do Sul,Não,0.0
+david canabarro,Rio Grande do Sul,Não,0.0
+cruzeiro do sul,Rio Grande do Sul,Não,0.0
+cruzaltense,Rio Grande do Sul,Não,0.0
+cruz alta,Rio Grande do Sul,Não,0.0
+cristal do sul,Rio Grande do Sul,Não,0.0
+cristal,Rio Grande do Sul,Não,0.0
+crissiumal,Rio Grande do Sul,Não,0.0
+coxilha,Rio Grande do Sul,Não,0.0
+doutor maurício cardoso,Rio Grande do Sul,Não,0.0
+eldorado do sul,Rio Grande do Sul,Não,0.0
+fagundes varela,Rio Grande do Sul,Não,0.0
+esmeralda,Rio Grande do Sul,Não,0.0
+eugênio de castro,Rio Grande do Sul,Não,0.0
+estrela velha,Rio Grande do Sul,Não,0.0
+estrela,Rio Grande do Sul,Não,0.0
+esteio,Rio Grande do Sul,Não,0.0
+estância velha,Rio Grande do Sul,Não,0.0
+estação,Rio Grande do Sul,Não,0.0
+espumoso,Rio Grande do Sul,Não,0.0
+esperança do sul,Rio Grande do Sul,Não,0.0
+erval seco,Rio Grande do Sul,Não,0.0
+encantado,Rio Grande do Sul,Não,0.0
+erval grande,Rio Grande do Sul,Não,0.0
+ernestina,Rio Grande do Sul,Não,0.0
+erechim,Rio Grande do Sul,Não,0.0
+erebango,Rio Grande do Sul,Não,0.0
+entre-ijuís,Rio Grande do Sul,Não,0.0
+entre rios do sul,Rio Grande do Sul,Não,0.0
+engenho velho,Rio Grande do Sul,Não,0.0
+encruzilhada do sul,Rio Grande do Sul,Não,0.0
+ipê,Rio Grande do Sul,Não,0.0
+ipiranga do sul,Rio Grande do Sul,Não,0.0
+iraí,Rio Grande do Sul,Não,0.0
+mostardas,Rio Grande do Sul,Não,0.0
+nova araçá,Rio Grande do Sul,Não,0.0
+nova alvorada,Rio Grande do Sul,Não,0.0
+nonoai,Rio Grande do Sul,Não,0.0
+nicolau vergueiro,Rio Grande do Sul,Não,0.0
+não-me-toque,Rio Grande do Sul,Não,0.0
+muliterno,Rio Grande do Sul,Não,0.0
+muitos capões,Rio Grande do Sul,Não,0.0
+muçum,Rio Grande do Sul,Não,0.0
+morro reuter,Rio Grande do Sul,Não,0.0
+nova boa vista,Rio Grande do Sul,Não,0.0
+morro redondo,Rio Grande do Sul,Não,0.0
+morrinhos do sul,Rio Grande do Sul,Não,0.0
+mormaço,Rio Grande do Sul,Não,0.0
+montenegro,Rio Grande do Sul,Não,0.0
+monte belo do sul,Rio Grande do Sul,Não,0.0
+monte alegre dos campos,Rio Grande do Sul,Não,0.0
+montauri,Rio Grande do Sul,Não,0.0
+miraguaí,Rio Grande do Sul,Não,0.0
+nova bassano,Rio Grande do Sul,Não,0.0
+nova bréscia,Rio Grande do Sul,Não,0.0
+itaara,Rio Grande do Sul,Não,0.0
+novo barreiro,Rio Grande do Sul,Não,0.0
+palmares do sul,Rio Grande do Sul,Não,0.0
+paim filho,Rio Grande do Sul,Não,0.0
+osório,Rio Grande do Sul,Não,0.0
+novo xingu,Rio Grande do Sul,Não,0.0
+novo tiradentes,Rio Grande do Sul,Não,0.0
+novo machado,Rio Grande do Sul,Não,0.0
+novo hamburgo,Rio Grande do Sul,Não,0.0
+novo cabrais,Rio Grande do Sul,Não,0.0
+nova santa rita,Rio Grande do Sul,Não,0.0
+nova candelária,Rio Grande do Sul,Não,0.0
+nova roma do sul,Rio Grande do Sul,Não,0.0
+nova ramada,Rio Grande do Sul,Não,0.0
+nova prata,Rio Grande do Sul,Não,0.0
+nova petrópolis,Rio Grande do Sul,Não,0.0
+nova palma,Rio Grande do Sul,Não,0.0
+nova pádua,Rio Grande do Sul,Não,0.0
+nova hartz,Rio Grande do Sul,Não,0.0
+nova esperança do sul,Rio Grande do Sul,Não,0.0
+minas do leão,Rio Grande do Sul,Não,0.0
+maximiliano de almeida,Rio Grande do Sul,Não,0.0
+mato queimado,Rio Grande do Sul,Não,0.0
+jacutinga,Rio Grande do Sul,Não,0.0
+lagoa dos três cantos,Rio Grande do Sul,Não,0.0
+lagoa bonita do sul,Rio Grande do Sul,Não,0.0
+júlio de castilhos,Rio Grande do Sul,Não,0.0
+jóia,Rio Grande do Sul,Não,0.0
+jari,Rio Grande do Sul,Não,0.0
+jaquirana,Rio Grande do Sul,Não,0.0
+jaguari,Rio Grande do Sul,Não,0.0
+jaguarão,Rio Grande do Sul,Não,0.0
+jacuizinho,Rio Grande do Sul,Não,0.0
+mato leitão,Rio Grande do Sul,Não,0.0
+jaboticaba,Rio Grande do Sul,Não,0.0
+ivoti,Rio Grande do Sul,Não,0.0
+ivorá,Rio Grande do Sul,Não,0.0
+itatiba do sul,Rio Grande do Sul,Não,0.0
+itati,Rio Grande do Sul,Não,0.0
+itaqui,Rio Grande do Sul,Não,0.0
+itapuca,Rio Grande do Sul,Não,0.0
+itacurubi,Rio Grande do Sul,Não,0.0
+lagoa vermelha,Rio Grande do Sul,Não,0.0
+lagoão,Rio Grande do Sul,Não,0.0
+lajeado,Rio Grande do Sul,Não,0.0
+lajeado do bugre,Rio Grande do Sul,Não,0.0
+mato castelhano,Rio Grande do Sul,Não,0.0
+mata,Rio Grande do Sul,Não,0.0
+marques de souza,Rio Grande do Sul,Não,0.0
+mariano moro,Rio Grande do Sul,Não,0.0
+mariana pimentel,Rio Grande do Sul,Não,0.0
+marcelino ramos,Rio Grande do Sul,Não,0.0
+marau,Rio Grande do Sul,Não,0.0
+maratá,Rio Grande do Sul,Não,0.0
+maquiné,Rio Grande do Sul,Não,0.0
+manoel viana,Rio Grande do Sul,Não,0.0
+mampituba,Rio Grande do Sul,Não,0.0
+machadinho,Rio Grande do Sul,Não,0.0
+maçambará,Rio Grande do Sul,Não,0.0
+linha nova,Rio Grande do Sul,Não,0.0
+lindolfo collor,Rio Grande do Sul,Não,0.0
+liberato salzano,Rio Grande do Sul,Não,0.0
+lavras do sul,Rio Grande do Sul,Não,0.0
+cotiporã,Rio Grande do Sul,Não,0.0
+coronel bicaco,Rio Grande do Sul,Não,0.0
+presidente juscelino,Rio Grande do Norte,Não,0.0
+vera cruz,Rio Grande do Norte,Não,0.0
+alegrete,Rio Grande do Sul,Não,0.0
+alecrim,Rio Grande do Sul,Não,0.0
+ajuricaba,Rio Grande do Sul,Não,0.0
+agudo,Rio Grande do Sul,Não,0.0
+água santa,Rio Grande do Sul,Não,0.0
+aceguá,Rio Grande do Sul,Não,0.0
+vila flor,Rio Grande do Norte,Não,0.0
+viçosa,Rio Grande do Norte,Não,0.0
+venha-ver,Rio Grande do Norte,Não,0.0
+almirante tamandaré do sul,Rio Grande do Sul,Não,0.0
+várzea,Rio Grande do Norte,Não,0.0
+upanema,Rio Grande do Norte,Não,0.0
+umarizal,Rio Grande do Norte,Não,0.0
+triunfo potiguar,Rio Grande do Norte,Não,0.0
+touros,Rio Grande do Norte,Não,0.0
+timbaúba dos batistas,Rio Grande do Norte,Não,0.0
+tibau do sul,Rio Grande do Norte,Não,0.0
+tibau,Rio Grande do Norte,Não,0.0
+alegria,Rio Grande do Sul,Não,0.0
+alpestre,Rio Grande do Sul,Não,0.0
+tenente ananias,Rio Grande do Norte,Não,0.0
+aratiba,Rio Grande do Sul,Não,0.0
+augusto pestana,Rio Grande do Sul,Não,0.0
+arvorezinha,Rio Grande do Sul,Não,0.0
+arroio grande,Rio Grande do Sul,Não,0.0
+arroio dos ratos,Rio Grande do Sul,Não,0.0
+arroio do tigre,Rio Grande do Sul,Não,0.0
+arroio do sal,Rio Grande do Sul,Não,0.0
+arroio do padre,Rio Grande do Sul,Não,0.0
+arroio do meio,Rio Grande do Sul,Não,0.0
+araricá,Rio Grande do Sul,Não,0.0
+alto alegre,Rio Grande do Sul,Não,0.0
+arambaré,Rio Grande do Sul,Não,0.0
+antônio prado,Rio Grande do Sul,Não,0.0
+anta gorda,Rio Grande do Sul,Não,0.0
+andré da rocha,Rio Grande do Sul,Não,0.0
+ametista do sul,Rio Grande do Sul,Não,0.0
+amaral ferrador,Rio Grande do Sul,Não,0.0
+alvorada,Rio Grande do Sul,Não,0.0
+alto feliz,Rio Grande do Sul,Não,0.0
+tenente laurentino cruz,Rio Grande do Norte,Não,0.0
+tangará,Rio Grande do Norte,Não,0.0
+coronel barros,Rio Grande do Sul,Não,0.0
+santa cruz,Rio Grande do Norte,Não,0.0
+são francisco do oeste,Rio Grande do Norte,Não,0.0
+são fernando,Rio Grande do Norte,Não,0.0
+monte alegre do piauí,Piauí,Não,0.0
+são bento do norte,Rio Grande do Norte,Não,0.0
+santo antônio,Rio Grande do Norte,Não,0.0
+santana do seridó,Rio Grande do Norte,Não,0.0
+santana do matos,Rio Grande do Norte,Não,0.0
+santa maria,Rio Grande do Norte,Não,0.0
+ruy barbosa,Rio Grande do Norte,Não,0.0
+são joão do sabugi,Rio Grande do Norte,Não,0.0
+rodolfo fernandes,Rio Grande do Norte,Não,0.0
+rio do fogo,Rio Grande do Norte,Não,0.0
+riachuelo,Rio Grande do Norte,Não,0.0
+riacho de santana,Rio Grande do Norte,Não,0.0
+riacho da cruz,Rio Grande do Norte,Não,0.0
+rafael godeiro,Rio Grande do Norte,Não,0.0
+rafael fernandes,Rio Grande do Norte,Não,0.0
+pureza,Rio Grande do Norte,Não,0.0
+são gonçalo do amarante,Rio Grande do Norte,Não,0.0
+são josé de mipibu,Rio Grande do Norte,Não,0.0
+taipu,Rio Grande do Norte,Não,0.0
+senador georgino avelino,Rio Grande do Norte,Não,0.0
+taboleiro grande,Rio Grande do Norte,Não,0.0
+sítio novo,Rio Grande do Norte,Não,0.0
+severiano melo,Rio Grande do Norte,Não,0.0
+serrinha dos pintos,Rio Grande do Norte,Não,0.0
+serrinha,Rio Grande do Norte,Não,0.0
+serra negra do norte,Rio Grande do Norte,Não,0.0
+serra do mel,Rio Grande do Norte,Não,0.0
+serra de são bento,Rio Grande do Norte,Não,0.0
+senador elói de souza,Rio Grande do Norte,Não,0.0
+são josé do campestre,Rio Grande do Norte,Não,0.0
+são vicente,Rio Grande do Norte,Não,0.0
+são tomé,Rio Grande do Norte,Não,0.0
+são rafael,Rio Grande do Norte,Não,0.0
+são pedro,Rio Grande do Norte,Não,0.0
+são paulo do potengi,Rio Grande do Norte,Não,0.0
+são miguel do gostoso,Rio Grande do Norte,Não,0.0
+são miguel,Rio Grande do Norte,Não,0.0
+são josé do seridó,Rio Grande do Norte,Não,0.0
+áurea,Rio Grande do Sul,Não,0.0
+bagé,Rio Grande do Sul,Não,0.0
+balneário pinhal,Rio Grande do Sul,Não,0.0
+capão do leão,Rio Grande do Sul,Não,0.0
+caseiros,Rio Grande do Sul,Não,0.0
+casca,Rio Grande do Sul,Não,0.0
+carlos gomes,Rio Grande do Sul,Não,0.0
+carazinho,Rio Grande do Sul,Não,0.0
+caraá,Rio Grande do Sul,Não,0.0
+capivari do sul,Rio Grande do Sul,Não,0.0
+capitão,Rio Grande do Sul,Não,0.0
+capela de santana,Rio Grande do Sul,Não,0.0
+capão do cipó,Rio Grande do Sul,Não,0.0
+caxias do sul,Rio Grande do Sul,Não,0.0
+capão da canoa,Rio Grande do Sul,Não,0.0
+capão bonito do sul,Rio Grande do Sul,Não,0.0
+canudos do vale,Rio Grande do Sul,Não,0.0
+canoas,Rio Grande do Sul,Não,0.0
+canguçu,Rio Grande do Sul,Não,0.0
+canela,Rio Grande do Sul,Não,0.0
+candiota,Rio Grande do Sul,Não,0.0
+cândido godói,Rio Grande do Sul,Não,0.0
+catuípe,Rio Grande do Sul,Não,0.0
+centenário,Rio Grande do Sul,Não,0.0
+barão,Rio Grande do Sul,Não,0.0
+chuvisca,Rio Grande do Sul,Não,0.0
+coqueiros do sul,Rio Grande do Sul,Não,0.0
+coqueiro baixo,Rio Grande do Sul,Não,0.0
+constantina,Rio Grande do Sul,Não,0.0
+condor,Rio Grande do Sul,Não,0.0
+colorado,Rio Grande do Sul,Não,0.0
+colinas,Rio Grande do Sul,Não,0.0
+ciríaco,Rio Grande do Sul,Não,0.0
+cidreira,Rio Grande do Sul,Não,0.0
+chuí,Rio Grande do Sul,Não,0.0
+cerrito,Rio Grande do Sul,Não,0.0
+chiapetta,Rio Grande do Sul,Não,0.0
+charrua,Rio Grande do Sul,Não,0.0
+charqueadas,Rio Grande do Sul,Não,0.0
+chapada,Rio Grande do Sul,Não,0.0
+cerro largo,Rio Grande do Sul,Não,0.0
+cerro grande do sul,Rio Grande do Sul,Não,0.0
+cerro grande,Rio Grande do Sul,Não,0.0
+cerro branco,Rio Grande do Sul,Não,0.0
+candelária,Rio Grande do Sul,Não,0.0
+campos borges,Rio Grande do Sul,Não,0.0
+campo novo,Rio Grande do Sul,Não,0.0
+benjamin constant do sul,Rio Grande do Sul,Não,0.0
+bom princípio,Rio Grande do Sul,Não,0.0
+bom jesus,Rio Grande do Sul,Não,0.0
+boa vista do sul,Rio Grande do Sul,Não,0.0
+boa vista do incra,Rio Grande do Sul,Não,0.0
+boa vista do cadeado,Rio Grande do Sul,Não,0.0
+boa vista do buricá,Rio Grande do Sul,Não,0.0
+boa vista das missões,Rio Grande do Sul,Não,0.0
+bento gonçalves,Rio Grande do Sul,Não,0.0
+barros cassal,Rio Grande do Sul,Não,0.0
+campo bom,Rio Grande do Sul,Não,0.0
+barracão,Rio Grande do Sul,Não,0.0
+barra funda,Rio Grande do Sul,Não,0.0
+barra do rio azul,Rio Grande do Sul,Não,0.0
+barra do ribeiro,Rio Grande do Sul,Não,0.0
+barra do quaraí,Rio Grande do Sul,Não,0.0
+barra do guarita,Rio Grande do Sul,Não,0.0
+barão do triunfo,Rio Grande do Sul,Não,0.0
+barão de cotegipe,Rio Grande do Sul,Não,0.0
+bom progresso,Rio Grande do Sul,Não,0.0
+bom retiro do sul,Rio Grande do Sul,Não,0.0
+boqueirão do leão,Rio Grande do Sul,Não,0.0
+bossoroca,Rio Grande do Sul,Não,0.0
+campinas do sul,Rio Grande do Sul,Não,0.0
+campina das missões,Rio Grande do Sul,Não,0.0
+campestre da serra,Rio Grande do Sul,Não,0.0
+cambará do sul,Rio Grande do Sul,Não,0.0
+camargo,Rio Grande do Sul,Não,0.0
+camaquã,Rio Grande do Sul,Não,0.0
+caiçara,Rio Grande do Sul,Não,0.0
+caibaté,Rio Grande do Sul,Não,0.0
+cacique doble,Rio Grande do Sul,Não,0.0
+cachoeirinha,Rio Grande do Sul,Não,0.0
+cachoeira do sul,Rio Grande do Sul,Não,0.0
+cacequi,Rio Grande do Sul,Não,0.0
+caçapava do sul,Rio Grande do Sul,Não,0.0
+butiá,Rio Grande do Sul,Não,0.0
+brochier,Rio Grande do Sul,Não,0.0
+braga,Rio Grande do Sul,Não,0.0
+bozano,Rio Grande do Sul,Não,0.0
+morro cabeça no tempo,Piauí,Não,0.0
+joão costa,Piauí,Não,0.0
+monsenhor hipólito,Piauí,Não,0.0
+ourizona,Paraná,Não,0.0
+paranacity,Paraná,Não,0.0
+paraíso do norte,Paraná,Não,0.0
+palotina,Paraná,Não,0.0
+palmital,Paraná,Não,0.0
+palmeira,Paraná,Não,0.0
+palmas,Paraná,Não,0.0
+paiçandu,Paraná,Não,0.0
+ouro verde do oeste,Paraná,Não,0.0
+ortigueira,Paraná,Não,0.0
+nova esperança do sudoeste,Paraná,Não,0.0
+novo itacolomi,Paraná,Não,0.0
+nova tebas,Paraná,Não,0.0
+nova santa rosa,Paraná,Não,0.0
+nova santa bárbara,Paraná,Não,0.0
+nova prata do iguaçu,Paraná,Não,0.0
+nova olímpia,Paraná,Não,0.0
+nova londrina,Paraná,Não,0.0
+nova laranjeiras,Paraná,Não,0.0
+paranaguá,Paraná,Não,0.0
+paranapoema,Paraná,Não,0.0
+pato bragado,Paraná,Não,0.0
+pato branco,Paraná,Não,0.0
+planalto,Paraná,Não,0.0
+planaltina do paraná,Paraná,Não,0.0
+pitangueiras,Paraná,Não,0.0
+pitanga,Paraná,Não,0.0
+piraquara,Paraná,Não,0.0
+piraí do sul,Paraná,Não,0.0
+pinhão,Paraná,Não,0.0
+pinhalão,Paraná,Não,0.0
+pinhal de são bento,Paraná,Não,0.0
+pinhais,Paraná,Não,0.0
+piên,Paraná,Não,0.0
+pérola d'oeste,Paraná,Não,0.0
+pérola,Paraná,Não,0.0
+perobal,Paraná,Não,0.0
+peabiru,Paraná,Não,0.0
+paulo frontin,Paraná,Não,0.0
+paula freitas,Paraná,Não,0.0
+nova fátima,Paraná,Não,0.0
+nova esperança,Paraná,Não,0.0
+porecatu,Paraná,Não,0.0
+mangueirinha,Paraná,Não,0.0
+maringá,Paraná,Não,0.0
+mariluz,Paraná,Não,0.0
+marilena,Paraná,Não,0.0
+marilândia do sul,Paraná,Não,0.0
+marialva,Paraná,Não,0.0
+maria helena,Paraná,Não,0.0
+marechal cândido rondon,Paraná,Não,0.0
+manoel ribas,Paraná,Não,0.0
+manfrinópolis,Paraná,Não,0.0
+nova cantu,Paraná,Não,0.0
+mandirituba,Paraná,Não,0.0
+mandaguari,Paraná,Não,0.0
+mandaguaçu,Paraná,Não,0.0
+mamborê,Paraná,Não,0.0
+mallet,Paraná,Não,0.0
+lupionópolis,Paraná,Não,0.0
+lunardelli,Paraná,Não,0.0
+luiziana,Paraná,Não,0.0
+mariópolis,Paraná,Não,0.0
+maripá,Paraná,Não,0.0
+marmeleiro,Paraná,Não,0.0
+marquinho,Paraná,Não,0.0
+nova aurora,Paraná,Não,0.0
+nova américa da colina,Paraná,Não,0.0
+nova aliança do ivaí,Paraná,Não,0.0
+nossa senhora das graças,Paraná,Não,0.0
+munhoz de melo,Paraná,Não,0.0
+morretes,Paraná,Não,0.0
+moreira sales,Paraná,Não,0.0
+missal,Paraná,Não,0.0
+miraselva,Paraná,Não,0.0
+mirador,Paraná,Não,0.0
+mercedes,Paraná,Não,0.0
+medianeira,Paraná,Não,0.0
+mauá da serra,Paraná,Não,0.0
+mato rico,Paraná,Não,0.0
+matinhos,Paraná,Não,0.0
+matelândia,Paraná,Não,0.0
+marumbi,Paraná,Não,0.0
+pontal do paraná,Paraná,Não,0.0
+porto amazonas,Paraná,Não,0.0
+sertaneja,Paraná,Não,0.0
+santana do itararé,Paraná,Não,0.0
+são joão,Paraná,Não,0.0
+são jerônimo da serra,Paraná,Não,0.0
+são carlos do ivaí,Paraná,Não,0.0
+santo inácio,Paraná,Não,0.0
+santo antônio do sudoeste,Paraná,Não,0.0
+santo antônio do paraíso,Paraná,Não,0.0
+santo antônio do caiuá,Paraná,Não,0.0
+santo antônio da platina,Paraná,Não,0.0
+santa terezinha de itaipu,Paraná,Não,0.0
+santa fé,Paraná,Não,0.0
+santa tereza do oeste,Paraná,Não,0.0
+santa mônica,Paraná,Não,0.0
+santa mariana,Paraná,Não,0.0
+santa maria do oeste,Paraná,Não,0.0
+santa lúcia,Paraná,Não,0.0
+santa izabel do oeste,Paraná,Não,0.0
+santa isabel do ivaí,Paraná,Não,0.0
+santa inês,Paraná,Não,0.0
+são joão do caiuá,Paraná,Não,0.0
+são joão do ivaí,Paraná,Não,0.0
+são joão do triunfo,Paraná,Não,0.0
+são jorge do ivaí,Paraná,Não,0.0
+sengés,Paraná,Não,0.0
+saudade do iguaçu,Paraná,Não,0.0
+sarandi,Paraná,Não,0.0
+sapopema,Paraná,Não,0.0
+são tomé,Paraná,Não,0.0
+são sebastião da amoreira,Paraná,Não,0.0
+são pedro do paraná,Paraná,Não,0.0
+são pedro do ivaí,Paraná,Não,0.0
+são pedro do iguaçu,Paraná,Não,0.0
+são miguel do iguaçu,Paraná,Não,0.0
+são mateus do sul,Paraná,Não,0.0
+são manoel do paraná,Paraná,Não,0.0
+são josé dos pinhais,Paraná,Não,0.0
+são josé das palmeiras,Paraná,Não,0.0
+são josé da boa vista,Paraná,Não,0.0
+são jorge d'oeste,Paraná,Não,0.0
+são jorge do patrocínio,Paraná,Não,0.0
+santa helena,Paraná,Não,0.0
+santa cruz de monte castelo,Paraná,Não,0.0
+porto barreiro,Paraná,Não,0.0
+quatro barras,Paraná,Não,0.0
+rancho alegre d'oeste,Paraná,Não,0.0
+rancho alegre,Paraná,Não,0.0
+ramilândia,Paraná,Não,0.0
+quitandinha,Paraná,Não,0.0
+quinta do sol,Paraná,Não,0.0
+querência do norte,Paraná,Não,0.0
+quedas do iguaçu,Paraná,Não,0.0
+quatro pontes,Paraná,Não,0.0
+quatiguá,Paraná,Não,0.0
+santa cecília do pavão,Paraná,Não,0.0
+quarto centenário,Paraná,Não,0.0
+prudentópolis,Paraná,Não,0.0
+primeiro de maio,Paraná,Não,0.0
+presidente castelo branco,Paraná,Não,0.0
+pranchita,Paraná,Não,0.0
+prado ferreira,Paraná,Não,0.0
+porto vitória,Paraná,Não,0.0
+porto rico,Paraná,Não,0.0
+realeza,Paraná,Não,0.0
+rebouças,Paraná,Não,0.0
+renascença,Paraná,Não,0.0
+reserva,Paraná,Não,0.0
+santa amélia,Paraná,Não,0.0
+salto do lontra,Paraná,Não,0.0
+salto do itararé,Paraná,Não,0.0
+salgado filho,Paraná,Não,0.0
+sabáudia,Paraná,Não,0.0
+rosário do ivaí,Paraná,Não,0.0
+rondon,Paraná,Não,0.0
+roncador,Paraná,Não,0.0
+rio negro,Paraná,Não,0.0
+rio branco do sul,Paraná,Não,0.0
+rio branco do ivaí,Paraná,Não,0.0
+rio bonito do iguaçu,Paraná,Não,0.0
+rio bom,Paraná,Não,0.0
+rio azul,Paraná,Não,0.0
+ribeirão do pinhal,Paraná,Não,0.0
+ribeirão claro,Paraná,Não,0.0
+reserva do iguaçu,Paraná,Não,0.0
+lobato,Paraná,Não,0.0
+loanda,Paraná,Não,0.0
+lindoeste,Paraná,Não,0.0
+centenário do sul,Paraná,Não,0.0
+colorado,Paraná,Não,0.0
+colombo,Paraná,Não,0.0
+clevelândia,Paraná,Não,0.0
+cidade gaúcha,Paraná,Não,0.0
+cianorte,Paraná,Não,0.0
+chopinzinho,Paraná,Não,0.0
+céu azul,Paraná,Não,0.0
+cerro azul,Paraná,Não,0.0
+catanduvas,Paraná,Não,0.0
+campo largo,Paraná,Não,0.0
+castro,Paraná,Não,0.0
+carlópolis,Paraná,Não,0.0
+carambeí,Paraná,Não,0.0
+capitão leônidas marques,Paraná,Não,0.0
+capanema,Paraná,Não,0.0
+cantagalo,Paraná,Não,0.0
+candói,Paraná,Não,0.0
+cândido de abreu,Paraná,Não,0.0
+congonhinhas,Paraná,Não,0.0
+conselheiro mairinck,Paraná,Não,0.0
+contenda,Paraná,Não,0.0
+corbélia,Paraná,Não,0.0
+doutor ulysses,Paraná,Não,0.0
+doutor camargo,Paraná,Não,0.0
+douradina,Paraná,Não,0.0
+dois vizinhos,Paraná,Não,0.0
+diamante d'oeste,Paraná,Não,0.0
+diamante do sul,Paraná,Não,0.0
+diamante do norte,Paraná,Não,0.0
+curiúva,Paraná,Não,0.0
+cruzmaltina,Paraná,Não,0.0
+cruzeiro do sul,Paraná,Não,0.0
+cruzeiro do oeste,Paraná,Não,0.0
+cruzeiro do iguaçu,Paraná,Não,0.0
+cruz machado,Paraná,Não,0.0
+corumbataí do sul,Paraná,Não,0.0
+coronel vivida,Paraná,Não,0.0
+coronel domingos soares,Paraná,Não,0.0
+cornélio procópio,Paraná,Não,0.0
+campo magro,Paraná,Não,0.0
+campo do tenente,Paraná,Não,0.0
+lidianópolis,Paraná,Não,0.0
+atalaia,Paraná,Não,0.0
+bituruna,Paraná,Não,0.0
+bela vista do paraíso,Paraná,Não,0.0
+bela vista da caroba,Paraná,Não,0.0
+barracão,Paraná,Não,0.0
+barra do jacaré,Paraná,Não,0.0
+barbosa ferraz,Paraná,Não,0.0
+bandeirantes,Paraná,Não,0.0
+balsa nova,Paraná,Não,0.0
+astorga,Paraná,Não,0.0
+campo bonito,Paraná,Não,0.0
+assis chateaubriand,Paraná,Não,0.0
+assaí,Paraná,Não,0.0
+ariranha do ivaí,Paraná,Não,0.0
+araruna,Paraná,Não,0.0
+arapuã,Paraná,Não,0.0
+arapoti,Paraná,Não,0.0
+arapongas,Paraná,Não,0.0
+apucarana,Paraná,Não,0.0
+boa esperança,Paraná,Não,0.0
+boa esperança do iguaçu,Paraná,Não,0.0
+boa ventura de são roque,Paraná,Não,0.0
+boa vista da aparecida,Paraná,Não,0.0
+campina grande do sul,Paraná,Não,0.0
+campina do simão,Paraná,Não,0.0
+campina da lagoa,Paraná,Não,0.0
+cambira,Paraná,Não,0.0
+cambé,Paraná,Não,0.0
+cambará,Paraná,Não,0.0
+califórnia,Paraná,Não,0.0
+cafezal do sul,Paraná,Não,0.0
+cafelândia,Paraná,Não,0.0
+cafeara,Paraná,Não,0.0
+brasilândia do sul,Paraná,Não,0.0
+braganey,Paraná,Não,0.0
+borrazópolis,Paraná,Não,0.0
+bom sucesso do sul,Paraná,Não,0.0
+bom sucesso,Paraná,Não,0.0
+bom jesus do sul,Paraná,Não,0.0
+bocaiúva do sul,Paraná,Não,0.0
+enéas marques,Paraná,Não,0.0
+engenheiro beltrão,Paraná,Não,0.0
+entre rios do oeste,Paraná,Não,0.0
+itambaracá,Paraná,Não,0.0
+ivatuba,Paraná,Não,0.0
+ivaté,Paraná,Não,0.0
+ivaiporã,Paraná,Não,0.0
+ivaí,Paraná,Não,0.0
+itaúna do sul,Paraná,Não,0.0
+itaperuçu,Paraná,Não,0.0
+itapejara d'oeste,Paraná,Não,0.0
+itambé,Paraná,Não,0.0
+itaipulândia,Paraná,Não,0.0
+esperança nova,Paraná,Não,0.0
+itaguajé,Paraná,Não,0.0
+iretama,Paraná,Não,0.0
+irati,Paraná,Não,0.0
+iracema do oeste,Paraná,Não,0.0
+iporã,Paraná,Não,0.0
+ipiranga,Paraná,Não,0.0
+indianópolis,Paraná,Não,0.0
+inajá,Paraná,Não,0.0
+jaboti,Paraná,Não,0.0
+jacarezinho,Paraná,Não,0.0
+jaguapitã,Paraná,Não,0.0
+jaguariaíva,Paraná,Não,0.0
+leópolis,Paraná,Não,0.0
+laranjeiras do sul,Paraná,Não,0.0
+laranjal,Paraná,Não,0.0
+lapa,Paraná,Não,0.0
+kaloré,Paraná,Não,0.0
+jussara,Paraná,Não,0.0
+juranda,Paraná,Não,0.0
+jundiaí do sul,Paraná,Não,0.0
+joaquim távora,Paraná,Não,0.0
+jesuítas,Paraná,Não,0.0
+jataizinho,Paraná,Não,0.0
+jardim olinda,Paraná,Não,0.0
+jardim alegre,Paraná,Não,0.0
+japurá,Paraná,Não,0.0
+japira,Paraná,Não,0.0
+janiópolis,Paraná,Não,0.0
+jandaia do sul,Paraná,Não,0.0
+inácio martins,Paraná,Não,0.0
+imbituva,Paraná,Não,0.0
+imbaú,Paraná,Não,0.0
+godoy moreira,Paraná,Não,0.0
+francisco beltrão,Paraná,Não,0.0
+francisco alves,Paraná,Não,0.0
+foz do jordão,Paraná,Não,0.0
+foz do iguaçu,Paraná,Não,0.0
+formosa do oeste,Paraná,Não,0.0
+flórida,Paraná,Não,0.0
+florestópolis,Paraná,Não,0.0
+floresta,Paraná,Não,0.0
+floraí,Paraná,Não,0.0
+flor da serra do sul,Paraná,Não,0.0
+figueira,Paraná,Não,0.0
+fernandes pinheiro,Paraná,Não,0.0
+fênix,Paraná,Não,0.0
+fazenda rio grande,Paraná,Não,0.0
+faxinal,Paraná,Não,0.0
+farol,Paraná,Não,0.0
+espigão alto do iguaçu,Paraná,Não,0.0
+general carneiro,Paraná,Não,0.0
+goioerê,Paraná,Não,0.0
+iguatu,Paraná,Não,0.0
+goioxim,Paraná,Não,0.0
+iguaraçu,Paraná,Não,0.0
+icaraíma,Paraná,Não,0.0
+ibiporã,Paraná,Não,0.0
+ibema,Paraná,Não,0.0
+ibaiti,Paraná,Não,0.0
+honório serpa,Paraná,Não,0.0
+guaratuba,Paraná,Não,0.0
+guaraqueçaba,Paraná,Não,0.0
+guarapuava,Paraná,Não,0.0
+guaraniaçu,Paraná,Não,0.0
+guaraci,Paraná,Não,0.0
+guaporema,Paraná,Não,0.0
+guapirama,Paraná,Não,0.0
+guamiranga,Paraná,Não,0.0
+guairaçá,Paraná,Não,0.0
+guaíra,Paraná,Não,0.0
+grandes rios,Paraná,Não,0.0
+serranópolis do iguaçu,Paraná,Não,0.0
+sertanópolis,Paraná,Não,0.0
+monsenhor gil,Piauí,Não,0.0
+aroeiras do itaim,Piauí,Não,0.0
+barro duro,Piauí,Não,0.0
+barreiras do piauí,Piauí,Não,0.0
+barras,Piauí,Não,0.0
+barra d'alcântara,Piauí,Não,0.0
+baixa grande do ribeiro,Piauí,Não,0.0
+avelino lopes,Piauí,Não,0.0
+assunção do piauí,Piauí,Não,0.0
+arraial,Piauí,Não,0.0
+aroazes,Piauí,Não,0.0
+água branca,Piauí,Não,0.0
+antônio almeida,Piauí,Não,0.0
+anísio de abreu,Piauí,Não,0.0
+angical do piauí,Piauí,Não,0.0
+amarante,Piauí,Não,0.0
+alvorada do gurguéia,Piauí,Não,0.0
+altos,Piauí,Não,0.0
+alto longá,Piauí,Não,0.0
+alegrete do piauí,Piauí,Não,0.0
+batalha,Piauí,Não,0.0
+bela vista do piauí,Piauí,Não,0.0
+belém do piauí,Piauí,Não,0.0
+beneditinos,Piauí,Não,0.0
+campinas do piauí,Piauí,Não,0.0
+caldeirão grande do piauí,Piauí,Não,0.0
+cajueiro da praia,Piauí,Não,0.0
+cajazeiras do piauí,Piauí,Não,0.0
+cabeceiras do piauí,Piauí,Não,0.0
+buriti dos montes,Piauí,Não,0.0
+buriti dos lopes,Piauí,Não,0.0
+brejo do piauí,Piauí,Não,0.0
+brasileira,Piauí,Não,0.0
+boqueirão do piauí,Piauí,Não,0.0
+bonfim do piauí,Piauí,Não,0.0
+bom princípio do piauí,Piauí,Não,0.0
+bom jesus,Piauí,Não,0.0
+bocaina,Piauí,Não,0.0
+boa hora,Piauí,Não,0.0
+betânia do piauí,Piauí,Não,0.0
+bertolínia,Piauí,Não,0.0
+alagoinha do piauí,Piauí,Não,0.0
+agricolândia,Piauí,Não,0.0
+campo grande do piauí,Piauí,Não,0.0
+são josé do egito,Pernambuco,Não,0.0
+surubim,Pernambuco,Não,0.0
+solidão,Pernambuco,Não,0.0
+sirinhaém,Pernambuco,Não,0.0
+sertânia,Pernambuco,Não,0.0
+serrita,Pernambuco,Não,0.0
+serra talhada,Pernambuco,Não,0.0
+são vicente ferrer,Pernambuco,Não,0.0
+são lourenço da mata,Pernambuco,Não,0.0
+são josé do belmonte,Pernambuco,Não,0.0
+acauã,Piauí,Não,0.0
+são josé da coroa grande,Pernambuco,Não,0.0
+são joaquim do monte,Pernambuco,Não,0.0
+são joão,Pernambuco,Não,0.0
+são caitano,Pernambuco,Não,0.0
+são bento do una,Pernambuco,Não,0.0
+são benedito do sul,Pernambuco,Não,0.0
+santa terezinha,Pernambuco,Não,0.0
+santa maria do cambucá,Pernambuco,Não,0.0
+tabira,Pernambuco,Não,0.0
+tacaimbó,Pernambuco,Não,0.0
+tacaratu,Pernambuco,Não,0.0
+tamandaré,Pernambuco,Não,0.0
+xexéu,Pernambuco,Não,0.0
+vitória de santo antão,Pernambuco,Não,0.0
+vicência,Pernambuco,Não,0.0
+vertentes,Pernambuco,Não,0.0
+vertente do lério,Pernambuco,Não,0.0
+verdejante,Pernambuco,Não,0.0
+venturosa,Pernambuco,Não,0.0
+tuparetama,Pernambuco,Não,0.0
+tupanatinga,Pernambuco,Não,0.0
+triunfo,Pernambuco,Não,0.0
+trindade,Pernambuco,Não,0.0
+tracunhaém,Pernambuco,Não,0.0
+toritama,Pernambuco,Não,0.0
+timbaúba,Pernambuco,Não,0.0
+terra nova,Pernambuco,Não,0.0
+terezinha,Pernambuco,Não,0.0
+taquaritinga do norte,Pernambuco,Não,0.0
+campo alegre do fidalgo,Piauí,Não,0.0
+campo largo do piauí,Piauí,Não,0.0
+siqueira campos,Paraná,Não,0.0
+jacobina do piauí,Piauí,Não,0.0
+josé de freitas,Piauí,Não,0.0
+joca marques,Piauí,Não,0.0
+joaquim pires,Piauí,Não,0.0
+palmitinho,Rio Grande do Sul,Não,0.0
+jerumenha,Piauí,Não,0.0
+jatobá do piauí,Piauí,Não,0.0
+jardim do mulato,Piauí,Não,0.0
+jaicós,Piauí,Não,0.0
+itaueira,Piauí,Não,0.0
+geminiano,Piauí,Não,0.0
+itainópolis,Piauí,Não,0.0
+isaías coelho,Piauí,Não,0.0
+ipiranga do piauí,Piauí,Não,0.0
+inhuma,Piauí,Não,0.0
+ilha grande,Piauí,Não,0.0
+hugo napoleão,Piauí,Não,0.0
+guaribas,Piauí,Não,0.0
+guadalupe,Piauí,Não,0.0
+juazeiro do piauí,Piauí,Não,0.0
+júlio borges,Piauí,Não,0.0
+jurema,Piauí,Não,0.0
+lagoa alegre,Piauí,Não,0.0
+milton brandão,Piauí,Não,0.0
+miguel leão,Piauí,Não,0.0
+miguel alves,Piauí,Não,0.0
+matias olímpio,Piauí,Não,0.0
+massapê do piauí,Piauí,Não,0.0
+marcos parente,Piauí,Não,0.0
+marcolândia,Piauí,Não,0.0
+manoel emídio,Piauí,Não,0.0
+madeiro,Piauí,Não,0.0
+luzilândia,Piauí,Não,0.0
+luís correia,Piauí,Não,0.0
+landri sales,Piauí,Não,0.0
+lagoinha do piauí,Piauí,Não,0.0
+lagoa do sítio,Piauí,Não,0.0
+lagoa do piauí,Piauí,Não,0.0
+lagoa do barro do piauí,Piauí,Não,0.0
+lagoa de são francisco,Piauí,Não,0.0
+gilbués,Piauí,Não,0.0
+fronteiras,Piauí,Não,0.0
+campo maior,Piauí,Não,0.0
+cocal,Piauí,Não,0.0
+corrente,Piauí,Não,0.0
+coronel josé dias,Piauí,Não,0.0
+conceição do canindé,Piauí,Não,0.0
+colônia do piauí,Piauí,Não,0.0
+colônia do gurguéia,Piauí,Não,0.0
+coivaras,Piauí,Não,0.0
+cocal dos alves,Piauí,Não,0.0
+cocal de telha,Piauí,Não,0.0
+caxingó,Piauí,Não,0.0
+francisco santos,Piauí,Não,0.0
+castelo do piauí,Piauí,Não,0.0
+caridade do piauí,Piauí,Não,0.0
+caraúbas do piauí,Piauí,Não,0.0
+caracol,Piauí,Não,0.0
+capitão gervásio oliveira,Piauí,Não,0.0
+capitão de campos,Piauí,Não,0.0
+canto do buriti,Piauí,Não,0.0
+canavieira,Piauí,Não,0.0
+cristalândia do piauí,Piauí,Não,0.0
+cristino castro,Piauí,Não,0.0
+curimatá,Piauí,Não,0.0
+currais,Piauí,Não,0.0
+francisco macedo,Piauí,Não,0.0
+francisco ayres,Piauí,Não,0.0
+francinópolis,Piauí,Não,0.0
+floriano,Piauí,Não,0.0
+floresta do piauí,Piauí,Não,0.0
+flores do piauí,Piauí,Não,0.0
+fartura do piauí,Piauí,Não,0.0
+esperantina,Piauí,Não,0.0
+eliseu martins,Piauí,Não,0.0
+elesbão veloso,Piauí,Não,0.0
+domingos mourão,Piauí,Não,0.0
+dom inocêncio,Piauí,Não,0.0
+dom expedito lopes,Piauí,Não,0.0
+dirceu arcoverde,Piauí,Não,0.0
+demerval lobão,Piauí,Não,0.0
+curralinhos,Piauí,Não,0.0
+curral novo do piauí,Piauí,Não,0.0
+santa maria da boa vista,Pernambuco,Não,0.0
+santa filomena,Pernambuco,Não,0.0
+santa cruz do capibaribe,Pernambuco,Não,0.0
+bom jardim,Pernambuco,Não,0.0
+cabrobó,Pernambuco,Não,0.0
+cabo de santo agostinho,Pernambuco,Não,0.0
+buíque,Pernambuco,Não,0.0
+buenos aires,Pernambuco,Não,0.0
+brejo da madre de deus,Pernambuco,Não,0.0
+brejinho,Pernambuco,Não,0.0
+brejão,Pernambuco,Não,0.0
+bonito,Pernambuco,Não,0.0
+bom conselho,Pernambuco,Não,0.0
+araripina,Pernambuco,Não,0.0
+bodocó,Pernambuco,Não,0.0
+bezerros,Pernambuco,Não,0.0
+betânia,Pernambuco,Não,0.0
+belo jardim,Pernambuco,Não,0.0
+belém do são francisco,Pernambuco,Não,0.0
+belém de maria,Pernambuco,Não,0.0
+barreiros,Pernambuco,Não,0.0
+barra de guabiraba,Pernambuco,Não,0.0
+cachoeirinha,Pernambuco,Não,0.0
+caetés,Pernambuco,Não,0.0
+calçado,Pernambuco,Não,0.0
+calumbi,Pernambuco,Não,0.0
+cortês,Pernambuco,Não,0.0
+correntes,Pernambuco,Não,0.0
+condado,Pernambuco,Não,0.0
+chã grande,Pernambuco,Não,0.0
+chã de alegria,Pernambuco,Não,0.0
+cedro,Pernambuco,Não,0.0
+catende,Pernambuco,Não,0.0
+casinhas,Pernambuco,Não,0.0
+caruaru,Pernambuco,Não,0.0
+carpina,Pernambuco,Não,0.0
+carnaubeira da penha,Pernambuco,Não,0.0
+carnaíba,Pernambuco,Não,0.0
+capoeiras,Pernambuco,Não,0.0
+canhotinho,Pernambuco,Não,0.0
+camutanga,Pernambuco,Não,0.0
+camocim de são félix,Pernambuco,Não,0.0
+camaragibe,Pernambuco,Não,0.0
+arcoverde,Pernambuco,Não,0.0
+araçoiaba,Pernambuco,Não,0.0
+santa cruz da baixa verde,Pernambuco,Não,0.0
+terra roxa,Paraná,Não,0.0
+turvo,Paraná,Não,0.0
+tupãssi,Paraná,Não,0.0
+tuneiras do oeste,Paraná,Não,0.0
+tunas do paraná,Paraná,Não,0.0
+três barras do paraná,Paraná,Não,0.0
+tomazina,Paraná,Não,0.0
+tijucas do sul,Paraná,Não,0.0
+tibagi,Paraná,Não,0.0
+terra rica,Paraná,Não,0.0
+angelim,Pernambuco,Não,0.0
+terra boa,Paraná,Não,0.0
+telêmaco borba,Paraná,Não,0.0
+teixeira soares,Paraná,Não,0.0
+tapira,Paraná,Não,0.0
+tapejara,Paraná,Não,0.0
+tamboara,Paraná,Não,0.0
+tamarana,Paraná,Não,0.0
+sulina,Paraná,Não,0.0
+ubiratã,Paraná,Não,0.0
+união da vitória,Paraná,Não,0.0
+uniflor,Paraná,Não,0.0
+uraí,Paraná,Não,0.0
+amaraji,Pernambuco,Não,0.0
+altinho,Pernambuco,Não,0.0
+aliança,Pernambuco,Não,0.0
+alagoinha,Pernambuco,Não,0.0
+águas belas,Pernambuco,Não,0.0
+água preta,Pernambuco,Não,0.0
+agrestina,Pernambuco,Não,0.0
+afrânio,Pernambuco,Não,0.0
+afogados da ingazeira,Pernambuco,Não,0.0
+abreu e lima,Pernambuco,Não,0.0
+xambrê,Paraná,Não,0.0
+wenceslau braz,Paraná,Não,0.0
+vitorino,Paraná,Não,0.0
+virmond,Paraná,Não,0.0
+verê,Paraná,Não,0.0
+vera cruz do oeste,Paraná,Não,0.0
+ventania,Paraná,Não,0.0
+cumaru,Pernambuco,Não,0.0
+cupira,Pernambuco,Não,0.0
+custódia,Pernambuco,Não,0.0
+moreilândia,Pernambuco,Não,0.0
+panelas,Pernambuco,Não,0.0
+palmeirina,Pernambuco,Não,0.0
+palmares,Pernambuco,Não,0.0
+ouricuri,Pernambuco,Não,0.0
+orocó,Pernambuco,Não,0.0
+orobó,Pernambuco,Não,0.0
+nazaré da mata,Pernambuco,Não,0.0
+moreno,Pernambuco,Não,0.0
+mirandiba,Pernambuco,Não,0.0
+dormentes,Pernambuco,Não,0.0
+maraial,Pernambuco,Não,0.0
+manari,Pernambuco,Não,0.0
+machados,Pernambuco,Não,0.0
+macaparana,Pernambuco,Não,0.0
+limoeiro,Pernambuco,Não,0.0
+lajedo,Pernambuco,Não,0.0
+lagoa grande,Pernambuco,Não,0.0
+lagoa dos gatos,Pernambuco,Não,0.0
+paranatama,Pernambuco,Não,0.0
+parnamirim,Pernambuco,Não,0.0
+passira,Pernambuco,Não,0.0
+paudalho,Pernambuco,Não,0.0
+santa cruz,Pernambuco,Não,0.0
+sanharó,Pernambuco,Não,0.0
+saloá,Pernambuco,Não,0.0
+salgueiro,Pernambuco,Não,0.0
+salgadinho,Pernambuco,Não,0.0
+sairé,Pernambuco,Não,0.0
+rio formoso,Pernambuco,Não,0.0
+ribeirão,Pernambuco,Não,0.0
+riacho das almas,Pernambuco,Não,0.0
+quixaba,Pernambuco,Não,0.0
+quipapá,Pernambuco,Não,0.0
+primavera,Pernambuco,Não,0.0
+pombos,Pernambuco,Não,0.0
+poção,Pernambuco,Não,0.0
+petrolândia,Pernambuco,Não,0.0
+pesqueira,Pernambuco,Não,0.0
+pedra,Pernambuco,Não,0.0
+lagoa do ouro,Pernambuco,Não,0.0
+lagoa do carro,Pernambuco,Não,0.0
+lagoa de itaenga,Pernambuco,Não,0.0
+iguaraci,Pernambuco,Não,0.0
+ibirajuba,Pernambuco,Não,0.0
+ibimirim,Pernambuco,Não,0.0
+iati,Pernambuco,Não,0.0
+gravatá,Pernambuco,Não,0.0
+granito,Pernambuco,Não,0.0
+goiana,Pernambuco,Não,0.0
+glória do goitá,Pernambuco,Não,0.0
+garanhuns,Pernambuco,Não,0.0
+gameleira,Pernambuco,Não,0.0
+frei miguelinho,Pernambuco,Não,0.0
+floresta,Pernambuco,Não,0.0
+flores,Pernambuco,Não,0.0
+ferreiros,Pernambuco,Não,0.0
+fernando de noronha,Pernambuco,Não,0.0
+feira nova,Pernambuco,Não,0.0
+exu,Pernambuco,Não,0.0
+escada,Pernambuco,Não,0.0
+igarassu,Pernambuco,Não,0.0
+ilha de itamaracá,Pernambuco,Não,0.0
+jurema,Pernambuco,Não,0.0
+inajá,Pernambuco,Não,0.0
+jupi,Pernambuco,Não,0.0
+jucati,Pernambuco,Não,0.0
+joaquim nabuco,Pernambuco,Não,0.0
+joão alfredo,Pernambuco,Não,0.0
+jatobá,Pernambuco,Não,0.0
+jataúba,Pernambuco,Não,0.0
+jaqueira,Pernambuco,Não,0.0
+jaboatão dos guararapes,Pernambuco,Não,0.0
+itaquitinga,Pernambuco,Não,0.0
+itapissuma,Pernambuco,Não,0.0
+itapetim,Pernambuco,Não,0.0
+itambé,Pernambuco,Não,0.0
+itaíba,Pernambuco,Não,0.0
+itacuruba,Pernambuco,Não,0.0
+ipubi,Pernambuco,Não,0.0
+ipojuca,Pernambuco,Não,0.0
+ingazeira,Pernambuco,Não,0.0
+palmeira das missões,Rio Grande do Sul,Não,0.0
+porto xavier,Rio Grande do Sul,Não,0.0
+panambi,Rio Grande do Sul,Não,0.0
+óleo,São Paulo,Não,0.0
+ouro verde,São Paulo,Não,0.0
+osvaldo cruz,São Paulo,Não,0.0
+oscar bressane,São Paulo,Não,0.0
+orlândia,São Paulo,Não,0.0
+orindiúva,São Paulo,Não,0.0
+oriente,São Paulo,Não,0.0
+onda verde,São Paulo,Não,0.0
+olímpia,São Paulo,Não,0.0
+ocauçu,São Paulo,Não,0.0
+nova castilho,São Paulo,Não,0.0
+nuporanga,São Paulo,Não,0.0
+novo horizonte,São Paulo,Não,0.0
+novais,São Paulo,Não,0.0
+nova odessa,São Paulo,Não,0.0
+nova luzitânia,São Paulo,Não,0.0
+nova independência,São Paulo,Não,0.0
+nova guataporanga,São Paulo,Não,0.0
+nova granada,São Paulo,Não,0.0
+ouroeste,São Paulo,Não,0.0
+pacaembu,São Paulo,Não,0.0
+palestina,São Paulo,Não,0.0
+palmares paulista,São Paulo,Não,0.0
+paulo de faria,São Paulo,Não,0.0
+paulistânia,São Paulo,Não,0.0
+paulínia,São Paulo,Não,0.0
+paulicéia,São Paulo,Não,0.0
+patrocínio paulista,São Paulo,Não,0.0
+parisi,São Paulo,Não,0.0
+pariquera-açu,São Paulo,Não,0.0
+pardinho,São Paulo,Não,0.0
+parapuã,São Paulo,Não,0.0
+paranapuã,São Paulo,Não,0.0
+paranapanema,São Paulo,Não,0.0
+paraíso,São Paulo,Não,0.0
+paraibuna,São Paulo,Não,0.0
+paraguaçu paulista,São Paulo,Não,0.0
+panorama,São Paulo,Não,0.0
+palmital,São Paulo,Não,0.0
+palmeira d'oeste,São Paulo,Não,0.0
+nova europa,São Paulo,Não,0.0
+nova canaã paulista,São Paulo,Não,0.0
+marapoama,São Paulo,Não,0.0
+mira estrela,São Paulo,Não,0.0
+mogi guaçu,São Paulo,Não,0.0
+mogi das cruzes,São Paulo,Não,0.0
+mococa,São Paulo,Não,0.0
+mirassolândia,São Paulo,Não,0.0
+mirassol,São Paulo,Não,0.0
+mirante do paranapanema,São Paulo,Não,0.0
+mirandópolis,São Paulo,Não,0.0
+miracatu,São Paulo,Não,0.0
+mineiros do tietê,São Paulo,Não,0.0
+nova campina,São Paulo,Não,0.0
+miguelópolis,São Paulo,Não,0.0
+mesópolis,São Paulo,Não,0.0
+meridiano,São Paulo,Não,0.0
+mendonça,São Paulo,Não,0.0
+mauá,São Paulo,Não,0.0
+matão,São Paulo,Não,0.0
+martinópolis,São Paulo,Não,0.0
+marinópolis,São Paulo,Não,0.0
+moji mirim,São Paulo,Não,0.0
+mombuca,São Paulo,Não,0.0
+monções,São Paulo,Não,0.0
+mongaguá,São Paulo,Não,0.0
+nova aliança,São Paulo,Não,0.0
+nipoã,São Paulo,Não,0.0
+nhandeara,São Paulo,Não,0.0
+neves paulista,São Paulo,Não,0.0
+nazaré paulista,São Paulo,Não,0.0
+natividade da serra,São Paulo,Não,0.0
+narandiba,São Paulo,Não,0.0
+nantes,São Paulo,Não,0.0
+murutinga do sul,São Paulo,Não,0.0
+motuca,São Paulo,Não,0.0
+morungaba,São Paulo,Não,0.0
+morro agudo,São Paulo,Não,0.0
+monteiro lobato,São Paulo,Não,0.0
+monte castelo,São Paulo,Não,0.0
+monte azul paulista,São Paulo,Não,0.0
+monte aprazível,São Paulo,Não,0.0
+monte alegre do sul,São Paulo,Não,0.0
+pederneiras,São Paulo,Não,0.0
+pedra bela,São Paulo,Não,0.0
+pedranópolis,São Paulo,Não,0.0
+queluz,São Paulo,Não,0.0
+restinga,São Paulo,Não,0.0
+registro,São Paulo,Não,0.0
+reginópolis,São Paulo,Não,0.0
+regente feijó,São Paulo,Não,0.0
+redenção da serra,São Paulo,Não,0.0
+rancharia,São Paulo,Não,0.0
+rafard,São Paulo,Não,0.0
+quintana,São Paulo,Não,0.0
+queiroz,São Paulo,Não,0.0
+pedregulho,São Paulo,Não,0.0
+quatá,São Paulo,Não,0.0
+quadra,São Paulo,Não,0.0
+promissão,São Paulo,Não,0.0
+presidente venceslau,São Paulo,Não,0.0
+presidente epitácio,São Paulo,Não,0.0
+presidente bernardes,São Paulo,Não,0.0
+presidente alves,São Paulo,Não,0.0
+pratânia,São Paulo,Não,0.0
+ribeira,São Paulo,Não,0.0
+ribeirão bonito,São Paulo,Não,0.0
+ribeirão branco,São Paulo,Não,0.0
+ribeirão corrente,São Paulo,Não,0.0
+sagres,São Paulo,Não,0.0
+sabino,São Paulo,Não,0.0
+rubinéia,São Paulo,Não,0.0
+rubiácea,São Paulo,Não,0.0
+roseira,São Paulo,Não,0.0
+rosana,São Paulo,Não,0.0
+riversul,São Paulo,Não,0.0
+riolândia,São Paulo,Não,0.0
+rio grande da serra,São Paulo,Não,0.0
+rio das pedras,São Paulo,Não,0.0
+rinópolis,São Paulo,Não,0.0
+rincão,São Paulo,Não,0.0
+rifaina,São Paulo,Não,0.0
+ribeirão pires,São Paulo,Não,0.0
+ribeirão grande,São Paulo,Não,0.0
+ribeirão dos índios,São Paulo,Não,0.0
+ribeirão do sul,São Paulo,Não,0.0
+praia grande,São Paulo,Não,0.0
+pradópolis,São Paulo,Não,0.0
+pracinha,São Paulo,Não,0.0
+pirangi,São Paulo,Não,0.0
+piraju,São Paulo,Não,0.0
+piracaia,São Paulo,Não,0.0
+piquete,São Paulo,Não,0.0
+piquerobi,São Paulo,Não,0.0
+pinhalzinho,São Paulo,Não,0.0
+pindorama,São Paulo,Não,0.0
+pindamonhangaba,São Paulo,Não,0.0
+pilar do sul,São Paulo,Não,0.0
+piedade,São Paulo,Não,0.0
+piacatu,São Paulo,Não,0.0
+peruíbe,São Paulo,Não,0.0
+pereiras,São Paulo,Não,0.0
+pereira barreto,São Paulo,Não,0.0
+penápolis,São Paulo,Não,0.0
+pedro de toledo,São Paulo,Não,0.0
+pedrinhas paulista,São Paulo,Não,0.0
+pedreira,São Paulo,Não,0.0
+pirajuí,São Paulo,Não,0.0
+pirapora do bom jesus,São Paulo,Não,0.0
+potirendaba,São Paulo,Não,0.0
+pirapozinho,São Paulo,Não,0.0
+potim,São Paulo,Não,0.0
+porto ferreira,São Paulo,Não,0.0
+porto feliz,São Paulo,Não,0.0
+porangaba,São Paulo,Não,0.0
+populina,São Paulo,Não,0.0
+pontes gestal,São Paulo,Não,0.0
+pontalinda,São Paulo,Não,0.0
+pontal,São Paulo,Não,0.0
+pongaí,São Paulo,Não,0.0
+pompéia,São Paulo,Não,0.0
+poloni,São Paulo,Não,0.0
+poá,São Paulo,Não,0.0
+platina,São Paulo,Não,0.0
+planalto,São Paulo,Não,0.0
+pitangueiras,São Paulo,Não,0.0
+piratininga,São Paulo,Não,0.0
+pirassununga,São Paulo,Não,0.0
+mariápolis,São Paulo,Não,0.0
+maracaí,São Paulo,Não,0.0
+sales oliveira,São Paulo,Não,0.0
+guapiaçu,São Paulo,Não,0.0
+guararema,São Paulo,Não,0.0
+guararapes,São Paulo,Não,0.0
+guarantã,São Paulo,Não,0.0
+guarani d'oeste,São Paulo,Não,0.0
+guaraci,São Paulo,Não,0.0
+guaraçaí,São Paulo,Não,0.0
+guará,São Paulo,Não,0.0
+guapiara,São Paulo,Não,0.0
+guaíra,São Paulo,Não,0.0
+gabriel monteiro,São Paulo,Não,0.0
+guaimbê,São Paulo,Não,0.0
+guaiçara,São Paulo,Não,0.0
+glicério,São Paulo,Não,0.0
+getulina,São Paulo,Não,0.0
+general salgado,São Paulo,Não,0.0
+gavião peixoto,São Paulo,Não,0.0
+gastão vidigal,São Paulo,Não,0.0
+garça,São Paulo,Não,0.0
+guareí,São Paulo,Não,0.0
+guariba,São Paulo,Não,0.0
+guarulhos,São Paulo,Não,0.0
+guatapará,São Paulo,Não,0.0
+igaratá,São Paulo,Não,0.0
+igarapava,São Paulo,Não,0.0
+igaraçu do tietê,São Paulo,Não,0.0
+iepê,São Paulo,Não,0.0
+icém,São Paulo,Não,0.0
+ibiúna,São Paulo,Não,0.0
+ibitinga,São Paulo,Não,0.0
+ibirarema,São Paulo,Não,0.0
+ibirá,São Paulo,Não,0.0
+ibaté,São Paulo,Não,0.0
+iaras,São Paulo,Não,0.0
+iacri,São Paulo,Não,0.0
+iacanga,São Paulo,Não,0.0
+hortolândia,São Paulo,Não,0.0
+holambra,São Paulo,Não,0.0
+herculândia,São Paulo,Não,0.0
+guzolândia,São Paulo,Não,0.0
+gália,São Paulo,Não,0.0
+franco da rocha,São Paulo,Não,0.0
+marabá paulista,São Paulo,Não,0.0
+dobrada,São Paulo,Não,0.0
+eldorado,São Paulo,Não,0.0
+echaporã,São Paulo,Não,0.0
+dumont,São Paulo,Não,0.0
+duartina,São Paulo,Não,0.0
+dracena,São Paulo,Não,0.0
+dourado,São Paulo,Não,0.0
+dolcinópolis,São Paulo,Não,0.0
+dois córregos,São Paulo,Não,0.0
+divinolândia,São Paulo,Não,0.0
+francisco morato,São Paulo,Não,0.0
+dirce reis,São Paulo,Não,0.0
+diadema,São Paulo,Não,0.0
+descalvado,São Paulo,Não,0.0
+cunha,São Paulo,Não,0.0
+cubatão,São Paulo,Não,0.0
+cruzeiro,São Paulo,Não,0.0
+cruzália,São Paulo,Não,0.0
+cristais paulista,São Paulo,Não,0.0
+elias fausto,São Paulo,Não,0.0
+elisiário,São Paulo,Não,0.0
+embaúba,São Paulo,Não,0.0
+embu das artes,São Paulo,Não,0.0
+florínia,São Paulo,Não,0.0
+flórida paulista,São Paulo,Não,0.0
+floreal,São Paulo,Não,0.0
+flora rica,São Paulo,Não,0.0
+ferraz de vasconcelos,São Paulo,Não,0.0
+fernão,São Paulo,Não,0.0
+fernando prestes,São Paulo,Não,0.0
+fartura,São Paulo,Não,0.0
+euclides da cunha paulista,São Paulo,Não,0.0
+estrela d'oeste,São Paulo,Não,0.0
+estrela do norte,São Paulo,Não,0.0
+estiva gerbi,São Paulo,Não,0.0
+espírito santo do turvo,São Paulo,Não,0.0
+espírito santo do pinhal,São Paulo,Não,0.0
+engenheiro coelho,São Paulo,Não,0.0
+emilianópolis,São Paulo,Não,0.0
+embu-guaçu,São Paulo,Não,0.0
+iguape,São Paulo,Não,0.0
+ilha comprida,São Paulo,Não,0.0
+ilha solteira,São Paulo,Não,0.0
+josé bonifácio,São Paulo,Não,0.0
+laranjal paulista,São Paulo,Não,0.0
+lagoinha,São Paulo,Não,0.0
+juquitiba,São Paulo,Não,0.0
+juquiá,São Paulo,Não,0.0
+junqueirópolis,São Paulo,Não,0.0
+jundiaí,São Paulo,Não,0.0
+jumirim,São Paulo,Não,0.0
+júlio mesquita,São Paulo,Não,0.0
+joão ramalho,São Paulo,Não,0.0
+ilhabela,São Paulo,Não,0.0
+joanópolis,São Paulo,Não,0.0
+jeriquara,São Paulo,Não,0.0
+jaú,São Paulo,Não,0.0
+jarinu,São Paulo,Não,0.0
+jardinópolis,São Paulo,Não,0.0
+jandira,São Paulo,Não,0.0
+jambeiro,São Paulo,Não,0.0
+jales,São Paulo,Não,0.0
+lavínia,São Paulo,Não,0.0
+lavrinhas,São Paulo,Não,0.0
+leme,São Paulo,Não,0.0
+lençóis paulista,São Paulo,Não,0.0
+manduri,São Paulo,Não,0.0
+mairiporã,São Paulo,Não,0.0
+mairinque,São Paulo,Não,0.0
+magda,São Paulo,Não,0.0
+macedônia,São Paulo,Não,0.0
+macaubal,São Paulo,Não,0.0
+macatuba,São Paulo,Não,0.0
+lutécia,São Paulo,Não,0.0
+lupércio,São Paulo,Não,0.0
+luiziânia,São Paulo,Não,0.0
+luís antônio,São Paulo,Não,0.0
+lucianópolis,São Paulo,Não,0.0
+lucélia,São Paulo,Não,0.0
+louveira,São Paulo,Não,0.0
+lourdes,São Paulo,Não,0.0
+lins,São Paulo,Não,0.0
+lindóia,São Paulo,Não,0.0
+jaguariúna,São Paulo,Não,0.0
+jacupiranga,São Paulo,Não,0.0
+jaci,São Paulo,Não,0.0
+itapecerica da serra,São Paulo,Não,0.0
+itanhaém,São Paulo,Não,0.0
+itaju,São Paulo,Não,0.0
+itajobi,São Paulo,Não,0.0
+itaí,São Paulo,Não,0.0
+itaberá,São Paulo,Não,0.0
+irapuru,São Paulo,Não,0.0
+irapuã,São Paulo,Não,0.0
+iracemápolis,São Paulo,Não,0.0
+ipuã,São Paulo,Não,0.0
+iporanga,São Paulo,Não,0.0
+ipiguá,São Paulo,Não,0.0
+ipeúna,São Paulo,Não,0.0
+iperó,São Paulo,Não,0.0
+ipaussu,São Paulo,Não,0.0
+inúbia paulista,São Paulo,Não,0.0
+indiaporã,São Paulo,Não,0.0
+indiana,São Paulo,Não,0.0
+itaóca,São Paulo,Não,0.0
+itapetininga,São Paulo,Não,0.0
+jaborandi,São Paulo,Não,0.0
+itapeva,São Paulo,Não,0.0
+ituverava,São Paulo,Não,0.0
+itupeva,São Paulo,Não,0.0
+itobi,São Paulo,Não,0.0
+itirapuã,São Paulo,Não,0.0
+itirapina,São Paulo,Não,0.0
+itatinga,São Paulo,Não,0.0
+itatiba,São Paulo,Não,0.0
+itariri,São Paulo,Não,0.0
+itararé,São Paulo,Não,0.0
+itaquaquecetuba,São Paulo,Não,0.0
+itapura,São Paulo,Não,0.0
+itapuí,São Paulo,Não,0.0
+itaporanga,São Paulo,Não,0.0
+itápolis,São Paulo,Não,0.0
+itapirapuã paulista,São Paulo,Não,0.0
+itapira,São Paulo,Não,0.0
+itapevi,São Paulo,Não,0.0
+sales,São Paulo,Não,0.0
+salesópolis,São Paulo,Não,0.0
+pantano grande,Rio Grande do Sul,Não,0.0
+barrolândia,Tocantins,Não,0.0
+cariri do tocantins,Tocantins,Não,0.0
+campos lindos,Tocantins,Não,0.0
+cachoeirinha,Tocantins,Não,0.0
+buriti do tocantins,Tocantins,Não,0.0
+brejinho de nazaré,Tocantins,Não,0.0
+brasilândia do tocantins,Tocantins,Não,0.0
+bom jesus do tocantins,Tocantins,Não,0.0
+bernardo sayão,Tocantins,Não,0.0
+barra do ouro,Tocantins,Não,0.0
+araguaína,Tocantins,Não,0.0
+bandeirantes do tocantins,Tocantins,Não,0.0
+babaçulândia,Tocantins,Não,0.0
+axixá do tocantins,Tocantins,Não,0.0
+aurora do tocantins,Tocantins,Não,0.0
+augustinópolis,Tocantins,Não,0.0
+arraias,Tocantins,Não,0.0
+arapoema,Tocantins,Não,0.0
+araguatins,Tocantins,Não,0.0
+carmolândia,Tocantins,Não,0.0
+carrasco bonito,Tocantins,Não,0.0
+caseara,Tocantins,Não,0.0
+centenário,Tocantins,Não,0.0
+figueirópolis,Tocantins,Não,0.0
+fátima,Tocantins,Não,0.0
+esperantina,Tocantins,Não,0.0
+dueré,Tocantins,Não,0.0
+dois irmãos do tocantins,Tocantins,Não,0.0
+divinópolis do tocantins,Tocantins,Não,0.0
+dianópolis,Tocantins,Não,0.0
+darcinópolis,Tocantins,Não,0.0
+crixás do tocantins,Tocantins,Não,0.0
+cristalândia,Tocantins,Não,0.0
+couto magalhães,Tocantins,Não,0.0
+conceição do tocantins,Tocantins,Não,0.0
+combinado,Tocantins,Não,0.0
+colméia,Tocantins,Não,0.0
+colinas do tocantins,Tocantins,Não,0.0
+chapada de areia,Tocantins,Não,0.0
+chapada da natividade,Tocantins,Não,0.0
+araguanã,Tocantins,Não,0.0
+araguaçu,Tocantins,Não,0.0
+nossa senhora da glória,Sergipe,Não,0.0
+porto da folha,Sergipe,Não,0.0
+santa rosa de lima,Sergipe,Não,0.0
+santa luzia do itanhy,Sergipe,Não,0.0
+salgado,Sergipe,Não,0.0
+rosário do catete,Sergipe,Não,0.0
+ribeirópolis,Sergipe,Não,0.0
+riachuelo,Sergipe,Não,0.0
+riachão do dantas,Sergipe,Não,0.0
+propriá,Sergipe,Não,0.0
+poço verde,Sergipe,Não,0.0
+araguacema,Tocantins,Não,0.0
+poço redondo,Sergipe,Não,0.0
+pirambu,Sergipe,Não,0.0
+pinhão,Sergipe,Não,0.0
+pedrinhas,Sergipe,Não,0.0
+pedra mole,Sergipe,Não,0.0
+pacatuba,Sergipe,Não,0.0
+nossa senhora do socorro,Sergipe,Não,0.0
+nossa senhora de lourdes,Sergipe,Não,0.0
+santana do são francisco,Sergipe,Não,0.0
+santo amaro das brotas,Sergipe,Não,0.0
+são cristóvão,Sergipe,Não,0.0
+são domingos,Sergipe,Não,0.0
+aragominas,Tocantins,Não,0.0
+aparecida do rio negro,Tocantins,Não,0.0
+angico,Tocantins,Não,0.0
+ananás,Tocantins,Não,0.0
+alvorada,Tocantins,Não,0.0
+almas,Tocantins,Não,0.0
+aliança do tocantins,Tocantins,Não,0.0
+aguiarnópolis,Tocantins,Não,0.0
+abreulândia,Tocantins,Não,0.0
+umbaúba,Sergipe,Não,0.0
+tomar do geru,Sergipe,Não,0.0
+tobias barreto,Sergipe,Não,0.0
+telha,Sergipe,Não,0.0
+siriri,Sergipe,Não,0.0
+simão dias,Sergipe,Não,0.0
+são miguel do aleixo,Sergipe,Não,0.0
+são francisco,Sergipe,Não,0.0
+filadélfia,Tocantins,Não,0.0
+formoso do araguaia,Tocantins,Não,0.0
+fortaleza do tabocão,Tocantins,Não,0.0
+recursolândia,Tocantins,Não,0.0
+santa maria do tocantins,Tocantins,Não,0.0
+santa fé do araguaia,Tocantins,Não,0.0
+sandolândia,Tocantins,Não,0.0
+sampaio,Tocantins,Não,0.0
+rio sono,Tocantins,Não,0.0
+rio dos bois,Tocantins,Não,0.0
+rio da conceição,Tocantins,Não,0.0
+riachinho,Tocantins,Não,0.0
+pugmil,Tocantins,Não,0.0
+goianorte,Tocantins,Não,0.0
+presidente kennedy,Tocantins,Não,0.0
+praia norte,Tocantins,Não,0.0
+porto nacional,Tocantins,Não,0.0
+porto alegre do tocantins,Tocantins,Não,0.0
+ponte alta do tocantins,Tocantins,Não,0.0
+ponte alta do bom jesus,Tocantins,Não,0.0
+pium,Tocantins,Não,0.0
+piraquê,Tocantins,Não,0.0
+santa rita do tocantins,Tocantins,Não,0.0
+santa rosa do tocantins,Tocantins,Não,0.0
+santa tereza do tocantins,Tocantins,Não,0.0
+santa terezinha do tocantins,Tocantins,Não,0.0
+wanderlândia,Tocantins,Não,0.0
+tupiratins,Tocantins,Não,0.0
+tupirama,Tocantins,Não,0.0
+tocantinópolis,Tocantins,Não,0.0
+tocantínia,Tocantins,Não,0.0
+talismã,Tocantins,Não,0.0
+taipas do tocantins,Tocantins,Não,0.0
+taguatinga,Tocantins,Não,0.0
+sucupira,Tocantins,Não,0.0
+sítio novo do tocantins,Tocantins,Não,0.0
+silvanópolis,Tocantins,Não,0.0
+são valério,Tocantins,Não,0.0
+são sebastião do tocantins,Tocantins,Não,0.0
+são salvador do tocantins,Tocantins,Não,0.0
+são miguel do tocantins,Tocantins,Não,0.0
+são félix do tocantins,Tocantins,Não,0.0
+são bento do tocantins,Tocantins,Não,0.0
+pindorama do tocantins,Tocantins,Não,0.0
+pequizeiro,Tocantins,Não,0.0
+peixe,Tocantins,Não,0.0
+maurilândia do tocantins,Tocantins,Não,0.0
+marianópolis do tocantins,Tocantins,Não,0.0
+luzinópolis,Tocantins,Não,0.0
+lizarda,Tocantins,Não,0.0
+lavandeira,Tocantins,Não,0.0
+lajeado,Tocantins,Não,0.0
+lagoa do tocantins,Tocantins,Não,0.0
+lagoa da confusão,Tocantins,Não,0.0
+juarina,Tocantins,Não,0.0
+jaú do tocantins,Tocantins,Não,0.0
+itaporã do tocantins,Tocantins,Não,0.0
+itapiratins,Tocantins,Não,0.0
+itaguatins,Tocantins,Não,0.0
+itacajá,Tocantins,Não,0.0
+ipueiras,Tocantins,Não,0.0
+gurupi,Tocantins,Não,0.0
+guaraí,Tocantins,Não,0.0
+goiatins,Tocantins,Não,0.0
+mateiros,Tocantins,Não,0.0
+miracema do tocantins,Tocantins,Não,0.0
+pedro afonso,Tocantins,Não,0.0
+miranorte,Tocantins,Não,0.0
+pau d'arco,Tocantins,Não,0.0
+paranã,Tocantins,Não,0.0
+paraíso do tocantins,Tocantins,Não,0.0
+palmeirópolis,Tocantins,Não,0.0
+palmeiras do tocantins,Tocantins,Não,0.0
+palmeirante,Tocantins,Não,0.0
+oliveira de fátima,Tocantins,Não,0.0
+novo jardim,Tocantins,Não,0.0
+novo alegre,Tocantins,Não,0.0
+novo acordo,Tocantins,Não,0.0
+nova rosalândia,Tocantins,Não,0.0
+nova olinda,Tocantins,Não,0.0
+nazaré,Tocantins,Não,0.0
+natividade,Tocantins,Não,0.0
+muricilândia,Tocantins,Não,0.0
+monte santo do tocantins,Tocantins,Não,0.0
+monte do carmo,Tocantins,Não,0.0
+nossa senhora das dores,Sergipe,Não,0.0
+nossa senhora aparecida,Sergipe,Não,0.0
+salmourão,São Paulo,Não,0.0
+são sebastião,São Paulo,Não,0.0
+serra negra,São Paulo,Não,0.0
+serra azul,São Paulo,Não,0.0
+sebastianópolis do sul,São Paulo,Não,0.0
+sarutaiá,São Paulo,Não,0.0
+sarapuí,São Paulo,Não,0.0
+são vicente,São Paulo,Não,0.0
+são simão,São Paulo,Não,0.0
+são sebastião da grama,São Paulo,Não,0.0
+são roque,São Paulo,Não,0.0
+são josé da bela vista,São Paulo,Não,0.0
+são pedro do turvo,São Paulo,Não,0.0
+são pedro,São Paulo,Não,0.0
+são miguel arcanjo,São Paulo,Não,0.0
+são manuel,São Paulo,Não,0.0
+são luís do paraitinga,São Paulo,Não,0.0
+são lourenço da serra,São Paulo,Não,0.0
+são josé do rio preto,São Paulo,Não,0.0
+são josé do rio pardo,São Paulo,Não,0.0
+serrana,São Paulo,Não,0.0
+sertãozinho,São Paulo,Não,0.0
+sete barras,São Paulo,Não,0.0
+severínia,São Paulo,Não,0.0
+tapiratiba,São Paulo,Não,0.0
+tapiraí,São Paulo,Não,0.0
+tanabi,São Paulo,Não,0.0
+tambaú,São Paulo,Não,0.0
+taiúva,São Paulo,Não,0.0
+taiaçu,São Paulo,Não,0.0
+taguaí,São Paulo,Não,0.0
+taciba,São Paulo,Não,0.0
+tabatinga,São Paulo,Não,0.0
+tabapuã,São Paulo,Não,0.0
+suzano,São Paulo,Não,0.0
+suzanápolis,São Paulo,Não,0.0
+sumaré,São Paulo,Não,0.0
+sud mennucci,São Paulo,Não,0.0
+sorocaba,São Paulo,Não,0.0
+socorro,São Paulo,Não,0.0
+silveiras,São Paulo,Não,0.0
+são josé do barreiro,São Paulo,Não,0.0
+são joaquim da barra,São Paulo,Não,0.0
+neópolis,Sergipe,Não,0.0
+santa cruz da conceição,São Paulo,Não,0.0
+santa lúcia,São Paulo,Não,0.0
+santa isabel,São Paulo,Não,0.0
+santa gertrudes,São Paulo,Não,0.0
+santa fé do sul,São Paulo,Não,0.0
+santa ernestina,São Paulo,Não,0.0
+santa cruz do rio pardo,São Paulo,Não,0.0
+santa cruz das palmeiras,São Paulo,Não,0.0
+santa cruz da esperança,São Paulo,Não,0.0
+santa clara d'oeste,São Paulo,Não,0.0
+são joão do pau d'alho,São Paulo,Não,0.0
+santa branca,São Paulo,Não,0.0
+santa bárbara d'oeste,São Paulo,Não,0.0
+santa albertina,São Paulo,Não,0.0
+santa adélia,São Paulo,Não,0.0
+sandovalina,São Paulo,Não,0.0
+salto grande,São Paulo,Não,0.0
+salto de pirapora,São Paulo,Não,0.0
+saltinho,São Paulo,Não,0.0
+santa maria da serra,São Paulo,Não,0.0
+santa mercedes,São Paulo,Não,0.0
+santa rita do passa quatro,São Paulo,Não,0.0
+santa rita d'oeste,São Paulo,Não,0.0
+são joão de iracema,São Paulo,Não,0.0
+são joão das duas pontes,São Paulo,Não,0.0
+são francisco,São Paulo,Não,0.0
+são caetano do sul,São Paulo,Não,0.0
+são bento do sapucaí,São Paulo,Não,0.0
+santópolis do aguapeí,São Paulo,Não,0.0
+santo expedito,São Paulo,Não,0.0
+santo antônio do pinhal,São Paulo,Não,0.0
+santo antônio do jardim,São Paulo,Não,0.0
+santo antônio do aracanguá,São Paulo,Não,0.0
+santo antônio de posse,São Paulo,Não,0.0
+santo antônio da alegria,São Paulo,Não,0.0
+santo anastácio,São Paulo,Não,0.0
+santana de parnaíba,São Paulo,Não,0.0
+santana da ponte pensa,São Paulo,Não,0.0
+santa salete,São Paulo,Não,0.0
+santa rosa de viterbo,São Paulo,Não,0.0
+taquaral,São Paulo,Não,0.0
+taquaritinga,São Paulo,Não,0.0
+taquarituba,São Paulo,Não,0.0
+capela,Sergipe,Não,0.0
+feira nova,Sergipe,Não,0.0
+estância,Sergipe,Não,0.0
+divina pastora,Sergipe,Não,0.0
+cumbe,Sergipe,Não,0.0
+cristinápolis,Sergipe,Não,0.0
+cedro de são joão,Sergipe,Não,0.0
+carmópolis,Sergipe,Não,0.0
+carira,Sergipe,Não,0.0
+canindé de são francisco,Sergipe,Não,0.0
+taquarivaí,São Paulo,Não,0.0
+canhoba,Sergipe,Não,0.0
+campo do brito,Sergipe,Não,0.0
+brejo grande,Sergipe,Não,0.0
+boquim,Sergipe,Não,0.0
+barra dos coqueiros,Sergipe,Não,0.0
+areia branca,Sergipe,Não,0.0
+arauá,Sergipe,Não,0.0
+aracaju,Sergipe,Não,0.0
+frei paulo,Sergipe,Não,0.0
+gararu,Sergipe,Não,0.0
+general maynard,Sergipe,Não,0.0
+gracho cardoso,Sergipe,Não,0.0
+muribeca,Sergipe,Não,0.0
+monte alegre de sergipe,Sergipe,Não,0.0
+moita bonita,Sergipe,Não,0.0
+maruim,Sergipe,Não,0.0
+malhador,Sergipe,Não,0.0
+malhada dos bois,Sergipe,Não,0.0
+macambira,Sergipe,Não,0.0
+laranjeiras,Sergipe,Não,0.0
+lagarto,Sergipe,Não,0.0
+japoatã,Sergipe,Não,0.0
+japaratuba,Sergipe,Não,0.0
+itaporanga d'ajuda,Sergipe,Não,0.0
+itabi,Sergipe,Não,0.0
+itabaianinha,Sergipe,Não,0.0
+itabaiana,Sergipe,Não,0.0
+indiaroba,Sergipe,Não,0.0
+ilha das flores,Sergipe,Não,0.0
+aquidabã,Sergipe,Não,0.0
+amparo de são francisco,Sergipe,Não,0.0
+zacarias,São Paulo,Não,0.0
+ubarana,São Paulo,Não,0.0
+turiúba,São Paulo,Não,0.0
+tupi paulista,São Paulo,Não,0.0
+tupã,São Paulo,Não,0.0
+tuiuti,São Paulo,Não,0.0
+três fronteiras,São Paulo,Não,0.0
+tremembé,São Paulo,Não,0.0
+trabiju,São Paulo,Não,0.0
+torrinha,São Paulo,Não,0.0
+torre de pedra,São Paulo,Não,0.0
+timburi,São Paulo,Não,0.0
+tietê,São Paulo,Não,0.0
+terra roxa,São Paulo,Não,0.0
+teodoro sampaio,São Paulo,Não,0.0
+tejupá,São Paulo,Não,0.0
+tatuí,São Paulo,Não,0.0
+tarumã,São Paulo,Não,0.0
+tarabai,São Paulo,Não,0.0
+turmalina,São Paulo,Não,0.0
+ubatuba,São Paulo,Não,0.0
+votorantim,São Paulo,Não,0.0
+ubirajara,São Paulo,Não,0.0
+vitória brasil,São Paulo,Não,0.0
+vista alegre do alto,São Paulo,Não,0.0
+viradouro,São Paulo,Não,0.0
+vinhedo,São Paulo,Não,0.0
+vera cruz,São Paulo,Não,0.0
+várzea paulista,São Paulo,Não,0.0
+vargem grande paulista,São Paulo,Não,0.0
+vargem grande do sul,São Paulo,Não,0.0
+vargem,São Paulo,Não,0.0
+valparaíso,São Paulo,Não,0.0
+valinhos,São Paulo,Não,0.0
+valentim gentil,São Paulo,Não,0.0
+urupês,São Paulo,Não,0.0
+uru,São Paulo,Não,0.0
+urânia,São Paulo,Não,0.0
+união paulista,São Paulo,Não,0.0
+uchoa,São Paulo,Não,0.0
+cravinhos,São Paulo,Não,0.0
+cosmorama,São Paulo,Não,0.0
+cosmópolis,São Paulo,Não,0.0
+mirante da serra,Rondônia,Não,0.0
+pimenta bueno,Rondônia,Não,0.0
+parecis,Rondônia,Não,0.0
+ouro preto do oeste,Rondônia,Não,0.0
+novo horizonte do oeste,Rondônia,Não,0.0
+nova união,Rondônia,Não,0.0
+nova mamoré,Rondônia,Não,0.0
+nova brasilândia d'oeste,Rondônia,Não,0.0
+monte negro,Rondônia,Não,0.0
+ministro andreazza,Rondônia,Não,0.0
+corumbiara,Rondônia,Não,0.0
+machadinho d'oeste,Rondônia,Não,0.0
+ji-paraná,Rondônia,Não,0.0
+jaru,Rondônia,Não,0.0
+itapuã do oeste,Rondônia,Não,0.0
+guajará-mirim,Rondônia,Não,0.0
+governador jorge teixeira,Rondônia,Não,0.0
+espigão d'oeste,Rondônia,Não,0.0
+cujubim,Rondônia,Não,0.0
+pimenteiras do oeste,Rondônia,Não,0.0
+porto velho,Rondônia,Não,0.0
+presidente médici,Rondônia,Não,0.0
+primavera de rondônia,Rondônia,Não,0.0
+bonfim,Roraima,Não,0.0
+boa vista,Roraima,Não,0.0
+amajari,Roraima,Não,0.0
+alto alegre,Roraima,Não,0.0
+vilhena,Rondônia,Não,0.0
+vale do paraíso,Rondônia,Não,0.0
+vale do anari,Rondônia,Não,0.0
+urupá,Rondônia,Não,0.0
+theobroma,Rondônia,Não,0.0
+teixeirópolis,Rondônia,Não,0.0
+seringueiras,Rondônia,Não,0.0
+são miguel do guaporé,Rondônia,Não,0.0
+são francisco do guaporé,Rondônia,Não,0.0
+são felipe d'oeste,Rondônia,Não,0.0
+santa luzia d'oeste,Rondônia,Não,0.0
+rolim de moura,Rondônia,Não,0.0
+rio crespo,Rondônia,Não,0.0
+costa marques,Rondônia,Não,0.0
+colorado do oeste,Rondônia,Não,0.0
+turuçu,Rio Grande do Sul,Não,0.0
+vera cruz,Rio Grande do Sul,Não,0.0
+vila lângaro,Rio Grande do Sul,Não,0.0
+vila flores,Rio Grande do Sul,Não,0.0
+victor graeff,Rio Grande do Sul,Não,0.0
+vicente dutra,Rio Grande do Sul,Não,0.0
+viamão,Rio Grande do Sul,Não,0.0
+viadutos,Rio Grande do Sul,Não,0.0
+vespasiano correa,Rio Grande do Sul,Não,0.0
+veranópolis,Rio Grande do Sul,Não,0.0
+venâncio aires,Rio Grande do Sul,Não,0.0
+chupinguaia,Rondônia,Não,0.0
+vanini,Rio Grande do Sul,Não,0.0
+vale verde,Rio Grande do Sul,Não,0.0
+vale real,Rio Grande do Sul,Não,0.0
+vale do sol,Rio Grande do Sul,Não,0.0
+vacaria,Rio Grande do Sul,Não,0.0
+uruguaiana,Rio Grande do Sul,Não,0.0
+unistalda,Rio Grande do Sul,Não,0.0
+união da serra,Rio Grande do Sul,Não,0.0
+vila maria,Rio Grande do Sul,Não,0.0
+vila nova do sul,Rio Grande do Sul,Não,0.0
+vista alegre,Rio Grande do Sul,Não,0.0
+vista alegre do prata,Rio Grande do Sul,Não,0.0
+cerejeiras,Rondônia,Não,0.0
+castanheiras,Rondônia,Não,0.0
+candeias do jamari,Rondônia,Não,0.0
+campo novo de rondônia,Rondônia,Não,0.0
+cacoal,Rondônia,Não,0.0
+cacaulândia,Rondônia,Não,0.0
+cabixi,Rondônia,Não,0.0
+buritis,Rondônia,Não,0.0
+ariquemes,Rondônia,Não,0.0
+alvorada d'oeste,Rondônia,Não,0.0
+alto paraíso,Rondônia,Não,0.0
+alto alegre dos parecis,Rondônia,Não,0.0
+alta floresta d'oeste,Rondônia,Não,0.0
+xangri-lá,Rio Grande do Sul,Não,0.0
+westfalia,Rio Grande do Sul,Não,0.0
+vitória das missões,Rio Grande do Sul,Não,0.0
+vista gaúcha,Rio Grande do Sul,Não,0.0
+cantá,Roraima,Não,0.0
+caracaraí,Roraima,Não,0.0
+caroebe,Roraima,Não,0.0
+braço do norte,Santa Catarina,Não,0.0
+campo alegre,Santa Catarina,Não,0.0
+camboriú,Santa Catarina,Não,0.0
+calmon,Santa Catarina,Não,0.0
+caibi,Santa Catarina,Não,0.0
+caçador,Santa Catarina,Não,0.0
+brusque,Santa Catarina,Não,0.0
+brunópolis,Santa Catarina,Não,0.0
+braço do trombudo,Santa Catarina,Não,0.0
+botuverá,Santa Catarina,Não,0.0
+iracema,Roraima,Não,0.0
+bombinhas,Santa Catarina,Não,0.0
+bom retiro,Santa Catarina,Não,0.0
+bom jesus do oeste,Santa Catarina,Não,0.0
+bom jesus,Santa Catarina,Não,0.0
+bom jardim da serra,Santa Catarina,Não,0.0
+bocaina do sul,Santa Catarina,Não,0.0
+blumenau,Santa Catarina,Não,0.0
+biguaçu,Santa Catarina,Não,0.0
+campo belo do sul,Santa Catarina,Não,0.0
+campo erê,Santa Catarina,Não,0.0
+campos novos,Santa Catarina,Não,0.0
+canelinha,Santa Catarina,Não,0.0
+corupá,Santa Catarina,Não,0.0
+correia pinto,Santa Catarina,Não,0.0
+coronel martins,Santa Catarina,Não,0.0
+coronel freitas,Santa Catarina,Não,0.0
+cordilheira alta,Santa Catarina,Não,0.0
+concórdia,Santa Catarina,Não,0.0
+cocal do sul,Santa Catarina,Não,0.0
+chapecó,Santa Catarina,Não,0.0
+chapadão do lageado,Santa Catarina,Não,0.0
+cerro negro,Santa Catarina,Não,0.0
+celso ramos,Santa Catarina,Não,0.0
+caxambu do sul,Santa Catarina,Não,0.0
+catanduvas,Santa Catarina,Não,0.0
+capivari de baixo,Santa Catarina,Não,0.0
+capinzal,Santa Catarina,Sim,0.0
+capão alto,Santa Catarina,Não,0.0
+canoinhas,Santa Catarina,Não,0.0
+benedito novo,Santa Catarina,Não,0.0
+belmonte,Santa Catarina,Não,0.0
+bela vista do toldo,Santa Catarina,Não,0.0
+angelina,Santa Catarina,Não,0.0
+alto bela vista,Santa Catarina,Não,0.0
+alfredo wagner,Santa Catarina,Não,0.0
+águas mornas,Santa Catarina,Não,0.0
+águas frias,Santa Catarina,Não,0.0
+águas de chapecó,Santa Catarina,Não,0.0
+água doce,Santa Catarina,Não,0.0
+agronômica,Santa Catarina,Não,0.0
+agrolândia,Santa Catarina,Não,0.0
+abelardo luz,Santa Catarina,Não,0.0
+abdon batista,Santa Catarina,Não,0.0
+uiramutã,Roraima,Não,0.0
+são luiz,Roraima,Não,0.0
+são joão da baliza,Roraima,Não,0.0
+rorainópolis,Roraima,Não,0.0
+pacaraima,Roraima,Não,0.0
+normandia,Roraima,Não,0.0
+mucajaí,Roraima,Não,0.0
+anchieta,Santa Catarina,Não,0.0
+anita garibaldi,Santa Catarina,Não,0.0
+barra velha,Santa Catarina,Não,0.0
+anitápolis,Santa Catarina,Não,0.0
+barra bonita,Santa Catarina,Não,0.0
+bandeirante,Santa Catarina,Não,0.0
+balneário piçarras,Santa Catarina,Não,0.0
+balneário gaivota,Santa Catarina,Não,0.0
+balneário barra do sul,Santa Catarina,Não,0.0
+balneário arroio do silva,Santa Catarina,Não,0.0
+aurora,Santa Catarina,Não,0.0
+atalanta,Santa Catarina,Não,0.0
+ascurra,Santa Catarina,Não,0.0
+arvoredo,Santa Catarina,Não,0.0
+arroio trinta,Santa Catarina,Não,0.0
+armazém,Santa Catarina,Não,0.0
+araranguá,Santa Catarina,Não,0.0
+araquari,Santa Catarina,Não,0.0
+arabutã,Santa Catarina,Não,0.0
+apiúna,Santa Catarina,Não,0.0
+antônio carlos,Santa Catarina,Não,0.0
+ubiretama,Rio Grande do Sul,Não,0.0
+tuparendi,Rio Grande do Sul,Não,0.0
+corumbataí,São Paulo,Não,0.0
+roque gonzales,Rio Grande do Sul,Não,0.0
+santa bárbara do sul,Rio Grande do Sul,Não,0.0
+sananduva,Rio Grande do Sul,Não,0.0
+salvador do sul,Rio Grande do Sul,Não,0.0
+salvador das missões,Rio Grande do Sul,Não,0.0
+salto do jacuí,Rio Grande do Sul,Não,0.0
+saldanha marinho,Rio Grande do Sul,Não,0.0
+sagrada família,Rio Grande do Sul,Não,0.0
+rosário do sul,Rio Grande do Sul,Não,0.0
+rondinha,Rio Grande do Sul,Não,0.0
+restinga seca,Rio Grande do Sul,Não,0.0
+ronda alta,Rio Grande do Sul,Não,0.0
+rolante,Rio Grande do Sul,Não,0.0
+rolador,Rio Grande do Sul,Não,0.0
+rodeio bonito,Rio Grande do Sul,Não,0.0
+roca sales,Rio Grande do Sul,Não,0.0
+riozinho,Rio Grande do Sul,Não,0.0
+rio pardo,Rio Grande do Sul,Não,0.0
+rio grande,Rio Grande do Sul,Não,0.0
+santa cecília do sul,Rio Grande do Sul,Não,0.0
+santa clara do sul,Rio Grande do Sul,Não,0.0
+santa cruz do sul,Rio Grande do Sul,Não,0.0
+santa margarida do sul,Rio Grande do Sul,Não,0.0
+são borja,Rio Grande do Sul,Não,0.0
+santo expedito do sul,Rio Grande do Sul,Não,0.0
+santo cristo,Rio Grande do Sul,Não,0.0
+santo augusto,Rio Grande do Sul,Não,0.0
+santo antônio do planalto,Rio Grande do Sul,Não,0.0
+santo antônio do palma,Rio Grande do Sul,Não,0.0
+santo antônio das missões,Rio Grande do Sul,Não,0.0
+santo antônio da patrulha,Rio Grande do Sul,Não,0.0
+santo ângelo,Rio Grande do Sul,Não,0.0
+santiago,Rio Grande do Sul,Não,0.0
+sant'ana do livramento,Rio Grande do Sul,Não,0.0
+santana da boa vista,Rio Grande do Sul,Não,0.0
+santa vitória do palmar,Rio Grande do Sul,Não,0.0
+santa tereza,Rio Grande do Sul,Não,0.0
+santa rosa,Rio Grande do Sul,Não,0.0
+santa maria do herval,Rio Grande do Sul,Não,0.0
+santa maria,Rio Grande do Sul,Não,0.0
+rio dos índios,Rio Grande do Sul,Não,0.0
+relvado,Rio Grande do Sul,Não,0.0
+tupandi,Rio Grande do Sul,Não,0.0
+pedras altas,Rio Grande do Sul,Não,0.0
+pinheirinho do vale,Rio Grande do Sul,Não,0.0
+pinhal grande,Rio Grande do Sul,Não,0.0
+pinhal da serra,Rio Grande do Sul,Não,0.0
+pinhal,Rio Grande do Sul,Não,0.0
+picada café,Rio Grande do Sul,Não,0.0
+pelotas,Rio Grande do Sul,Não,0.0
+pejuçara,Rio Grande do Sul,Não,0.0
+pedro osório,Rio Grande do Sul,Não,0.0
+paverama,Rio Grande do Sul,Não,0.0
+redentora,Rio Grande do Sul,Não,0.0
+paulo bento,Rio Grande do Sul,Não,0.0
+passo fundo,Rio Grande do Sul,Não,0.0
+passo do sobrado,Rio Grande do Sul,Não,0.0
+passa sete,Rio Grande do Sul,Não,0.0
+parobé,Rio Grande do Sul,Não,0.0
+pareci novo,Rio Grande do Sul,Não,0.0
+paraíso do sul,Rio Grande do Sul,Não,0.0
+paraí,Rio Grande do Sul,Não,0.0
+pinheiro machado,Rio Grande do Sul,Não,0.0
+pirapó,Rio Grande do Sul,Não,0.0
+piratini,Rio Grande do Sul,Não,0.0
+planalto,Rio Grande do Sul,Não,0.0
+quinze de novembro,Rio Grande do Sul,Não,0.0
+quevedos,Rio Grande do Sul,Não,0.0
+quatro irmãos,Rio Grande do Sul,Não,0.0
+quaraí,Rio Grande do Sul,Não,0.0
+putinga,Rio Grande do Sul,Não,0.0
+protásio alves,Rio Grande do Sul,Não,0.0
+progresso,Rio Grande do Sul,Não,0.0
+presidente lucena,Rio Grande do Sul,Não,0.0
+pouso novo,Rio Grande do Sul,Não,0.0
+antonina,Paraná,Não,0.0
+porto vera cruz,Rio Grande do Sul,Não,0.0
+porto mauá,Rio Grande do Sul,Não,0.0
+porto lucena,Rio Grande do Sul,Não,0.0
+portão,Rio Grande do Sul,Não,0.0
+ponte preta,Rio Grande do Sul,Não,0.0
+pontão,Rio Grande do Sul,Não,0.0
+poço das antas,Rio Grande do Sul,Não,0.0
+são domingos do sul,Rio Grande do Sul,Não,0.0
+são francisco de assis,Rio Grande do Sul,Não,0.0
+são francisco de paula,Rio Grande do Sul,Não,0.0
+tabaí,Rio Grande do Sul,Não,0.0
+tenente portela,Rio Grande do Sul,Não,0.0
+tavares,Rio Grande do Sul,Não,0.0
+taquaruçu do sul,Rio Grande do Sul,Não,0.0
+taquari,Rio Grande do Sul,Não,0.0
+taquara,Rio Grande do Sul,Não,0.0
+tapes,Rio Grande do Sul,Não,0.0
+tapera,Rio Grande do Sul,Não,0.0
+tapejara,Rio Grande do Sul,Não,0.0
+soledade,Rio Grande do Sul,Não,0.0
+são gabriel,Rio Grande do Sul,Não,0.0
+sobradinho,Rio Grande do Sul,Não,0.0
+sinimbu,Rio Grande do Sul,Não,0.0
+silveira martins,Rio Grande do Sul,Não,0.0
+severiano de almeida,Rio Grande do Sul,Não,0.0
+sete de setembro,Rio Grande do Sul,Não,0.0
+sertão santana,Rio Grande do Sul,Não,0.0
+sertão,Rio Grande do Sul,Não,0.0
+sério,Rio Grande do Sul,Não,0.0
+terra de areia,Rio Grande do Sul,Não,0.0
+teutônia,Rio Grande do Sul,Não,0.0
+tio hugo,Rio Grande do Sul,Não,0.0
+tiradentes do sul,Rio Grande do Sul,Não,0.0
+tupanciretã,Rio Grande do Sul,Não,0.0
+tupanci do sul,Rio Grande do Sul,Não,0.0
+tunas,Rio Grande do Sul,Não,0.0
+tucunduva,Rio Grande do Sul,Não,0.0
+triunfo,Rio Grande do Sul,Não,0.0
+trindade do sul,Rio Grande do Sul,Não,0.0
+três passos,Rio Grande do Sul,Não,0.0
+três palmeiras,Rio Grande do Sul,Não,0.0
+três forquilhas,Rio Grande do Sul,Não,0.0
+três de maio,Rio Grande do Sul,Não,0.0
+três coroas,Rio Grande do Sul,Não,0.0
+três cachoeiras,Rio Grande do Sul,Não,0.0
+três arroios,Rio Grande do Sul,Não,0.0
+travesseiro,Rio Grande do Sul,Não,0.0
+tramandaí,Rio Grande do Sul,Não,0.0
+torres,Rio Grande do Sul,Não,0.0
+toropi,Rio Grande do Sul,Não,0.0
+serafina corrêa,Rio Grande do Sul,Não,0.0
+sentinela do sul,Rio Grande do Sul,Não,0.0
+senador salgado filho,Rio Grande do Sul,Não,0.0
+são miguel das missões,Rio Grande do Sul,Não,0.0
+são martinho,Rio Grande do Sul,Não,0.0
+são marcos,Rio Grande do Sul,Não,0.0
+são luiz gonzaga,Rio Grande do Sul,Não,0.0
+são lourenço do sul,Rio Grande do Sul,Não,0.0
+são leopoldo,Rio Grande do Sul,Não,0.0
+são josé dos ausentes,Rio Grande do Sul,Não,0.0
+são josé do sul,Rio Grande do Sul,Não,0.0
+são josé do ouro,Rio Grande do Sul,Não,0.0
+são josé do norte,Rio Grande do Sul,Não,0.0
+são josé do inhacorá,Rio Grande do Sul,Não,0.0
+são josé do hortêncio,Rio Grande do Sul,Não,0.0
+são josé do herval,Rio Grande do Sul,Não,0.0
+são josé das missões,Rio Grande do Sul,Não,0.0
+são jorge,Rio Grande do Sul,Não,0.0
+são joão do polêsine,Rio Grande do Sul,Não,0.0
+são joão da urtiga,Rio Grande do Sul,Não,0.0
+são jerônimo,Rio Grande do Sul,Não,0.0
+são martinho da serra,Rio Grande do Sul,Não,0.0
+são nicolau,Rio Grande do Sul,Não,0.0
+selbach,Rio Grande do Sul,Não,0.0
+são paulo das missões,Rio Grande do Sul,Não,0.0
+segredo,Rio Grande do Sul,Não,0.0
+sede nova,Rio Grande do Sul,Não,0.0
+seberi,Rio Grande do Sul,Não,0.0
+sarandi,Rio Grande do Sul,Não,0.0
+sapucaia do sul,Rio Grande do Sul,Não,0.0
+sapiranga,Rio Grande do Sul,Não,0.0
+são vicente do sul,Rio Grande do Sul,Não,0.0
+são vendelino,Rio Grande do Sul,Não,0.0
+são valério do sul,Rio Grande do Sul,Não,0.0
+são valentim do sul,Rio Grande do Sul,Não,0.0
+são valentim,Rio Grande do Sul,Não,0.0
+são sepé,Rio Grande do Sul,Não,0.0
+são sebastião do caí,Rio Grande do Sul,Não,0.0
+são pedro do sul,Rio Grande do Sul,Não,0.0
+são pedro do butiá,Rio Grande do Sul,Não,0.0
+são pedro das missões,Rio Grande do Sul,Não,0.0
+são pedro da serra,Rio Grande do Sul,Não,0.0
+cunha porã,Santa Catarina,Não,0.0
+cunhataí,Santa Catarina,Não,0.0
+curitibanos,Santa Catarina,Não,0.0
+álvares florence,São Paulo,Não,0.0
+andradina,São Paulo,Não,0.0
+analândia,São Paulo,Não,0.0
+amparo,São Paulo,Não,0.0
+américo de campos,São Paulo,Não,0.0
+américo brasiliense,São Paulo,Não,0.0
+alvinlândia,São Paulo,Não,0.0
+álvaro de carvalho,São Paulo,Não,0.0
+álvares machado,São Paulo,Não,0.0
+alumínio,São Paulo,Não,0.0
+águas da prata,São Paulo,Não,0.0
+alto alegre,São Paulo,Não,0.0
+altinópolis,São Paulo,Não,0.0
+altair,São Paulo,Não,0.0
+alfredo marcondes,São Paulo,Não,0.0
+alambari,São Paulo,Não,0.0
+agudos,São Paulo,Não,0.0
+águas de são pedro,São Paulo,Não,0.0
+águas de santa bárbara,São Paulo,Não,0.0
+angatuba,São Paulo,Não,0.0
+anhembi,São Paulo,Não,0.0
+anhumas,São Paulo,Não,0.0
+aparecida,São Paulo,Não,0.0
+auriflama,São Paulo,Não,0.0
+atibaia,São Paulo,Não,0.0
+aspásia,São Paulo,Não,0.0
+arujá,São Paulo,Não,0.0
+artur nogueira,São Paulo,Não,0.0
+ariranha,São Paulo,Não,0.0
+areiópolis,São Paulo,Não,0.0
+areias,São Paulo,Não,0.0
+arealva,São Paulo,Não,0.0
+arco-íris,São Paulo,Não,0.0
+arapeí,São Paulo,Não,0.0
+arandu,São Paulo,Não,0.0
+aramina,São Paulo,Não,0.0
+araçoiaba da serra,São Paulo,Não,0.0
+araçariguama,São Paulo,Não,0.0
+apiaí,São Paulo,Não,0.0
+aparecida d'oeste,São Paulo,Não,0.0
+águas de lindóia,São Paulo,Não,0.0
+aguaí,São Paulo,Não,0.0
+descanso,Santa Catarina,Não,0.0
+taió,Santa Catarina,Não,0.0
+treze de maio,Santa Catarina,Não,0.0
+treviso,Santa Catarina,Não,0.0
+três barras,Santa Catarina,Não,0.0
+timbó grande,Santa Catarina,Não,0.0
+timbé do sul,Santa Catarina,Não,0.0
+tijucas,Santa Catarina,Não,0.0
+tigrinhos,Santa Catarina,Não,0.0
+tangará,Santa Catarina,Não,0.0
+sul brasil,Santa Catarina,Não,0.0
+adolfo,São Paulo,Não,0.0
+sombrio,Santa Catarina,Não,0.0
+siderópolis,Santa Catarina,Não,0.0
+serra alta,Santa Catarina,Não,0.0
+seara,Santa Catarina,Não,0.0
+schroeder,Santa Catarina,Não,0.0
+saudades,Santa Catarina,Não,0.0
+são pedro de alcântara,Santa Catarina,Não,0.0
+são miguel do oeste,Santa Catarina,Não,0.0
+treze tílias,Santa Catarina,Não,0.0
+trombudo central,Santa Catarina,Não,0.0
+tubarão,Santa Catarina,Não,0.0
+tunápolis,Santa Catarina,Não,0.0
+adamantina,São Paulo,Não,0.0
+zortéa,Santa Catarina,Não,0.0
+xaxim,Santa Catarina,Não,0.0
+xavantina,Santa Catarina,Não,0.0
+xanxerê,Santa Catarina,Não,0.0
+witmarsum,Santa Catarina,Não,0.0
+vitor meireles,Santa Catarina,Não,0.0
+videira,Santa Catarina,Não,0.0
+vidal ramos,Santa Catarina,Não,0.0
+vargem bonita,Santa Catarina,Não,0.0
+vargem,Santa Catarina,Não,0.0
+vargeão,Santa Catarina,Não,0.0
+urussanga,Santa Catarina,Não,0.0
+urupema,Santa Catarina,Não,0.0
+urubici,Santa Catarina,Não,0.0
+união do oeste,Santa Catarina,Não,0.0
+turvo,Santa Catarina,Não,0.0
+avaí,São Paulo,Não,0.0
+avanhandava,São Paulo,Não,0.0
+avaré,São Paulo,Não,0.0
+campos novos paulista,São Paulo,Não,0.0
+capivari,São Paulo,Não,0.0
+capela do alto,São Paulo,Não,0.0
+capão bonito,São Paulo,Não,0.0
+canitar,São Paulo,Não,0.0
+cândido rodrigues,São Paulo,Não,0.0
+cândido mota,São Paulo,Não,0.0
+canas,São Paulo,Não,0.0
+cananéia,São Paulo,Não,0.0
+campos do jordão,São Paulo,Não,0.0
+bady bassitt,São Paulo,Não,0.0
+campina do monte alegre,São Paulo,Não,0.0
+cajuru,São Paulo,Não,0.0
+cajobi,São Paulo,Não,0.0
+cajati,São Paulo,Não,0.0
+cajamar,São Paulo,Não,0.0
+caiuá,São Paulo,Não,0.0
+caieiras,São Paulo,Não,0.0
+caiabu,São Paulo,Não,0.0
+caraguatatuba,São Paulo,Não,0.0
+carapicuíba,São Paulo,Não,0.0
+cardoso,São Paulo,Não,0.0
+casa branca,São Paulo,Não,0.0
+coronel macedo,São Paulo,Não,0.0
+coroados,São Paulo,Não,0.0
+cordeirópolis,São Paulo,Não,0.0
+conchas,São Paulo,Não,0.0
+conchal,São Paulo,Não,0.0
+colômbia,São Paulo,Não,0.0
+colina,São Paulo,Não,0.0
+clementina,São Paulo,Não,0.0
+chavantes,São Paulo,Não,0.0
+charqueada,São Paulo,Não,0.0
+cesário lange,São Paulo,Não,0.0
+cerquilho,São Paulo,Não,0.0
+cerqueira césar,São Paulo,Não,0.0
+cedral,São Paulo,Não,0.0
+catiguá,São Paulo,Não,0.0
+castilho,São Paulo,Não,0.0
+cássia dos coqueiros,São Paulo,Não,0.0
+cafelândia,São Paulo,Não,0.0
+caconde,São Paulo,Não,0.0
+cachoeira paulista,São Paulo,Não,0.0
+biritiba-mirim,São Paulo,Não,0.0
+bilac,São Paulo,Não,0.0
+bertioga,São Paulo,Não,0.0
+bernardino de campos,São Paulo,Não,0.0
+bento de abreu,São Paulo,Não,0.0
+batatais,São Paulo,Não,0.0
+bastos,São Paulo,Não,0.0
+barueri,São Paulo,Não,0.0
+barrinha,São Paulo,Não,0.0
+barra do turvo,São Paulo,Não,0.0
+barra do chapéu,São Paulo,Não,0.0
+barra bonita,São Paulo,Não,0.0
+bariri,São Paulo,Não,0.0
+barbosa,São Paulo,Não,0.0
+barão de antonina,São Paulo,Não,0.0
+bananal,São Paulo,Não,0.0
+bálsamo,São Paulo,Não,0.0
+balbinos,São Paulo,Não,0.0
+birigui,São Paulo,Não,0.0
+boa esperança do sul,São Paulo,Não,0.0
+caçapava,São Paulo,Não,0.0
+bocaina,São Paulo,Não,0.0
+cabreúva,São Paulo,Não,0.0
+cabrália paulista,São Paulo,Não,0.0
+buritizal,São Paulo,Não,0.0
+buritama,São Paulo,Não,0.0
+buri,São Paulo,Não,0.0
+brotas,São Paulo,Não,0.0
+brodowski,São Paulo,Não,0.0
+brejo alegre,São Paulo,Não,0.0
+braúna,São Paulo,Não,0.0
+borebi,São Paulo,Não,0.0
+borborema,São Paulo,Não,0.0
+boracéia,São Paulo,Não,0.0
+borá,São Paulo,Não,0.0
+bom sucesso de itararé,São Paulo,Não,0.0
+bom jesus dos perdões,São Paulo,Não,0.0
+boituva,São Paulo,Não,0.0
+bofete,São Paulo,Não,0.0
+são miguel da boa vista,Santa Catarina,Não,0.0
+são martinho,Santa Catarina,Não,0.0
+são ludgero,Santa Catarina,Não,0.0
+jaguaruna,Santa Catarina,Não,0.0
+lajeado grande,Santa Catarina,Não,0.0
+laguna,Santa Catarina,Não,0.0
+lacerdópolis,Santa Catarina,Não,0.0
+jupiá,Santa Catarina,Não,0.0
+josé boiteux,Santa Catarina,Não,0.0
+joaçaba,Santa Catarina,Não,0.0
+jardinópolis,Santa Catarina,Não,0.0
+jaraguá do sul,Santa Catarina,Não,0.0
+jacinto machado,Santa Catarina,Não,0.0
+monte castelo,Santa Catarina,Não,0.0
+jaborá,Santa Catarina,Não,0.0
+ituporanga,Santa Catarina,Não,0.0
+itapoá,Santa Catarina,Não,0.0
+itapiranga,Santa Catarina,Não,0.0
+itapema,Santa Catarina,Não,0.0
+itaiópolis,Santa Catarina,Não,0.0
+itá,Santa Catarina,Não,0.0
+irineópolis,Santa Catarina,Não,0.0
+laurentino,Santa Catarina,Não,0.0
+lauro muller,Santa Catarina,Não,0.0
+lebon régis,Santa Catarina,Não,0.0
+leoberto leal,Santa Catarina,Não,0.0
+mondaí,Santa Catarina,Não,0.0
+modelo,Santa Catarina,Não,0.0
+mirim doce,Santa Catarina,Não,0.0
+meleiro,Santa Catarina,Não,0.0
+matos costa,Santa Catarina,Não,0.0
+massaranduba,Santa Catarina,Não,0.0
+marema,Santa Catarina,Não,0.0
+maravilha,Santa Catarina,Não,0.0
+maracajá,Santa Catarina,Não,0.0
+major vieira,Santa Catarina,Não,0.0
+major gercino,Santa Catarina,Não,0.0
+mafra,Santa Catarina,Não,0.0
+macieira,Santa Catarina,Não,0.0
+luzerna,Santa Catarina,Não,0.0
+luiz alves,Santa Catarina,Não,0.0
+lontras,Santa Catarina,Não,0.0
+lindóia do sul,Santa Catarina,Não,0.0
+irati,Santa Catarina,Não,0.0
+irani,Santa Catarina,Não,0.0
+iraceminha,Santa Catarina,Não,0.0
+gravatal,Santa Catarina,Não,0.0
+governador celso ramos,Santa Catarina,Não,0.0
+gaspar,Santa Catarina,Não,0.0
+garuva,Santa Catarina,Não,0.0
+garopaba,Santa Catarina,Não,0.0
+galvão,Santa Catarina,Não,0.0
+frei rogério,Santa Catarina,Não,0.0
+fraiburgo,Santa Catarina,Não,0.0
+forquilhinha,Santa Catarina,Não,0.0
+formosa do sul,Santa Catarina,Não,0.0
+flor do sertão,Santa Catarina,Não,0.0
+faxinal dos guedes,Santa Catarina,Não,0.0
+erval velho,Santa Catarina,Não,0.0
+ermo,Santa Catarina,Não,0.0
+entre rios,Santa Catarina,Não,0.0
+doutor pedrinho,Santa Catarina,Não,0.0
+dona emma,Santa Catarina,Não,0.0
+dionísio cerqueira,Santa Catarina,Não,0.0
+grão pará,Santa Catarina,Não,0.0
+guabiruba,Santa Catarina,Não,0.0
+ipumirim,Santa Catarina,Não,0.0
+guaraciaba,Santa Catarina,Não,0.0
+ipuaçu,Santa Catarina,Não,0.0
+iporã do oeste,Santa Catarina,Não,0.0
+ipira,Santa Catarina,Não,0.0
+iomerê,Santa Catarina,Não,0.0
+indaial,Santa Catarina,Não,0.0
+imbuia,Santa Catarina,Não,0.0
+imbituba,Santa Catarina,Não,0.0
+imaruí,Santa Catarina,Não,0.0
+ilhota,Santa Catarina,Não,0.0
+içara,Santa Catarina,Não,0.0
+ibirama,Santa Catarina,Não,0.0
+ibicaré,Santa Catarina,Não,0.0
+ibiam,Santa Catarina,Não,0.0
+herval d'oeste,Santa Catarina,Não,0.0
+guatambú,Santa Catarina,Não,0.0
+guarujá do sul,Santa Catarina,Não,0.0
+guaramirim,Santa Catarina,Não,0.0
+monte carlo,Santa Catarina,Não,0.0
+morro da fumaça,Santa Catarina,Não,0.0
+são lourenço do oeste,Santa Catarina,Não,0.0
+riqueza,Santa Catarina,Não,0.0
+santa helena,Santa Catarina,Não,0.0
+santa cecília,Santa Catarina,Não,0.0
+sangão,Santa Catarina,Não,0.0
+salto veloso,Santa Catarina,Não,0.0
+saltinho,Santa Catarina,Não,0.0
+salete,Santa Catarina,Não,0.0
+romelândia,Santa Catarina,Não,0.0
+rodeio,Santa Catarina,Não,0.0
+rio rufino,Santa Catarina,Não,0.0
+morro grande,Santa Catarina,Não,0.0
+rio negrinho,Santa Catarina,Não,0.0
+rio fortuna,Santa Catarina,Não,0.0
+rio dos cedros,Santa Catarina,Não,0.0
+rio do sul,Santa Catarina,Não,0.0
+rio do oeste,Santa Catarina,Não,0.0
+rio do campo,Santa Catarina,Não,0.0
+rio das antas,Santa Catarina,Não,0.0
+rancho queimado,Santa Catarina,Não,0.0
+santa rosa de lima,Santa Catarina,Não,0.0
+santa rosa do sul,Santa Catarina,Não,0.0
+santa terezinha,Santa Catarina,Não,0.0
+santa terezinha do progresso,Santa Catarina,Não,0.0
+são josé do cerrito,Santa Catarina,Não,0.0
+são josé do cedro,Santa Catarina,Não,0.0
+são josé,Santa Catarina,Não,0.0
+são joaquim,Santa Catarina,Não,0.0
+são joão do sul,Santa Catarina,Não,0.0
+são joão do oeste,Santa Catarina,Não,0.0
+são joão do itaperiú,Santa Catarina,Não,0.0
+são joão batista,Santa Catarina,Não,0.0
+são francisco do sul,Santa Catarina,Não,0.0
+são domingos,Santa Catarina,Não,0.0
+são cristovão do sul,Santa Catarina,Não,0.0
+são carlos,Santa Catarina,Não,0.0
+são bonifácio,Santa Catarina,Não,0.0
+são bernardino,Santa Catarina,Não,0.0
+são bento do sul,Santa Catarina,Não,0.0
+santo amaro da imperatriz,Santa Catarina,Não,0.0
+santiago do sul,Santa Catarina,Não,0.0
+quilombo,Santa Catarina,Não,0.0
+princesa,Santa Catarina,Não,0.0
+presidente nereu,Santa Catarina,Não,0.0
+passo de torres,Santa Catarina,Não,0.0
+papanduva,Santa Catarina,Não,0.0
+palmitos,Santa Catarina,Não,0.0
+palmeira,Santa Catarina,Não,0.0
+palma sola,Santa Catarina,Não,0.0
+palhoça,Santa Catarina,Não,0.0
+painel,Santa Catarina,Não,0.0
+paial,Santa Catarina,Não,0.0
+ouro verde,Santa Catarina,Não,0.0
+ouro,Santa Catarina,Não,0.0
+otacílio costa,Santa Catarina,Não,0.0
+orleans,Santa Catarina,Não,0.0
+novo horizonte,Santa Catarina,Não,0.0
+nova veneza,Santa Catarina,Não,0.0
+nova trento,Santa Catarina,Não,0.0
+nova itaberaba,Santa Catarina,Não,0.0
+nova erechim,Santa Catarina,Não,0.0
+navegantes,Santa Catarina,Não,0.0
+paraíso,Santa Catarina,Não,0.0
+passos maia,Santa Catarina,Não,0.0
+presidente getúlio,Santa Catarina,Não,0.0
+paulo lopes,Santa Catarina,Não,0.0
+presidente castello branco,Santa Catarina,Não,0.0
+praia grande,Santa Catarina,Não,0.0
+pouso redondo,Santa Catarina,Não,0.0
+porto união,Santa Catarina,Não,0.0
+porto belo,Santa Catarina,Não,0.0
+ponte serrada,Santa Catarina,Não,0.0
+ponte alta do norte,Santa Catarina,Não,0.0
+ponte alta,Santa Catarina,Não,0.0
+pomerode,Santa Catarina,Não,0.0
+planalto alegre,Santa Catarina,Não,0.0
+piratuba,Santa Catarina,Não,0.0
+pinheiro preto,Santa Catarina,Não,0.0
+pinhalzinho,Santa Catarina,Não,0.0
+petrolândia,Santa Catarina,Não,0.0
+peritiba,Santa Catarina,Não,0.0
+penha,Santa Catarina,Não,0.0
+pedras grandes,Santa Catarina,Não,0.0
+antônio olinto,Paraná,Não,0.0
+zabelê,Paraíba,Não,0.0
+ângulo,Paraná,Não,0.0
+caiapônia,Goiás,Não,0.0
+campos belos,Goiás,Não,0.0
+campo limpo de goiás,Goiás,Não,0.0
+campo alegre de goiás,Goiás,Não,0.0
+campinorte,Goiás,Não,0.0
+campinaçu,Goiás,Não,0.0
+campestre de goiás,Goiás,Não,0.0
+caldazinha,Goiás,Não,0.0
+caldas novas,Goiás,Não,0.0
+caçu,Goiás,Não,0.0
+carmo do rio verde,Goiás,Não,0.0
+cachoeira dourada,Goiás,Não,0.0
+cachoeira de goiás,Goiás,Não,0.0
+cachoeira alta,Goiás,Não,0.0
+cabeceiras,Goiás,Não,0.0
+buritinópolis,Goiás,Não,0.0
+buriti de goiás,Goiás,Não,0.0
+buriti alegre,Goiás,Não,0.0
+britânia,Goiás,Não,0.0
+campos verdes,Goiás,Não,0.0
+castelândia,Goiás,Não,0.0
+são josé do calçado,Espírito Santo,Não,0.0
+corumbá de goiás,Goiás,Não,0.0
+damolândia,Goiás,Não,0.0
+damianópolis,Goiás,Não,0.0
+cumari,Goiás,Não,0.0
+cromínia,Goiás,Não,0.0
+crixás,Goiás,Não,0.0
+cristianópolis,Goiás,Não,0.0
+cristalina,Goiás,Não,0.0
+corumbaíba,Goiás,Não,0.0
+córrego do ouro,Goiás,Não,0.0
+catalão,Goiás,Não,0.0
+colinas do sul,Goiás,Não,0.0
+cocalzinho de goiás,Goiás,Não,0.0
+cidade ocidental,Goiás,Não,0.0
+chapadão do céu,Goiás,Não,0.0
+cezarina,Goiás,Não,0.0
+ceres,Goiás,Não,0.0
+cavalcante,Goiás,Não,0.0
+caturaí,Goiás,Não,0.0
+brazabrantes,Goiás,Não,0.0
+bonópolis,Goiás,Não,0.0
+bonfinópolis,Goiás,Não,0.0
+acreúna,Goiás,Não,0.0
+alto paraíso de goiás,Goiás,Não,0.0
+alto horizonte,Goiás,Não,0.0
+aloândia,Goiás,Não,0.0
+alexânia,Goiás,Não,0.0
+águas lindas de goiás,Goiás,Não,0.0
+água limpa,Goiás,Não,0.0
+água fria de goiás,Goiás,Não,0.0
+adelândia,Goiás,Não,0.0
+abadiânia,Goiás,Não,0.0
+bom jesus de goiás,Goiás,Não,0.0
+abadia de goiás,Goiás,Não,0.0
+vitória,Espírito Santo,Não,0.0
+vila valério,Espírito Santo,Não,0.0
+vila pavão,Espírito Santo,Não,0.0
+viana,Espírito Santo,Não,0.0
+venda nova do imigrante,Espírito Santo,Não,0.0
+vargem alta,Espírito Santo,Não,0.0
+sooretama,Espírito Santo,Não,0.0
+alvorada do norte,Goiás,Não,0.0
+amaralina,Goiás,Não,0.0
+americano do brasil,Goiás,Não,0.0
+amorinópolis,Goiás,Não,0.0
+bom jardim de goiás,Goiás,Não,0.0
+bela vista de goiás,Goiás,Não,0.0
+barro alto,Goiás,Não,0.0
+baliza,Goiás,Não,0.0
+avelinópolis,Goiás,Não,0.0
+aurilândia,Goiás,Não,0.0
+aruanã,Goiás,Não,0.0
+arenópolis,Goiás,Não,0.0
+araguapaz,Goiás,Não,0.0
+aragoiânia,Goiás,Não,0.0
+aragarças,Goiás,Não,0.0
+araçu,Goiás,Não,0.0
+aporé,Goiás,Não,0.0
+aparecida do rio doce,Goiás,Não,0.0
+aparecida de goiânia,Goiás,Não,0.0
+anicuns,Goiás,Não,0.0
+anhanguera,Goiás,Não,0.0
+davinópolis,Goiás,Não,0.0
+diorama,Goiás,Não,0.0
+divinópolis de goiás,Goiás,Não,0.0
+luziânia,Goiás,Não,0.0
+minaçu,Goiás,Não,0.0
+mimoso de goiás,Goiás,Não,0.0
+maurilândia,Goiás,Não,0.0
+matrinchã,Goiás,Não,0.0
+marzagão,Goiás,Não,0.0
+mara rosa,Goiás,Não,0.0
+mambaí,Goiás,Não,0.0
+mairipotaba,Goiás,Não,0.0
+leopoldo de bulhões,Goiás,Não,0.0
+itumbiara,Goiás,Não,0.0
+lagoa santa,Goiás,Não,0.0
+jussara,Goiás,Não,0.0
+joviânia,Goiás,Não,0.0
+jesúpolis,Goiás,Não,0.0
+jaupaci,Goiás,Não,0.0
+jataí,Goiás,Não,0.0
+jaraguá,Goiás,Não,0.0
+jandaia,Goiás,Não,0.0
+mineiros,Goiás,Não,0.0
+moiporá,Goiás,Não,0.0
+monte alegre de goiás,Goiás,Não,0.0
+montes claros de goiás,Goiás,Não,0.0
+nova roma,Goiás,Não,0.0
+nova iguaçu de goiás,Goiás,Não,0.0
+nova glória,Goiás,Não,0.0
+nova crixás,Goiás,Não,0.0
+nova aurora,Goiás,Não,0.0
+nova américa,Goiás,Não,0.0
+niquelândia,Goiás,Não,0.0
+nerópolis,Goiás,Não,0.0
+nazário,Goiás,Não,0.0
+mutunópolis,Goiás,Não,0.0
+mundo novo,Goiás,Não,0.0
+mozarlândia,Goiás,Não,0.0
+mossâmedes,Goiás,Não,0.0
+morro agudo de goiás,Goiás,Não,0.0
+morrinhos,Goiás,Não,0.0
+montividiu do norte,Goiás,Não,0.0
+montividiu,Goiás,Não,0.0
+ivolândia,Goiás,Não,0.0
+itauçu,Goiás,Não,0.0
+doverlândia,Goiás,Não,0.0
+gameleira de goiás,Goiás,Não,0.0
+guapó,Goiás,Não,0.0
+gouvelândia,Goiás,Não,0.0
+goiatuba,Goiás,Não,0.0
+goiás,Goiás,Não,0.0
+goianira,Goiás,Não,0.0
+goianésia,Goiás,Não,0.0
+goiandira,Goiás,Não,0.0
+goianápolis,Goiás,Não,0.0
+formoso,Goiás,Não,0.0
+itarumã,Goiás,Não,0.0
+formosa,Goiás,Não,0.0
+flores de goiás,Goiás,Não,0.0
+firminópolis,Goiás,Não,0.0
+fazenda nova,Goiás,Não,0.0
+faina,Goiás,Não,0.0
+estrela do norte,Goiás,Não,0.0
+edéia,Goiás,Não,0.0
+edealina,Goiás,Não,0.0
+guaraíta,Goiás,Não,0.0
+guarani de goiás,Goiás,Não,0.0
+guarinos,Goiás,Não,0.0
+heitoraí,Goiás,Não,0.0
+itapuranga,Goiás,Não,0.0
+itapirapuã,Goiás,Não,0.0
+itapaci,Goiás,Não,0.0
+itajá,Goiás,Não,0.0
+itaguaru,Goiás,Não,0.0
+itaguari,Goiás,Não,0.0
+itaberaí,Goiás,Não,0.0
+israelândia,Goiás,Não,0.0
+iporá,Goiás,Não,0.0
+ipiranga de goiás,Goiás,Não,0.0
+ipameri,Goiás,Não,0.0
+inhumas,Goiás,Não,0.0
+indiara,Goiás,Não,0.0
+inaciolândia,Goiás,Não,0.0
+iaciara,Goiás,Não,0.0
+hidrolina,Goiás,Não,0.0
+hidrolândia,Goiás,Não,0.0
+são roque do canaã,Espírito Santo,Não,0.0
+são gabriel da palha,Espírito Santo,Não,0.0
+novo brasil,Goiás,Não,0.0
+palmácia,Ceará,Não,0.0
+pereiro,Ceará,Não,0.0
+pentecoste,Ceará,Não,0.0
+penaforte,Ceará,Não,0.0
+pedra branca,Ceará,Não,0.0
+paramoti,Ceará,Não,0.0
+parambu,Ceará,Não,0.0
+paraipaba,Ceará,Não,0.0
+paracuru,Ceará,Não,0.0
+palhano,Ceará,Não,0.0
+piquet carneiro,Ceará,Não,0.0
+pacujá,Ceará,Não,0.0
+pacoti,Ceará,Não,0.0
+pacatuba,Ceará,Não,0.0
+pacajus,Ceará,Não,0.0
+orós,Ceará,Não,0.0
+ocara,Ceará,Não,0.0
+novo oriente,Ceará,Não,0.0
+nova russas,Ceará,Não,0.0
+pindoretama,Ceará,Não,0.0
+pires ferreira,Ceará,Não,0.0
+são domingos do norte,Espírito Santo,Não,0.0
+reriutaba,Ceará,Não,0.0
+são gonçalo do amarante,Ceará,Não,0.0
+são benedito,Ceará,Não,0.0
+santana do cariri,Ceará,Não,0.0
+santana do acaraú,Ceará,Não,0.0
+santa quitéria,Ceará,Não,0.0
+salitre,Ceará,Não,0.0
+saboeiro,Ceará,Não,0.0
+russas,Ceará,Não,0.0
+redenção,Ceará,Não,0.0
+poranga,Ceará,Não,0.0
+quixeré,Ceará,Não,0.0
+quixeramobim,Ceará,Não,0.0
+quixelô,Ceará,Não,0.0
+quixadá,Ceará,Não,0.0
+quiterianópolis,Ceará,Não,0.0
+potiretama,Ceará,Não,0.0
+potengi,Ceará,Não,0.0
+porteiras,Ceará,Não,0.0
+nova olinda,Ceará,Não,0.0
+mulungu,Ceará,Não,0.0
+mucambo,Ceará,Não,0.0
+itapiúna,Ceará,Não,0.0
+jati,Ceará,Não,0.0
+jardim,Ceará,Não,0.0
+jaguaruana,Ceará,Não,0.0
+jaguaribe,Ceará,Não,0.0
+jaguaribara,Ceará,Não,0.0
+jaguaretama,Ceará,Não,0.0
+itatira,Ceará,Não,0.0
+itarema,Ceará,Não,0.0
+itapipoca,Ceará,Não,0.0
+morrinhos,Ceará,Não,0.0
+itapagé,Ceará,Não,0.0
+itaitinga,Ceará,Não,0.0
+itaiçaba,Ceará,Não,0.0
+irauçuba,Ceará,Não,0.0
+iracema,Ceará,Não,0.0
+ipueiras,Ceará,Não,0.0
+ipu,Ceará,Não,0.0
+ipaumirim,Ceará,Não,0.0
+jijoca de jericoacoara,Ceará,Não,0.0
+juazeiro do norte,Ceará,Não,0.0
+jucás,Ceará,Não,0.0
+lavras da mangabeira,Ceará,Não,0.0
+moraújo,Ceará,Não,0.0
+morada nova,Ceará,Não,0.0
+monsenhor tabosa,Ceará,Não,0.0
+mombaça,Ceará,Não,0.0
+missão velha,Ceará,Não,0.0
+miraíma,Ceará,Não,0.0
+milhã,Ceará,Não,0.0
+milagres,Ceará,Não,0.0
+meruoca,Ceará,Não,0.0
+mauriti,Ceará,Não,0.0
+massapê,Ceará,Não,0.0
+martinópole,Ceará,Não,0.0
+marco,Ceará,Não,0.0
+maranguape,Ceará,Não,0.0
+maracanaú,Ceará,Não,0.0
+madalena,Ceará,Não,0.0
+limoeiro do norte,Ceará,Não,0.0
+são joão do jaguaribe,Ceará,Não,0.0
+são luís do curu,Ceará,Não,0.0
+senador pompeu,Ceará,Não,0.0
+itaguaçu,Espírito Santo,Não,0.0
+linhares,Espírito Santo,Não,0.0
+laranja da terra,Espírito Santo,Não,0.0
+joão neiva,Espírito Santo,Não,0.0
+jerônimo monteiro,Espírito Santo,Não,0.0
+jaguaré,Espírito Santo,Não,0.0
+iúna,Espírito Santo,Não,0.0
+itarana,Espírito Santo,Não,0.0
+itapemirim,Espírito Santo,Não,0.0
+irupi,Espírito Santo,Não,0.0
+dores do rio preto,Espírito Santo,Não,0.0
+iconha,Espírito Santo,Não,0.0
+ibitirama,Espírito Santo,Não,0.0
+ibiraçu,Espírito Santo,Não,0.0
+ibatiba,Espírito Santo,Não,0.0
+guarapari,Espírito Santo,Não,0.0
+guaçuí,Espírito Santo,Não,0.0
+governador lindenberg,Espírito Santo,Não,0.0
+fundão,Espírito Santo,Não,0.0
+mantenópolis,Espírito Santo,Não,0.0
+marataízes,Espírito Santo,Não,0.0
+marechal floriano,Espírito Santo,Não,0.0
+marilândia,Espírito Santo,Não,0.0
+santa teresa,Espírito Santo,Não,0.0
+santa maria de jetibá,Espírito Santo,Não,0.0
+santa leopoldina,Espírito Santo,Não,0.0
+rio novo do sul,Espírito Santo,Não,0.0
+rio bananal,Espírito Santo,Não,0.0
+presidente kennedy,Espírito Santo,Não,0.0
+ponto belo,Espírito Santo,Não,0.0
+piúma,Espírito Santo,Não,0.0
+pinheiros,Espírito Santo,Não,0.0
+pedro canário,Espírito Santo,Não,0.0
+pancas,Espírito Santo,Não,0.0
+nova venécia,Espírito Santo,Não,0.0
+muqui,Espírito Santo,Não,0.0
+muniz freire,Espírito Santo,Não,0.0
+mucurici,Espírito Santo,Não,0.0
+montanha,Espírito Santo,Não,0.0
+mimoso do sul,Espírito Santo,Não,0.0
+ecoporanga,Espírito Santo,Não,0.0
+domingos martins,Espírito Santo,Não,0.0
+senador sá,Ceará,Não,0.0
+tururu,Ceará,Não,0.0
+viçosa do ceará,Ceará,Não,0.0
+várzea alegre,Ceará,Não,0.0
+varjota,Ceará,Não,0.0
+uruoca,Ceará,Não,0.0
+uruburetama,Ceará,Não,0.0
+umirim,Ceará,Não,0.0
+umari,Ceará,Não,0.0
+ubajara,Ceará,Não,0.0
+trairi,Ceará,Não,0.0
+divino de são lourenço,Espírito Santo,Não,0.0
+tianguá,Ceará,Não,0.0
+tejuçuoca,Ceará,Não,0.0
+tauá,Ceará,Não,0.0
+tarrafas,Ceará,Não,0.0
+tamboril,Ceará,Não,0.0
+tabuleiro do norte,Ceará,Não,0.0
+solonópole,Ceará,Não,0.0
+sobral,Ceará,Não,0.0
+afonso cláudio,Espírito Santo,Não,0.0
+água doce do norte,Espírito Santo,Não,0.0
+águia branca,Espírito Santo,Não,0.0
+alegre,Espírito Santo,Não,0.0
+conceição do castelo,Espírito Santo,Não,0.0
+conceição da barra,Espírito Santo,Não,0.0
+colatina,Espírito Santo,Não,0.0
+castelo,Espírito Santo,Não,0.0
+cariacica,Espírito Santo,Não,0.0
+cachoeiro de itapemirim,Espírito Santo,Não,0.0
+brejetuba,Espírito Santo,Não,0.0
+bom jesus do norte,Espírito Santo,Não,0.0
+boa esperança,Espírito Santo,Não,0.0
+barra de são francisco,Espírito Santo,Não,0.0
+baixo guandu,Espírito Santo,Não,0.0
+atilio vivacqua,Espírito Santo,Não,0.0
+aracruz,Espírito Santo,Não,0.0
+apiacá,Espírito Santo,Não,0.0
+anchieta,Espírito Santo,Não,0.0
+alto rio novo,Espírito Santo,Não,0.0
+alfredo chaves,Espírito Santo,Não,0.0
+nova veneza,Goiás,Não,0.0
+novo gama,Goiás,Não,0.0
+independência,Ceará,Não,0.0
+porto rico do maranhão,Maranhão,Não,0.0
+riachão,Maranhão,Não,0.0
+raposa,Maranhão,Não,0.0
+primeira cruz,Maranhão,Não,0.0
+presidente vargas,Maranhão,Não,0.0
+presidente sarney,Maranhão,Não,0.0
+presidente médici,Maranhão,Não,0.0
+presidente juscelino,Maranhão,Não,0.0
+presidente dutra,Maranhão,Não,0.0
+porto franco,Maranhão,Não,0.0
+rosário,Maranhão,Não,0.0
+poção de pedras,Maranhão,Não,0.0
+pirapemas,Maranhão,Não,0.0
+pio xii,Maranhão,Não,0.0
+pinheiro,Maranhão,Não,0.0
+pindaré-mirim,Maranhão,Não,0.0
+peritoró,Maranhão,Não,0.0
+peri mirim,Maranhão,Não,0.0
+penalva,Maranhão,Não,0.0
+ribamar fiquene,Maranhão,Não,0.0
+sambaíba,Maranhão,Não,0.0
+jenipapo dos vieiras,Maranhão,Não,0.0
+são benedito do rio preto,Maranhão,Não,0.0
+são joão batista,Maranhão,Não,0.0
+são francisco do maranhão,Maranhão,Não,0.0
+são francisco do brejão,Maranhão,Não,0.0
+são félix de balsas,Maranhão,Não,0.0
+são domingos do maranhão,Maranhão,Não,0.0
+são domingos do azeitão,Maranhão,Não,0.0
+são bernardo,Maranhão,Não,0.0
+são bento,Maranhão,Não,0.0
+santo antônio dos lopes,Maranhão,Não,0.0
+santa filomena do maranhão,Maranhão,Não,0.0
+santo amaro do maranhão,Maranhão,Não,0.0
+santana do maranhão,Maranhão,Não,0.0
+santa rita,Maranhão,Não,0.0
+santa quitéria do maranhão,Maranhão,Não,0.0
+santa luzia do paruá,Maranhão,Não,0.0
+santa luzia,Maranhão,Não,0.0
+santa inês,Maranhão,Não,0.0
+santa helena,Maranhão,Não,0.0
+pedro do rosário,Maranhão,Não,0.0
+pedreiras,Maranhão,Não,0.0
+paulo ramos,Maranhão,Não,0.0
+lima campos,Maranhão,Não,0.0
+matinha,Maranhão,Não,0.0
+mata roma,Maranhão,Não,0.0
+maranhãozinho,Maranhão,Não,0.0
+marajá do sena,Maranhão,Não,0.0
+maracaçumé,Maranhão,Não,0.0
+magalhães de almeida,Maranhão,Não,0.0
+luís domingues,Maranhão,Não,0.0
+loreto,Maranhão,Não,0.0
+lajeado novo,Maranhão,Não,0.0
+paulino neves,Maranhão,Não,0.0
+lagoa grande do maranhão,Maranhão,Não,0.0
+lagoa do mato,Maranhão,Não,0.0
+lago verde,Maranhão,Não,0.0
+lago dos rodrigues,Maranhão,Não,0.0
+lago do junco,Maranhão,Não,0.0
+lago da pedra,Maranhão,Não,0.0
+junco do maranhão,Maranhão,Não,0.0
+joselândia,Maranhão,Não,0.0
+matões,Maranhão,Não,0.0
+matões do norte,Maranhão,Não,0.0
+milagres do maranhão,Maranhão,Não,0.0
+mirador,Maranhão,Não,0.0
+pastos bons,Maranhão,Não,0.0
+passagem franca,Maranhão,Não,0.0
+parnarama,Maranhão,Não,0.0
+paraibano,Maranhão,Não,0.0
+palmeirândia,Maranhão,Não,0.0
+paço do lumiar,Maranhão,Não,0.0
+olinda nova do maranhão,Maranhão,Não,0.0
+olho d'água das cunhãs,Maranhão,Não,0.0
+nova olinda do maranhão,Maranhão,Não,0.0
+nova iorque,Maranhão,Não,0.0
+nova colinas,Maranhão,Não,0.0
+nina rodrigues,Maranhão,Não,0.0
+morros,Maranhão,Não,0.0
+montes altos,Maranhão,Não,0.0
+monção,Maranhão,Não,0.0
+mirinzal,Maranhão,Não,0.0
+miranda do norte,Maranhão,Não,0.0
+são joão do carú,Maranhão,Não,0.0
+são joão do paraíso,Maranhão,Não,0.0
+são joão do soter,Maranhão,Não,0.0
+brasnorte,Mato Grosso,Não,0.0
+carlinda,Mato Grosso,Não,0.0
+canarana,Mato Grosso,Não,0.0
+canabrava do norte,Mato Grosso,Não,0.0
+campos de júlio,Mato Grosso,Não,0.0
+campo verde,Mato Grosso,Não,0.0
+campo novo do parecis,Mato Grosso,Não,0.0
+campinápolis,Mato Grosso,Não,0.0
+cáceres,Mato Grosso,Não,0.0
+bom jesus do araguaia,Mato Grosso,Não,0.0
+alto taquari,Mato Grosso,Não,0.0
+barra do garças,Mato Grosso,Não,0.0
+barra do bugres,Mato Grosso,Não,0.0
+barão de melgaço,Mato Grosso,Não,0.0
+aripuanã,Mato Grosso,Não,0.0
+arenápolis,Mato Grosso,Não,0.0
+araputanga,Mato Grosso,Não,0.0
+araguainha,Mato Grosso,Não,0.0
+araguaiana,Mato Grosso,Não,0.0
+castanheira,Mato Grosso,Não,0.0
+chapada dos guimarães,Mato Grosso,Não,0.0
+cláudia,Mato Grosso,Não,0.0
+cocalinho,Mato Grosso,Não,0.0
+guarantã do norte,Mato Grosso,Não,0.0
+glória d'oeste,Mato Grosso,Não,0.0
+general carneiro,Mato Grosso,Não,0.0
+gaúcha do norte,Mato Grosso,Não,0.0
+figueirópolis d'oeste,Mato Grosso,Não,0.0
+feliz natal,Mato Grosso,Não,0.0
+dom aquino,Mato Grosso,Não,0.0
+diamantino,Mato Grosso,Não,0.0
+denise,Mato Grosso,Não,0.0
+curvelândia,Mato Grosso,Não,0.0
+cuiabá,Mato Grosso,Não,0.0
+cotriguaçu,Mato Grosso,Não,0.0
+conquista d'oeste,Mato Grosso,Não,0.0
+confresa,Mato Grosso,Não,0.0
+comodoro,Mato Grosso,Não,0.0
+colniza,Mato Grosso,Não,0.0
+colíder,Mato Grosso,Não,0.0
+apiacás,Mato Grosso,Não,0.0
+alto paraguai,Mato Grosso,Não,0.0
+são joão dos patos,Maranhão,Não,0.0
+são roberto,Maranhão,Não,0.0
+sucupira do riachão,Maranhão,Não,0.0
+sucupira do norte,Maranhão,Não,0.0
+sítio novo,Maranhão,Não,0.0
+serrano do maranhão,Maranhão,Não,0.0
+senador la rocque,Maranhão,Não,0.0
+senador alexandre costa,Maranhão,Não,0.0
+satubinha,Maranhão,Não,0.0
+são vicente ferrer,Maranhão,Não,0.0
+são raimundo do doca bezerra,Maranhão,Não,0.0
+alto garças,Mato Grosso,Não,0.0
+são raimundo das mangabeiras,Maranhão,Não,0.0
+são pedro dos crentes,Maranhão,Não,0.0
+são pedro da água branca,Maranhão,Não,0.0
+são mateus do maranhão,Maranhão,Não,0.0
+são luís gonzaga do maranhão,Maranhão,Não,0.0
+são luís,Maranhão,Não,0.0
+são josé dos basílios,Maranhão,Não,0.0
+são josé de ribamar,Maranhão,Não,0.0
+tasso fragoso,Maranhão,Não,0.0
+timbiras,Maranhão,Não,0.0
+timon,Maranhão,Não,0.0
+trizidela do vale,Maranhão,Não,0.0
+alto boa vista,Mato Grosso,Não,0.0
+alto araguaia,Mato Grosso,Não,0.0
+alta floresta,Mato Grosso,Não,0.0
+água boa,Mato Grosso,Não,0.0
+acorizal,Mato Grosso,Não,0.0
+zé doca,Maranhão,Não,0.0
+vitorino freire,Maranhão,Não,0.0
+vitória do mearim,Maranhão,Não,0.0
+vila nova dos martírios,Maranhão,Não,0.0
+viana,Maranhão,Não,0.0
+vargem grande,Maranhão,Não,0.0
+urbano santos,Maranhão,Não,0.0
+tutóia,Maranhão,Não,0.0
+turilândia,Maranhão,Não,0.0
+turiaçu,Maranhão,Não,0.0
+tuntum,Maranhão,Não,0.0
+tufilândia,Maranhão,Não,0.0
+joão lisboa,Maranhão,Não,0.0
+jatobá,Maranhão,Não,0.0
+novo planalto,Goiás,Não,0.0
+são miguel do passa quatro,Goiás,Não,0.0
+taquaral de goiás,Goiás,Não,0.0
+sítio d'abadia,Goiás,Não,0.0
+simolândia,Goiás,Não,0.0
+silvânia,Goiás,Não,0.0
+serranópolis,Goiás,Não,0.0
+senador canedo,Goiás,Não,0.0
+são simão,Goiás,Não,0.0
+são patrício,Goiás,Não,0.0
+são miguel do araguaia,Goiás,Não,0.0
+terezópolis de goiás,Goiás,Não,0.0
+são luíz do norte,Goiás,Não,0.0
+são luís de montes belos,Goiás,Não,0.0
+são joão d'aliança,Goiás,Não,0.0
+são joão da paraúna,Goiás,Não,0.0
+são francisco de goiás,Goiás,Não,0.0
+são domingos,Goiás,Não,0.0
+santo antônio do descoberto,Goiás,Não,0.0
+santo antônio de goiás,Goiás,Não,0.0
+teresina de goiás,Goiás,Não,0.0
+três ranchos,Goiás,Não,0.0
+itinga do maranhão,Maranhão,Não,0.0
+vianópolis,Goiás,Não,0.0
+aldeias altas,Maranhão,Não,0.0
+alcântara,Maranhão,Não,0.0
+água doce do maranhão,Maranhão,Não,0.0
+afonso cunha,Maranhão,Não,0.0
+açailândia,Maranhão,Não,0.0
+vila propício,Goiás,Não,0.0
+vila boa,Goiás,Não,0.0
+vicentinópolis,Goiás,Não,0.0
+varjão,Goiás,Não,0.0
+trindade,Goiás,Não,0.0
+valparaíso de goiás,Goiás,Não,0.0
+urutaí,Goiás,Não,0.0
+uruana,Goiás,Não,0.0
+uruaçu,Goiás,Não,0.0
+uirapuru,Goiás,Não,0.0
+turvelândia,Goiás,Não,0.0
+turvânia,Goiás,Não,0.0
+trombas,Goiás,Não,0.0
+santo antônio da barra,Goiás,Não,0.0
+santa terezinha de goiás,Goiás,Não,0.0
+santa tereza de goiás,Goiás,Não,0.0
+paranaiguara,Goiás,Não,0.0
+pires do rio,Goiás,Não,0.0
+pirenópolis,Goiás,Não,0.0
+piranhas,Goiás,Não,0.0
+piracanjuba,Goiás,Não,0.0
+pilar de goiás,Goiás,Não,0.0
+petrolina de goiás,Goiás,Não,0.0
+perolândia,Goiás,Não,0.0
+paraúna,Goiás,Não,0.0
+panamá,Goiás,Não,0.0
+santa rosa de goiás,Goiás,Não,0.0
+palminópolis,Goiás,Não,0.0
+palmelo,Goiás,Não,0.0
+palmeiras de goiás,Goiás,Não,0.0
+palestina de goiás,Goiás,Não,0.0
+padre bernardo,Goiás,Não,0.0
+ouvidor,Goiás,Não,0.0
+ouro verde de goiás,Goiás,Não,0.0
+orizona,Goiás,Não,0.0
+planaltina,Goiás,Não,0.0
+pontalina,Goiás,Não,0.0
+porangatu,Goiás,Não,0.0
+porteirão,Goiás,Não,0.0
+santa rita do novo destino,Goiás,Não,0.0
+santa rita do araguaia,Goiás,Não,0.0
+santa isabel,Goiás,Não,0.0
+santa helena de goiás,Goiás,Não,0.0
+santa fé de goiás,Goiás,Não,0.0
+santa cruz de goiás,Goiás,Não,0.0
+santa bárbara de goiás,Goiás,Não,0.0
+sanclerlândia,Goiás,Não,0.0
+rubiataba,Goiás,Não,0.0
+rio verde,Goiás,Não,0.0
+rio quente,Goiás,Não,0.0
+rianápolis,Goiás,Não,0.0
+rialma,Goiás,Não,0.0
+quirinópolis,Goiás,Não,0.0
+professor jamil,Goiás,Não,0.0
+posse,Goiás,Não,0.0
+portelândia,Goiás,Não,0.0
+altamira do maranhão,Maranhão,Não,0.0
+alto alegre do maranhão,Maranhão,Não,0.0
+alto alegre do pindaré,Maranhão,Não,0.0
+conceição do lago-açu,Maranhão,Não,0.0
+feira nova do maranhão,Maranhão,Não,0.0
+estreito,Maranhão,Não,0.0
+esperantinópolis,Maranhão,Não,0.0
+duque bacelar,Maranhão,Não,0.0
+dom pedro,Maranhão,Não,0.0
+davinópolis,Maranhão,Não,0.0
+cururupu,Maranhão,Não,0.0
+coroatá,Maranhão,Não,0.0
+colinas,Maranhão,Não,0.0
+carutapera,Maranhão,Não,0.0
+coelho neto,Maranhão,Não,0.0
+codó,Maranhão,Não,0.0
+cidelândia,Maranhão,Não,0.0
+chapadinha,Maranhão,Não,0.0
+centro novo do maranhão,Maranhão,Não,0.0
+centro do guilherme,Maranhão,Não,0.0
+central do maranhão,Maranhão,Não,0.0
+cedral,Maranhão,Não,0.0
+fernando falcão,Maranhão,Não,0.0
+formosa da serra negra,Maranhão,Não,0.0
+fortaleza dos nogueiras,Maranhão,Não,0.0
+fortuna,Maranhão,Não,0.0
+itapecuru mirim,Maranhão,Não,0.0
+itaipava do grajaú,Maranhão,Não,0.0
+igarapé grande,Maranhão,Não,0.0
+igarapé do meio,Maranhão,Não,0.0
+icatu,Maranhão,Não,0.0
+humberto de campos,Maranhão,Não,0.0
+guimarães,Maranhão,Não,0.0
+grajaú,Maranhão,Não,0.0
+graça aranha,Maranhão,Não,0.0
+governador nunes freire,Maranhão,Não,0.0
+governador newton bello,Maranhão,Não,0.0
+governador luiz rocha,Maranhão,Não,0.0
+governador eugênio barros,Maranhão,Não,0.0
+governador edison lobão,Maranhão,Não,0.0
+governador archer,Maranhão,Não,0.0
+gonçalves dias,Maranhão,Não,0.0
+godofredo viana,Maranhão,Não,0.0
+caxias,Maranhão,Não,0.0
+carolina,Maranhão,Não,0.0
+alto parnaíba,Maranhão,Não,0.0
+axixá,Maranhão,Não,0.0
+barreirinhas,Maranhão,Não,0.0
+barra do corda,Maranhão,Não,0.0
+barão de grajaú,Maranhão,Não,0.0
+balsas,Maranhão,Não,0.0
+bacurituba,Maranhão,Não,0.0
+bacuri,Maranhão,Não,0.0
+bacabeira,Maranhão,Não,0.0
+bacabal,Maranhão,Não,0.0
+arari,Maranhão,Não,0.0
+capinzal do norte,Maranhão,Não,0.0
+arame,Maranhão,Não,0.0
+araioses,Maranhão,Não,0.0
+araguanã,Maranhão,Não,0.0
+apicum-açu,Maranhão,Não,0.0
+anapurus,Maranhão,Não,0.0
+anajatuba,Maranhão,Não,0.0
+amarante do maranhão,Maranhão,Não,0.0
+amapá do maranhão,Maranhão,Não,0.0
+bela vista do maranhão,Maranhão,Não,0.0
+belágua,Maranhão,Não,0.0
+benedito leite,Maranhão,Não,0.0
+bequimão,Maranhão,Não,0.0
+cantanhede,Maranhão,Não,0.0
+cândido mendes,Maranhão,Não,0.0
+campestre do maranhão,Maranhão,Não,0.0
+cajari,Maranhão,Não,0.0
+cajapió,Maranhão,Não,0.0
+cachoeira grande,Maranhão,Não,0.0
+buritirana,Maranhão,Não,0.0
+buriticupu,Maranhão,Não,0.0
+buriti bravo,Maranhão,Não,0.0
+buriti,Maranhão,Não,0.0
+brejo de areia,Maranhão,Não,0.0
+brejo,Maranhão,Não,0.0
+bom lugar,Maranhão,Não,0.0
+bom jesus das selvas,Maranhão,Não,0.0
+bom jardim,Maranhão,Não,0.0
+boa vista do gurupi,Maranhão,Não,0.0
+bernardo do mearim,Maranhão,Não,0.0
+ipaporanga,Ceará,Não,0.0
+iguatu,Ceará,Não,0.0
+indiavaí,Mato Grosso,Não,0.0
+aratuípe,Bahia,Não,0.0
+barra do mendes,Bahia,Não,0.0
+barra do choça,Bahia,Não,0.0
+barra da estiva,Bahia,Não,0.0
+barra,Bahia,Não,0.0
+banzaê,Bahia,Não,0.0
+baixa grande,Bahia,Não,0.0
+baianópolis,Bahia,Não,0.0
+aurelino leal,Bahia,Não,0.0
+arataca,Bahia,Não,0.0
+barreiras,Bahia,Não,0.0
+aramari,Bahia,Não,0.0
+araci,Bahia,Não,0.0
+aracatu,Bahia,Não,0.0
+araças,Bahia,Não,0.0
+apuarema,Bahia,Não,0.0
+aporá,Bahia,Não,0.0
+antônio gonçalves,Bahia,Não,0.0
+antônio cardoso,Bahia,Não,0.0
+barra do rocha,Bahia,Não,0.0
+barro alto,Bahia,Não,0.0
+lábrea,Amazonas,Não,0.0
+bonito,Bahia,Não,0.0
+buritirama,Bahia,Não,0.0
+buerarema,Bahia,Não,0.0
+brumado,Bahia,Não,0.0
+brotas de macaúbas,Bahia,Não,0.0
+brejolândia,Bahia,Não,0.0
+brejões,Bahia,Não,0.0
+botuporã,Bahia,Não,0.0
+boquira,Bahia,Não,0.0
+boninal,Bahia,Não,0.0
+barro preto,Bahia,Não,0.0
+bom jesus da serra,Bahia,Não,0.0
+bom jesus da lapa,Bahia,Não,0.0
+boa vista do tupim,Bahia,Não,0.0
+boa nova,Bahia,Não,0.0
+biritinga,Bahia,Não,0.0
+belo campo,Bahia,Não,0.0
+belmonte,Bahia,Não,0.0
+barrocas,Bahia,Não,0.0
+antas,Bahia,Não,0.0
+anguera,Bahia,Não,0.0
+angical,Bahia,Não,0.0
+parintins,Amazonas,Não,0.0
+são sebastião do uatumã,Amazonas,Não,0.0
+são paulo de olivença,Amazonas,Não,0.0
+são gabriel da cachoeira,Amazonas,Não,0.0
+santo antônio do içá,Amazonas,Não,0.0
+santa isabel do rio negro,Amazonas,Não,0.0
+rio preto da eva,Amazonas,Não,0.0
+presidente figueiredo,Amazonas,Não,0.0
+pauini,Amazonas,Não,0.0
+novo aripuanã,Amazonas,Não,0.0
+andorinha,Bahia,Não,0.0
+novo airão,Amazonas,Não,0.0
+nova olinda do norte,Amazonas,Não,0.0
+nhamundá,Amazonas,Não,0.0
+maués,Amazonas,Não,0.0
+maraã,Amazonas,Não,0.0
+manicoré,Amazonas,Não,0.0
+manaus,Amazonas,Não,0.0
+manaquiri,Amazonas,Não,0.0
+silves,Amazonas,Não,0.0
+tabatinga,Amazonas,Não,0.0
+tapauá,Amazonas,Não,0.0
+tefé,Amazonas,Não,0.0
+andaraí,Bahia,Não,0.0
+anagé,Bahia,Não,0.0
+américa dourada,Bahia,Não,0.0
+amélia rodrigues,Bahia,Não,0.0
+amargosa,Bahia,Não,0.0
+almadina,Bahia,Não,0.0
+alcobaça,Bahia,Não,0.0
+aiquara,Bahia,Não,0.0
+água fria,Bahia,Não,0.0
+adustina,Bahia,Não,0.0
+acajutiba,Bahia,Não,0.0
+abaré,Bahia,Não,0.0
+abaíra,Bahia,Não,0.0
+urucurituba,Amazonas,Não,0.0
+urucará,Amazonas,Não,0.0
+uarini,Amazonas,Não,0.0
+tonantins,Amazonas,Não,0.0
+caatiba,Bahia,Não,0.0
+cabaceiras do paraguaçu,Bahia,Não,0.0
+cachoeira,Bahia,Não,0.0
+cristópolis,Bahia,Não,0.0
+encruzilhada,Bahia,Não,0.0
+elísio medrado,Bahia,Não,0.0
+dom macedo costa,Bahia,Não,0.0
+dom basílio,Bahia,Não,0.0
+dias d'ávila,Bahia,Não,0.0
+dário meira,Bahia,Não,0.0
+curaçá,Bahia,Não,0.0
+cruz das almas,Bahia,Não,0.0
+crisópolis,Bahia,Não,0.0
+conde,Bahia,Não,0.0
+cravolândia,Bahia,Não,0.0
+cotegipe,Bahia,Não,0.0
+correntina,Bahia,Não,0.0
+coronel joão sá,Bahia,Não,0.0
+coribe,Bahia,Não,0.0
+cordeiros,Bahia,Não,0.0
+coração de maria,Bahia,Não,0.0
+contendas do sincorá,Bahia,Não,0.0
+entre rios,Bahia,Não,0.0
+érico cardoso,Bahia,Não,0.0
+esplanada,Bahia,Não,0.0
+euclides da cunha,Bahia,Não,0.0
+heliópolis,Bahia,Não,0.0
+guaratinga,Bahia,Não,0.0
+guanambi,Bahia,Não,0.0
+guajeru,Bahia,Não,0.0
+governador mangabeira,Bahia,Não,0.0
+gongogi,Bahia,Não,0.0
+glória,Bahia,Não,0.0
+gentio do ouro,Bahia,Não,0.0
+gavião,Bahia,Não,0.0
+gandu,Bahia,Não,0.0
+formosa do rio preto,Bahia,Não,0.0
+floresta azul,Bahia,Não,0.0
+firmino alves,Bahia,Não,0.0
+filadélfia,Bahia,Não,0.0
+feira da mata,Bahia,Não,0.0
+fátima,Bahia,Não,0.0
+eunápolis,Bahia,Não,0.0
+condeúba,Bahia,Não,0.0
+conceição do jacuípe,Bahia,Não,0.0
+caculé,Bahia,Não,0.0
+campo alegre de lourdes,Bahia,Não,0.0
+cândido sales,Bahia,Não,0.0
+candiba,Bahia,Não,0.0
+candeias,Bahia,Não,0.0
+candeal,Bahia,Não,0.0
+canavieiras,Bahia,Não,0.0
+canarana,Bahia,Não,0.0
+canápolis,Bahia,Não,0.0
+campo formoso,Bahia,Não,0.0
+camamu,Bahia,Não,0.0
+conceição do coité,Bahia,Não,0.0
+camaçari,Bahia,Não,0.0
+camacan,Bahia,Não,0.0
+caldeirão grande,Bahia,Não,0.0
+cairu,Bahia,Não,0.0
+cafarnaum,Bahia,Não,0.0
+caetité,Bahia,Não,0.0
+caetanos,Bahia,Não,0.0
+caém,Bahia,Não,0.0
+cansanção,Bahia,Não,0.0
+canudos,Bahia,Não,0.0
+capela do alto alegre,Bahia,Não,0.0
+capim grosso,Bahia,Não,0.0
+conceição do almeida,Bahia,Não,0.0
+conceição da feira,Bahia,Não,0.0
+cocos,Bahia,Não,0.0
+coaraci,Bahia,Não,0.0
+cipó,Bahia,Não,0.0
+cícero dantas,Bahia,Não,0.0
+chorrochó,Bahia,Não,0.0
+central,Bahia,Não,0.0
+caturama,Bahia,Não,0.0
+catu,Bahia,Não,0.0
+catolândia,Bahia,Não,0.0
+castro alves,Bahia,Não,0.0
+casa nova,Bahia,Não,0.0
+carinhanha,Bahia,Não,0.0
+cardeal da silva,Bahia,Não,0.0
+caravelas,Bahia,Não,0.0
+caraíbas,Bahia,Não,0.0
+manacapuru,Amazonas,Não,0.0
+jutaí,Amazonas,Não,0.0
+ibiassucê,Bahia,Não,0.0
+igaci,Alagoas,Não,0.0
+joaquim gomes,Alagoas,Não,0.0
+jequiá da praia,Alagoas,Não,0.0
+jaramataia,Alagoas,Não,0.0
+japaratinga,Alagoas,Não,0.0
+jacuípe,Alagoas,Não,0.0
+jacaré dos homens,Alagoas,Não,0.0
+inhapi,Alagoas,Não,0.0
+igreja nova,Alagoas,Não,0.0
+ibateguara,Alagoas,Não,0.0
+junqueiro,Alagoas,Não,0.0
+girau do ponciano,Alagoas,Não,0.0
+flexeiras,Alagoas,Não,0.0
+feliz deserto,Alagoas,Não,0.0
+feira grande,Alagoas,Não,0.0
+estrela de alagoas,Alagoas,Não,0.0
+dois riachos,Alagoas,Não,0.0
+delmiro gouveia,Alagoas,Não,0.0
+craíbas,Alagoas,Não,0.0
+jundiá,Alagoas,Não,0.0
+lagoa da canoa,Alagoas,Não,0.0
+juruá,Amazonas,Não,0.0
+messias,Alagoas,Não,0.0
+olivença,Alagoas,Não,0.0
+olho d'água grande,Alagoas,Não,0.0
+olho d'água do casado,Alagoas,Não,0.0
+olho d'água das flores,Alagoas,Não,0.0
+novo lino,Alagoas,Não,0.0
+murici,Alagoas,Não,0.0
+monteirópolis,Alagoas,Não,0.0
+minador do negrão,Alagoas,Não,0.0
+matriz de camaragibe,Alagoas,Não,0.0
+limoeiro de anadia,Alagoas,Não,0.0
+mata grande,Alagoas,Não,0.0
+maribondo,Alagoas,Não,0.0
+marechal deodoro,Alagoas,Não,0.0
+maravilha,Alagoas,Não,0.0
+maragogi,Alagoas,Não,0.0
+mar vermelho,Alagoas,Não,0.0
+major isidoro,Alagoas,Não,0.0
+maceió,Alagoas,Não,0.0
+coruripe,Alagoas,Não,0.0
+coqueiro seco,Alagoas,Não,0.0
+colônia leopoldina,Alagoas,Não,0.0
+marechal thaumaturgo,Acre,Não,0.0
+tarauacá,Acre,Não,0.0
+senador guiomard,Acre,Não,0.0
+sena madureira,Acre,Não,0.0
+santa rosa do purus,Acre,Não,0.0
+rodrigues alves,Acre,Não,0.0
+porto walter,Acre,Não,0.0
+porto acre,Acre,Não,0.0
+plácido de castro,Acre,Não,0.0
+manoel urbano,Acre,Não,0.0
+coité do nóia,Alagoas,Não,0.0
+mâncio lima,Acre,Não,0.0
+jordão,Acre,Não,0.0
+feijó,Acre,Não,0.0
+epitaciolândia,Acre,Não,0.0
+cruzeiro do sul,Acre,Não,0.0
+capixaba,Acre,Não,0.0
+bujari,Acre,Não,0.0
+brasiléia,Acre,Não,0.0
+xapuri,Acre,Não,0.0
+água branca,Alagoas,Não,0.0
+anadia,Alagoas,Não,0.0
+arapiraca,Alagoas,Não,0.0
+chã preta,Alagoas,Não,0.0
+carneiros,Alagoas,Não,0.0
+capela,Alagoas,Não,0.0
+canapi,Alagoas,Não,0.0
+campo grande,Alagoas,Não,0.0
+campo alegre,Alagoas,Não,0.0
+campestre,Alagoas,Não,0.0
+cajueiro,Alagoas,Não,0.0
+cacimbinhas,Alagoas,Não,0.0
+branquinha,Alagoas,Não,0.0
+boca da mata,Alagoas,Não,0.0
+belo monte,Alagoas,Não,0.0
+belém,Alagoas,Não,0.0
+batalha,Alagoas,Não,0.0
+barra de são miguel,Alagoas,Não,0.0
+barra de santo antônio,Alagoas,Não,0.0
+atalaia,Alagoas,Não,0.0
+ouro branco,Alagoas,Não,0.0
+palestina,Alagoas,Não,0.0
+palmeira dos índios,Alagoas,Não,0.0
+anamã,Amazonas,Não,0.0
+beruri,Amazonas,Não,0.0
+benjamin constant,Amazonas,Não,0.0
+barreirinha,Amazonas,Não,0.0
+barcelos,Amazonas,Não,0.0
+autazes,Amazonas,Não,0.0
+atalaia do norte,Amazonas,Não,0.0
+apuí,Amazonas,Não,0.0
+anori,Amazonas,Não,0.0
+amaturá,Amazonas,Não,0.0
+mazagão,Amapá,Não,0.0
+alvarães,Amazonas,Não,0.0
+vitória do jari,Amapá,Não,0.0
+tartarugalzinho,Amapá,Não,0.0
+serra do navio,Amapá,Não,0.0
+santana,Amapá,Não,0.0
+pracuúba,Amapá,Não,0.0
+porto grande,Amapá,Não,0.0
+pedra branca do amapari,Amapá,Não,0.0
+boa vista do ramos,Amazonas,Não,0.0
+boca do acre,Amazonas,Não,0.0
+borba,Amazonas,Não,0.0
+caapiranga,Amazonas,Não,0.0
+japurá,Amazonas,Não,0.0
+itapiranga,Amazonas,Não,0.0
+itamarati,Amazonas,Não,0.0
+itacoatiara,Amazonas,Não,0.0
+iranduba,Amazonas,Não,0.0
+ipixuna,Amazonas,Não,0.0
+humaitá,Amazonas,Não,0.0
+guajará,Amazonas,Não,0.0
+fonte boa,Amazonas,Não,0.0
+envira,Amazonas,Não,0.0
+eirunepé,Amazonas,Não,0.0
+codajás,Amazonas,Não,0.0
+coari,Amazonas,Não,0.0
+careiro da várzea,Amazonas,Não,0.0
+careiro,Amazonas,Não,0.0
+carauari,Amazonas,Não,0.0
+canutama,Amazonas,Não,0.0
+oiapoque,Amapá,Não,0.0
+macapá,Amapá,Não,0.0
+pão de açúcar,Alagoas,Não,0.0
+poço das trincheiras,Alagoas,Não,0.0
+santana do ipanema,Alagoas,Não,0.0
+santa luzia do norte,Alagoas,Não,0.0
+roteiro,Alagoas,Não,0.0
+rio largo,Alagoas,Não,0.0
+quebrangulo,Alagoas,Não,0.0
+porto real do colégio,Alagoas,Não,0.0
+porto de pedras,Alagoas,Não,0.0
+porto calvo,Alagoas,Não,0.0
+piranhas,Alagoas,Não,0.0
+laranjal do jari,Amapá,Não,0.0
+pindoba,Alagoas,Não,0.0
+pilar,Alagoas,Não,0.0
+piaçabuçu,Alagoas,Não,0.0
+penedo,Alagoas,Não,0.0
+paulo jacinto,Alagoas,Não,0.0
+passo de camaragibe,Alagoas,Não,0.0
+paripueira,Alagoas,Não,0.0
+pariconha,Alagoas,Não,0.0
+santana do mundaú,Alagoas,Não,0.0
+são brás,Alagoas,Não,0.0
+são josé da laje,Alagoas,Não,0.0
+são josé da tapera,Alagoas,Não,0.0
+itaubal,Amapá,Não,0.0
+ferreira gomes,Amapá,Não,0.0
+cutias,Amapá,Não,0.0
+calçoene,Amapá,Não,0.0
+amapá,Amapá,Não,0.0
+viçosa,Alagoas,Não,0.0
+união dos palmares,Alagoas,Não,0.0
+traipu,Alagoas,Não,0.0
+teotônio vilela,Alagoas,Não,0.0
+taquarana,Alagoas,Não,0.0
+tanque d'arca,Alagoas,Não,0.0
+senador rui palmeira,Alagoas,Não,0.0
+satuba,Alagoas,Não,0.0
+são sebastião,Alagoas,Não,0.0
+são miguel dos milagres,Alagoas,Não,0.0
+são miguel dos campos,Alagoas,Não,0.0
+são luís do quitunde,Alagoas,Não,0.0
+iaçu,Bahia,Não,0.0
+ibicaraí,Bahia,Não,0.0
+icó,Ceará,Não,0.0
+serrolândia,Bahia,Não,0.0
+tanque novo,Bahia,Não,0.0
+tanhaçu,Bahia,Não,0.0
+tabocas do brejo velho,Bahia,Não,0.0
+souto soares,Bahia,Não,0.0
+sobradinho,Bahia,Não,0.0
+sítio do quinto,Bahia,Não,0.0
+sítio do mato,Bahia,Não,0.0
+simões filho,Bahia,Não,0.0
+serrinha,Bahia,Não,0.0
+taperoá,Bahia,Não,0.0
+serra preta,Bahia,Não,0.0
+serra dourada,Bahia,Não,0.0
+serra do ramalho,Bahia,Não,0.0
+sento sé,Bahia,Não,0.0
+senhor do bonfim,Bahia,Não,0.0
+sebastião laranjeiras,Bahia,Não,0.0
+seabra,Bahia,Não,0.0
+saúde,Bahia,Não,0.0
+tanquinho,Bahia,Não,0.0
+tapiramutá,Bahia,Não,0.0
+retirolândia,Bahia,Não,0.0
+ubatã,Bahia,Não,0.0
+valente,Bahia,Não,0.0
+valença,Bahia,Não,0.0
+utinga,Bahia,Não,0.0
+uruçuca,Bahia,Não,0.0
+urandi,Bahia,Não,0.0
+una,Bahia,Não,0.0
+umburanas,Bahia,Não,0.0
+uibaí,Bahia,Não,0.0
+ubaitaba,Bahia,Não,0.0
+teixeira de freitas,Bahia,Não,0.0
+ubaíra,Bahia,Não,0.0
+uauá,Bahia,Não,0.0
+tucano,Bahia,Não,0.0
+tremedal,Bahia,Não,0.0
+terra nova,Bahia,Não,0.0
+teolândia,Bahia,Não,0.0
+teofilândia,Bahia,Não,0.0
+teodoro sampaio,Bahia,Não,0.0
+saubara,Bahia,Não,0.0
+sátiro dias,Bahia,Não,0.0
+sapeaçu,Bahia,Não,0.0
+rodelas,Bahia,Não,0.0
+santa inês,Bahia,Não,0.0
+santa cruz da vitória,Bahia,Não,0.0
+santa cruz cabrália,Bahia,Não,0.0
+santa brígida,Bahia,Não,0.0
+santa bárbara,Bahia,Não,0.0
+salvador,Bahia,Não,0.0
+salinas da margarida,Bahia,Não,0.0
+ruy barbosa,Bahia,Não,0.0
+rio real,Bahia,Não,0.0
+são sebastião do passé,Bahia,Não,0.0
+rio do pires,Bahia,Não,0.0
+rio do antônio,Bahia,Não,0.0
+rio de contas,Bahia,Não,0.0
+ribeirão do largo,Bahia,Não,0.0
+ribeira do pombal,Bahia,Não,0.0
+ribeira do amparo,Bahia,Não,0.0
+riacho de santana,Bahia,Não,0.0
+riachão do jacuípe,Bahia,Não,0.0
+santa luzia,Bahia,Não,0.0
+santa maria da vitória,Bahia,Não,0.0
+santa rita de cássia,Bahia,Não,0.0
+santa teresinha,Bahia,Não,0.0
+são miguel das matas,Bahia,Não,0.0
+são josé do jacuípe,Bahia,Não,0.0
+são josé da vitória,Bahia,Não,0.0
+são gonçalo dos campos,Bahia,Não,0.0
+são gabriel,Bahia,Não,0.0
+são francisco do conde,Bahia,Não,0.0
+são félix do coribe,Bahia,Não,0.0
+são félix,Bahia,Não,0.0
+são felipe,Bahia,Não,0.0
+são domingos,Bahia,Não,0.0
+são desidério,Bahia,Não,0.0
+santo estêvão,Bahia,Não,0.0
+santo antônio de jesus,Bahia,Não,0.0
+santo amaro,Bahia,Não,0.0
+santanópolis,Bahia,Não,0.0
+santana,Bahia,Não,0.0
+santaluz,Bahia,Não,0.0
+várzea da roça,Bahia,Não,0.0
+várzea do poço,Bahia,Não,0.0
+várzea nova,Bahia,Não,0.0
+chaval,Ceará,Não,0.0
+deputado irapuan pinheiro,Ceará,Não,0.0
+cruz,Ceará,Não,0.0
+croatá,Ceará,Não,0.0
+crato,Ceará,Não,0.0
+crateús,Ceará,Não,0.0
+coreaú,Ceará,Não,0.0
+chorozinho,Ceará,Não,0.0
+choró,Ceará,Não,0.0
+cedro,Ceará,Não,0.0
+capistrano,Ceará,Não,0.0
+caucaia,Ceará,Não,0.0
+catunda,Ceará,Não,0.0
+catarina,Ceará,Não,0.0
+cascavel,Ceará,Não,0.0
+carnaubal,Ceará,Não,0.0
+cariús,Ceará,Não,0.0
+caririaçu,Ceará,Não,0.0
+cariré,Ceará,Não,0.0
+ererê,Ceará,Não,0.0
+eusébio,Ceará,Não,0.0
+farias brito,Ceará,Não,0.0
+forquilha,Ceará,Não,0.0
+icapuí,Ceará,Não,0.0
+ibicuitinga,Ceará,Não,0.0
+ibiapina,Ceará,Não,0.0
+ibaretama,Ceará,Não,0.0
+horizonte,Ceará,Não,0.0
+hidrolândia,Ceará,Não,0.0
+guaramiranga,Ceará,Não,0.0
+guaraciaba do norte,Ceará,Não,0.0
+guaiúba,Ceará,Não,0.0
+groaíras,Ceará,Não,0.0
+granjeiro,Ceará,Não,0.0
+granja,Ceará,Não,0.0
+graça,Ceará,Não,0.0
+general sampaio,Ceará,Não,0.0
+frecheirinha,Ceará,Não,0.0
+fortim,Ceará,Não,0.0
+fortaleza,Ceará,Não,0.0
+caridade,Ceará,Não,0.0
+canindé,Ceará,Não,0.0
+varzedo,Bahia,Não,0.0
+acaraú,Ceará,Não,0.0
+apuiarés,Ceará,Não,0.0
+antonina do norte,Ceará,Não,0.0
+amontada,Ceará,Não,0.0
+alto santo,Ceará,Não,0.0
+altaneira,Ceará,Não,0.0
+alcântaras,Ceará,Não,0.0
+aiuaba,Ceará,Não,0.0
+acopiara,Ceará,Não,0.0
+acarape,Ceará,Não,0.0
+campos sales,Ceará,Não,0.0
+abaiara,Ceará,Não,0.0
+xique-xique,Bahia,Não,0.0
+wenceslau guimarães,Bahia,Não,0.0
+wanderley,Bahia,Não,0.0
+wagner,Bahia,Não,0.0
+vitória da conquista,Bahia,Não,0.0
+vereda,Bahia,Não,0.0
+vera cruz,Bahia,Não,0.0
+aquiraz,Ceará,Não,0.0
+aracati,Ceará,Não,0.0
+aracoiaba,Ceará,Não,0.0
+ararendá,Ceará,Não,0.0
+camocim,Ceará,Não,0.0
+brejo santo,Ceará,Não,0.0
+boa viagem,Ceará,Não,0.0
+bela cruz,Ceará,Não,0.0
+beberibe,Ceará,Não,0.0
+baturité,Ceará,Não,0.0
+barroquinha,Ceará,Não,0.0
+barro,Ceará,Não,0.0
+barreira,Ceará,Não,0.0
+barbalha,Ceará,Não,0.0
+banabuiú,Ceará,Não,0.0
+baixio,Ceará,Não,0.0
+aurora,Ceará,Não,0.0
+assaré,Ceará,Não,0.0
+arneiroz,Ceará,Não,0.0
+aratuba,Ceará,Não,0.0
+araripe,Ceará,Não,0.0
+riachão das neves,Bahia,Não,0.0
+remanso,Bahia,Não,0.0
+ibicoara,Bahia,Não,0.0
+ituaçu,Bahia,Não,0.0
+jaguaripe,Bahia,Não,0.0
+jaguarari,Bahia,Não,0.0
+jaguaquara,Bahia,Não,0.0
+jacobina,Bahia,Não,0.0
+jacaraci,Bahia,Não,0.0
+jaborandi,Bahia,Não,0.0
+iuiú,Bahia,Não,0.0
+ituberá,Bahia,Não,0.0
+itororó,Bahia,Não,0.0
+jequié,Bahia,Não,0.0
+itiúba,Bahia,Não,0.0
+itiruçu,Bahia,Não,0.0
+itatim,Bahia,Não,0.0
+itarantim,Bahia,Não,0.0
+itaquara,Bahia,Não,0.0
+itapitanga,Bahia,Não,0.0
+itapicuru,Bahia,Não,0.0
+itapetinga,Bahia,Não,0.0
+jandaíra,Bahia,Não,0.0
+jeremoabo,Bahia,Não,0.0
+rafael jambeiro,Bahia,Não,0.0
+laje,Bahia,Não,0.0
+licínio de almeida,Bahia,Não,0.0
+lençóis,Bahia,Não,0.0
+lauro de freitas,Bahia,Não,0.0
+lapão,Bahia,Não,0.0
+lamarão,Bahia,Não,0.0
+lajedo do tabocal,Bahia,Não,0.0
+lajedinho,Bahia,Não,0.0
+lajedão,Bahia,Não,0.0
+lagoa real,Bahia,Não,0.0
+jiquiriçá,Bahia,Não,0.0
+lafaiete coutinho,Bahia,Não,0.0
+jussiape,Bahia,Não,0.0
+jussari,Bahia,Não,0.0
+jussara,Bahia,Não,0.0
+jucuruçu,Bahia,Não,0.0
+juazeiro,Bahia,Não,0.0
+joão dourado,Bahia,Não,0.0
+jitaúna,Bahia,Não,0.0
+itapebi,Bahia,Não,0.0
+itapé,Bahia,Não,0.0
+itaparica,Bahia,Não,0.0
+ibotirama,Bahia,Não,0.0
+ipiaú,Bahia,Não,0.0
+ipecaetá,Bahia,Não,0.0
+inhambupe,Bahia,Não,0.0
+ilhéus,Bahia,Não,0.0
+iguaí,Bahia,Não,0.0
+igrapiúna,Bahia,Não,0.0
+igaporã,Bahia,Não,0.0
+ichu,Bahia,Não,0.0
+ibititá,Bahia,Não,0.0
+itanhém,Bahia,Não,0.0
+ibitiara,Bahia,Não,0.0
+ibirataia,Bahia,Não,0.0
+ibirapuã,Bahia,Não,0.0
+ibirapitanga,Bahia,Não,0.0
+ibiquera,Bahia,Não,0.0
+ibipitanga,Bahia,Não,0.0
+ibipeba,Bahia,Não,0.0
+ibicuí,Bahia,Não,0.0
+ipirá,Bahia,Não,0.0
+ipupiara,Bahia,Não,0.0
+irajuba,Bahia,Não,0.0
+iramaia,Bahia,Não,0.0
+itanagra,Bahia,Não,0.0
+itambé,Bahia,Não,0.0
+itamari,Bahia,Não,0.0
+itamaraju,Bahia,Não,0.0
+itajuípe,Bahia,Não,0.0
+itaju do colônia,Bahia,Não,0.0
+itaguaçu da bahia,Bahia,Não,0.0
+itagimirim,Bahia,Não,0.0
+itagibá,Bahia,Não,0.0
+itagi,Bahia,Não,0.0
+itaeté,Bahia,Não,0.0
+itacaré,Bahia,Não,0.0
+itaberaba,Bahia,Não,0.0
+itabela,Bahia,Não,0.0
+irecê,Bahia,Não,0.0
+irará,Bahia,Não,0.0
+iraquara,Bahia,Não,0.0
+livramento de nossa senhora,Bahia,Não,0.0
+luís eduardo magalhães,Bahia,Não,0.0
+macajuba,Bahia,Não,0.0
+paramirim,Bahia,Não,0.0
+piatã,Bahia,Não,0.0
+pedro alexandre,Bahia,Não,0.0
+pedrão,Bahia,Não,0.0
+pé de serra,Bahia,Não,0.0
+paulo afonso,Bahia,Não,0.0
+pau brasil,Bahia,Não,0.0
+paripiranga,Bahia,Não,0.0
+paratinga,Bahia,Não,0.0
+palmeiras,Bahia,Não,0.0
+nova redenção,Bahia,Não,0.0
+palmas de monte alto,Bahia,Não,0.0
+ourolândia,Bahia,Não,0.0
+ouriçangas,Bahia,Não,0.0
+oliveira dos brejinhos,Bahia,Não,0.0
+olindina,Bahia,Não,0.0
+novo triunfo,Bahia,Não,0.0
+novo horizonte,Bahia,Não,0.0
+nova viçosa,Bahia,Não,0.0
+pilão arcado,Bahia,Não,0.0
+pindaí,Bahia,Não,0.0
+pindobaçu,Bahia,Não,0.0
+pintadas,Bahia,Não,0.0
+quixabeira,Bahia,Não,0.0
+quijingue,Bahia,Não,0.0
+queimadas,Bahia,Não,0.0
+presidente tancredo neves,Bahia,Não,0.0
+presidente jânio quadros,Bahia,Não,0.0
+presidente dutra,Bahia,Não,0.0
+prado,Bahia,Não,0.0
+potiraguá,Bahia,Não,0.0
+porto seguro,Bahia,Não,0.0
+ponto novo,Bahia,Não,0.0
+pojuca,Bahia,Não,0.0
+poções,Bahia,Não,0.0
+planalto,Bahia,Não,0.0
+planaltino,Bahia,Não,0.0
+piritiba,Bahia,Não,0.0
+piripá,Bahia,Não,0.0
+piraí do norte,Bahia,Não,0.0
+nova soure,Bahia,Não,0.0
+nova itarana,Bahia,Não,0.0
+macarani,Bahia,Não,0.0
+mansidão,Bahia,Não,0.0
+medeiros neto,Bahia,Não,0.0
+matina,Bahia,Não,0.0
+mata de são joão,Bahia,Não,0.0
+mascote,Bahia,Não,0.0
+marcionílio souza,Bahia,Não,0.0
+maraú,Bahia,Não,0.0
+maragogipe,Bahia,Não,0.0
+maracás,Bahia,Não,0.0
+manoel vitorino,Bahia,Não,0.0
+nova ibiá,Bahia,Não,0.0
+malhada de pedras,Bahia,Não,0.0
+malhada,Bahia,Não,0.0
+mairi,Bahia,Não,0.0
+maiquinique,Bahia,Não,0.0
+maetinga,Bahia,Não,0.0
+madre de deus,Bahia,Não,0.0
+macururé,Bahia,Não,0.0
+macaúbas,Bahia,Não,0.0
+miguel calmon,Bahia,Não,0.0
+milagres,Bahia,Não,0.0
+mirangaba,Bahia,Não,0.0
+mirante,Bahia,Não,0.0
+nova fátima,Bahia,Não,0.0
+nova canaã,Bahia,Não,0.0
+nordestina,Bahia,Não,0.0
+nilo peçanha,Bahia,Não,0.0
+nazaré,Bahia,Não,0.0
+mutuípe,Bahia,Não,0.0
+muritiba,Bahia,Não,0.0
+muquém de são francisco,Bahia,Não,0.0
+muniz ferreira,Bahia,Não,0.0
+mundo novo,Bahia,Não,0.0
+mulungu do morro,Bahia,Não,0.0
+mucuri,Bahia,Não,0.0
+mucugê,Bahia,Não,0.0
+mortugaba,Bahia,Não,0.0
+morro do chapéu,Bahia,Não,0.0
+morpará,Bahia,Não,0.0
+monte santo,Bahia,Não,0.0
+guiratinga,Mato Grosso,Não,0.0
+ipiranga do norte,Mato Grosso,Não,0.0
+andirá,Paraná,Não,0.0
+são tiago,Minas Gerais,Não,0.0
+senador cortes,Minas Gerais,Não,0.0
+senador amaral,Minas Gerais,Não,0.0
+sem-peixe,Minas Gerais,Não,0.0
+sarzedo,Minas Gerais,Não,0.0
+sardoá,Minas Gerais,Não,0.0
+sapucaí-mirim,Minas Gerais,Não,0.0
+são vicente de minas,Minas Gerais,Não,0.0
+são tomás de aquino,Minas Gerais,Não,0.0
+são thomé das letras,Minas Gerais,Não,0.0
+senador josé bento,Minas Gerais,Não,0.0
+são sebastião do rio verde,Minas Gerais,Não,0.0
+são sebastião do rio preto,Minas Gerais,Não,0.0
+são sebastião do paraíso,Minas Gerais,Não,0.0
+são sebastião do oeste,Minas Gerais,Não,0.0
+são sebastião do maranhão,Minas Gerais,Não,0.0
+são sebastião do anta,Minas Gerais,Não,0.0
+são sebastião da vargem alegre,Minas Gerais,Não,0.0
+são sebastião da bela vista,Minas Gerais,Não,0.0
+senador firmino,Minas Gerais,Não,0.0
+senador modestino gonçalves,Minas Gerais,Não,0.0
+são domingos do prata,Minas Gerais,Não,0.0
+serranópolis de minas,Minas Gerais,Não,0.0
+simonésia,Minas Gerais,Não,0.0
+simão pereira,Minas Gerais,Não,0.0
+silvianópolis,Minas Gerais,Não,0.0
+silveirânia,Minas Gerais,Não,0.0
+setubinha,Minas Gerais,Não,0.0
+sete lagoas,Minas Gerais,Não,0.0
+serro,Minas Gerais,Não,0.0
+serranos,Minas Gerais,Não,0.0
+serrania,Minas Gerais,Não,0.0
+senhora de oliveira,Minas Gerais,Não,0.0
+serra dos aimorés,Minas Gerais,Não,0.0
+serra do salitre,Minas Gerais,Não,0.0
+serra da saudade,Minas Gerais,Não,0.0
+serra azul de minas,Minas Gerais,Não,0.0
+seritinga,Minas Gerais,Não,0.0
+sericita,Minas Gerais,Não,0.0
+senhora dos remédios,Minas Gerais,Não,0.0
+senhora do porto,Minas Gerais,Não,0.0
+são roque de minas,Minas Gerais,Não,0.0
+são romão,Minas Gerais,Não,0.0
+são pedro dos ferros,Minas Gerais,Não,0.0
+são gonçalo do rio abaixo,Minas Gerais,Não,0.0
+são joão das missões,Minas Gerais,Não,0.0
+são joão da ponte,Minas Gerais,Não,0.0
+são joão da mata,Minas Gerais,Não,0.0
+são joão da lagoa,Minas Gerais,Não,0.0
+são joão batista do glória,Minas Gerais,Não,0.0
+são gotardo,Minas Gerais,Não,0.0
+são gonçalo do sapucaí,Minas Gerais,Não,0.0
+são gonçalo do rio preto,Minas Gerais,Não,0.0
+são gonçalo do pará,Minas Gerais,Não,0.0
+são pedro do suaçuí,Minas Gerais,Não,0.0
+são gonçalo do abaeté,Minas Gerais,Não,0.0
+são geraldo do baixio,Minas Gerais,Não,0.0
+são geraldo da piedade,Minas Gerais,Não,0.0
+são geraldo,Minas Gerais,Não,0.0
+são francisco do glória,Minas Gerais,Não,0.0
+são francisco de sales,Minas Gerais,Não,0.0
+são francisco de paula,Minas Gerais,Não,0.0
+são francisco,Minas Gerais,Não,0.0
+são joão del rei,Minas Gerais,Não,0.0
+são joão do manhuaçu,Minas Gerais,Não,0.0
+são joão do manteninha,Minas Gerais,Não,0.0
+são joão do oriente,Minas Gerais,Não,0.0
+são pedro da união,Minas Gerais,Não,0.0
+são miguel do anta,Minas Gerais,Não,0.0
+são lourenço,Minas Gerais,Não,0.0
+são josé do mantimento,Minas Gerais,Não,0.0
+são josé do jacuri,Minas Gerais,Não,0.0
+são josé do goiabal,Minas Gerais,Não,0.0
+são josé do divino,Minas Gerais,Não,0.0
+são josé do alegre,Minas Gerais,Não,0.0
+são josé da varginha,Minas Gerais,Não,0.0
+são josé da safira,Minas Gerais,Não,0.0
+são josé da lapa,Minas Gerais,Não,0.0
+são josé da barra,Minas Gerais,Não,0.0
+são joaquim de bicas,Minas Gerais,Não,0.0
+são joão nepomuceno,Minas Gerais,Não,0.0
+são joão evangelista,Minas Gerais,Não,0.0
+são joão do paraíso,Minas Gerais,Não,0.0
+são joão do pacuí,Minas Gerais,Não,0.0
+sobrália,Minas Gerais,Não,0.0
+soledade de minas,Minas Gerais,Não,0.0
+tabuleiro,Minas Gerais,Não,0.0
+abel figueiredo,Pará,Não,0.0
+ananindeua,Pará,Não,0.0
+anajás,Pará,Não,0.0
+altamira,Pará,Não,0.0
+almeirim,Pará,Não,0.0
+alenquer,Pará,Não,0.0
+água azul do norte,Pará,Não,0.0
+afuá,Pará,Não,0.0
+acará,Pará,Não,0.0
+abaetetuba,Pará,Não,0.0
+vespasiano,Minas Gerais,Não,0.0
+wenceslau braz,Minas Gerais,Não,0.0
+volta grande,Minas Gerais,Não,0.0
+visconde do rio branco,Minas Gerais,Não,0.0
+virgolândia,Minas Gerais,Não,0.0
+virginópolis,Minas Gerais,Não,0.0
+virgínia,Minas Gerais,Não,0.0
+virgem da lapa,Minas Gerais,Não,0.0
+vieiras,Minas Gerais,Não,0.0
+anapu,Pará,Não,0.0
+augusto corrêa,Pará,Não,0.0
+aurora do pará,Pará,Não,0.0
+aveiro,Pará,Não,0.0
+cachoeira do piriá,Pará,Não,0.0
+cachoeira do arari,Pará,Não,0.0
+bujaru,Pará,Não,0.0
+breves,Pará,Não,0.0
+breu branco,Pará,Não,0.0
+brejo grande do araguaia,Pará,Não,0.0
+brasil novo,Pará,Não,0.0
+bragança,Pará,Não,0.0
+bonito,Pará,Não,0.0
+bom jesus do tocantins,Pará,Não,0.0
+benevides,Pará,Não,0.0
+belterra,Pará,Não,0.0
+belém,Pará,Não,0.0
+barcarena,Pará,Não,0.0
+bannach,Pará,Não,0.0
+baião,Pará,Não,0.0
+bagre,Pará,Não,0.0
+viçosa,Minas Gerais,Não,0.0
+vermelho novo,Minas Gerais,Não,0.0
+taiobeiras,Minas Gerais,Não,0.0
+tiros,Minas Gerais,Não,0.0
+tumiritinga,Minas Gerais,Não,0.0
+três pontas,Minas Gerais,Não,0.0
+três marias,Minas Gerais,Não,0.0
+três corações,Minas Gerais,Não,0.0
+tombos,Minas Gerais,Não,0.0
+toledo,Minas Gerais,Não,0.0
+tocos do moji,Minas Gerais,Não,0.0
+tocantins,Minas Gerais,Não,0.0
+tiradentes,Minas Gerais,Não,0.0
+veríssimo,Minas Gerais,Não,0.0
+timóteo,Minas Gerais,Não,0.0
+teófilo otoni,Minas Gerais,Não,0.0
+teixeiras,Minas Gerais,Não,0.0
+tarumirim,Minas Gerais,Não,0.0
+taquaraçu de minas,Minas Gerais,Não,0.0
+tapiraí,Minas Gerais,Não,0.0
+tapira,Minas Gerais,Não,0.0
+taparuba,Minas Gerais,Não,0.0
+tupaciguara,Minas Gerais,Não,0.0
+turmalina,Minas Gerais,Não,0.0
+turvolândia,Minas Gerais,Não,0.0
+ubá,Minas Gerais,Não,0.0
+veredinha,Minas Gerais,Não,0.0
+verdelândia,Minas Gerais,Não,0.0
+vazante,Minas Gerais,Não,0.0
+varzelândia,Minas Gerais,Não,0.0
+várzea da palma,Minas Gerais,Não,0.0
+varjão de minas,Minas Gerais,Não,0.0
+vargem grande do rio pardo,Minas Gerais,Não,0.0
+vargem bonita,Minas Gerais,Não,0.0
+vargem alegre,Minas Gerais,Não,0.0
+urucuia,Minas Gerais,Não,0.0
+urucânia,Minas Gerais,Não,0.0
+uruana de minas,Minas Gerais,Não,0.0
+união de minas,Minas Gerais,Não,0.0
+unaí,Minas Gerais,Não,0.0
+umburatiba,Minas Gerais,Não,0.0
+ubaporanga,Minas Gerais,Não,0.0
+ubaí,Minas Gerais,Não,0.0
+são félix de minas,Minas Gerais,Não,0.0
+são domingos das dores,Minas Gerais,Não,0.0
+canaã dos carajás,Pará,Não,0.0
+piedade dos gerais,Minas Gerais,Não,0.0
+piranguinho,Minas Gerais,Não,0.0
+piranguçu,Minas Gerais,Não,0.0
+piranga,Minas Gerais,Não,0.0
+pirajuba,Minas Gerais,Não,0.0
+piracema,Minas Gerais,Não,0.0
+pintópolis,Minas Gerais,Não,0.0
+pingo-d'água,Minas Gerais,Não,0.0
+pimenta,Minas Gerais,Não,0.0
+piedade do rio grande,Minas Gerais,Não,0.0
+pirapora,Minas Gerais,Não,0.0
+piedade de ponte nova,Minas Gerais,Não,0.0
+piedade de caratinga,Minas Gerais,Não,0.0
+piau,Minas Gerais,Não,0.0
+pescador,Minas Gerais,Não,0.0
+periquito,Minas Gerais,Não,0.0
+perdões,Minas Gerais,Não,0.0
+perdizes,Minas Gerais,Não,0.0
+perdigão,Minas Gerais,Não,0.0
+pirapetinga,Minas Gerais,Não,0.0
+piraúba,Minas Gerais,Não,0.0
+são brás do suaçuí,Minas Gerais,Não,0.0
+porto firme,Minas Gerais,Não,0.0
+presidente juscelino,Minas Gerais,Não,0.0
+presidente bernardes,Minas Gerais,Não,0.0
+pratinha,Minas Gerais,Não,0.0
+pratápolis,Minas Gerais,Não,0.0
+prata,Minas Gerais,Não,0.0
+prados,Minas Gerais,Não,0.0
+pouso alto,Minas Gerais,Não,0.0
+poté,Minas Gerais,Não,0.0
+porteirinha,Minas Gerais,Não,0.0
+pitangui,Minas Gerais,Não,0.0
+ponto dos volantes,Minas Gerais,Não,0.0
+ponto chique,Minas Gerais,Não,0.0
+ponte nova,Minas Gerais,Não,0.0
+pompéu,Minas Gerais,Não,0.0
+pocrane,Minas Gerais,Não,0.0
+poço fundo,Minas Gerais,Não,0.0
+planura,Minas Gerais,Não,0.0
+piumhi,Minas Gerais,Não,0.0
+pequi,Minas Gerais,Não,0.0
+pequeri,Minas Gerais,Não,0.0
+pedro teixeira,Minas Gerais,Não,0.0
+paiva,Minas Gerais,Não,0.0
+paraopeba,Minas Gerais,Não,0.0
+paraisópolis,Minas Gerais,Não,0.0
+paraguaçu,Minas Gerais,Não,0.0
+paracatu,Minas Gerais,Não,0.0
+pará de minas,Minas Gerais,Não,0.0
+papagaios,Minas Gerais,Não,0.0
+palmópolis,Minas Gerais,Não,0.0
+palma,Minas Gerais,Não,0.0
+pains,Minas Gerais,Não,0.0
+pedro leopoldo,Minas Gerais,Não,0.0
+paineiras,Minas Gerais,Não,0.0
+pai pedro,Minas Gerais,Não,0.0
+padre paraíso,Minas Gerais,Não,0.0
+padre carvalho,Minas Gerais,Não,0.0
+ouro verde de minas,Minas Gerais,Não,0.0
+ouro preto,Minas Gerais,Não,0.0
+ouro fino,Minas Gerais,Não,0.0
+ouro branco,Minas Gerais,Não,0.0
+passa quatro,Minas Gerais,Não,0.0
+passa tempo,Minas Gerais,Não,0.0
+passabém,Minas Gerais,Não,0.0
+passa-vinte,Minas Gerais,Não,0.0
+pedrinópolis,Minas Gerais,Não,0.0
+pedras de maria da cruz,Minas Gerais,Não,0.0
+pedralva,Minas Gerais,Não,0.0
+pedra dourada,Minas Gerais,Não,0.0
+pedra do indaiá,Minas Gerais,Não,0.0
+pedra do anta,Minas Gerais,Não,0.0
+pedra bonita,Minas Gerais,Não,0.0
+pedra azul,Minas Gerais,Não,0.0
+peçanha,Minas Gerais,Não,0.0
+pavão,Minas Gerais,Não,0.0
+paulistas,Minas Gerais,Não,0.0
+paula cândido,Minas Gerais,Não,0.0
+patrocínio do muriaé,Minas Gerais,Não,0.0
+patrocínio,Minas Gerais,Não,0.0
+patos de minas,Minas Gerais,Não,0.0
+patis,Minas Gerais,Não,0.0
+passos,Minas Gerais,Não,0.0
+presidente kubitschek,Minas Gerais,Não,0.0
+presidente olegário,Minas Gerais,Não,0.0
+prudente de morais,Minas Gerais,Não,0.0
+santa maria do suaçuí,Minas Gerais,Não,0.0
+santa vitória,Minas Gerais,Não,0.0
+santa rosa da serra,Minas Gerais,Não,0.0
+santa rita do sapucaí,Minas Gerais,Não,0.0
+santa rita do itueto,Minas Gerais,Não,0.0
+santa rita de minas,Minas Gerais,Não,0.0
+santa rita de jacutinga,Minas Gerais,Não,0.0
+santa rita de ibitipoca,Minas Gerais,Não,0.0
+santa rita de caldas,Minas Gerais,Não,0.0
+santa maria do salto,Minas Gerais,Não,0.0
+santa cruz de minas,Minas Gerais,Não,0.0
+santa maria de itabira,Minas Gerais,Não,0.0
+santa margarida,Minas Gerais,Não,0.0
+santa luzia,Minas Gerais,Não,0.0
+santa juliana,Minas Gerais,Não,0.0
+santa helena de minas,Minas Gerais,Não,0.0
+santa fé de minas,Minas Gerais,Não,0.0
+santa efigênia de minas,Minas Gerais,Não,0.0
+santa cruz do escalvado,Minas Gerais,Não,0.0
+santana da vargem,Minas Gerais,Não,0.0
+santana de cataguases,Minas Gerais,Não,0.0
+santana de pirapama,Minas Gerais,Não,0.0
+santana do deserto,Minas Gerais,Não,0.0
+são bento abade,Minas Gerais,Não,0.0
+santos dumont,Minas Gerais,Não,0.0
+santo hipólito,Minas Gerais,Não,0.0
+santo antônio do rio abaixo,Minas Gerais,Não,0.0
+santo antônio do retiro,Minas Gerais,Não,0.0
+santo antônio do monte,Minas Gerais,Não,0.0
+santo antônio do jacinto,Minas Gerais,Não,0.0
+santo antônio do itambé,Minas Gerais,Não,0.0
+santo antônio do grama,Minas Gerais,Não,0.0
+santo antônio do aventureiro,Minas Gerais,Não,0.0
+santo antônio do amparo,Minas Gerais,Não,0.0
+santana dos montes,Minas Gerais,Não,0.0
+santana do riacho,Minas Gerais,Não,0.0
+santana do paraíso,Minas Gerais,Não,0.0
+santana do manhuaçu,Minas Gerais,Não,0.0
+santana do jacaré,Minas Gerais,Não,0.0
+santana do garambéu,Minas Gerais,Não,0.0
+santa cruz de salinas,Minas Gerais,Não,0.0
+santa bárbara do tugúrio,Minas Gerais,Não,0.0
+quartel geral,Minas Gerais,Não,0.0
+riacho dos machados,Minas Gerais,Não,0.0
+rio manso,Minas Gerais,Não,0.0
+rio espera,Minas Gerais,Não,0.0
+rio doce,Minas Gerais,Não,0.0
+rio do prado,Minas Gerais,Não,0.0
+rio casca,Minas Gerais,Não,0.0
+rio acima,Minas Gerais,Não,0.0
+ribeirão vermelho,Minas Gerais,Não,0.0
+ribeirão das neves,Minas Gerais,Não,0.0
+riachinho,Minas Gerais,Não,0.0
+santa bárbara do monte verde,Minas Gerais,Não,0.0
+ressaquinha,Minas Gerais,Não,0.0
+resplendor,Minas Gerais,Não,0.0
+resende costa,Minas Gerais,Não,0.0
+reduto,Minas Gerais,Não,0.0
+recreio,Minas Gerais,Não,0.0
+raul soares,Minas Gerais,Não,0.0
+raposos,Minas Gerais,Não,0.0
+queluzito,Minas Gerais,Não,0.0
+rio novo,Minas Gerais,Não,0.0
+rio paranaíba,Minas Gerais,Não,0.0
+rio pardo de minas,Minas Gerais,Não,0.0
+rio piracicaba,Minas Gerais,Não,0.0
+santa bárbara do leste,Minas Gerais,Não,0.0
+santa bárbara,Minas Gerais,Não,0.0
+salto da divisa,Minas Gerais,Não,0.0
+salinas,Minas Gerais,Não,0.0
+sacramento,Minas Gerais,Não,0.0
+sabinópolis,Minas Gerais,Não,0.0
+sabará,Minas Gerais,Não,0.0
+rubim,Minas Gerais,Não,0.0
+rubelita,Minas Gerais,Não,0.0
+rosário da limeira,Minas Gerais,Não,0.0
+romaria,Minas Gerais,Não,0.0
+rodeiro,Minas Gerais,Não,0.0
+rochedo de minas,Minas Gerais,Não,0.0
+ritápolis,Minas Gerais,Não,0.0
+rio vermelho,Minas Gerais,Não,0.0
+rio preto,Minas Gerais,Não,0.0
+rio pomba,Minas Gerais,Não,0.0
+cametá,Pará,Não,0.0
+capanema,Pará,Não,0.0
+oratórios,Minas Gerais,Não,0.0
+mogeiro,Paraíba,Não,0.0
+nova olinda,Paraíba,Não,0.0
+nova floresta,Paraíba,Não,0.0
+nazarezinho,Paraíba,Não,0.0
+natuba,Paraíba,Não,0.0
+mulungu,Paraíba,Não,0.0
+monteiro,Paraíba,Não,0.0
+monte horebe,Paraíba,Não,0.0
+montadas,Paraíba,Não,0.0
+maturéia,Paraíba,Não,0.0
+olho d'água,Paraíba,Não,0.0
+mato grosso,Paraíba,Não,0.0
+matinhas,Paraíba,Não,0.0
+mataraca,Paraíba,Não,0.0
+massaranduba,Paraíba,Não,0.0
+marizópolis,Paraíba,Não,0.0
+mari,Paraíba,Não,0.0
+marcação,Paraíba,Não,0.0
+manaíra,Paraíba,Não,0.0
+nova palmeira,Paraíba,Não,0.0
+olivedos,Paraíba,Não,0.0
+cubati,Paraíba,Não,0.0
+picuí,Paraíba,Não,0.0
+poço de josé de moura,Paraíba,Não,0.0
+poço dantas,Paraíba,Não,0.0
+pocinhos,Paraíba,Não,0.0
+pitimbu,Paraíba,Não,0.0
+pirpirituba,Paraíba,Não,0.0
+pilõezinhos,Paraíba,Não,0.0
+pilões,Paraíba,Não,0.0
+pilar,Paraíba,Não,0.0
+piancó,Paraíba,Não,0.0
+ouro velho,Paraíba,Não,0.0
+pedro régis,Paraíba,Não,0.0
+pedras de fogo,Paraíba,Não,0.0
+pedra lavrada,Paraíba,Não,0.0
+pedra branca,Paraíba,Não,0.0
+paulista,Paraíba,Não,0.0
+patos,Paraíba,Não,0.0
+passagem,Paraíba,Não,0.0
+parari,Paraíba,Não,0.0
+mamanguape,Paraíba,Não,0.0
+malta,Paraíba,Não,0.0
+mãe d'água,Paraíba,Não,0.0
+emas,Paraíba,Não,0.0
+ibiara,Paraíba,Não,0.0
+gurjão,Paraíba,Não,0.0
+gurinhém,Paraíba,Não,0.0
+guarabira,Paraíba,Não,0.0
+gado bravo,Paraíba,Não,0.0
+frei martinho,Paraíba,Não,0.0
+fagundes,Paraíba,Não,0.0
+esperança,Paraíba,Não,0.0
+duas estradas,Paraíba,Não,0.0
+lucena,Paraíba,Não,0.0
+dona inês,Paraíba,Não,0.0
+diamante,Paraíba,Não,0.0
+desterro,Paraíba,Não,0.0
+damião,Paraíba,Não,0.0
+curral velho,Paraíba,Não,0.0
+curral de cima,Paraíba,Não,0.0
+cuitegi,Paraíba,Não,0.0
+cuité de mamanguape,Paraíba,Não,0.0
+igaracy,Paraíba,Não,0.0
+imaculada,Paraíba,Não,0.0
+ingá,Paraíba,Não,0.0
+itabaiana,Paraíba,Não,0.0
+logradouro,Paraíba,Não,0.0
+livramento,Paraíba,Não,0.0
+lastro,Paraíba,Não,0.0
+lagoa seca,Paraíba,Não,0.0
+lagoa de dentro,Paraíba,Não,0.0
+lagoa,Paraíba,Não,0.0
+juru,Paraíba,Não,0.0
+juripiranga,Paraíba,Não,0.0
+junco do seridó,Paraíba,Não,0.0
+juazeirinho,Paraíba,Não,0.0
+juarez távora,Paraíba,Não,0.0
+joca claudino,Paraíba,Não,0.0
+jericó,Paraíba,Não,0.0
+jacaraú,Paraíba,Não,0.0
+itatuba,Paraíba,Não,0.0
+itapororoca,Paraíba,Não,0.0
+itaporanga,Paraíba,Não,0.0
+pombal,Paraíba,Não,0.0
+prata,Paraíba,Não,0.0
+princesa isabel,Paraíba,Não,0.0
+solânea,Paraíba,Não,0.0
+teixeira,Paraíba,Não,0.0
+tavares,Paraíba,Não,0.0
+taperoá,Paraíba,Não,0.0
+tacima,Paraíba,Não,0.0
+sumé,Paraíba,Não,0.0
+sousa,Paraíba,Não,0.0
+sossêgo,Paraíba,Não,0.0
+soledade,Paraíba,Não,0.0
+sobrado,Paraíba,Não,0.0
+são sebastião de lagoa de roça,Paraíba,Não,0.0
+sertãozinho,Paraíba,Não,0.0
+serraria,Paraíba,Não,0.0
+serra redonda,Paraíba,Não,0.0
+serra grande,Paraíba,Não,0.0
+serra da raiz,Paraíba,Não,0.0
+serra branca,Paraíba,Não,0.0
+sapé,Paraíba,Não,0.0
+são vicente do seridó,Paraíba,Não,0.0
+tenório,Paraíba,Não,0.0
+triunfo,Paraíba,Não,0.0
+uiraúna,Paraíba,Não,0.0
+umbuzeiro,Paraíba,Não,0.0
+anahy,Paraná,Não,0.0
+ampére,Paraná,Não,0.0
+amaporã,Paraná,Não,0.0
+alvorada do sul,Paraná,Não,0.0
+altônia,Paraná,Não,0.0
+alto piquiri,Paraná,Não,0.0
+alto paraná,Paraná,Não,0.0
+alto paraíso,Paraná,Não,0.0
+altamira do paraná,Paraná,Não,0.0
+almirante tamandaré,Paraná,Não,0.0
+agudos do sul,Paraná,Não,0.0
+adrianópolis,Paraná,Não,0.0
+abatiá,Paraná,Não,0.0
+assis brasil,Acre,Não,0.0
+vista serrana,Paraíba,Não,0.0
+vieirópolis,Paraíba,Não,0.0
+várzea,Paraíba,Não,0.0
+são sebastião do umbuzeiro,Paraíba,Não,0.0
+são miguel de taipu,Paraíba,Não,0.0
+puxinanã,Paraíba,Não,0.0
+salgadinho,Paraíba,Não,0.0
+santa teresinha,Paraíba,Não,0.0
+santa rita,Paraíba,Não,0.0
+santa luzia,Paraíba,Não,0.0
+santa inês,Paraíba,Não,0.0
+santa helena,Paraíba,Não,0.0
+santa cruz,Paraíba,Não,0.0
+santa cecília,Paraíba,Não,0.0
+salgado de são félix,Paraíba,Não,0.0
+rio tinto,Paraíba,Não,0.0
+são mamede,Paraíba,Não,0.0
+riacho dos cavalos,Paraíba,Não,0.0
+riacho de santo antônio,Paraíba,Não,0.0
+riachão do poço,Paraíba,Não,0.0
+riachão do bacamarte,Paraíba,Não,0.0
+riachão,Paraíba,Não,0.0
+remígio,Paraíba,Não,0.0
+quixabá,Paraíba,Não,0.0
+queimadas,Paraíba,Não,0.0
+santana de mangueira,Paraíba,Não,0.0
+santana dos garrotes,Paraíba,Não,0.0
+santo andré,Paraíba,Não,0.0
+são bentinho,Paraíba,Não,0.0
+são josé dos ramos,Paraíba,Não,0.0
+são josé dos cordeiros,Paraíba,Não,0.0
+são josé do sabugi,Paraíba,Não,0.0
+são josé do brejo do cruz,Paraíba,Não,0.0
+são josé do bonfim,Paraíba,Não,0.0
+são josé de princesa,Paraíba,Não,0.0
+são josé de piranhas,Paraíba,Não,0.0
+são josé de espinharas,Paraíba,Não,0.0
+são josé de caiana,Paraíba,Não,0.0
+são josé da lagoa tapada,Paraíba,Não,0.0
+são joão do tigre,Paraíba,Não,0.0
+são joão do rio do peixe,Paraíba,Não,0.0
+são joão do cariri,Paraíba,Não,0.0
+são francisco,Paraíba,Não,0.0
+são domingos do cariri,Paraíba,Não,0.0
+são domingos,Paraíba,Não,0.0
+são bento,Paraíba,Não,0.0
+cuité,Paraíba,Não,0.0
+cruz do espírito santo,Paraíba,Não,0.0
+capitão poço,Pará,Não,0.0
+paragominas,Pará,Não,0.0
+porto de moz,Pará,Não,0.0
+portel,Pará,Não,0.0
+ponta de pedras,Pará,Não,0.0
+placas,Pará,Não,0.0
+piçarra,Pará,Não,0.0
+peixe-boi,Pará,Não,0.0
+pau d'arco,Pará,Não,0.0
+parauapebas,Pará,Não,0.0
+palestina do pará,Pará,Não,0.0
+primavera,Pará,Não,0.0
+pacajá,Pará,Não,0.0
+ourilândia do norte,Pará,Não,0.0
+ourém,Pará,Não,0.0
+oriximiná,Pará,Não,0.0
+oeiras do pará,Pará,Não,0.0
+óbidos,Pará,Não,0.0
+novo repartimento,Pará,Não,0.0
+novo progresso,Pará,Não,0.0
+prainha,Pará,Não,0.0
+quatipuru,Pará,Não,0.0
+coxixola,Paraíba,Não,0.0
+santa maria das barreiras,Pará,Não,0.0
+são domingos do capim,Pará,Não,0.0
+são domingos do araguaia,Pará,Não,0.0
+são caetano de odivelas,Pará,Não,0.0
+santo antônio do tauá,Pará,Não,0.0
+santarém novo,Pará,Não,0.0
+santarém,Pará,Não,0.0
+santana do araguaia,Pará,Não,0.0
+santa maria do pará,Pará,Não,0.0
+santa luzia do pará,Pará,Não,0.0
+redenção,Pará,Não,0.0
+santa isabel do pará,Pará,Não,0.0
+santa cruz do arari,Pará,Não,0.0
+santa bárbara do pará,Pará,Não,0.0
+salvaterra,Pará,Não,0.0
+salinópolis,Pará,Não,0.0
+rurópolis,Pará,Não,0.0
+rondon do pará,Pará,Não,0.0
+rio maria,Pará,Não,0.0
+nova timboteua,Pará,Não,0.0
+nova ipixuna,Pará,Não,0.0
+nova esperança do piriá,Pará,Não,0.0
+curuçá,Pará,Não,0.0
+igarapé-açu,Pará,Não,0.0
+gurupá,Pará,Não,0.0
+goianésia do pará,Pará,Não,0.0
+garrafão do norte,Pará,Não,0.0
+floresta do araguaia,Pará,Não,0.0
+faro,Pará,Não,0.0
+eldorado dos carajás,Pará,Não,0.0
+dom eliseu,Pará,Não,0.0
+curuá,Pará,Não,0.0
+muaná,Pará,Não,0.0
+curralinho,Pará,Não,0.0
+curionópolis,Pará,Não,0.0
+cumaru do norte,Pará,Não,0.0
+concórdia do pará,Pará,Não,0.0
+conceição do araguaia,Pará,Não,0.0
+colares,Pará,Não,0.0
+chaves,Pará,Não,0.0
+castanhal,Pará,Não,0.0
+igarapé-miri,Pará,Não,0.0
+inhangapi,Pará,Não,0.0
+ipixuna do pará,Pará,Não,0.0
+irituia,Pará,Não,0.0
+monte alegre,Pará,Não,0.0
+moju,Pará,Não,0.0
+mocajuba,Pará,Não,0.0
+melgaço,Pará,Não,0.0
+medicilândia,Pará,Não,0.0
+marituba,Pará,Não,0.0
+marapanim,Pará,Não,0.0
+maracanã,Pará,Não,0.0
+marabá,Pará,Não,0.0
+magalhães barata,Pará,Não,0.0
+mãe do rio,Pará,Não,0.0
+limoeiro do ajuru,Pará,Não,0.0
+juruti,Pará,Não,0.0
+jacundá,Pará,Não,0.0
+jacareacanga,Pará,Não,0.0
+itupiranga,Pará,Não,0.0
+itaituba,Pará,Não,0.0
+são félix do xingu,Pará,Não,0.0
+são francisco do pará,Pará,Não,0.0
+são geraldo do araguaia,Pará,Não,0.0
+bom sucesso,Paraíba,Não,0.0
+cabedelo,Paraíba,Não,0.0
+cabaceiras,Paraíba,Não,0.0
+caaporã,Paraíba,Não,0.0
+brejo dos santos,Paraíba,Não,0.0
+brejo do cruz,Paraíba,Não,0.0
+borborema,Paraíba,Não,0.0
+boqueirão,Paraíba,Não,0.0
+bonito de santa fé,Paraíba,Não,0.0
+bom jesus,Paraíba,Não,0.0
+baraúna,Paraíba,Não,0.0
+boa vista,Paraíba,Não,0.0
+boa ventura,Paraíba,Não,0.0
+bernardino batista,Paraíba,Não,0.0
+belém do brejo do cruz,Paraíba,Não,0.0
+belém,Paraíba,Não,0.0
+bayeux,Paraíba,Não,0.0
+barra de são miguel,Paraíba,Não,0.0
+barra de santana,Paraíba,Não,0.0
+cachoeira dos índios,Paraíba,Não,0.0
+cacimba de areia,Paraíba,Não,0.0
+cacimba de dentro,Paraíba,Não,0.0
+cacimbas,Paraíba,Não,0.0
+coremas,Paraíba,Não,0.0
+congo,Paraíba,Não,0.0
+conde,Paraíba,Não,0.0
+condado,Paraíba,Não,0.0
+conceição,Paraíba,Não,0.0
+caturité,Paraíba,Não,0.0
+catolé do rocha,Paraíba,Não,0.0
+catingueira,Paraíba,Não,0.0
+casserengue,Paraíba,Não,0.0
+carrapateira,Paraíba,Não,0.0
+caraúbas,Paraíba,Não,0.0
+capim,Paraíba,Não,0.0
+camalaú,Paraíba,Não,0.0
+caldas brandão,Paraíba,Não,0.0
+cajazeirinhas,Paraíba,Não,0.0
+cajazeiras,Paraíba,Não,0.0
+caiçara,Paraíba,Não,0.0
+barra de santa rosa,Paraíba,Não,0.0
+bananeiras,Paraíba,Não,0.0
+são joão da ponta,Pará,Não,0.0
+terra santa,Pará,Não,0.0
+vigia,Pará,Não,0.0
+uruará,Pará,Não,0.0
+ulianópolis,Pará,Não,0.0
+tucuruí,Pará,Não,0.0
+tucumã,Pará,Não,0.0
+trairão,Pará,Não,0.0
+tracuateua,Pará,Não,0.0
+tomé-açu,Pará,Não,0.0
+terra alta,Pará,Não,0.0
+baía da traição,Paraíba,Não,0.0
+tailândia,Pará,Não,0.0
+soure,Pará,Não,0.0
+senador josé porfírio,Pará,Não,0.0
+sapucaia,Pará,Não,0.0
+são sebastião da boa vista,Pará,Não,0.0
+são miguel do guamá,Pará,Não,0.0
+são joão do araguaia,Pará,Não,0.0
+são joão de pirabas,Pará,Não,0.0
+viseu,Pará,Não,0.0
+vitória do xingu,Pará,Não,0.0
+xinguara,Pará,Não,0.0
+água branca,Paraíba,Não,0.0
+assunção,Paraíba,Não,0.0
+aroeiras,Paraíba,Não,0.0
+areial,Paraíba,Não,0.0
+areia de baraúnas,Paraíba,Não,0.0
+areia,Paraíba,Não,0.0
+araruna,Paraíba,Não,0.0
+arara,Paraíba,Não,0.0
+araçagi,Paraíba,Não,0.0
+aparecida,Paraíba,Não,0.0
+amparo,Paraíba,Não,0.0
+alhandra,Paraíba,Não,0.0
+algodão de jandaíra,Paraíba,Não,0.0
+alcantil,Paraíba,Não,0.0
+alagoinha,Paraíba,Não,0.0
+alagoa nova,Paraíba,Não,0.0
+alagoa grande,Paraíba,Não,0.0
+aguiar,Paraíba,Não,0.0
+orizânia,Minas Gerais,Não,0.0
+onça de pitangui,Minas Gerais,Não,0.0
+itanhangá,Mato Grosso,Não,0.0
+barra longa,Minas Gerais,Não,0.0
+bertópolis,Minas Gerais,Não,0.0
+berizal,Minas Gerais,Não,0.0
+berilo,Minas Gerais,Não,0.0
+belo vale,Minas Gerais,Não,0.0
+belo oriente,Minas Gerais,Não,0.0
+belmiro braga,Minas Gerais,Não,0.0
+bela vista de minas,Minas Gerais,Não,0.0
+barroso,Minas Gerais,Não,0.0
+barão de monte alto,Minas Gerais,Não,0.0
+bias fortes,Minas Gerais,Não,0.0
+barão de cocais,Minas Gerais,Não,0.0
+bandeira do sul,Minas Gerais,Não,0.0
+bandeira,Minas Gerais,Não,0.0
+bambuí,Minas Gerais,Não,0.0
+baldim,Minas Gerais,Não,0.0
+baependi,Minas Gerais,Não,0.0
+augusto de lima,Minas Gerais,Não,0.0
+ataléia,Minas Gerais,Não,0.0
+betim,Minas Gerais,Não,0.0
+bicas,Minas Gerais,Não,0.0
+água boa,Minas Gerais,Não,0.0
+bom sucesso,Minas Gerais,Não,0.0
+brasilândia de minas,Minas Gerais,Não,0.0
+brás pires,Minas Gerais,Não,0.0
+botumirim,Minas Gerais,Não,0.0
+botelhos,Minas Gerais,Não,0.0
+borda da mata,Minas Gerais,Não,0.0
+bonito de minas,Minas Gerais,Não,0.0
+bonfinópolis de minas,Minas Gerais,Não,0.0
+bonfim,Minas Gerais,Não,0.0
+bom repouso,Minas Gerais,Não,0.0
+biquinhas,Minas Gerais,Não,0.0
+bom jesus do galho,Minas Gerais,Não,0.0
+bom jesus do amparo,Minas Gerais,Não,0.0
+bom jesus da penha,Minas Gerais,Não,0.0
+bom jardim de minas,Minas Gerais,Não,0.0
+bom despacho,Minas Gerais,Não,0.0
+bocaiúva,Minas Gerais,Não,0.0
+bocaina de minas,Minas Gerais,Não,0.0
+boa esperança,Minas Gerais,Não,0.0
+astolfo dutra,Minas Gerais,Não,0.0
+arinos,Minas Gerais,Não,0.0
+aricanduva,Minas Gerais,Não,0.0
+alfredo vasconcelos,Minas Gerais,Não,0.0
+alvarenga,Minas Gerais,Não,0.0
+alto rio doce,Minas Gerais,Não,0.0
+alto jequitibá,Minas Gerais,Não,0.0
+alto caparaó,Minas Gerais,Não,0.0
+alterosa,Minas Gerais,Não,0.0
+alpinópolis,Minas Gerais,Não,0.0
+alpercata,Minas Gerais,Não,0.0
+almenara,Minas Gerais,Não,0.0
+alfenas,Minas Gerais,Não,0.0
+argirita,Minas Gerais,Não,0.0
+além paraíba,Minas Gerais,Não,0.0
+albertina,Minas Gerais,Não,0.0
+alagoa,Minas Gerais,Não,0.0
+aiuruoca,Minas Gerais,Não,0.0
+aimorés,Minas Gerais,Não,0.0
+águas vermelhas,Minas Gerais,Não,0.0
+águas formosas,Minas Gerais,Não,0.0
+aguanil,Minas Gerais,Não,0.0
+alvinópolis,Minas Gerais,Não,0.0
+alvorada de minas,Minas Gerais,Não,0.0
+amparo do serra,Minas Gerais,Não,0.0
+andradas,Minas Gerais,Não,0.0
+areado,Minas Gerais,Não,0.0
+arcos,Minas Gerais,Não,0.0
+arceburgo,Minas Gerais,Não,0.0
+araújos,Minas Gerais,Não,0.0
+arapuá,Minas Gerais,Não,0.0
+araporã,Minas Gerais,Não,0.0
+araponga,Minas Gerais,Não,0.0
+arantina,Minas Gerais,Não,0.0
+araguari,Minas Gerais,Não,0.0
+araçuaí,Minas Gerais,Não,0.0
+aracitaba,Minas Gerais,Não,0.0
+araçaí,Minas Gerais,Não,0.0
+antônio prado de minas,Minas Gerais,Não,0.0
+antônio dias,Minas Gerais,Não,0.0
+antônio carlos,Minas Gerais,Não,0.0
+angelândia,Minas Gerais,Não,0.0
+andrelândia,Minas Gerais,Não,0.0
+brasília de minas,Minas Gerais,Não,0.0
+braúnas,Minas Gerais,Não,0.0
+brazópolis,Minas Gerais,Não,0.0
+carlos chagas,Minas Gerais,Não,0.0
+carmópolis de minas,Minas Gerais,Não,0.0
+carmo do rio claro,Minas Gerais,Não,0.0
+carmo do paranaíba,Minas Gerais,Não,0.0
+carmo do cajuru,Minas Gerais,Não,0.0
+carmo de minas,Minas Gerais,Não,0.0
+carmo da mata,Minas Gerais,Não,0.0
+carmo da cachoeira,Minas Gerais,Não,0.0
+carmésia,Minas Gerais,Não,0.0
+careaçu,Minas Gerais,Não,0.0
+capitão andrade,Minas Gerais,Não,0.0
+carbonita,Minas Gerais,Não,0.0
+caratinga,Minas Gerais,Não,0.0
+carangola,Minas Gerais,Não,0.0
+carandaí,Minas Gerais,Não,0.0
+caranaíba,Minas Gerais,Não,0.0
+caraí,Minas Gerais,Não,0.0
+caputira,Minas Gerais,Não,0.0
+capitólio,Minas Gerais,Não,0.0
+carneirinho,Minas Gerais,Não,0.0
+carrancas,Minas Gerais,Não,0.0
+carvalhópolis,Minas Gerais,Não,0.0
+carvalhos,Minas Gerais,Não,0.0
+chiador,Minas Gerais,Não,0.0
+chapada gaúcha,Minas Gerais,Não,0.0
+chapada do norte,Minas Gerais,Não,0.0
+chalé,Minas Gerais,Não,0.0
+chácara,Minas Gerais,Não,0.0
+centralina,Minas Gerais,Não,0.0
+central de minas,Minas Gerais,Não,0.0
+cedro do abaeté,Minas Gerais,Não,0.0
+caxambu,Minas Gerais,Não,0.0
+catuti,Minas Gerais,Não,0.0
+catuji,Minas Gerais,Não,0.0
+catas altas da noruega,Minas Gerais,Não,0.0
+catas altas,Minas Gerais,Não,0.0
+cataguases,Minas Gerais,Não,0.0
+cássia,Minas Gerais,Não,0.0
+cascalho rico,Minas Gerais,Não,0.0
+casa grande,Minas Gerais,Não,0.0
+capitão enéas,Minas Gerais,Não,0.0
+capinópolis,Minas Gerais,Não,0.0
+brumadinho,Minas Gerais,Não,0.0
+cachoeira de pajeú,Minas Gerais,Não,0.0
+camanducaia,Minas Gerais,Não,0.0
+camacho,Minas Gerais,Não,0.0
+caldas,Minas Gerais,Não,0.0
+cajuri,Minas Gerais,Não,0.0
+caiana,Minas Gerais,Não,0.0
+caeté,Minas Gerais,Não,0.0
+caetanópolis,Minas Gerais,Não,0.0
+cachoeira dourada,Minas Gerais,Não,0.0
+cachoeira de minas,Minas Gerais,Não,0.0
+capim branco,Minas Gerais,Não,0.0
+cachoeira da prata,Minas Gerais,Não,0.0
+cabo verde,Minas Gerais,Não,0.0
+cabeceira grande,Minas Gerais,Não,0.0
+buritizeiro,Minas Gerais,Não,0.0
+buritis,Minas Gerais,Não,0.0
+bugre,Minas Gerais,Não,0.0
+buenópolis,Minas Gerais,Não,0.0
+bueno brandão,Minas Gerais,Não,0.0
+cambuí,Minas Gerais,Não,0.0
+cambuquira,Minas Gerais,Não,0.0
+campanário,Minas Gerais,Não,0.0
+campanha,Minas Gerais,Não,0.0
+capetinga,Minas Gerais,Não,0.0
+capelinha,Minas Gerais,Não,0.0
+capela nova,Minas Gerais,Não,0.0
+caparaó,Minas Gerais,Não,0.0
+cantagalo,Minas Gerais,Não,0.0
+candeias,Minas Gerais,Não,0.0
+canápolis,Minas Gerais,Não,0.0
+canaã,Minas Gerais,Não,0.0
+cana verde,Minas Gerais,Não,0.0
+campos gerais,Minas Gerais,Não,0.0
+campos altos,Minas Gerais,Não,0.0
+campo florido,Minas Gerais,Não,0.0
+campo do meio,Minas Gerais,Não,0.0
+campo belo,Minas Gerais,Não,0.0
+campo azul,Minas Gerais,Não,0.0
+campina verde,Minas Gerais,Não,0.0
+campestre,Minas Gerais,Não,0.0
+água comprida,Minas Gerais,Não,0.0
+açucena,Minas Gerais,Não,0.0
+claraval,Minas Gerais,Não,0.0
+reserva do cabaçal,Mato Grosso,Não,0.0
+santa carmem,Mato Grosso,Não,0.0
+salto do céu,Mato Grosso,Não,0.0
+rosário oeste,Mato Grosso,Não,0.0
+rondonópolis,Mato Grosso,Não,0.0
+rondolândia,Mato Grosso,Não,0.0
+rio branco,Mato Grosso,Não,0.0
+ribeirãozinho,Mato Grosso,Não,0.0
+ribeirão cascalheira,Mato Grosso,Não,0.0
+querência,Mato Grosso,Não,0.0
+santa rita do trivelato,Mato Grosso,Não,0.0
+primavera do leste,Mato Grosso,Não,0.0
+poxoréo,Mato Grosso,Não,0.0
+porto estrela,Mato Grosso,Não,0.0
+porto esperidião,Mato Grosso,Não,0.0
+porto dos gaúchos,Mato Grosso,Não,0.0
+porto alegre do norte,Mato Grosso,Não,0.0
+pontes e lacerda,Mato Grosso,Não,0.0
+ponte branca,Mato Grosso,Não,0.0
+santa cruz do xingu,Mato Grosso,Não,0.0
+santa terezinha,Mato Grosso,Não,0.0
+acaiaca,Minas Gerais,Não,0.0
+serra nova dourada,Mato Grosso,Não,0.0
+torixoréu,Mato Grosso,Não,0.0
+tesouro,Mato Grosso,Não,0.0
+terra nova do norte,Mato Grosso,Não,0.0
+tapurah,Mato Grosso,Não,0.0
+tangará da serra,Mato Grosso,Não,0.0
+tabaporã,Mato Grosso,Não,0.0
+sorriso,Mato Grosso,Não,0.0
+sinop,Mato Grosso,Não,0.0
+sapezal,Mato Grosso,Não,0.0
+santo afonso,Mato Grosso,Não,0.0
+são pedro da cipa,Mato Grosso,Não,0.0
+são josé dos quatro marcos,Mato Grosso,Não,0.0
+são josé do xingu,Mato Grosso,Não,0.0
+são josé do rio claro,Mato Grosso,Não,0.0
+são josé do povo,Mato Grosso,Não,0.0
+são félix do araguaia,Mato Grosso,Não,0.0
+santo antônio do leverger,Mato Grosso,Não,0.0
+santo antônio do leste,Mato Grosso,Não,0.0
+pontal do araguaia,Mato Grosso,Não,0.0
+poconé,Mato Grosso,Não,0.0
+planalto da serra,Mato Grosso,Não,0.0
+lambari d'oeste,Mato Grosso,Não,0.0
+nossa senhora do livramento,Mato Grosso,Não,0.0
+nortelândia,Mato Grosso,Não,0.0
+nobres,Mato Grosso,Não,0.0
+mirassol d'oeste,Mato Grosso,Não,0.0
+matupá,Mato Grosso,Não,0.0
+marcelândia,Mato Grosso,Não,0.0
+luciara,Mato Grosso,Não,0.0
+lucas do rio verde,Mato Grosso,Não,0.0
+juscimeira,Mato Grosso,Não,0.0
+peixoto de azevedo,Mato Grosso,Não,0.0
+juruena,Mato Grosso,Não,0.0
+juína,Mato Grosso,Não,0.0
+juara,Mato Grosso,Não,0.0
+jauru,Mato Grosso,Não,0.0
+jangada,Mato Grosso,Não,0.0
+jaciara,Mato Grosso,Não,0.0
+itiquira,Mato Grosso,Não,0.0
+itaúba,Mato Grosso,Não,0.0
+nova bandeirantes,Mato Grosso,Não,0.0
+nova brasilândia,Mato Grosso,Não,0.0
+nova canaã do norte,Mato Grosso,Não,0.0
+nova guarita,Mato Grosso,Não,0.0
+pedra preta,Mato Grosso,Não,0.0
+paranatinga,Mato Grosso,Não,0.0
+paranaíta,Mato Grosso,Não,0.0
+novo são joaquim,Mato Grosso,Não,0.0
+novo santo antônio,Mato Grosso,Não,0.0
+novo mundo,Mato Grosso,Não,0.0
+novo horizonte do norte,Mato Grosso,Não,0.0
+nova xavantina,Mato Grosso,Não,0.0
+nova ubiratã,Mato Grosso,Não,0.0
+nova santa helena,Mato Grosso,Não,0.0
+nova olímpia,Mato Grosso,Não,0.0
+nova nazaré,Mato Grosso,Não,0.0
+nova mutum,Mato Grosso,Não,0.0
+nova monte verde,Mato Grosso,Não,0.0
+nova maringá,Mato Grosso,Não,0.0
+nova marilândia,Mato Grosso,Não,0.0
+nova lacerda,Mato Grosso,Não,0.0
+união do sul,Mato Grosso,Não,0.0
+vale de são domingos,Mato Grosso,Não,0.0
+várzea grande,Mato Grosso,Não,0.0
+mundo novo,Mato Grosso do Sul,Não,0.0
+pedro gomes,Mato Grosso do Sul,Não,0.0
+paranhos,Mato Grosso do Sul,Não,0.0
+paranaíba,Mato Grosso do Sul,Não,0.0
+novo horizonte do sul,Mato Grosso do Sul,Não,0.0
+nova andradina,Mato Grosso do Sul,Não,0.0
+nova alvorada do sul,Mato Grosso do Sul,Não,0.0
+nioaque,Mato Grosso do Sul,Não,0.0
+naviraí,Mato Grosso do Sul,Não,0.0
+miranda,Mato Grosso do Sul,Não,0.0
+itaquiraí,Mato Grosso do Sul,Não,0.0
+maracaju,Mato Grosso do Sul,Não,0.0
+laguna carapã,Mato Grosso do Sul,Não,0.0
+ladário,Mato Grosso do Sul,Não,0.0
+juti,Mato Grosso do Sul,Não,0.0
+jateí,Mato Grosso do Sul,Não,0.0
+jardim,Mato Grosso do Sul,Não,0.0
+jaraguari,Mato Grosso do Sul,Não,0.0
+japorã,Mato Grosso do Sul,Não,0.0
+ponta porã,Mato Grosso do Sul,Não,0.0
+porto murtinho,Mato Grosso do Sul,Não,0.0
+ribas do rio pardo,Mato Grosso do Sul,Não,0.0
+rio brilhante,Mato Grosso do Sul,Não,0.0
+abre campo,Minas Gerais,Não,0.0
+abaeté,Minas Gerais,Não,0.0
+abadia dos dourados,Minas Gerais,Não,0.0
+vicentina,Mato Grosso do Sul,Não,0.0
+três lagoas,Mato Grosso do Sul,Não,0.0
+terenos,Mato Grosso do Sul,Não,0.0
+taquarussu,Mato Grosso do Sul,Não,0.0
+tacuru,Mato Grosso do Sul,Não,0.0
+sonora,Mato Grosso do Sul,Não,0.0
+sidrolândia,Mato Grosso do Sul,Não,0.0
+sete quedas,Mato Grosso do Sul,Não,0.0
+selvíria,Mato Grosso do Sul,Não,0.0
+são gabriel do oeste,Mato Grosso do Sul,Não,0.0
+santa rita do pardo,Mato Grosso do Sul,Não,0.0
+rochedo,Mato Grosso do Sul,Não,0.0
+rio verde de mato grosso,Mato Grosso do Sul,Não,0.0
+rio negro,Mato Grosso do Sul,Não,0.0
+ivinhema,Mato Grosso do Sul,Não,0.0
+itaporã,Mato Grosso do Sul,Não,0.0
+vera,Mato Grosso,Não,0.0
+aparecida do taboado,Mato Grosso do Sul,Não,0.0
+bonito,Mato Grosso do Sul,Não,0.0
+bodoquena,Mato Grosso do Sul,Não,0.0
+bela vista,Mato Grosso do Sul,Não,0.0
+batayporã,Mato Grosso do Sul,Não,0.0
+bataguassu,Mato Grosso do Sul,Não,0.0
+bandeirantes,Mato Grosso do Sul,Não,0.0
+aral moreira,Mato Grosso do Sul,Não,0.0
+aquidauana,Mato Grosso do Sul,Não,0.0
+antônio joão,Mato Grosso do Sul,Não,0.0
+inocência,Mato Grosso do Sul,Não,0.0
+angélica,Mato Grosso do Sul,Não,0.0
+anaurilândia,Mato Grosso do Sul,Não,0.0
+anastácio,Mato Grosso do Sul,Não,0.0
+amambai,Mato Grosso do Sul,Não,0.0
+alcinópolis,Mato Grosso do Sul,Não,0.0
+água clara,Mato Grosso do Sul,Não,0.0
+vila rica,Mato Grosso,Não,0.0
+vila bela da santíssima trindade,Mato Grosso,Não,0.0
+brasilândia,Mato Grosso do Sul,Não,0.0
+caarapó,Mato Grosso do Sul,Não,0.0
+camapuã,Mato Grosso do Sul,Não,0.0
+caracol,Mato Grosso do Sul,Não,0.0
+iguatemi,Mato Grosso do Sul,Não,0.0
+guia lopes da laguna,Mato Grosso do Sul,Não,0.0
+glória de dourados,Mato Grosso do Sul,Não,0.0
+figueirão,Mato Grosso do Sul,Não,0.0
+fátima do sul,Mato Grosso do Sul,Não,0.0
+eldorado,Mato Grosso do Sul,Não,0.0
+dourados,Mato Grosso do Sul,Não,0.0
+douradina,Mato Grosso do Sul,Não,0.0
+dois irmãos do buriti,Mato Grosso do Sul,Não,0.0
+deodápolis,Mato Grosso do Sul,Não,0.0
+coxim,Mato Grosso do Sul,Não,0.0
+costa rica,Mato Grosso do Sul,Não,0.0
+corumbá,Mato Grosso do Sul,Não,0.0
+coronel sapucaia,Mato Grosso do Sul,Não,0.0
+corguinho,Mato Grosso do Sul,Não,0.0
+chapadão do sul,Mato Grosso do Sul,Não,0.0
+cassilândia,Mato Grosso do Sul,Não,0.0
+cipotânea,Minas Gerais,Não,0.0
+claro dos poções,Minas Gerais,Não,0.0
+oliveira fortes,Minas Gerais,Não,0.0
+jordânia,Minas Gerais,Não,0.0
+ladainha,Minas Gerais,Não,0.0
+juvenília,Minas Gerais,Não,0.0
+juruaia,Minas Gerais,Não,0.0
+juramento,Minas Gerais,Não,0.0
+juatuba,Minas Gerais,Não,0.0
+josenópolis,Minas Gerais,Não,0.0
+josé raydan,Minas Gerais,Não,0.0
+josé gonçalves de minas,Minas Gerais,Não,0.0
+joaquim felício,Minas Gerais,Não,0.0
+lagoa da prata,Minas Gerais,Não,0.0
+joão pinheiro,Minas Gerais,Não,0.0
+joão monlevade,Minas Gerais,Não,0.0
+joanésia,Minas Gerais,Não,0.0
+joaíma,Minas Gerais,Não,0.0
+jesuânia,Minas Gerais,Não,0.0
+jequitinhonha,Minas Gerais,Não,0.0
+jequitibá,Minas Gerais,Não,0.0
+jequitaí,Minas Gerais,Não,0.0
+lagamar,Minas Gerais,Não,0.0
+lagoa dos patos,Minas Gerais,Não,0.0
+ipiaçu,Minas Gerais,Não,0.0
+leme do prado,Minas Gerais,Não,0.0
+luminárias,Minas Gerais,Não,0.0
+luislândia,Minas Gerais,Não,0.0
+luisburgo,Minas Gerais,Não,0.0
+lontra,Minas Gerais,Não,0.0
+limeira do oeste,Minas Gerais,Não,0.0
+lima duarte,Minas Gerais,Não,0.0
+liberdade,Minas Gerais,Não,0.0
+leopoldina,Minas Gerais,Não,0.0
+leandro ferreira,Minas Gerais,Não,0.0
+lagoa dourada,Minas Gerais,Não,0.0
+lassance,Minas Gerais,Não,0.0
+laranjal,Minas Gerais,Não,0.0
+lamim,Minas Gerais,Não,0.0
+lambari,Minas Gerais,Não,0.0
+lajinha,Minas Gerais,Não,0.0
+lagoa santa,Minas Gerais,Não,0.0
+lagoa grande,Minas Gerais,Não,0.0
+lagoa formosa,Minas Gerais,Não,0.0
+jequeri,Minas Gerais,Não,0.0
+jenipapo de minas,Minas Gerais,Não,0.0
+jeceaba,Minas Gerais,Não,0.0
+itambacuri,Minas Gerais,Não,0.0
+itapecerica,Minas Gerais,Não,0.0
+itapagipe,Minas Gerais,Não,0.0
+itaobim,Minas Gerais,Não,0.0
+itanhomi,Minas Gerais,Não,0.0
+itanhandu,Minas Gerais,Não,0.0
+itamonte,Minas Gerais,Não,0.0
+itamogi,Minas Gerais,Não,0.0
+itambé do mato dentro,Minas Gerais,Não,0.0
+itamarati de minas,Minas Gerais,Não,0.0
+japonvar,Minas Gerais,Não,0.0
+itamarandiba,Minas Gerais,Não,0.0
+itaipé,Minas Gerais,Não,0.0
+itaguara,Minas Gerais,Não,0.0
+itacarambi,Minas Gerais,Não,0.0
+itacambira,Minas Gerais,Não,0.0
+itabirito,Minas Gerais,Não,0.0
+itabirinha,Minas Gerais,Não,0.0
+iraí de minas,Minas Gerais,Não,0.0
+itapeva,Minas Gerais,Não,0.0
+itatiaiuçu,Minas Gerais,Não,0.0
+itaú de minas,Minas Gerais,Não,0.0
+itaúna,Minas Gerais,Não,0.0
+japaraíba,Minas Gerais,Não,0.0
+januária,Minas Gerais,Não,0.0
+janaúba,Minas Gerais,Não,0.0
+jampruca,Minas Gerais,Não,0.0
+jaíba,Minas Gerais,Não,0.0
+jaguaraçu,Minas Gerais,Não,0.0
+jacutinga,Minas Gerais,Não,0.0
+jacuí,Minas Gerais,Não,0.0
+jacinto,Minas Gerais,Não,0.0
+jaboticatubas,Minas Gerais,Não,0.0
+itutinga,Minas Gerais,Não,0.0
+iturama,Minas Gerais,Não,0.0
+itumirim,Minas Gerais,Não,0.0
+ituiutaba,Minas Gerais,Não,0.0
+itueta,Minas Gerais,Não,0.0
+itinga,Minas Gerais,Não,0.0
+itaverava,Minas Gerais,Não,0.0
+luz,Minas Gerais,Não,0.0
+machacalis,Minas Gerais,Não,0.0
+machado,Minas Gerais,Não,0.0
+morro da garça,Minas Gerais,Não,0.0
+naque,Minas Gerais,Não,0.0
+nanuque,Minas Gerais,Não,0.0
+nacip raydan,Minas Gerais,Não,0.0
+muzambinho,Minas Gerais,Não,0.0
+mutum,Minas Gerais,Não,0.0
+muriaé,Minas Gerais,Não,0.0
+munhoz,Minas Gerais,Não,0.0
+morro do pilar,Minas Gerais,Não,0.0
+morada nova de minas,Minas Gerais,Não,0.0
+monsenhor paulo,Minas Gerais,Não,0.0
+montezuma,Minas Gerais,Não,0.0
+monte sião,Minas Gerais,Não,0.0
+monte santo de minas,Minas Gerais,Não,0.0
+monte formoso,Minas Gerais,Não,0.0
+monte carmelo,Minas Gerais,Não,0.0
+monte belo,Minas Gerais,Não,0.0
+monte azul,Minas Gerais,Não,0.0
+monte alegre de minas,Minas Gerais,Não,0.0
+natalândia,Minas Gerais,Não,0.0
+natércia,Minas Gerais,Não,0.0
+nazareno,Minas Gerais,Não,0.0
+nepomuceno,Minas Gerais,Não,0.0
+oliveira,Minas Gerais,Não,0.0
+olímpio noronha,Minas Gerais,Não,0.0
+olhos-d'água,Minas Gerais,Não,0.0
+olaria,Minas Gerais,Não,0.0
+novorizonte,Minas Gerais,Não,0.0
+novo oriente de minas,Minas Gerais,Não,0.0
+novo cruzeiro,Minas Gerais,Não,0.0
+nova união,Minas Gerais,Não,0.0
+nova serrana,Minas Gerais,Não,0.0
+nova resende,Minas Gerais,Não,0.0
+nova porteirinha,Minas Gerais,Não,0.0
+nova ponte,Minas Gerais,Não,0.0
+nova módica,Minas Gerais,Não,0.0
+nova lima,Minas Gerais,Não,0.0
+nova era,Minas Gerais,Não,0.0
+nova belém,Minas Gerais,Não,0.0
+ninheira,Minas Gerais,Não,0.0
+montalvânia,Minas Gerais,Não,0.0
+monjolos,Minas Gerais,Não,0.0
+madre de deus de minas,Minas Gerais,Não,0.0
+mariana,Minas Gerais,Não,0.0
+mata verde,Minas Gerais,Não,0.0
+martins soares,Minas Gerais,Não,0.0
+martinho campos,Minas Gerais,Não,0.0
+marmelópolis,Minas Gerais,Não,0.0
+marliéria,Minas Gerais,Não,0.0
+maripá de minas,Minas Gerais,Não,0.0
+mário campos,Minas Gerais,Não,0.0
+marilac,Minas Gerais,Não,0.0
+maria da fé,Minas Gerais,Não,0.0
+moema,Minas Gerais,Não,0.0
+maravilhas,Minas Gerais,Não,0.0
+mar de espanha,Minas Gerais,Não,0.0
+mantena,Minas Gerais,Não,0.0
+manhumirim,Minas Gerais,Não,0.0
+manhuaçu,Minas Gerais,Não,0.0
+manga,Minas Gerais,Não,0.0
+mamonas,Minas Gerais,Não,0.0
+malacacheta,Minas Gerais,Não,0.0
+materlândia,Minas Gerais,Não,0.0
+mateus leme,Minas Gerais,Não,0.0
+mathias lobato,Minas Gerais,Não,0.0
+matias barbosa,Minas Gerais,Não,0.0
+moeda,Minas Gerais,Não,0.0
+miravânia,Minas Gerais,Não,0.0
+miraí,Minas Gerais,Não,0.0
+miradouro,Minas Gerais,Não,0.0
+mirabela,Minas Gerais,Não,0.0
+minduri,Minas Gerais,Não,0.0
+minas novas,Minas Gerais,Não,0.0
+mesquita,Minas Gerais,Não,0.0
+mercês,Minas Gerais,Não,0.0
+mendes pimentel,Minas Gerais,Não,0.0
+medina,Minas Gerais,Não,0.0
+medeiros,Minas Gerais,Não,0.0
+matutina,Minas Gerais,Não,0.0
+matozinhos,Minas Gerais,Não,0.0
+mato verde,Minas Gerais,Não,0.0
+matipó,Minas Gerais,Não,0.0
+matias cardoso,Minas Gerais,Não,0.0
+ipuiúna,Minas Gerais,Não,0.0
+ipanema,Minas Gerais,Não,0.0
+cláudio,Minas Gerais,Não,0.0
+descoberto,Minas Gerais,Não,0.0
+divino das laranjeiras,Minas Gerais,Não,0.0
+divino,Minas Gerais,Não,0.0
+divinésia,Minas Gerais,Não,0.0
+dionísio,Minas Gerais,Não,0.0
+diogo de vasconcelos,Minas Gerais,Não,0.0
+diamantina,Minas Gerais,Não,0.0
+desterro do melo,Minas Gerais,Não,0.0
+desterro de entre rios,Minas Gerais,Não,0.0
+delta,Minas Gerais,Não,0.0
+divinópolis,Minas Gerais,Não,0.0
+delfinópolis,Minas Gerais,Não,0.0
+delfim moreira,Minas Gerais,Não,0.0
+datas,Minas Gerais,Não,0.0
+curvelo,Minas Gerais,Não,0.0
+curral de dentro,Minas Gerais,Não,0.0
+cuparaque,Minas Gerais,Não,0.0
+cruzília,Minas Gerais,Não,0.0
+cruzeiro da fortaleza,Minas Gerais,Não,0.0
+divinolândia de minas,Minas Gerais,Não,0.0
+divisa alegre,Minas Gerais,Não,0.0
+ipaba,Minas Gerais,Não,0.0
+dores do indaiá,Minas Gerais,Não,0.0
+entre folhas,Minas Gerais,Não,0.0
+engenheiro navarro,Minas Gerais,Não,0.0
+engenheiro caldas,Minas Gerais,Não,0.0
+elói mendes,Minas Gerais,Não,0.0
+durandé,Minas Gerais,Não,0.0
+douradoquara,Minas Gerais,Não,0.0
+doresópolis,Minas Gerais,Não,0.0
+dores do turvo,Minas Gerais,Não,0.0
+dores de guanhães,Minas Gerais,Não,0.0
+divisa nova,Minas Gerais,Não,0.0
+dores de campos,Minas Gerais,Não,0.0
+dona eusébia,Minas Gerais,Não,0.0
+dom viçoso,Minas Gerais,Não,0.0
+dom silvério,Minas Gerais,Não,0.0
+dom joaquim,Minas Gerais,Não,0.0
+dom cavati,Minas Gerais,Não,0.0
+dom bosco,Minas Gerais,Não,0.0
+divisópolis,Minas Gerais,Não,0.0
+crucilândia,Minas Gerais,Não,0.0
+cristina,Minas Gerais,Não,0.0
+cristiano otoni,Minas Gerais,Não,0.0
+conceição do mato dentro,Minas Gerais,Não,0.0
+congonhas do norte,Minas Gerais,Não,0.0
+congonhas,Minas Gerais,Não,0.0
+congonhal,Minas Gerais,Não,0.0
+confins,Minas Gerais,Não,0.0
+cônego marinho,Minas Gerais,Não,0.0
+conceição dos ouros,Minas Gerais,Não,0.0
+conceição do rio verde,Minas Gerais,Não,0.0
+conceição do pará,Minas Gerais,Não,0.0
+conceição de ipanema,Minas Gerais,Não,0.0
+cristália,Minas Gerais,Não,0.0
+conceição das pedras,Minas Gerais,Não,0.0
+conceição das alagoas,Minas Gerais,Não,0.0
+conceição da barra de minas,Minas Gerais,Não,0.0
+conceição da aparecida,Minas Gerais,Não,0.0
+comercinho,Minas Gerais,Não,0.0
+comendador gomes,Minas Gerais,Não,0.0
+coluna,Minas Gerais,Não,0.0
+coimbra,Minas Gerais,Não,0.0
+conquista,Minas Gerais,Não,0.0
+conselheiro pena,Minas Gerais,Não,0.0
+consolação,Minas Gerais,Não,0.0
+coqueiral,Minas Gerais,Não,0.0
+cristais,Minas Gerais,Não,0.0
+crisólita,Minas Gerais,Não,0.0
+couto de magalhães de minas,Minas Gerais,Não,0.0
+córrego novo,Minas Gerais,Não,0.0
+córrego fundo,Minas Gerais,Não,0.0
+córrego do bom jesus,Minas Gerais,Não,0.0
+córrego danta,Minas Gerais,Não,0.0
+coronel xavier chaves,Minas Gerais,Não,0.0
+coronel pacheco,Minas Gerais,Não,0.0
+coronel murta,Minas Gerais,Não,0.0
+coronel fabriciano,Minas Gerais,Não,0.0
+coromandel,Minas Gerais,Não,0.0
+coroaci,Minas Gerais,Não,0.0
+corinto,Minas Gerais,Não,0.0
+cordislândia,Minas Gerais,Não,0.0
+cordisburgo,Minas Gerais,Não,0.0
+coração de jesus,Minas Gerais,Não,0.0
+entre rios de minas,Minas Gerais,Não,0.0
+ervália,Minas Gerais,Não,0.0
+esmeraldas,Minas Gerais,Não,0.0
+guarda-mor,Minas Gerais,Não,0.0
+ibertioga,Minas Gerais,Não,0.0
+iapu,Minas Gerais,Não,0.0
+heliodora,Minas Gerais,Não,0.0
+gurinhatã,Minas Gerais,Não,0.0
+guiricema,Minas Gerais,Não,0.0
+guimarânia,Minas Gerais,Não,0.0
+guidoval,Minas Gerais,Não,0.0
+guaxupé,Minas Gerais,Não,0.0
+guarará,Minas Gerais,Não,0.0
+gouveia,Minas Gerais,Não,0.0
+guarani,Minas Gerais,Não,0.0
+guaranésia,Minas Gerais,Não,0.0
+guaraciama,Minas Gerais,Não,0.0
+guaraciaba,Minas Gerais,Não,0.0
+guapé,Minas Gerais,Não,0.0
+guanhães,Minas Gerais,Não,0.0
+grupiara,Minas Gerais,Não,0.0
+grão mogol,Minas Gerais,Não,0.0
+ibiá,Minas Gerais,Não,0.0
+ibiaí,Minas Gerais,Não,0.0
+ibiracatu,Minas Gerais,Não,0.0
+ibiraci,Minas Gerais,Não,0.0
+inimutaba,Minas Gerais,Não,0.0
+inhaúma,Minas Gerais,Não,0.0
+inhapim,Minas Gerais,Não,0.0
+ingaí,Minas Gerais,Não,0.0
+indianópolis,Minas Gerais,Não,0.0
+indaiabira,Minas Gerais,Não,0.0
+inconfidentes,Minas Gerais,Não,0.0
+imbé de minas,Minas Gerais,Não,0.0
+ilicínea,Minas Gerais,Não,0.0
+ijaci,Minas Gerais,Não,0.0
+iguatama,Minas Gerais,Não,0.0
+igaratinga,Minas Gerais,Não,0.0
+igarapé,Minas Gerais,Não,0.0
+icaraí de minas,Minas Gerais,Não,0.0
+ibituruna,Minas Gerais,Não,0.0
+ibitiúra de minas,Minas Gerais,Não,0.0
+ibirité,Minas Gerais,Não,0.0
+governador valadares,Minas Gerais,Não,0.0
+gonzaga,Minas Gerais,Não,0.0
+espera feliz,Minas Gerais,Não,0.0
+fama,Minas Gerais,Não,0.0
+florestal,Minas Gerais,Não,0.0
+fervedouro,Minas Gerais,Não,0.0
+ferros,Minas Gerais,Não,0.0
+fernandes tourinho,Minas Gerais,Não,0.0
+felixlândia,Minas Gerais,Não,0.0
+felisburgo,Minas Gerais,Não,0.0
+felício dos santos,Minas Gerais,Não,0.0
+faria lemos,Minas Gerais,Não,0.0
+extrema,Minas Gerais,Não,0.0
+gonçalves,Minas Gerais,Não,0.0
+ewbank da câmara,Minas Gerais,Não,0.0
+eugenópolis,Minas Gerais,Não,0.0
+estrela do sul,Minas Gerais,Não,0.0
+estrela do indaiá,Minas Gerais,Não,0.0
+estrela dalva,Minas Gerais,Não,0.0
+estiva,Minas Gerais,Não,0.0
+espírito santo do dourado,Minas Gerais,Não,0.0
+espinosa,Minas Gerais,Não,0.0
+formiga,Minas Gerais,Não,0.0
+formoso,Minas Gerais,Não,0.0
+fortaleza de minas,Minas Gerais,Não,0.0
+fortuna de minas,Minas Gerais,Não,0.0
+goianá,Minas Gerais,Não,0.0
+goiabeira,Minas Gerais,Não,0.0
+glaucilândia,Minas Gerais,Não,0.0
+gameleiras,Minas Gerais,Não,0.0
+galiléia,Minas Gerais,Não,0.0
+funilândia,Minas Gerais,Não,0.0
+frutal,Minas Gerais,Não,0.0
+fruta de leite,Minas Gerais,Não,0.0
+fronteira dos vales,Minas Gerais,Não,0.0
+fronteira,Minas Gerais,Não,0.0
+frei lagonegro,Minas Gerais,Não,0.0
+frei inocêncio,Minas Gerais,Não,0.0
+frei gaspar,Minas Gerais,Não,0.0
+franciscópolis,Minas Gerais,Não,0.0
+francisco sá,Minas Gerais,Não,0.0
+francisco dumont,Minas Gerais,Não,0.0
+francisco badaró,Minas Gerais,Não,0.0
+xambioá,Tocantins,Não,0.0
